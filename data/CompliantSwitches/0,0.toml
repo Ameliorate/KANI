@@ -1,0 +1,16 @@
+description = """
+Passing through the hands of many nations, this iconic landmark finds itself at the coordinates 0, 0.
+
+The recent efforts of Icenia and allies have lead to the creation of the NexusInternationalGateway and the remodeling of the station interiour.
+"""
+
+x = 0
+y = 22
+z = 0
+
+links = [
+ 'j:knot',
+ 'icenia',
+ 'bloom',
+ 'wayrest',
+]

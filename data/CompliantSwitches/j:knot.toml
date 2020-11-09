@@ -1,0 +1,31 @@
+description = """
+The switch directly east of NexusStation. One of the only rail switches built by GamePhobic for nexus that wasn't obby/lava bombed in the war. Since remodeled to be A CompliantSwitch.
+"""
+
+location = "East of Nexus"
+x = 380
+y = 13
+z = 0
+
+links = [
+ "0,0",
+ "j:piria",
+ "caledonia",
+ "citadel",
+ "endportal",
+ "forta'are",
+ "gensokyo:roe",
+ "hjaltland",
+ "jevoghnya",
+ "kabul",
+ "kren'nra_krevul",
+ "mir",
+ "newsovia",
+ "nro'meagh",
+ "nyavinland",
+ "okashima",
+ "pacem",
+ "netherfarm",
+ "vinland",
+ "vujayna",
+]

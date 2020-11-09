@@ -1,0 +1,10 @@
+description = "Someone's End Portal, possibly wayrest's."
+
+x = 2314
+y = 31
+z = 414
+
+[EndPortal]
+x = 2314
+y = 38
+z = 444
