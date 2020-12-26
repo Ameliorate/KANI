@@ -1,0 +1,5 @@
+description = "Station part of the RAIL CABAL"
+
+links = [
+  "j:cabalwest",
+]

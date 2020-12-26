@@ -1,1 +1,5 @@
 description = "City of New Sovia, home of LSD members such as Pirater and iwaki."
+
+links = [
+ 'j:knot',
+]

@@ -2,3 +2,7 @@ description = "Gensokyo's Roe Island, where they first started out."
 
 x = 400
 z = -2850
+
+links = [
+  "j:knot",
+]

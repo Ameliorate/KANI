@@ -1,0 +1,25 @@
+description = "Newly renovated station in IceniaCity"
+
+x = -1660
+y = 30
+z = 1440
+
+links = [
+ "j:cabalwest",
+ "j:cabaleast",
+ "0,0",
+ "its",
+ "gensokyo:tazoi",
+ "icenia:nether",
+ "icenia:potato",
+ "it:anburon",
+ "icenia:drippy",
+ "mta",
+ "icenia:westisle",
+ "vinland",
+ "westminster",
+ "atlantica",
+ "bloom",
+ "gabon",
+ "alpoko",
+]

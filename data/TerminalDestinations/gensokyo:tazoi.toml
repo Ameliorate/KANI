@@ -1,0 +1,8 @@
+description = "Gensokyo's current project, a modern japanese city."
+
+x = 1278
+z = -2618
+
+links = [
+  "icenia",
+]

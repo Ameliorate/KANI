@@ -1,10 +1,19 @@
-description = "Someone's End Portal, possibly wayrest's."
+description = """
+An end portal renovated by darthorangejuice near wayrest. 
+
+More info: https://old.reddit.com/r/civclassics/comments/jpcs9p/peters_castle_end_portal/
+"""
 
 x = 2314
 y = 31
 z = 414
 
+links = [
+  "j:knot"
+]
+
 [EndPortal]
 x = 2314
 y = 38
 z = 444
+

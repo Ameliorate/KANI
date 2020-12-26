@@ -2,3 +2,7 @@ description = "Citystate of Okashima, author of many books and obbybombed japane
 
 x = -628
 z = 5861
+
+links = [
+  "j:knot",
+]

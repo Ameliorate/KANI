@@ -1,0 +1,9 @@
+description = "City of Mount Agusta"
+
+x = -6713
+z = 2955
+
+links = [
+  "icenia",
+  "0,0",
+]

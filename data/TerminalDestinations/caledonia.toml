@@ -2,3 +2,7 @@ description = "Active city near mir, featuring the securemall."
 
 x = 8857
 z = 553
+
+links = [
+  'j:knot',
+]

@@ -7,3 +7,7 @@ Unknown owner, but seems to be public-use.
 x = 1115
 y = 11
 z = 0
+
+links = [
+  "j:knot",
+]

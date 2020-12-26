@@ -1,0 +1,9 @@
+description = "City of Westminster"
+
+x = -7120
+z = 5100
+
+links = [
+  "0,0",
+  "icenia",
+]

@@ -2,3 +2,7 @@ description = "Vault Nation of Mir"
 
 x = 11043
 z = -87
+
+links = [
+  "j:knot",
+]

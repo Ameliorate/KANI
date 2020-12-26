@@ -1,0 +1,18 @@
+description = "West Network of SoundTech's Rail Cabal."
+
+location = "West of IceniaCity, East of WestIsle."
+
+links = [
+ "icenia",
+ "icenia:westisle",
+ "icenia:drippy",
+ "icenia:nether",
+ "wssta",
+ "wnsta",
+ "ssta",
+]
+
+[BadLinks]
+"icenia:westisle" = "westisle"
+"icenia:nether" = "nether"
+"icenia:drippy" = "drippy"

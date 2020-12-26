@@ -1,1 +1,5 @@
 description = "Station under a fancy aztek build in a swamp. Now owned by Yoahtl."
+
+links = [
+  "0,0",
+]

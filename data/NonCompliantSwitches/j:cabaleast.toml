@@ -1,0 +1,13 @@
+description = "East network of the rail cabal run by SoundTech."
+
+location = "East of IceniaCity"
+
+links = [
+ "icenia",
+ "icenia:lord",
+ "icenia:oldmesa",
+]
+
+[BadLinks]
+"icenia:lord" = "lord"
+"icenia:oldmesa" = "mesa"
