@@ -48,6 +48,8 @@ routeData = []
 for from_canon in data.keys():
     for to_canon in data.keys():
         myRoute = route(from_canon, to_canon)
+        if data[to_canon].get('station'):
+            myRoute = myRoute + f" {to_canon}:exit"
         if myRoute is None:
             print(routeData)
             exit(f"Can't route between {from_canon} and {to_canon}! Is the station connected to nexus?")

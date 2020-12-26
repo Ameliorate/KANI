@@ -23,3 +23,5 @@ links = [
  "gabon",
  "alpoko",
 ]
+
+station = true
