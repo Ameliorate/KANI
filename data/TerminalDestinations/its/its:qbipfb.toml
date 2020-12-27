@@ -1,0 +1,43 @@
+description = """
+IceniaCity's current only public factory bulding.
+
+# Factories
+
+* Aesthetics Factory
+* Basic Smelter
+* Ore Smelter
+* Charcoal Maker
+* Carpentry Factory
+* Rail Factory
+* Clay Dying Factory
+* Glass Dying Factory
+* Wool Dying Factory
+* Bio Lab
+* Concrete Mixer
+* Printing Press
+* Grill
+* Bakery
+* Redstone Mechanics
+* Compactor
+* Iron Forge
+
+# Factories Missing
+
+There is no room for expansion in the QBIPFB. 
+
+* Cauldron
+* Animal Husbandry
+* Bastion Factory
+* Diamond Tools/Armor Smith
+* Gold Forge
+* Iron Armor Smith
+* Iron Tools Smith
+"""
+
+x = -1545
+y = 75
+z = -1393
+
+links = [
+  "j:its"
+]

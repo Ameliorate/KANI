@@ -1,0 +1,9 @@
+description = "The office of the transit authority, accepting donations and mail, as well as offering information about the transit network."
+
+x = -1636
+y = 71
+z = -1303
+
+links = [
+  "j:its"
+]

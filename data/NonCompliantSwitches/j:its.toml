@@ -1,0 +1,35 @@
+description = """
+The IceniaTransitSystem is the intercity RailSwitch network in IceniaCity.
+
+It has many destinations within the city, including multiple stations within the downtown, the factory building, and versailles.
+
+TECHNICAL INFO
+--------------
+
+The IceniaTrransitSystem is built as a giant one-way loop going around IceniaCity. Each station is a single two-way rail. Thus, the IceniaTransitSystem has a star topology. A layout like this minimizes costs at the expense of a minimal chance of collisions. However, because of this one-way layout, it can sometimes be faster to walk to a nearby station that is "behind you" on the topology.
+
+"""
+
+links = [
+ "icenia",
+ "its:bayloop",
+ "its:beach",
+ "its:iceniapark",
+ "its:office",
+ "its:adytum",
+ "its:qbipfb",
+ "its:skybunker",
+ "its:subway",
+ "its:versailles",
+]
+
+[BadLinks]
+"its:bayloop" = "bayloop"
+"its:beach" = "beach"
+"its:iceniapark" = "iceniapark"
+"its:office" = "office"
+"its:adytum" = "adytum"
+"its:qbipfb" = "qbipfb"
+"its:skybunker" = "skybunker"
+"its:subway" = "subway"
+"its:versailles" = "versailles"

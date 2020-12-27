@@ -1,0 +1,9 @@
+description = "IceniaCity's iconic beach. Restored in late 2019, this natural beach is next to the former JQ area and holds great potential for future projects."
+
+x = -1766
+y = 67
+z = -1321
+
+links = [
+  "j:its"
+]

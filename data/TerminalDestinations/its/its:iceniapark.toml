@@ -1,0 +1,9 @@
+description = "The largest park in the middle of IceniaCity, featuring footpaths, bushes, and naturally generated trees."
+
+x = -1676
+y = 71
+z = -1298
+
+links = [
+  "j:its",
+]

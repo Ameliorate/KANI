@@ -1,0 +1,9 @@
+description = "A newly renovated area of IceniaCity, featuring IceniasFirstBank, SevenAndI, the IceniaCasino, and plenty of newly cleared building space."
+
+x = -1707
+y = 69
+z = -1235
+
+links = [
+  "j:its",
+]

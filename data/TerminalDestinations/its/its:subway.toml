@@ -1,0 +1,9 @@
+description = "The subway under IceniaCity near JahPark and the station building. This station also serves JahPark."
+
+x = -1691
+y = 64
+z = -1348
+
+links = [
+  "j:its",
+]

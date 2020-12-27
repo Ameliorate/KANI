@@ -1,0 +1,15 @@
+description = """
+A castle town southeast of IceniaCity ran by gavbea.
+
+# Technical Info
+
+Abandoned rail used, main Y level 51, roughly Z=-1322.
+"""
+
+x = -1322
+y = 70
+z = -1186
+
+links = [
+  "j:its",
+]

@@ -1,0 +1,9 @@
+description = "The greenery part of icenia, notibly featuring SoundTech's house."
+
+x = -1594
+y = 70
+z = -1292
+
+links = [
+  "j:its",
+]

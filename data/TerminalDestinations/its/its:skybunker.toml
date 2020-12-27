@@ -1,0 +1,9 @@
+description = "Contains a water drop to the IceniaSkybunker, a short staircase to the surface, and a door to SoundTech's basement."
+
+x = -1584
+y = 67
+z = -1325
+
+links = [
+  "j:its",
+]
