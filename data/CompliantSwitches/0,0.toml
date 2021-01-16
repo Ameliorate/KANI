@@ -13,6 +13,12 @@ links = [
  'icenia',
 #'bloom',
  'wayrest',
+ 'mta',
+ 'westminster',
+ 'varkonia',
+ 'stiflingbossness',
+ 'havoks_village',
+ 'hje',
 ]
 
 station = true
