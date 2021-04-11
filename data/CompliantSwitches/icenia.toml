@@ -9,7 +9,7 @@ links = [
  "j:cabaleast",
  "0,0",
  "j:its",
- "gensokyo:tazoi",
+ "gensokyo:taozi",
  "icenia:nether",
  "icenia:potato",
  "it:anburon",
@@ -22,6 +22,7 @@ links = [
  "bloom",
  "gabon",
  "alpoko",
+ "sig",
 ]
 
 station = true
