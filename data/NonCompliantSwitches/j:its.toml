@@ -21,6 +21,7 @@ links = [
  "its:skybunker",
  "its:subway",
  "its:versailles",
+ "its:hji",
 ]
 
 [BadLinks]
@@ -33,3 +34,4 @@ links = [
 "its:skybunker" = "skybunker"
 "its:subway" = "subway"
 "its:versailles" = "versailles"
+"its:hji" = "hji"
