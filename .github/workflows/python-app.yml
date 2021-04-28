@@ -33,8 +33,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run compute program
       run: |
-        pip install toml
-        ./compute.py > routes.json
+        python ./compute.py > routes.json
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.3
       with:
