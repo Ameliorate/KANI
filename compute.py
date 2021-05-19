@@ -31,6 +31,7 @@ for subdir, dirs, files in os.walk(datadir):
 
 def route(from_canon, to_canon):
     # TODO: Use the x and z properties to generate a hurestic and score that minimizes distance traveled, using A*
+    print(f"Routing from {from_canon} to {to_canon}", file=stderr)
     myData = data[from_canon]
     dist = {from_canon: (myData['BadLinks'].get(from_canon) or from_canon)}
     q = deque([from_canon])
