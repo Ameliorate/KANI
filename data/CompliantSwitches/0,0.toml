@@ -20,6 +20,7 @@ links = [
  'havoks_town',
  'hje',
  'imc',
+ 'kallos',
 ]
 
 station = true
