@@ -37,6 +37,9 @@ def route(from_canon, to_canon):
     while len(q):
         at = q.popleft()
         myData = data[at]
+        isRoutable = myData.get('station') or myData.get('switch') or False
+        if not isRoutable and not at == to_canon and not at == from_canon:
+            continue
         for next in myData['links']:
             if next not in dist:
                 dist[next] = dist[at] + ' ' + (myData['BadLinks'].get(next) or next)
