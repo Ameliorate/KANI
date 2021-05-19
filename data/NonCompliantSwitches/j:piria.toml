@@ -20,5 +20,7 @@ links = [
  "lambat",
 ]
 
+switch = true
+
 [BadLinks]
 "gensokyo:roe" = "gensokyo"

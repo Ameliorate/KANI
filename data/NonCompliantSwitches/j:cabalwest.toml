@@ -12,6 +12,8 @@ links = [
  "ssta",
 ]
 
+switch = true
+
 [BadLinks]
 "icenia:westisle" = "westisle"
 "icenia:nether" = "nether"

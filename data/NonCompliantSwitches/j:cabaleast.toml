@@ -8,6 +8,8 @@ links = [
  "icenia:oldmesa",
 ]
 
+switch = true
+
 [BadLinks]
 "icenia:lord" = "lord"
 "icenia:oldmesa" = "mesa"

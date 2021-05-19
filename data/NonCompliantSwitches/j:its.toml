@@ -24,6 +24,8 @@ links = [
  "its:hji",
 ]
 
+switch = true
+
 [BadLinks]
 "its:bayloop" = "bayloop"
 "its:beach" = "beach"
