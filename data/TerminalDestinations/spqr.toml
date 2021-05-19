@@ -1,0 +1,12 @@
+description = "City of roma"
+
+x = -10650
+y = 9
+z = -5850
+
+links = [
+ 'icenia',
+ 'varkonia',
+ 'kallos',
+ 'mta',
+]
