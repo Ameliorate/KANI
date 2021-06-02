@@ -10,6 +10,9 @@ The IceniaTrransitSystem is built as a giant one-way loop going around IceniaCit
 
 """
 
+x = -1700 # aprox
+z = -1300
+
 links = [
  "icenia",
  "its:bayloop",

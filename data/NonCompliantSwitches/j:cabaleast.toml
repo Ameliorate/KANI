@@ -1,6 +1,9 @@
 description = "East network of the rail cabal run by SoundTech."
 
 location = "East of IceniaCity"
+x = -1341
+y = 5
+z = -1290
 
 links = [
  "icenia",

@@ -1,6 +1,8 @@
 description = "West Network of SoundTech's Rail Cabal."
 
 location = "West of IceniaCity, East of WestIsle."
+x = -1800 # Distributed network, estimated
+z = -1300
 
 links = [
  "icenia",
