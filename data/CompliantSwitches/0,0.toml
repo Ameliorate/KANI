@@ -10,17 +10,11 @@ z = 0
 
 links = [
  'j:knot',
- 'icenia',
 #'bloom',
  'wayrest',
  'mta',
  'westminster',
- 'varkonia',
- 'stiflingbossness',
- 'hje',
- 'imc',
- 'kallos',
- 'mts',
+ 'j:picenia',
 ]
 
 station = true

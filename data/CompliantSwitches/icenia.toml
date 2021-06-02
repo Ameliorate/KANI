@@ -7,7 +7,7 @@ z = 1440
 links = [
  "j:cabalwest",
  "j:cabaleast",
- "0,0",
+ "j:picenia",
  "j:its",
  "gensokyo:taozi",
  "icenia:nether",

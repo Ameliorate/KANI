@@ -1,0 +1,7 @@
+switch = true
+
+links = [
+ 'hje',
+ 'kallos',
+ 'j:pvark',
+]

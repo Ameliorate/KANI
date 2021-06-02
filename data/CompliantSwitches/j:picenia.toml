@@ -1,0 +1,10 @@
+x = -1405
+z = 0
+
+switch = true
+
+links = [
+ '0,0',
+ 'icenia',
+ 'j:pmts',
+]

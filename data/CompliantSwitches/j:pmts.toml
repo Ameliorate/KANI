@@ -1,0 +1,15 @@
+x = 2516
+z = 0
+
+switch = true
+
+links = [
+ 'mts',
+ 'imc',
+ 'ellen',
+ 'j:pvark',
+ 'j:picenia',
+]
+
+[BadLinks]
+'mts' = 'sept'
