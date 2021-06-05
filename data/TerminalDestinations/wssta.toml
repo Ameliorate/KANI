@@ -1,8 +1,0 @@
-description = "Station part of the RAIL CABAL"
-
-x = -2000
-z = -1000
-
-links = [
-  "j:cabalwest",
-]

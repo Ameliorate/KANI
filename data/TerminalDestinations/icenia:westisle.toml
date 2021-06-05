@@ -1,7 +1,8 @@
 description = "State of Icenia, dissolved after a period of inactivity after an attempted takeover of Icenia Government"
 
-x = -2000
-z = -1000
+x = -2002
+y = 101
+z = -1054
 
 links = [
   "j:cabalwest",

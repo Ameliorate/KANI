@@ -1,7 +1,8 @@
 description = "Station part of the RAIL CABAL"
 
-x = -2000
-z = -1000
+x = -1867
+y = 5
+z = -1336
 
 links = [
   "j:cabalwest",
