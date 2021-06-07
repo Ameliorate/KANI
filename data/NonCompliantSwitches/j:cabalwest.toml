@@ -11,6 +11,7 @@ links = [
  "icenia:nether",
  "wnsta",
  "ssta",
+ "canvasblue",
 ]
 
 switch = true
@@ -19,3 +20,4 @@ switch = true
 "icenia:westisle" = "westisle"
 "icenia:nether" = "nether"
 "icenia:drippy" = "drippy"
+"canvasblue" = "mta canvasblue"
