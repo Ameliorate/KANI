@@ -33,7 +33,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run lint program
       run: |
-        puthon ./lint.py
+        python ./lint.py
     - name: Run compute program
       run: |
         python ./compute.py > routes.json
