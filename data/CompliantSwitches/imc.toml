@@ -1,0 +1,17 @@
+x = -8200 
+z = 3300
+
+station = true
+
+links = [
+ 'j:pmts',
+ 'bloom',
+ 'ellen',
+ 'westminster',
+ 'mta',
+ 'mts',
+ 'spqr',
+]
+
+#[BadLinks]
+'mts' = 'sept september'
