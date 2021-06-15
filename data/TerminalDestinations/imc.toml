@@ -5,14 +5,11 @@ station = true
 
 links = [
  'j:pmts',
-# '0,0',
 # 'bloom',
-# 'icenia',
 # 'westminster',
 # 'mta',
 # 'mts',
 # 'spqr',
-# 'ellen',
 ]
 
 #[BadLinks]
