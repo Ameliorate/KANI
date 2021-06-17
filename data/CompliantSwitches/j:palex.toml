@@ -1,0 +1,11 @@
+x = 448
+y = 12
+z = 8213
+
+switch = true
+
+links = [
+ 'alexandria',
+ 'j:pnro',
+ 'j:pniyo',
+]

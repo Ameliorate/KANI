@@ -1,0 +1,12 @@
+x = -406
+y = 122
+z = 8734
+
+station = true
+
+links = [
+ "j:nro2",
+ "socalist_ruler",
+ "topha'nya",
+ "lriln'kriavnya",
+]

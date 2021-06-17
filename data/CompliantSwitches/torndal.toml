@@ -1,0 +1,11 @@
+x = -403
+y = 122
+z = 8166
+
+station = true
+
+links = [
+ "j:nro1",
+ "j:nro2",
+ "il'olmhir",
+]

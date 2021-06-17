@@ -1,0 +1,11 @@
+x = -689
+y = 122
+z = 8094
+
+switch = true
+
+links = [
+ 'j:pnro',
+ 'torndal',
+ 'jevoghnya',
+]

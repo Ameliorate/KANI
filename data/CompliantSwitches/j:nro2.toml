@@ -1,0 +1,11 @@
+x = -402
+y = 122
+z = 8359
+
+switch = true
+
+links = [
+ "torndal",
+ "kro'ushro",
+ "nro'meagh",
+] 

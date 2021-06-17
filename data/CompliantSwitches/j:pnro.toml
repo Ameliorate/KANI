@@ -1,0 +1,13 @@
+x = 381
+y = 12
+z = 8208
+
+switch = true
+
+links = [
+ 'j:knot',
+ 'j:nro1',
+ 'j:palex',
+ 'pacem',
+ 'hjaltland',
+]
