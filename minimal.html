@@ -1,0 +1,60 @@
+<title>Knot And Nexus Interchange</title>
+
+<h1>Express Routing System</h1>
+
+<label for="from-dest">Where are you?</label><br>
+<input list="dests" id="from-dest" name="from-dest" type="text" /><br>
+<label for="to-dest">Where do you want to go?</label><br>
+<input list="dests" id="to-dest" name="to-dest" type="text" /><br>
+<label for="command">Type this command:</label><br>
+<input id="command" name="command" readonly type="text" size=80 />
+
+<datalist id="dests">
+</datalist>
+
+<style>
+body {
+    background-color: salmon;
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+    dests = []
+    alldata = []
+    $.getJSON("routes.json", function(data) {
+	    alldata = data;
+	    for (var dest of data) {
+		    if (!dests.includes(dest.from)) {
+			    dests.push(dest.from);
+			}
+		}
+
+	    dests.sort();
+
+	    for (var dest of dests) {
+		    if (dest.startsWith('j:')) {
+			    continue;
+			}
+		    $('#dests').append("<option>" + dest + "</option>");
+		}
+	    reevaluate();
+	});
+
+    function reevaluate(eventObject) {
+	    $('#command').val('');
+	    var from = $('#from-dest').val();
+	    var to = $('#to-dest').val();
+
+	    for (var dest of alldata) {
+		    if (dest.from === from && dest.to === to) {
+			    $('#command').val('/dest ' + dest.dest);
+			    break;
+			}
+		}
+	}
+
+    $('#from-dest').change(reevaluate)
+    $('#to-dest').change(reevaluate)
+</script>
