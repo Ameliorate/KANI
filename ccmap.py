@@ -19,13 +19,14 @@ def processFile(path, name):
         name = name.removesuffix('.toml')
         myData = toml.load(path)
         myData['name'] = name
+        myData['filepath'] = path
         if 'links' not in myData:
             myData['links'] = []
         if 'BadLinks' not in myData:
             myData['BadLinks'] = {}
         data[name] = myData
     except Error as e:
-        print(f"Reading file {path}", file=stderr)
+        print(f"Error while reading file {path}", file=stderr)
         raise e
 
 for subdir, dirs, files in os.walk(datadir):
@@ -42,6 +43,7 @@ def format_node(node):
     o = {}
     o['id'] = 'ccmap:kani/node/' + node['name']
     o['name'] = node['name'].title() + ' (KANI)'
+    o['type'] = node['filepath'].split(os.sep)[2]
     o['x'] = int(node['x'])
     o['z'] = int(node['z'])
     if 'y' in node:
@@ -58,6 +60,7 @@ def format_link(node, neighbor):
     xa, xb = int(n_from['x']), int(n_to['x'])
     za, zb = int(n_from['z']), int(n_to['z'])
     o = {}
+    o['type'] = 'link'
     o['id'] = f'ccmap:kani/link/{from_name}/{to_name}'
     o['name'] = f'{from_name.title()} - {to_name.title()} (KANI)'
     o['line'] = [[[ xa, za ], [ xb, zb ]]]
@@ -76,9 +79,18 @@ for node in data.values():
         neighbor = data[neighbor_name]
         links[link_id] = format_link(node, neighbor)
 
-presentations = {
-    # TODO
-}
+presentations = [
+    {
+        "name": "Rails and Stops",
+        "style_base": {
+            "color": "#ff8800",
+        },
+        "zoom_styles": {
+            "-6": { "name": None },
+            "-2": { "name": "$name" },
+        },
+    },
+]
 
 collection = {
     "name": "Rails",
