@@ -120,5 +120,5 @@ for from_canon in data.keys():
             exit(f"Can't route between {from_canon} and {to_canon}! Is the station connected to nexus?")
         routeData.append(myRoute)
 
-jsonRouteData = json.dumps(routeData)
+jsonRouteData = json.dumps(routeData, indent="\t")
 print(jsonRouteData)
