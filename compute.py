@@ -100,7 +100,7 @@ def route(from_canon, to_canon):
             open_list.append(link)
 
 def time_min(from_x, from_z, to_x, to_z):
-    blocks_per_second = 11.314 # max speed on a diagonal rail
+    blocks_per_second = 8 # max speed or rails
     distance = dist((from_x, from_z), (to_x, to_z))
     time_seconds = distance / blocks_per_second
     return round(time_seconds)
