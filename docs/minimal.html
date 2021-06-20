@@ -14,47 +14,47 @@
 
 <style>
 body {
-    background-color: salmon;
+  background-color: salmon;
 }
 </style>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <script>
-    dests = []
-    alldata = []
-    $.getJSON("routes.json", function(data) {
-	    alldata = data;
-	    for (var dest of data) {
-		    if (!dests.includes(dest.from)) {
-			    dests.push(dest.from);
-			}
-		}
-
-	    dests.sort();
-
-	    for (var dest of dests) {
-		    if (dest.startsWith('j:')) {
-			    continue;
-			}
-		    $('#dests').append("<option>" + dest + "</option>");
-		}
-	    reevaluate();
-	});
-
-    function reevaluate(eventObject) {
-	    $('#command').val('');
-	    var from = $('#from-dest').val();
-	    var to = $('#to-dest').val();
-
-	    for (var dest of alldata) {
-		    if (dest.from === from && dest.to === to) {
-			    $('#command').val('/dest ' + dest.dest);
-			    break;
-			}
-		}
+  dests = []
+  alldata = []
+  $.getJSON("routes.json", function(data) {
+      alldata = data;
+      for (var dest of data) {
+	  if (!dests.includes(dest.from)) {
+	      dests.push(dest.from);
+	    }
 	}
 
-    $('#from-dest').change(reevaluate)
-    $('#to-dest').change(reevaluate)
+      dests.sort();
+
+      for (var dest of dests) {
+	  if (dest.startsWith('j:')) {
+	      continue;
+	    }
+	  $('#dests').append("<option>" + dest + "</option>");
+	}
+      reevaluate();
+    });
+
+  function reevaluate(eventObject) {
+      $('#command').val('');
+      var from = $('#from-dest').val();
+      var to = $('#to-dest').val();
+
+      for (var dest of alldata) {
+	  if (dest.from === from && dest.to === to) {
+	      $('#command').val('/dest ' + dest.dest);
+	      break;
+	    }
+	}
+    }
+
+  $('#from-dest').change(reevaluate)
+  $('#to-dest').change(reevaluate)
 </script>
