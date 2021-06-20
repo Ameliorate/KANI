@@ -106,7 +106,7 @@ def time_min(from_x, from_z, to_x, to_z):
     return round(time_seconds)
 
 def time_max(from_x, from_z, to_x, to_z):
-    blocks_per_second = 6 # guess at acceptable speed on a straight rail
+    blocks_per_second = 8 # According to yodabird, varying powered rail densities all result in an unchanging 8 blocks per second.
     distance = abs(from_x - to_x) + abs(from_z - to_z) # taxicab geometry distance, assumes rail goes to first coordinate in a straight line then makes a right angle to go to the other coordinate in a straight line
     time_seconds = distance / blocks_per_second
     return round(time_seconds)
