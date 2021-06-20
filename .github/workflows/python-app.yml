@@ -40,7 +40,7 @@ jobs:
     - name: Commit routes.json to git
       run: |
         git config --local user.name "KANI Bot"
-        if not git diff --quiet --exit-code docs/routes.json; then
+        if ! git diff --quiet --exit-code docs/routes.json; then
         git add docs/routes.json
         git commit -m "Update routes.json"
         fi
