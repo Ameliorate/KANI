@@ -36,8 +36,7 @@ for subdir, dirs, files in os.walk(datadir):
         if filepath.endswith('.toml'):
             processFile(filepath, filename)
 
-optional_fields = 'description location inaccuratelocation switch'.split(' ')
-# TODO bad links
+optional_fields = 'description location inaccuratelocation switch station advisory'.split(' ')
 
 def format_node(node):
     o = {}
@@ -51,6 +50,13 @@ def format_node(node):
     for key in optional_fields:
         if key in node:
             o[key] = node[key]
+
+    bad_links = ""
+    for canon, bad in node['BadLinks'].items():
+        bad_links += f"{canon}: {bad}, "
+    bad_links.rstrip(", ")
+    o['BadLinks'] = bad_links
+
     return o
 
 def format_link(node, neighbor):
