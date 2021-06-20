@@ -12,6 +12,8 @@
 <datalist id="dests">
 </datalist>
 
+<div id="advisories"></div>
+
 <style>
 body {
   background-color: salmon;
@@ -46,12 +48,23 @@ body {
       $('#command').val('');
       var from = $('#from-dest').val();
       var to = $('#to-dest').val();
+      var advisories = {}
 
       for (var dest of alldata) {
 	  if (dest.from === from && dest.to === to) {
 	      $('#command').val('/dest ' + dest.dest);
+	      advisories = dest.advisory;
 	      break;
 	    }
+	}
+
+      var advisories_div = $('#advisories');
+      advisories_div.innerHTML = "";
+
+      for (var advisory in advisories) {
+	  var text = advisories[advisory];
+	  text = text.replace("\n", "<br>");
+	  advisories_div.append("<p class='advisory'>" + advisory + " advisory: " + text + "</p>");
 	}
     }
 
