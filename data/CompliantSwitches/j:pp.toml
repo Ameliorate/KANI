@@ -2,6 +2,8 @@ x = 381
 y = 12
 z = 9721
 
+switch = true
+
 links = [
  'j:pnro',
  'hjaltland',
