@@ -63,14 +63,20 @@ def route(from_canon, to_canon):
         
         if current_node.canonical_destination == to_canon:
             dest = []
+            advisory = {}
             current = current_node
             while current is not None:
                 canon_dest = current.canonical_destination
                 if current.parent is not None:
                     canon_dest = current.parent.data['BadLinks'].get(current.canonical_destination) or current.canonical_destination
                 dest.append(canon_dest)
+                if 'advisory' in current.data:
+                    advisory[current.canonical_destination] = current.data['advisory']
                 current = current.parent
-            return ' '.join(dest[::-1])
+            dest_command = ' '.join(dest[::-1])
+            if data[to_canon].get('station'):
+                dest_command = dest_command + f" {to_canon}:exit"
+            return { 'dest': dest_command, 'from': from_canon, 'to': to_canon, 'advisory': advisory }
         links = deque([])
         for link in current_node.data['links']:
             new_node = Node(current_node, link)
@@ -95,9 +101,7 @@ for from_canon in data.keys():
         myRoute = route(from_canon, to_canon)
         if myRoute is None:
             exit(f"Can't route between {from_canon} and {to_canon}! Is the station connected to nexus?")
-        if data[to_canon].get('station'):
-            myRoute = myRoute + f" {to_canon}:exit"
-        routeData.append({'dest': myRoute, 'from': from_canon, 'to': to_canon})
+        routeData.append(myRoute)
 
 jsonRouteData = json.dumps(routeData)
 print(jsonRouteData)
