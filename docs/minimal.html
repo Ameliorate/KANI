@@ -12,6 +12,8 @@
 <datalist id="dests">
 </datalist>
 
+<p id="timeestimate" hidden=true>This trip will take from <span id="mintime"></span> to <span id="maxtime"></span>.</p>
+
 <div id="advisories"></div>
 
 <style>
@@ -44,28 +46,54 @@ body {
       reevaluate();
     });
 
+  function humantime(seconds) {
+      if (seconds < 60) {
+	  return "" + seconds + " seconds";
+	}
+      minutes = Math.floor(seconds / 60);
+      modseconds = seconds % 60;
+      minutestring = minutes == 1 ? " minute " : " minutes ";
+      secondstring = seconds == 1 ? " second" : " seconds";
+      return "" + minutes + minutestring + modseconds + secondstring;
+    }
+
   function reevaluate(eventObject) {
       $('#command').val('');
+      $('#timeestimate').hide();
       var from = $('#from-dest').val();
       var to = $('#to-dest').val();
-      var advisories = {}
+      var advisories = {};
+      var mintime = 0;
+      var maxtime = 0;
+      var found = false;
 
       for (var dest of alldata) {
 	  if (dest.from === from && dest.to === to) {
 	      $('#command').val('/dest ' + dest.dest);
 	      advisories = dest.advisory;
+	      mintime = dest.time_min;
+	      maxtime = dest.time_max;
+	      found = true;
 	      break;
 	    }
 	}
 
+      if (!found) {
+	  return;
+	}
+
       var advisories_div = $('#advisories');
-      advisories_div.innerHTML = "";
+      advisories_div.html("");
 
       for (var advisory in advisories) {
 	  var text = advisories[advisory];
 	  text = text.replace("\n", "<br>");
 	  advisories_div.append("<p class='advisory'>" + advisory + " advisory: " + text + "</p>");
 	}
+
+      $('#mintime').html(humantime(mintime));
+      $('#maxtime').html(humantime(maxtime));
+      $('#timeestimate').show();
     }
 
   $('#from-dest').change(reevaluate)
