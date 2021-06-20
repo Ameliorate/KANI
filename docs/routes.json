@@ -320,6 +320,14 @@
 		"time_max": 138
 	},
 	{
+		"dest": "j:piria j:knot j:pnro j:pp forta'are",
+		"from": "j:piria",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1629,
+		"time_max": 1717
+	},
+	{
 		"dest": "j:piria j:knot 0,0 j:picenia icenia bloom",
 		"from": "j:piria",
 		"to": "bloom",
@@ -968,6 +976,14 @@
 		"advisory": {},
 		"time_min": 1187,
 		"time_max": 1337
+	},
+	{
+		"dest": "j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:its",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2040,
+		"time_max": 2086
 	},
 	{
 		"dest": "j:its icenia bloom",
@@ -1620,6 +1636,14 @@
 		"time_max": 1349
 	},
 	{
+		"dest": "j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:cabalwest",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2040,
+		"time_max": 2098
+	},
+	{
 		"dest": "j:cabalwest icenia bloom",
 		"from": "j:cabalwest",
 		"to": "bloom",
@@ -2268,6 +2292,14 @@
 		"advisory": {},
 		"time_min": 1188,
 		"time_max": 1370
+	},
+	{
+		"dest": "j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:cabaleast",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2041,
+		"time_max": 2119
 	},
 	{
 		"dest": "j:cabaleast icenia bloom",
@@ -2920,6 +2952,14 @@
 		"time_max": 553
 	},
 	{
+		"dest": "j:knot j:pnro j:pp forta'are",
+		"from": "j:knot",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1290,
+		"time_max": 1302
+	},
+	{
 		"dest": "j:knot 0,0 j:picenia icenia bloom",
 		"from": "j:knot",
 		"to": "bloom",
@@ -3568,6 +3608,14 @@
 		"advisory": {},
 		"time_min": 1622,
 		"time_max": 2039
+	},
+	{
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "imc",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2475,
+		"time_max": 2788
 	},
 	{
 		"dest": "imc bloom",
@@ -4220,6 +4268,14 @@
 		"time_max": 777
 	},
 	{
+		"dest": "j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:picenia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1514,
+		"time_max": 1526
+	},
+	{
 		"dest": "j:picenia icenia bloom",
 		"from": "j:picenia",
 		"to": "bloom",
@@ -4868,6 +4924,14 @@
 		"advisory": {},
 		"time_min": 1598,
 		"time_max": 1727
+	},
+	{
+		"dest": "j:nro1 j:pnro j:pp forta'are",
+		"from": "j:nro1",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 399,
+		"time_max": 424
 	},
 	{
 		"dest": "j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -5520,6 +5584,14 @@
 		"time_max": 601
 	},
 	{
+		"dest": "0,0 j:knot j:pnro j:pp forta'are",
+		"from": "0,0",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1338,
+		"time_max": 1350
+	},
+	{
 		"dest": "0,0 j:picenia icenia bloom",
 		"from": "0,0",
 		"to": "bloom",
@@ -6168,6 +6240,14 @@
 		"advisory": {},
 		"time_min": 1463,
 		"time_max": 1579
+	},
+	{
+		"dest": "j:pnro j:pp forta'are",
+		"from": "j:pnro",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 264,
+		"time_max": 276
 	},
 	{
 		"dest": "j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -6820,6 +6900,14 @@
 		"time_max": 989
 	},
 	{
+		"dest": "icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1697,
+		"time_max": 1738
+	},
+	{
 		"dest": "icenia bloom",
 		"from": "icenia",
 		"to": "bloom",
@@ -7468,6 +7556,14 @@
 		"advisory": {},
 		"time_min": 1486,
 		"time_max": 1604
+	},
+	{
+		"dest": "j:pniyo j:palex j:pnro j:pp forta'are",
+		"from": "j:pniyo",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 287,
+		"time_max": 301
 	},
 	{
 		"dest": "j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -8120,6 +8216,14 @@
 		"time_max": 1768
 	},
 	{
+		"dest": "j:pp forta'are",
+		"from": "j:pp",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 75,
+		"time_max": 87
+	},
+	{
 		"dest": "j:pp j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "j:pp",
 		"to": "bloom",
@@ -8768,6 +8872,14 @@
 		"advisory": {},
 		"time_min": 1659,
 		"time_max": 1796
+	},
+	{
+		"dest": "j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "j:nro2",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 460,
+		"time_max": 493
 	},
 	{
 		"dest": "j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -9420,6 +9532,14 @@
 		"time_max": 1491
 	},
 	{
+		"dest": "j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:pkallos",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2228,
+		"time_max": 2240
+	},
+	{
 		"dest": "j:pkallos j:pvark j:pmts j:picenia icenia bloom",
 		"from": "j:pkallos",
 		"to": "bloom",
@@ -10068,6 +10188,14 @@
 		"advisory": {},
 		"time_min": 1093,
 		"time_max": 1209
+	},
+	{
+		"dest": "j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:pvark",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1946,
+		"time_max": 1958
 	},
 	{
 		"dest": "j:pvark j:pmts j:picenia icenia bloom",
@@ -10720,6 +10848,14 @@
 		"time_max": 916
 	},
 	{
+		"dest": "j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "j:pmts",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1653,
+		"time_max": 1665
+	},
+	{
 		"dest": "j:pmts j:picenia icenia bloom",
 		"from": "j:pmts",
 		"to": "bloom",
@@ -11368,6 +11504,14 @@
 		"advisory": {},
 		"time_min": 1706,
 		"time_max": 1843
+	},
+	{
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "kro'ushro",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 507,
+		"time_max": 540
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -12020,6 +12164,14 @@
 		"time_max": 1588
 	},
 	{
+		"dest": "j:palex j:pnro j:pp forta'are",
+		"from": "j:palex",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 272,
+		"time_max": 285
+	},
+	{
 		"dest": "j:palex j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "j:palex",
 		"to": "bloom",
@@ -12668,6 +12820,14 @@
 		"advisory": {},
 		"time_min": 1635,
 		"time_max": 1772
+	},
+	{
+		"dest": "torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "torndal",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 436,
+		"time_max": 469
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -13320,6 +13480,14 @@
 		"time_max": 1383
 	},
 	{
+		"dest": "vinland j:knot j:pnro j:pp forta'are",
+		"from": "vinland",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2115,
+		"time_max": 2132
+	},
+	{
 		"dest": "vinland icenia bloom",
 		"from": "vinland",
 		"to": "bloom",
@@ -13968,6 +14136,14 @@
 		"advisory": {},
 		"time_min": 1261,
 		"time_max": 1440
+	},
+	{
+		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "ssta",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2114,
+		"time_max": 2189
 	},
 	{
 		"dest": "ssta j:cabalwest icenia bloom",
@@ -14620,6 +14796,14 @@
 		"time_max": 732
 	},
 	{
+		"dest": "gensokyo:roe j:knot j:pnro j:pp forta'are",
+		"from": "gensokyo:roe",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1646,
+		"time_max": 1661
+	},
+	{
 		"dest": "gensokyo:roe j:knot 0,0 j:picenia icenia bloom",
 		"from": "gensokyo:roe",
 		"to": "bloom",
@@ -15268,6 +15452,14 @@
 		"advisory": {},
 		"time_min": 1666,
 		"time_max": 1803
+	},
+	{
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "nro'meagh",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 467,
+		"time_max": 500
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -15920,6 +16112,14 @@
 		"time_max": 2199
 	},
 	{
+		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "atlantica",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2560,
+		"time_max": 2948
+	},
+	{
 		"dest": "atlantica icenia bloom",
 		"from": "atlantica",
 		"to": "bloom",
@@ -16568,6 +16768,14 @@
 		"advisory": {},
 		"time_min": 1137,
 		"time_max": 1301
+	},
+	{
+		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:drippy",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1990,
+		"time_max": 2050
 	},
 	{
 		"dest": "icenia:drippy icenia bloom",
@@ -17220,6 +17428,14 @@
 		"time_max": 2129
 	},
 	{
+		"dest": "westminster 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "westminster",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2433,
+		"time_max": 2878
+	},
+	{
 		"dest": "westminster icenia bloom",
 		"from": "westminster",
 		"to": "bloom",
@@ -17868,6 +18084,14 @@
 		"advisory": {},
 		"time_min": 186,
 		"time_max": 256
+	},
+	{
+		"dest": "crowsroost j:piria j:knot j:pnro j:pp forta'are",
+		"from": "crowsroost",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1717,
+		"time_max": 1835
 	},
 	{
 		"dest": "crowsroost j:piria j:knot 0,0 j:picenia icenia bloom",
@@ -18520,6 +18744,14 @@
 		"time_max": 1343
 	},
 	{
+		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:westisle",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2012,
+		"time_max": 2092
+	},
+	{
 		"dest": "icenia:westisle icenia bloom",
 		"from": "icenia:westisle",
 		"to": "bloom",
@@ -19168,6 +19400,14 @@
 		"advisory": {},
 		"time_min": 2291,
 		"time_max": 3024
+	},
+	{
+		"dest": "spqr icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "spqr",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 3144,
+		"time_max": 3773
 	},
 	{
 		"dest": "spqr icenia bloom",
@@ -19820,6 +20060,14 @@
 		"time_max": 1305
 	},
 	{
+		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "it:anburon",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1950,
+		"time_max": 2054
+	},
+	{
 		"dest": "it:anburon icenia bloom",
 		"from": "it:anburon",
 		"to": "bloom",
@@ -20468,6 +20716,14 @@
 		"advisory": {},
 		"time_min": 594,
 		"time_max": 720
+	},
+	{
+		"dest": "lambat j:piria j:knot j:pnro j:pp forta'are",
+		"from": "lambat",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2125,
+		"time_max": 2299
 	},
 	{
 		"dest": "lambat j:piria j:knot 0,0 j:picenia icenia bloom",
@@ -21120,6 +21376,14 @@
 		"time_max": 1915
 	},
 	{
+		"dest": "varkonia icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "varkonia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2358,
+		"time_max": 2664
+	},
+	{
 		"dest": "varkonia icenia bloom",
 		"from": "varkonia",
 		"to": "bloom",
@@ -21768,6 +22032,14 @@
 		"advisory": {},
 		"time_min": 1573,
 		"time_max": 1701
+	},
+	{
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:pp forta'are",
+		"from": "ozonrough",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 374,
+		"time_max": 398
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -22420,6 +22692,14 @@
 		"time_max": 1276
 	},
 	{
+		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:potato",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1970,
+		"time_max": 2025
+	},
+	{
 		"dest": "icenia:potato icenia bloom",
 		"from": "icenia:potato",
 		"to": "bloom",
@@ -23068,6 +23348,14 @@
 		"advisory": {},
 		"time_min": 1295,
 		"time_max": 1611
+	},
+	{
+		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "alpoko",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2148,
+		"time_max": 2360
 	},
 	{
 		"dest": "alpoko icenia bloom",
@@ -23720,6 +24008,14 @@
 		"time_max": 1748
 	},
 	{
+		"dest": "jevoghnya j:nro1 j:pnro j:pp forta'are",
+		"from": "jevoghnya",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 419,
+		"time_max": 445
+	},
+	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "jevoghnya",
 		"to": "bloom",
@@ -24368,6 +24664,14 @@
 		"advisory": {},
 		"time_min": 1197,
 		"time_max": 1362
+	},
+	{
+		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "wnsta",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2050,
+		"time_max": 2111
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia bloom",
@@ -25020,6 +25324,14 @@
 		"time_max": 1274
 	},
 	{
+		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:nether",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1943,
+		"time_max": 2023
+	},
+	{
 		"dest": "icenia:nether icenia bloom",
 		"from": "icenia:nether",
 		"to": "bloom",
@@ -25670,6 +25982,14 @@
 		"time_max": 0
 	},
 	{
+		"dest": "prussia j:piria j:knot j:pnro j:pp forta'are",
+		"from": "prussia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1727,
+		"time_max": 1855
+	},
+	{
 		"dest": "prussia j:piria j:knot 0,0 j:picenia icenia bloom",
 		"from": "prussia",
 		"to": "bloom",
@@ -26000,6 +26320,664 @@
 		"time_max": 1348
 	},
 	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria",
+		"from": "forta'are",
+		"to": "j:piria",
+		"advisory": {},
+		"time_min": 1629,
+		"time_max": 1717
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its",
+		"from": "forta'are",
+		"to": "j:its",
+		"advisory": {},
+		"time_min": 2040,
+		"time_max": 2086
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest",
+		"from": "forta'are",
+		"to": "j:cabalwest",
+		"advisory": {},
+		"time_min": 2040,
+		"time_max": 2098
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabaleast",
+		"from": "forta'are",
+		"to": "j:cabaleast",
+		"advisory": {},
+		"time_min": 2041,
+		"time_max": 2119
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot",
+		"from": "forta'are",
+		"to": "j:knot",
+		"advisory": {},
+		"time_min": 1290,
+		"time_max": 1302
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts imc imc:exit",
+		"from": "forta'are",
+		"to": "imc",
+		"advisory": {},
+		"time_min": 2475,
+		"time_max": 2788
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia",
+		"from": "forta'are",
+		"to": "j:picenia",
+		"advisory": {},
+		"time_min": 1514,
+		"time_max": 1526
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1",
+		"from": "forta'are",
+		"to": "j:nro1",
+		"advisory": {},
+		"time_min": 399,
+		"time_max": 424
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 0,0:exit",
+		"from": "forta'are",
+		"to": "0,0",
+		"advisory": {},
+		"time_min": 1338,
+		"time_max": 1350
+	},
+	{
+		"dest": "forta'are j:pp j:pnro",
+		"from": "forta'are",
+		"to": "j:pnro",
+		"advisory": {},
+		"time_min": 264,
+		"time_max": 276
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:exit",
+		"from": "forta'are",
+		"to": "icenia",
+		"advisory": {},
+		"time_min": 1697,
+		"time_max": 1738
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:palex j:pniyo",
+		"from": "forta'are",
+		"to": "j:pniyo",
+		"advisory": {},
+		"time_min": 287,
+		"time_max": 301
+	},
+	{
+		"dest": "forta'are j:pp",
+		"from": "forta'are",
+		"to": "j:pp",
+		"advisory": {},
+		"time_min": 75,
+		"time_max": 87
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2",
+		"from": "forta'are",
+		"to": "j:nro2",
+		"advisory": {},
+		"time_min": 460,
+		"time_max": 493
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos",
+		"from": "forta'are",
+		"to": "j:pkallos",
+		"advisory": {},
+		"time_min": 2228,
+		"time_max": 2240
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark",
+		"from": "forta'are",
+		"to": "j:pvark",
+		"advisory": {},
+		"time_min": 1946,
+		"time_max": 1958
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts",
+		"from": "forta'are",
+		"to": "j:pmts",
+		"advisory": {},
+		"time_min": 1653,
+		"time_max": 1665
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"from": "forta'are",
+		"to": "kro'ushro",
+		"advisory": {},
+		"time_min": 507,
+		"time_max": 540
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:palex",
+		"from": "forta'are",
+		"to": "j:palex",
+		"advisory": {},
+		"time_min": 272,
+		"time_max": 285
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal torndal:exit",
+		"from": "forta'are",
+		"to": "torndal",
+		"advisory": {},
+		"time_min": 436,
+		"time_max": 469
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot vinland",
+		"from": "forta'are",
+		"to": "vinland",
+		"advisory": {},
+		"time_min": 2115,
+		"time_max": 2132
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
+		"from": "forta'are",
+		"to": "ssta",
+		"advisory": {},
+		"time_min": 2114,
+		"time_max": 2189
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot gensokyo:roe",
+		"from": "forta'are",
+		"to": "gensokyo:roe",
+		"advisory": {},
+		"time_min": 1646,
+		"time_max": 1661
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"from": "forta'are",
+		"to": "nro'meagh",
+		"advisory": {},
+		"time_min": 467,
+		"time_max": 500
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
+		"from": "forta'are",
+		"to": "atlantica",
+		"advisory": {},
+		"time_min": 2560,
+		"time_max": 2948
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
+		"from": "forta'are",
+		"to": "icenia:drippy",
+		"advisory": {},
+		"time_min": 1990,
+		"time_max": 2050
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 westminster",
+		"from": "forta'are",
+		"to": "westminster",
+		"advisory": {},
+		"time_min": 2433,
+		"time_max": 2878
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria crowsroost",
+		"from": "forta'are",
+		"to": "crowsroost",
+		"advisory": {},
+		"time_min": 1717,
+		"time_max": 1835
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
+		"from": "forta'are",
+		"to": "icenia:westisle",
+		"advisory": {},
+		"time_min": 2012,
+		"time_max": 2092
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts imc spqr",
+		"from": "forta'are",
+		"to": "spqr",
+		"advisory": {},
+		"time_min": 3659,
+		"time_max": 4238
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia it:anburon",
+		"from": "forta'are",
+		"to": "it:anburon",
+		"advisory": {},
+		"time_min": 1950,
+		"time_max": 2054
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria lambat",
+		"from": "forta'are",
+		"to": "lambat",
+		"advisory": {},
+		"time_min": 2125,
+		"time_max": 2299
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark varkonia",
+		"from": "forta'are",
+		"to": "varkonia",
+		"advisory": {},
+		"time_min": 2292,
+		"time_max": 2304
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:palex j:pniyo ozonrough",
+		"from": "forta'are",
+		"to": "ozonrough",
+		"advisory": {},
+		"time_min": 374,
+		"time_max": 398
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:potato",
+		"from": "forta'are",
+		"to": "icenia:potato",
+		"advisory": {},
+		"time_min": 1970,
+		"time_max": 2025
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia alpoko",
+		"from": "forta'are",
+		"to": "alpoko",
+		"advisory": {},
+		"time_min": 2148,
+		"time_max": 2360
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 jevoghnya",
+		"from": "forta'are",
+		"to": "jevoghnya",
+		"advisory": {},
+		"time_min": 419,
+		"time_max": 445
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest wnsta",
+		"from": "forta'are",
+		"to": "wnsta",
+		"advisory": {},
+		"time_min": 2050,
+		"time_max": 2111
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:nether",
+		"from": "forta'are",
+		"to": "icenia:nether",
+		"advisory": {},
+		"time_min": 1943,
+		"time_max": 2023
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria prussia",
+		"from": "forta'are",
+		"to": "prussia",
+		"advisory": {},
+		"time_min": 1727,
+		"time_max": 1855
+	},
+	{
+		"dest": "forta'are",
+		"from": "forta'are",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 0,
+		"time_max": 0
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia bloom",
+		"from": "forta'are",
+		"to": "bloom",
+		"advisory": {},
+		"time_min": 2204,
+		"time_max": 2311
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot cape_cocoa",
+		"from": "forta'are",
+		"to": "cape_cocoa",
+		"advisory": {},
+		"time_min": 1730,
+		"time_max": 1818
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabaleast mesa",
+		"from": "forta'are",
+		"to": "icenia:oldmesa",
+		"advisory": {},
+		"time_min": 2271,
+		"time_max": 2360
+	},
+	{
+		"dest": "forta'are j:pp pacem",
+		"from": "forta'are",
+		"to": "pacem",
+		"advisory": {},
+		"time_min": 191,
+		"time_max": 212
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot endportal",
+		"from": "forta'are",
+		"to": "endportal",
+		"advisory": {},
+		"time_min": 1537,
+		"time_max": 1596
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
+		"from": "forta'are",
+		"to": "hje",
+		"advisory": {},
+		"time_min": 2788,
+		"time_max": 2800
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot caledonia",
+		"from": "forta'are",
+		"to": "caledonia",
+		"advisory": {},
+		"time_min": 2352,
+		"time_max": 2431
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot netherfarm",
+		"from": "forta'are",
+		"to": "netherfarm",
+		"advisory": {},
+		"time_min": 1382,
+		"time_max": 1394
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:palex alexandria",
+		"from": "forta'are",
+		"to": "alexandria",
+		"advisory": {},
+		"time_min": 275,
+		"time_max": 288
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabaleast lord",
+		"from": "forta'are",
+		"to": "icenia:lord",
+		"advisory": {},
+		"time_min": 2084,
+		"time_max": 2163
+	},
+	{
+		"dest": "forta'are j:pp hjaltland",
+		"from": "forta'are",
+		"to": "hjaltland",
+		"advisory": {},
+		"time_min": 511,
+		"time_max": 636
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia gensokyo:taozi",
+		"from": "forta'are",
+		"to": "gensokyo:taozi",
+		"advisory": {},
+		"time_min": 2323,
+		"time_max": 2612
+	},
+	{
+		"dest": "forta'are j:pp fortuna",
+		"from": "forta'are",
+		"to": "fortuna",
+		"advisory": {},
+		"time_min": 777,
+		"time_max": 929
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:palex j:pniyo hiyo'mek",
+		"from": "forta'are",
+		"to": "hiyo'mek",
+		"advisory": {},
+		"time_min": 290,
+		"time_max": 304
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria iria",
+		"from": "forta'are",
+		"to": "iria",
+		"advisory": {},
+		"time_min": 2592,
+		"time_max": 2688
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 mta",
+		"from": "forta'are",
+		"to": "mta",
+		"advisory": {},
+		"time_min": 2255,
+		"time_max": 2558
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal il'olmhir",
+		"from": "forta'are",
+		"to": "il'olmhir",
+		"advisory": {},
+		"time_min": 487,
+		"time_max": 526
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"from": "forta'are",
+		"to": "lriln'kriavnya",
+		"advisory": {},
+		"time_min": 546,
+		"time_max": 590
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia gabon",
+		"from": "forta'are",
+		"to": "gabon",
+		"advisory": {},
+		"time_min": 1872,
+		"time_max": 2026
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"from": "forta'are",
+		"to": "topha'nya",
+		"advisory": {},
+		"time_min": 544,
+		"time_max": 585
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts ellen",
+		"from": "forta'are",
+		"to": "ellen",
+		"advisory": {},
+		"time_min": 2833,
+		"time_max": 3327
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia sig",
+		"from": "forta'are",
+		"to": "sig",
+		"advisory": {},
+		"time_min": 2305,
+		"time_max": 2585
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts sept september",
+		"from": "forta'are",
+		"to": "mts",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 2068,
+		"time_max": 2251
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"from": "forta'are",
+		"to": "socalist_ruler",
+		"advisory": {},
+		"time_min": 531,
+		"time_max": 574
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot j:piria appomattox",
+		"from": "forta'are",
+		"to": "appomattox",
+		"advisory": {},
+		"time_min": 2200,
+		"time_max": 2469
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot wayrest",
+		"from": "forta'are",
+		"to": "wayrest",
+		"advisory": {},
+		"time_min": 1404,
+		"time_max": 1432
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot besia",
+		"from": "forta'are",
+		"to": "besia",
+		"advisory": {},
+		"time_min": 2052,
+		"time_max": 2206
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot newsovia",
+		"from": "forta'are",
+		"to": "newsovia",
+		"advisory": {},
+		"time_min": 2314,
+		"time_max": 2474
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
+		"from": "forta'are",
+		"to": "canvasblue",
+		"advisory": {},
+		"time_min": 2100,
+		"time_max": 2163
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
+		"from": "forta'are",
+		"to": "kallos",
+		"advisory": {},
+		"time_min": 2247,
+		"time_max": 2261
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot mir",
+		"from": "forta'are",
+		"to": "mir",
+		"advisory": {},
+		"time_min": 2623,
+		"time_max": 2646
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its skybunker",
+		"from": "forta'are",
+		"to": "its:skybunker",
+		"advisory": {},
+		"time_min": 2055,
+		"time_max": 2104
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its bayloop",
+		"from": "forta'are",
+		"to": "its:bayloop",
+		"advisory": {},
+		"time_min": 2048,
+		"time_max": 2095
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its adytum",
+		"from": "forta'are",
+		"to": "its:adytum",
+		"advisory": {},
+		"time_min": 2089,
+		"time_max": 2148
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its qbipfb",
+		"from": "forta'are",
+		"to": "its:qbipfb",
+		"advisory": {},
+		"time_min": 2063,
+		"time_max": 2117
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its hji",
+		"from": "forta'are",
+		"to": "its:hji",
+		"advisory": {},
+		"time_min": 2056,
+		"time_max": 2108
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its office",
+		"from": "forta'are",
+		"to": "its:office",
+		"advisory": {},
+		"time_min": 2048,
+		"time_max": 2094
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its iceniapark",
+		"from": "forta'are",
+		"to": "its:iceniapark",
+		"advisory": {},
+		"time_min": 2043,
+		"time_max": 2089
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its versailles",
+		"from": "forta'are",
+		"to": "its:versailles",
+		"advisory": {},
+		"time_min": 2053,
+		"time_max": 2100
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its subway",
+		"from": "forta'are",
+		"to": "its:subway",
+		"advisory": {},
+		"time_min": 2046,
+		"time_max": 2093
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia its beach",
+		"from": "forta'are",
+		"to": "its:beach",
+		"advisory": {},
+		"time_min": 2049,
+		"time_max": 2097
+	},
+	{
 		"dest": "bloom icenia j:picenia 0,0 j:knot j:piria",
 		"from": "bloom",
 		"to": "j:piria",
@@ -26318,6 +27296,14 @@
 		"advisory": {},
 		"time_min": 1351,
 		"time_max": 1562
+	},
+	{
+		"dest": "bloom icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "bloom",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2204,
+		"time_max": 2311
 	},
 	{
 		"dest": "bloom",
@@ -26970,6 +27956,14 @@
 		"time_max": 1069
 	},
 	{
+		"dest": "cape_cocoa j:knot j:pnro j:pp forta'are",
+		"from": "cape_cocoa",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1730,
+		"time_max": 1818
+	},
+	{
 		"dest": "cape_cocoa j:knot 0,0 j:picenia icenia bloom",
 		"from": "cape_cocoa",
 		"to": "bloom",
@@ -27618,6 +28612,14 @@
 		"advisory": {},
 		"time_min": 1418,
 		"time_max": 1611
+	},
+	{
+		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:oldmesa",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2271,
+		"time_max": 2360
 	},
 	{
 		"dest": "icenia:oldmesa j:cabaleast icenia bloom",
@@ -28270,6 +29272,14 @@
 		"time_max": 1893
 	},
 	{
+		"dest": "pacem j:pp forta'are",
+		"from": "pacem",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 191,
+		"time_max": 212
+	},
+	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "pacem",
 		"to": "bloom",
@@ -28918,6 +29928,14 @@
 		"advisory": {},
 		"time_min": 684,
 		"time_max": 847
+	},
+	{
+		"dest": "endportal j:knot j:pnro j:pp forta'are",
+		"from": "endportal",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1537,
+		"time_max": 1596
 	},
 	{
 		"dest": "endportal j:knot 0,0 j:picenia icenia bloom",
@@ -29570,6 +30588,14 @@
 		"time_max": 2051
 	},
 	{
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "hje",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2788,
+		"time_max": 2800
+	},
+	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia bloom",
 		"from": "hje",
 		"to": "bloom",
@@ -30218,6 +31244,14 @@
 		"advisory": {},
 		"time_min": 1499,
 		"time_max": 1682
+	},
+	{
+		"dest": "caledonia j:knot j:pnro j:pp forta'are",
+		"from": "caledonia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2352,
+		"time_max": 2431
 	},
 	{
 		"dest": "caledonia j:knot 0,0 j:picenia icenia bloom",
@@ -30870,6 +31904,14 @@
 		"time_max": 645
 	},
 	{
+		"dest": "netherfarm j:knot j:pnro j:pp forta'are",
+		"from": "netherfarm",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1382,
+		"time_max": 1394
+	},
+	{
 		"dest": "netherfarm j:knot 0,0 j:picenia icenia bloom",
 		"from": "netherfarm",
 		"to": "bloom",
@@ -31518,6 +32560,14 @@
 		"advisory": {},
 		"time_min": 1474,
 		"time_max": 1591
+	},
+	{
+		"dest": "alexandria j:palex j:pnro j:pp forta'are",
+		"from": "alexandria",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 275,
+		"time_max": 288
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -32170,6 +33220,14 @@
 		"time_max": 1414
 	},
 	{
+		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:lord",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2084,
+		"time_max": 2163
+	},
+	{
 		"dest": "icenia:lord j:cabaleast icenia bloom",
 		"from": "icenia:lord",
 		"to": "bloom",
@@ -32818,6 +33876,14 @@
 		"advisory": {},
 		"time_min": 2088,
 		"time_max": 2317
+	},
+	{
+		"dest": "hjaltland j:pp forta'are",
+		"from": "hjaltland",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 511,
+		"time_max": 636
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -33470,6 +34536,14 @@
 		"time_max": 1863
 	},
 	{
+		"dest": "gensokyo:taozi icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "gensokyo:taozi",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2323,
+		"time_max": 2612
+	},
+	{
 		"dest": "gensokyo:taozi icenia bloom",
 		"from": "gensokyo:taozi",
 		"to": "bloom",
@@ -34118,6 +35192,14 @@
 		"advisory": {},
 		"time_min": 2354,
 		"time_max": 2610
+	},
+	{
+		"dest": "fortuna j:pp forta'are",
+		"from": "fortuna",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 777,
+		"time_max": 929
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -34770,6 +35852,14 @@
 		"time_max": 1607
 	},
 	{
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:pp forta'are",
+		"from": "hiyo'mek",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 290,
+		"time_max": 304
+	},
+	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "hiyo'mek",
 		"to": "bloom",
@@ -35418,6 +36508,14 @@
 		"advisory": {},
 		"time_min": 1061,
 		"time_max": 1109
+	},
+	{
+		"dest": "iria j:piria j:knot j:pnro j:pp forta'are",
+		"from": "iria",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2592,
+		"time_max": 2688
 	},
 	{
 		"dest": "iria j:piria j:knot 0,0 j:picenia icenia bloom",
@@ -36070,6 +37168,14 @@
 		"time_max": 1809
 	},
 	{
+		"dest": "mta 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "mta",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2255,
+		"time_max": 2558
+	},
+	{
 		"dest": "mta icenia bloom",
 		"from": "mta",
 		"to": "bloom",
@@ -36718,6 +37824,14 @@
 		"advisory": {},
 		"time_min": 1686,
 		"time_max": 1829
+	},
+	{
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "il'olmhir",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 487,
+		"time_max": 526
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
@@ -37370,6 +38484,14 @@
 		"time_max": 1893
 	},
 	{
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "lriln'kriavnya",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 546,
+		"time_max": 590
+	},
+	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "lriln'kriavnya",
 		"to": "bloom",
@@ -38018,6 +39140,14 @@
 		"advisory": {},
 		"time_min": 1019,
 		"time_max": 1277
+	},
+	{
+		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "gabon",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1872,
+		"time_max": 2026
 	},
 	{
 		"dest": "gabon icenia bloom",
@@ -38670,6 +39800,14 @@
 		"time_max": 1888
 	},
 	{
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "topha'nya",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 544,
+		"time_max": 585
+	},
+	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "topha'nya",
 		"to": "bloom",
@@ -39320,6 +40458,14 @@
 		"time_max": 2578
 	},
 	{
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "ellen",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2833,
+		"time_max": 3327
+	},
+	{
 		"dest": "ellen j:pmts j:picenia icenia bloom",
 		"from": "ellen",
 		"to": "bloom",
@@ -39968,6 +41114,14 @@
 		"advisory": {},
 		"time_min": 1452,
 		"time_max": 1836
+	},
+	{
+		"dest": "sig icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "sig",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2305,
+		"time_max": 2585
 	},
 	{
 		"dest": "sig icenia bloom",
@@ -40700,6 +41854,16 @@
 		"time_max": 1502
 	},
 	{
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "mts",
+		"to": "forta'are",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 2068,
+		"time_max": 2251
+	},
+	{
 		"dest": "mts j:pmts j:picenia icenia bloom",
 		"from": "mts",
 		"to": "bloom",
@@ -41430,6 +42594,14 @@
 		"time_max": 1877
 	},
 	{
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
+		"from": "socalist_ruler",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 531,
+		"time_max": 574
+	},
+	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia bloom",
 		"from": "socalist_ruler",
 		"to": "bloom",
@@ -42078,6 +43250,14 @@
 		"advisory": {},
 		"time_min": 669,
 		"time_max": 890
+	},
+	{
+		"dest": "appomattox j:piria j:knot j:pnro j:pp forta'are",
+		"from": "appomattox",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2200,
+		"time_max": 2469
 	},
 	{
 		"dest": "appomattox j:piria j:knot 0,0 j:picenia icenia bloom",
@@ -42730,6 +43910,14 @@
 		"time_max": 683
 	},
 	{
+		"dest": "wayrest j:knot j:pnro j:pp forta'are",
+		"from": "wayrest",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1404,
+		"time_max": 1432
+	},
+	{
 		"dest": "wayrest 0,0 j:picenia icenia bloom",
 		"from": "wayrest",
 		"to": "bloom",
@@ -43378,6 +44566,14 @@
 		"advisory": {},
 		"time_min": 1199,
 		"time_max": 1457
+	},
+	{
+		"dest": "besia j:knot j:pnro j:pp forta'are",
+		"from": "besia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2052,
+		"time_max": 2206
 	},
 	{
 		"dest": "besia j:knot 0,0 j:picenia icenia bloom",
@@ -44030,6 +45226,14 @@
 		"time_max": 1725
 	},
 	{
+		"dest": "newsovia j:knot j:pnro j:pp forta'are",
+		"from": "newsovia",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2314,
+		"time_max": 2474
+	},
+	{
 		"dest": "newsovia j:knot 0,0 j:picenia icenia bloom",
 		"from": "newsovia",
 		"to": "bloom",
@@ -44678,6 +45882,14 @@
 		"advisory": {},
 		"time_min": 1247,
 		"time_max": 1414
+	},
+	{
+		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "canvasblue",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2100,
+		"time_max": 2163
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia bloom",
@@ -45330,6 +46542,14 @@
 		"time_max": 1868
 	},
 	{
+		"dest": "kallos icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "kallos",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2405,
+		"time_max": 2617
+	},
+	{
 		"dest": "kallos icenia bloom",
 		"from": "kallos",
 		"to": "bloom",
@@ -45978,6 +47198,14 @@
 		"advisory": {},
 		"time_min": 1770,
 		"time_max": 1897
+	},
+	{
+		"dest": "mir j:knot j:pnro j:pp forta'are",
+		"from": "mir",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2623,
+		"time_max": 2646
 	},
 	{
 		"dest": "mir j:knot 0,0 j:picenia icenia bloom",
@@ -46630,6 +47858,14 @@
 		"time_max": 1355
 	},
 	{
+		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:skybunker",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2055,
+		"time_max": 2104
+	},
+	{
 		"dest": "its:skybunker j:its icenia bloom",
 		"from": "its:skybunker",
 		"to": "bloom",
@@ -47278,6 +48514,14 @@
 		"advisory": {},
 		"time_min": 1195,
 		"time_max": 1346
+	},
+	{
+		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:bayloop",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2048,
+		"time_max": 2095
 	},
 	{
 		"dest": "its:bayloop j:its icenia bloom",
@@ -47930,6 +49174,14 @@
 		"time_max": 1399
 	},
 	{
+		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:adytum",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2089,
+		"time_max": 2148
+	},
+	{
 		"dest": "its:adytum j:its icenia bloom",
 		"from": "its:adytum",
 		"to": "bloom",
@@ -48578,6 +49830,14 @@
 		"advisory": {},
 		"time_min": 1210,
 		"time_max": 1368
+	},
+	{
+		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:qbipfb",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2063,
+		"time_max": 2117
 	},
 	{
 		"dest": "its:qbipfb j:its icenia bloom",
@@ -49230,6 +50490,14 @@
 		"time_max": 1359
 	},
 	{
+		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:hji",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2056,
+		"time_max": 2108
+	},
+	{
 		"dest": "its:hji j:its icenia bloom",
 		"from": "its:hji",
 		"to": "bloom",
@@ -49878,6 +51146,14 @@
 		"advisory": {},
 		"time_min": 1195,
 		"time_max": 1345
+	},
+	{
+		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:office",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2048,
+		"time_max": 2094
 	},
 	{
 		"dest": "its:office j:its icenia bloom",
@@ -50530,6 +51806,14 @@
 		"time_max": 1340
 	},
 	{
+		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:iceniapark",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2043,
+		"time_max": 2089
+	},
+	{
 		"dest": "its:iceniapark j:its icenia bloom",
 		"from": "its:iceniapark",
 		"to": "bloom",
@@ -51178,6 +52462,14 @@
 		"advisory": {},
 		"time_min": 1200,
 		"time_max": 1351
+	},
+	{
+		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:versailles",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2053,
+		"time_max": 2100
 	},
 	{
 		"dest": "its:versailles j:its icenia bloom",
@@ -51830,6 +53122,14 @@
 		"time_max": 1344
 	},
 	{
+		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:subway",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2046,
+		"time_max": 2093
+	},
+	{
 		"dest": "its:subway j:its icenia bloom",
 		"from": "its:subway",
 		"to": "bloom",
@@ -52478,6 +53778,14 @@
 		"advisory": {},
 		"time_min": 1196,
 		"time_max": 1348
+	},
+	{
+		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "its:beach",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2049,
+		"time_max": 2097
 	},
 	{
 		"dest": "its:beach j:its icenia bloom",
