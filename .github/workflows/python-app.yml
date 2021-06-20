@@ -37,12 +37,22 @@ jobs:
     - name: Run compute program
       run: |
         python ./compute.py > docs/routes.json
+    - name: Run ccmap program
+      run: |
+        python ./ccmap.py > docs/ccmap.json
     - name: Commit routes.json to git
       run: |
         git config --local user.name "KANI Bot"
         if ! git diff --quiet --exit-code docs/routes.json; then
         git add docs/routes.json
         git commit -m "Update routes.json"
+        fi
+    - name: Commit ccmap.json to git
+      run: |
+        git config --local user.name "KANI Bot"
+        if ! git diff --quiet --exit-code docs/ccmap.json; then
+        git add docs/ccmap.json
+        git commit -m "Update ccmap.json"
         fi
     - name: Push changes
       uses: ad-m/github-push-action@master
