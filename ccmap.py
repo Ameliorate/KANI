@@ -55,7 +55,8 @@ def format_node(node):
     for canon, bad in node['BadLinks'].items():
         bad_links += f"{canon}: {bad}, "
     bad_links.rstrip(", ")
-    o['BadLinks'] = bad_links
+    if bad_links != "":
+        o['BadLinks'] = bad_links
 
     return o
 
