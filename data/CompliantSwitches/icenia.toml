@@ -2,7 +2,7 @@ description = "Newly renovated station in IceniaCity"
 
 x = -1660
 y = 30
-z = 1440
+z = -1440
 
 links = [
  "j:cabalwest",
