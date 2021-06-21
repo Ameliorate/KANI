@@ -100,6 +100,11 @@ presentations = [
     },
 ]
 
+if 'LAST_UPDATE' in environ:
+    print("Using LAST_UPDATE env variable for time", file=stderr)
+else:
+    print("Using system time", file=stderr)
+
 collection = {
     "name": "Rails",
     "info": {
