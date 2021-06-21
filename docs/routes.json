@@ -192,14 +192,6 @@
 		"time_max": 1665
 	},
 	{
-		"dest": "j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:piria",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1449,
-		"time_max": 1701
-	},
-	{
 		"dest": "j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:piria",
 		"to": "icenia:drippy",
@@ -430,6 +422,14 @@
 		"advisory": {},
 		"time_min": 2256,
 		"time_max": 2472
+	},
+	{
+		"dest": "j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:piria",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 829,
+		"time_max": 962
 	},
 	{
 		"dest": "j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -850,14 +850,6 @@
 		"time_max": 1708
 	},
 	{
-		"dest": "j:its icenia atlantica",
-		"from": "j:its",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 721,
-		"time_max": 872
-	},
-	{
 		"dest": "j:its icenia icenia:drippy",
 		"from": "j:its",
 		"to": "icenia:drippy",
@@ -1088,6 +1080,14 @@
 		"advisory": {},
 		"time_min": 2342,
 		"time_max": 2515
+	},
+	{
+		"dest": "j:its icenia icenia:atlantica",
+		"from": "j:its",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 101,
+		"time_max": 133
 	},
 	{
 		"dest": "j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -1508,14 +1508,6 @@
 		"time_max": 1721
 	},
 	{
-		"dest": "j:cabalwest icenia atlantica",
-		"from": "j:cabalwest",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 728,
-		"time_max": 885
-	},
-	{
 		"dest": "j:cabalwest drippy",
 		"from": "j:cabalwest",
 		"to": "icenia:drippy",
@@ -1746,6 +1738,14 @@
 		"advisory": {},
 		"time_min": 2349,
 		"time_max": 2528
+	},
+	{
+		"dest": "j:cabalwest icenia icenia:atlantica",
+		"from": "j:cabalwest",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 108,
+		"time_max": 146
 	},
 	{
 		"dest": "j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -2166,14 +2166,6 @@
 		"time_max": 1745
 	},
 	{
-		"dest": "j:cabaleast icenia atlantica",
-		"from": "j:cabaleast",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 747,
-		"time_max": 909
-	},
-	{
 		"dest": "j:cabaleast icenia icenia:drippy",
 		"from": "j:cabaleast",
 		"to": "icenia:drippy",
@@ -2404,6 +2396,14 @@
 		"advisory": {},
 		"time_min": 2368,
 		"time_max": 2552
+	},
+	{
+		"dest": "j:cabaleast icenia icenia:atlantica",
+		"from": "j:cabaleast",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 127,
+		"time_max": 170
 	},
 	{
 		"dest": "j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -2824,14 +2824,6 @@
 		"time_max": 1250
 	},
 	{
-		"dest": "j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:knot",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1110,
-		"time_max": 1286
-	},
-	{
 		"dest": "j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:knot",
 		"to": "icenia:drippy",
@@ -3062,6 +3054,14 @@
 		"advisory": {},
 		"time_min": 1917,
 		"time_max": 2057
+	},
+	{
+		"dest": "j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:knot",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 490,
+		"time_max": 547
 	},
 	{
 		"dest": "j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -3482,14 +3482,6 @@
 		"time_max": 2736
 	},
 	{
-		"dest": "imc j:pmts j:picenia icenia atlantica",
-		"from": "imc",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1847,
-		"time_max": 2324
-	},
-	{
 		"dest": "imc j:pmts j:picenia icenia icenia:drippy",
 		"from": "imc",
 		"to": "icenia:drippy",
@@ -3720,6 +3712,14 @@
 		"advisory": {},
 		"time_min": 3102,
 		"time_max": 3543
+	},
+	{
+		"dest": "imc j:pmts j:picenia icenia icenia:atlantica",
+		"from": "imc",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1227,
+		"time_max": 1585
 	},
 	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -4140,14 +4140,6 @@
 		"time_max": 1474
 	},
 	{
-		"dest": "j:picenia icenia atlantica",
-		"from": "j:picenia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 886,
-		"time_max": 1062
-	},
-	{
 		"dest": "j:picenia icenia icenia:drippy",
 		"from": "j:picenia",
 		"to": "icenia:drippy",
@@ -4378,6 +4370,14 @@
 		"advisory": {},
 		"time_min": 2141,
 		"time_max": 2281
+	},
+	{
+		"dest": "j:picenia icenia icenia:atlantica",
+		"from": "j:picenia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 266,
+		"time_max": 323
 	},
 	{
 		"dest": "j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -4798,14 +4798,6 @@
 		"time_max": 76
 	},
 	{
-		"dest": "j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:nro1",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2271,
-		"time_max": 2460
-	},
-	{
 		"dest": "j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:nro1",
 		"to": "icenia:drippy",
@@ -5036,6 +5028,14 @@
 		"advisory": {},
 		"time_min": 1026,
 		"time_max": 1179
+	},
+	{
+		"dest": "j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:nro1",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1651,
+		"time_max": 1721
 	},
 	{
 		"dest": "j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -5456,14 +5456,6 @@
 		"time_max": 1298
 	},
 	{
-		"dest": "0,0 j:picenia icenia atlantica",
-		"from": "0,0",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1062,
-		"time_max": 1238
-	},
-	{
 		"dest": "0,0 j:picenia icenia icenia:drippy",
 		"from": "0,0",
 		"to": "icenia:drippy",
@@ -5694,6 +5686,14 @@
 		"advisory": {},
 		"time_min": 1965,
 		"time_max": 2105
+	},
+	{
+		"dest": "0,0 j:picenia icenia icenia:atlantica",
+		"from": "0,0",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 442,
+		"time_max": 499
 	},
 	{
 		"dest": "0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -6114,14 +6114,6 @@
 		"time_max": 224
 	},
 	{
-		"dest": "j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:pnro",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2136,
-		"time_max": 2312
-	},
-	{
 		"dest": "j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:pnro",
 		"to": "icenia:drippy",
@@ -6352,6 +6344,14 @@
 		"advisory": {},
 		"time_min": 891,
 		"time_max": 1031
+	},
+	{
+		"dest": "j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:pnro",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1516,
+		"time_max": 1573
 	},
 	{
 		"dest": "j:pnro j:palex j:pniyo hiyo'mek",
@@ -6772,14 +6772,6 @@
 		"time_max": 1686
 	},
 	{
-		"dest": "icenia atlantica",
-		"from": "icenia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 703,
-		"time_max": 850
-	},
-	{
 		"dest": "icenia icenia:drippy",
 		"from": "icenia",
 		"to": "icenia:drippy",
@@ -7010,6 +7002,14 @@
 		"advisory": {},
 		"time_min": 2324,
 		"time_max": 2493
+	},
+	{
+		"dest": "icenia icenia:atlantica",
+		"from": "icenia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 83,
+		"time_max": 111
 	},
 	{
 		"dest": "icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -7430,14 +7430,6 @@
 		"time_max": 249
 	},
 	{
-		"dest": "j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:pniyo",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2159,
-		"time_max": 2337
-	},
-	{
 		"dest": "j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:pniyo",
 		"to": "icenia:drippy",
@@ -7668,6 +7660,14 @@
 		"advisory": {},
 		"time_min": 914,
 		"time_max": 1056
+	},
+	{
+		"dest": "j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:pniyo",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1539,
+		"time_max": 1598
 	},
 	{
 		"dest": "j:pniyo hiyo'mek",
@@ -8088,14 +8088,6 @@
 		"time_max": 413
 	},
 	{
-		"dest": "j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:pp",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2325,
-		"time_max": 2501
-	},
-	{
 		"dest": "j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:pp",
 		"to": "icenia:drippy",
@@ -8326,6 +8318,14 @@
 		"advisory": {},
 		"time_min": 702,
 		"time_max": 842
+	},
+	{
+		"dest": "j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:pp",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1705,
+		"time_max": 1762
 	},
 	{
 		"dest": "j:pp j:pnro j:palex j:pniyo hiyo'mek",
@@ -8746,14 +8746,6 @@
 		"time_max": 7
 	},
 	{
-		"dest": "j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:nro2",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2332,
-		"time_max": 2529
-	},
-	{
 		"dest": "j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:nro2",
 		"to": "icenia:drippy",
@@ -8984,6 +8976,14 @@
 		"advisory": {},
 		"time_min": 1087,
 		"time_max": 1248
+	},
+	{
+		"dest": "j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:nro2",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1712,
+		"time_max": 1790
 	},
 	{
 		"dest": "j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -9404,14 +9404,6 @@
 		"time_max": 2188
 	},
 	{
-		"dest": "j:pkallos j:pvark j:pmts j:picenia icenia atlantica",
-		"from": "j:pkallos",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1600,
-		"time_max": 1776
-	},
-	{
 		"dest": "j:pkallos j:pvark j:pmts j:picenia icenia icenia:drippy",
 		"from": "j:pkallos",
 		"to": "icenia:drippy",
@@ -9642,6 +9634,14 @@
 		"advisory": {},
 		"time_min": 2855,
 		"time_max": 2995
+	},
+	{
+		"dest": "j:pkallos j:pvark j:pmts j:picenia icenia icenia:atlantica",
+		"from": "j:pkallos",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 980,
+		"time_max": 1037
 	},
 	{
 		"dest": "j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -10062,14 +10062,6 @@
 		"time_max": 1906
 	},
 	{
-		"dest": "j:pvark j:pmts j:picenia icenia atlantica",
-		"from": "j:pvark",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1318,
-		"time_max": 1494
-	},
-	{
 		"dest": "j:pvark j:pmts j:picenia icenia icenia:drippy",
 		"from": "j:pvark",
 		"to": "icenia:drippy",
@@ -10300,6 +10292,14 @@
 		"advisory": {},
 		"time_min": 2573,
 		"time_max": 2713
+	},
+	{
+		"dest": "j:pvark j:pmts j:picenia icenia icenia:atlantica",
+		"from": "j:pvark",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 698,
+		"time_max": 755
 	},
 	{
 		"dest": "j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -10720,14 +10720,6 @@
 		"time_max": 1613
 	},
 	{
-		"dest": "j:pmts j:picenia icenia atlantica",
-		"from": "j:pmts",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1025,
-		"time_max": 1201
-	},
-	{
 		"dest": "j:pmts j:picenia icenia icenia:drippy",
 		"from": "j:pmts",
 		"to": "icenia:drippy",
@@ -10958,6 +10950,14 @@
 		"advisory": {},
 		"time_min": 2280,
 		"time_max": 2420
+	},
+	{
+		"dest": "j:pmts j:picenia icenia icenia:atlantica",
+		"from": "j:pmts",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 405,
+		"time_max": 462
 	},
 	{
 		"dest": "j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -11378,14 +11378,6 @@
 		"time_max": 54
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "kro'ushro",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2379,
-		"time_max": 2576
-	},
-	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "kro'ushro",
 		"to": "icenia:drippy",
@@ -11616,6 +11608,14 @@
 		"advisory": {},
 		"time_min": 1134,
 		"time_max": 1295
+	},
+	{
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "kro'ushro",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1759,
+		"time_max": 1837
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -12036,14 +12036,6 @@
 		"time_max": 233
 	},
 	{
-		"dest": "j:palex j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "j:palex",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2144,
-		"time_max": 2321
-	},
-	{
 		"dest": "j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "j:palex",
 		"to": "icenia:drippy",
@@ -12274,6 +12266,14 @@
 		"advisory": {},
 		"time_min": 899,
 		"time_max": 1040
+	},
+	{
+		"dest": "j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "j:palex",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1524,
+		"time_max": 1582
 	},
 	{
 		"dest": "j:palex j:pniyo hiyo'mek",
@@ -12694,14 +12694,6 @@
 		"time_max": 31
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "torndal",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2308,
-		"time_max": 2505
-	},
-	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "torndal",
 		"to": "icenia:drippy",
@@ -12932,6 +12924,14 @@
 		"advisory": {},
 		"time_min": 1063,
 		"time_max": 1224
+	},
+	{
+		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "torndal",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1688,
+		"time_max": 1766
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -13352,14 +13352,6 @@
 		"time_max": 2080
 	},
 	{
-		"dest": "vinland icenia atlantica",
-		"from": "vinland",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1741,
-		"time_max": 2114
-	},
-	{
 		"dest": "vinland icenia icenia:drippy",
 		"from": "vinland",
 		"to": "icenia:drippy",
@@ -13590,6 +13582,14 @@
 		"advisory": {},
 		"time_min": 2742,
 		"time_max": 2887
+	},
+	{
+		"dest": "vinland icenia icenia:atlantica",
+		"from": "vinland",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1121,
+		"time_max": 1375
 	},
 	{
 		"dest": "vinland j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -14010,14 +14010,6 @@
 		"time_max": 1812
 	},
 	{
-		"dest": "ssta j:cabalwest icenia atlantica",
-		"from": "ssta",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 802,
-		"time_max": 976
-	},
-	{
 		"dest": "ssta j:cabalwest drippy",
 		"from": "ssta",
 		"to": "icenia:drippy",
@@ -14248,6 +14240,14 @@
 		"advisory": {},
 		"time_min": 2423,
 		"time_max": 2619
+	},
+	{
+		"dest": "ssta j:cabalwest icenia icenia:atlantica",
+		"from": "ssta",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 182,
+		"time_max": 237
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -14668,14 +14668,6 @@
 		"time_max": 1609
 	},
 	{
-		"dest": "gensokyo:roe j:knot 0,0 j:picenia icenia atlantica",
-		"from": "gensokyo:roe",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1466,
-		"time_max": 1645
-	},
-	{
 		"dest": "gensokyo:roe j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "gensokyo:roe",
 		"to": "icenia:drippy",
@@ -14906,6 +14898,14 @@
 		"advisory": {},
 		"time_min": 2273,
 		"time_max": 2416
+	},
+	{
+		"dest": "gensokyo:roe j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "gensokyo:roe",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 846,
+		"time_max": 906
 	},
 	{
 		"dest": "gensokyo:roe j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -15326,14 +15326,6 @@
 		"time_max": 0
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "nro'meagh",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2339,
-		"time_max": 2536
-	},
-	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "nro'meagh",
 		"to": "icenia:drippy",
@@ -15566,6 +15558,14 @@
 		"time_max": 1255
 	},
 	{
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "nro'meagh",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1719,
+		"time_max": 1797
+	},
+	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "nro'meagh",
 		"to": "hiyo'mek",
@@ -15792,664 +15792,6 @@
 		"time_max": 1719
 	},
 	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria",
-		"from": "atlantica",
-		"to": "j:piria",
-		"advisory": {},
-		"time_min": 1449,
-		"time_max": 1701
-	},
-	{
-		"dest": "atlantica icenia its",
-		"from": "atlantica",
-		"to": "j:its",
-		"advisory": {},
-		"time_min": 721,
-		"time_max": 872
-	},
-	{
-		"dest": "atlantica icenia j:cabalwest",
-		"from": "atlantica",
-		"to": "j:cabalwest",
-		"advisory": {},
-		"time_min": 728,
-		"time_max": 885
-	},
-	{
-		"dest": "atlantica icenia j:cabaleast",
-		"from": "atlantica",
-		"to": "j:cabaleast",
-		"advisory": {},
-		"time_min": 747,
-		"time_max": 909
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot",
-		"from": "atlantica",
-		"to": "j:knot",
-		"advisory": {},
-		"time_min": 1110,
-		"time_max": 1286
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts imc imc:exit",
-		"from": "atlantica",
-		"to": "imc",
-		"advisory": {},
-		"time_min": 1847,
-		"time_max": 2324
-	},
-	{
-		"dest": "atlantica icenia j:picenia",
-		"from": "atlantica",
-		"to": "j:picenia",
-		"advisory": {},
-		"time_min": 886,
-		"time_max": 1062
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1",
-		"from": "atlantica",
-		"to": "j:nro1",
-		"advisory": {},
-		"time_min": 2271,
-		"time_max": 2460
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 0,0:exit",
-		"from": "atlantica",
-		"to": "0,0",
-		"advisory": {},
-		"time_min": 1062,
-		"time_max": 1238
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro",
-		"from": "atlantica",
-		"to": "j:pnro",
-		"advisory": {},
-		"time_min": 2136,
-		"time_max": 2312
-	},
-	{
-		"dest": "atlantica icenia icenia:exit",
-		"from": "atlantica",
-		"to": "icenia",
-		"advisory": {},
-		"time_min": 703,
-		"time_max": 850
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo",
-		"from": "atlantica",
-		"to": "j:pniyo",
-		"advisory": {},
-		"time_min": 2159,
-		"time_max": 2337
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp",
-		"from": "atlantica",
-		"to": "j:pp",
-		"advisory": {},
-		"time_min": 2325,
-		"time_max": 2501
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2",
-		"from": "atlantica",
-		"to": "j:nro2",
-		"advisory": {},
-		"time_min": 2332,
-		"time_max": 2529
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts j:pvark j:pkallos",
-		"from": "atlantica",
-		"to": "j:pkallos",
-		"advisory": {},
-		"time_min": 1600,
-		"time_max": 1776
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts j:pvark",
-		"from": "atlantica",
-		"to": "j:pvark",
-		"advisory": {},
-		"time_min": 1318,
-		"time_max": 1494
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts",
-		"from": "atlantica",
-		"to": "j:pmts",
-		"advisory": {},
-		"time_min": 1025,
-		"time_max": 1201
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
-		"from": "atlantica",
-		"to": "kro'ushro",
-		"advisory": {},
-		"time_min": 2379,
-		"time_max": 2576
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex",
-		"from": "atlantica",
-		"to": "j:palex",
-		"advisory": {},
-		"time_min": 2144,
-		"time_max": 2321
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal torndal:exit",
-		"from": "atlantica",
-		"to": "torndal",
-		"advisory": {},
-		"time_min": 2308,
-		"time_max": 2505
-	},
-	{
-		"dest": "atlantica icenia vinland",
-		"from": "atlantica",
-		"to": "vinland",
-		"advisory": {},
-		"time_min": 1741,
-		"time_max": 2114
-	},
-	{
-		"dest": "atlantica icenia j:cabalwest ssta",
-		"from": "atlantica",
-		"to": "ssta",
-		"advisory": {},
-		"time_min": 802,
-		"time_max": 976
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot gensokyo:roe",
-		"from": "atlantica",
-		"to": "gensokyo:roe",
-		"advisory": {},
-		"time_min": 1466,
-		"time_max": 1645
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
-		"from": "atlantica",
-		"to": "nro'meagh",
-		"advisory": {},
-		"time_min": 2339,
-		"time_max": 2536
-	},
-	{
-		"dest": "atlantica",
-		"from": "atlantica",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 0,
-		"time_max": 0
-	},
-	{
-		"dest": "atlantica icenia icenia:drippy",
-		"from": "atlantica",
-		"to": "icenia:drippy",
-		"advisory": {},
-		"time_min": 773,
-		"time_max": 938
-	},
-	{
-		"dest": "atlantica icenia westminster",
-		"from": "atlantica",
-		"to": "westminster",
-		"advisory": {},
-		"time_min": 1768,
-		"time_max": 2350
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria crowsroost",
-		"from": "atlantica",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1537,
-		"time_max": 1819
-	},
-	{
-		"dest": "atlantica icenia icenia:westisle",
-		"from": "atlantica",
-		"to": "icenia:westisle",
-		"advisory": {},
-		"time_min": 767,
-		"time_max": 941
-	},
-	{
-		"dest": "atlantica icenia spqr",
-		"from": "atlantica",
-		"to": "spqr",
-		"advisory": {},
-		"time_min": 1955,
-		"time_max": 2525
-	},
-	{
-		"dest": "atlantica icenia it:anburon",
-		"from": "atlantica",
-		"to": "it:anburon",
-		"advisory": {},
-		"time_min": 842,
-		"time_max": 1041
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria lambat",
-		"from": "atlantica",
-		"to": "lambat",
-		"advisory": {},
-		"time_min": 1945,
-		"time_max": 2283
-	},
-	{
-		"dest": "atlantica icenia varkonia",
-		"from": "atlantica",
-		"to": "varkonia",
-		"advisory": {},
-		"time_min": 1136,
-		"time_max": 1416
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo ozonrough",
-		"from": "atlantica",
-		"to": "ozonrough",
-		"advisory": {},
-		"time_min": 2246,
-		"time_max": 2434
-	},
-	{
-		"dest": "atlantica icenia icenia:potato",
-		"from": "atlantica",
-		"to": "icenia:potato",
-		"advisory": {},
-		"time_min": 791,
-		"time_max": 951
-	},
-	{
-		"dest": "atlantica icenia alpoko",
-		"from": "atlantica",
-		"to": "alpoko",
-		"advisory": {},
-		"time_min": 946,
-		"time_max": 1112
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 jevoghnya",
-		"from": "atlantica",
-		"to": "jevoghnya",
-		"advisory": {},
-		"time_min": 2291,
-		"time_max": 2481
-	},
-	{
-		"dest": "atlantica icenia j:cabalwest wnsta",
-		"from": "atlantica",
-		"to": "wnsta",
-		"advisory": {},
-		"time_min": 738,
-		"time_max": 898
-	},
-	{
-		"dest": "atlantica icenia icenia:nether",
-		"from": "atlantica",
-		"to": "icenia:nether",
-		"advisory": {},
-		"time_min": 828,
-		"time_max": 1010
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria prussia",
-		"from": "atlantica",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1547,
-		"time_max": 1839
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
-		"from": "atlantica",
-		"to": "forta'are",
-		"advisory": {},
-		"time_min": 2400,
-		"time_max": 2588
-	},
-	{
-		"dest": "atlantica icenia bloom",
-		"from": "atlantica",
-		"to": "bloom",
-		"advisory": {},
-		"time_min": 862,
-		"time_max": 1063
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot cape_cocoa",
-		"from": "atlantica",
-		"to": "cape_cocoa",
-		"advisory": {},
-		"time_min": 1550,
-		"time_max": 1802
-	},
-	{
-		"dest": "atlantica icenia j:cabaleast mesa",
-		"from": "atlantica",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 977,
-		"time_max": 1150
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp pacem",
-		"from": "atlantica",
-		"to": "pacem",
-		"advisory": {},
-		"time_min": 2441,
-		"time_max": 2626
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot endportal",
-		"from": "atlantica",
-		"to": "endportal",
-		"advisory": {},
-		"time_min": 1357,
-		"time_max": 1580
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts j:pvark j:pkallos hje",
-		"from": "atlantica",
-		"to": "hje",
-		"advisory": {},
-		"time_min": 2160,
-		"time_max": 2336
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot caledonia",
-		"from": "atlantica",
-		"to": "caledonia",
-		"advisory": {},
-		"time_min": 2172,
-		"time_max": 2415
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot netherfarm",
-		"from": "atlantica",
-		"to": "netherfarm",
-		"advisory": {},
-		"time_min": 1202,
-		"time_max": 1378
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex alexandria",
-		"from": "atlantica",
-		"to": "alexandria",
-		"advisory": {},
-		"time_min": 2147,
-		"time_max": 2324
-	},
-	{
-		"dest": "atlantica icenia j:cabaleast lord",
-		"from": "atlantica",
-		"to": "icenia:lord",
-		"advisory": {},
-		"time_min": 790,
-		"time_max": 953
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp hjaltland",
-		"from": "atlantica",
-		"to": "hjaltland",
-		"advisory": {},
-		"time_min": 2761,
-		"time_max": 3050
-	},
-	{
-		"dest": "atlantica icenia gensokyo:taozi",
-		"from": "atlantica",
-		"to": "gensokyo:taozi",
-		"advisory": {},
-		"time_min": 1099,
-		"time_max": 1364
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp fortuna",
-		"from": "atlantica",
-		"to": "fortuna",
-		"advisory": {},
-		"time_min": 3027,
-		"time_max": 3343
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
-		"from": "atlantica",
-		"to": "hiyo'mek",
-		"advisory": {},
-		"time_min": 2162,
-		"time_max": 2340
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria iria",
-		"from": "atlantica",
-		"to": "iria",
-		"advisory": {},
-		"time_min": 2412,
-		"time_max": 2672
-	},
-	{
-		"dest": "atlantica icenia mta",
-		"from": "atlantica",
-		"to": "mta",
-		"advisory": {},
-		"time_min": 1540,
-		"time_max": 2031
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal il'olmhir",
-		"from": "atlantica",
-		"to": "il'olmhir",
-		"advisory": {},
-		"time_min": 2359,
-		"time_max": 2562
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
-		"from": "atlantica",
-		"to": "lriln'kriavnya",
-		"advisory": {},
-		"time_min": 2418,
-		"time_max": 2626
-	},
-	{
-		"dest": "atlantica icenia gabon",
-		"from": "atlantica",
-		"to": "gabon",
-		"advisory": {},
-		"time_min": 913,
-		"time_max": 1138
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
-		"from": "atlantica",
-		"to": "topha'nya",
-		"advisory": {},
-		"time_min": 2416,
-		"time_max": 2621
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts ellen",
-		"from": "atlantica",
-		"to": "ellen",
-		"advisory": {},
-		"time_min": 2205,
-		"time_max": 2863
-	},
-	{
-		"dest": "atlantica icenia sig",
-		"from": "atlantica",
-		"to": "sig",
-		"advisory": {},
-		"time_min": 1200,
-		"time_max": 1357
-	},
-	{
-		"dest": "atlantica icenia j:picenia j:pmts sept september",
-		"from": "atlantica",
-		"to": "mts",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1440,
-		"time_max": 1787
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
-		"from": "atlantica",
-		"to": "socalist_ruler",
-		"advisory": {},
-		"time_min": 2403,
-		"time_max": 2610
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot j:piria appomattox",
-		"from": "atlantica",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2020,
-		"time_max": 2453
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 wayrest",
-		"from": "atlantica",
-		"to": "wayrest",
-		"advisory": {},
-		"time_min": 1223,
-		"time_max": 1416
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot besia",
-		"from": "atlantica",
-		"to": "besia",
-		"advisory": {},
-		"time_min": 1872,
-		"time_max": 2190
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot newsovia",
-		"from": "atlantica",
-		"to": "newsovia",
-		"advisory": {},
-		"time_min": 2134,
-		"time_max": 2458
-	},
-	{
-		"dest": "atlantica icenia j:cabalwest mta canvasblue",
-		"from": "atlantica",
-		"to": "canvasblue",
-		"advisory": {},
-		"time_min": 788,
-		"time_max": 950
-	},
-	{
-		"dest": "atlantica icenia kallos",
-		"from": "atlantica",
-		"to": "kallos",
-		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1691
-	},
-	{
-		"dest": "atlantica icenia j:picenia 0,0 j:knot mir",
-		"from": "atlantica",
-		"to": "mir",
-		"advisory": {},
-		"time_min": 2443,
-		"time_max": 2630
-	},
-	{
-		"dest": "atlantica icenia its skybunker",
-		"from": "atlantica",
-		"to": "its:skybunker",
-		"advisory": {},
-		"time_min": 736,
-		"time_max": 890
-	},
-	{
-		"dest": "atlantica icenia its bayloop",
-		"from": "atlantica",
-		"to": "its:bayloop",
-		"advisory": {},
-		"time_min": 729,
-		"time_max": 881
-	},
-	{
-		"dest": "atlantica icenia its adytum",
-		"from": "atlantica",
-		"to": "its:adytum",
-		"advisory": {},
-		"time_min": 770,
-		"time_max": 934
-	},
-	{
-		"dest": "atlantica icenia its qbipfb",
-		"from": "atlantica",
-		"to": "its:qbipfb",
-		"advisory": {},
-		"time_min": 744,
-		"time_max": 903
-	},
-	{
-		"dest": "atlantica icenia its hji",
-		"from": "atlantica",
-		"to": "its:hji",
-		"advisory": {},
-		"time_min": 737,
-		"time_max": 894
-	},
-	{
-		"dest": "atlantica icenia its office",
-		"from": "atlantica",
-		"to": "its:office",
-		"advisory": {},
-		"time_min": 729,
-		"time_max": 880
-	},
-	{
-		"dest": "atlantica icenia its iceniapark",
-		"from": "atlantica",
-		"to": "its:iceniapark",
-		"advisory": {},
-		"time_min": 724,
-		"time_max": 875
-	},
-	{
-		"dest": "atlantica icenia its versailles",
-		"from": "atlantica",
-		"to": "its:versailles",
-		"advisory": {},
-		"time_min": 734,
-		"time_max": 886
-	},
-	{
-		"dest": "atlantica icenia its subway",
-		"from": "atlantica",
-		"to": "its:subway",
-		"advisory": {},
-		"time_min": 727,
-		"time_max": 879
-	},
-	{
-		"dest": "atlantica icenia its beach",
-		"from": "atlantica",
-		"to": "its:beach",
-		"advisory": {},
-		"time_min": 730,
-		"time_max": 883
-	},
-	{
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:piria",
 		"from": "icenia:drippy",
 		"to": "j:piria",
@@ -16640,14 +15982,6 @@
 		"advisory": {},
 		"time_min": 1706,
 		"time_max": 1774
-	},
-	{
-		"dest": "icenia:drippy icenia atlantica",
-		"from": "icenia:drippy",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 773,
-		"time_max": 938
 	},
 	{
 		"dest": "icenia:drippy",
@@ -16880,6 +16214,14 @@
 		"advisory": {},
 		"time_min": 2394,
 		"time_max": 2581
+	},
+	{
+		"dest": "icenia:drippy icenia icenia:atlantica",
+		"from": "icenia:drippy",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 153,
+		"time_max": 199
 	},
 	{
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -17300,14 +16642,6 @@
 		"time_max": 2826
 	},
 	{
-		"dest": "westminster icenia atlantica",
-		"from": "westminster",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1768,
-		"time_max": 2350
-	},
-	{
 		"dest": "westminster icenia icenia:drippy",
 		"from": "westminster",
 		"to": "icenia:drippy",
@@ -17538,6 +16872,14 @@
 		"advisory": {},
 		"time_min": 3060,
 		"time_max": 3633
+	},
+	{
+		"dest": "westminster icenia icenia:atlantica",
+		"from": "westminster",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1148,
+		"time_max": 1611
 	},
 	{
 		"dest": "westminster 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -17958,14 +17300,6 @@
 		"time_max": 1783
 	},
 	{
-		"dest": "crowsroost j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "crowsroost",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1537,
-		"time_max": 1819
-	},
-	{
 		"dest": "crowsroost j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "crowsroost",
 		"to": "icenia:drippy",
@@ -18196,6 +17530,14 @@
 		"advisory": {},
 		"time_min": 2344,
 		"time_max": 2590
+	},
+	{
+		"dest": "crowsroost j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "crowsroost",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 917,
+		"time_max": 1080
 	},
 	{
 		"dest": "crowsroost j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -18616,14 +17958,6 @@
 		"time_max": 1777
 	},
 	{
-		"dest": "icenia:westisle icenia atlantica",
-		"from": "icenia:westisle",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 767,
-		"time_max": 941
-	},
-	{
 		"dest": "icenia:westisle j:cabalwest drippy",
 		"from": "icenia:westisle",
 		"to": "icenia:drippy",
@@ -18854,6 +18188,14 @@
 		"advisory": {},
 		"time_min": 2388,
 		"time_max": 2584
+	},
+	{
+		"dest": "icenia:westisle icenia icenia:atlantica",
+		"from": "icenia:westisle",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 147,
+		"time_max": 202
 	},
 	{
 		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -19274,14 +18616,6 @@
 		"time_max": 4186
 	},
 	{
-		"dest": "spqr icenia atlantica",
-		"from": "spqr",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1955,
-		"time_max": 2525
-	},
-	{
 		"dest": "spqr icenia icenia:drippy",
 		"from": "spqr",
 		"to": "icenia:drippy",
@@ -19512,6 +18846,14 @@
 		"advisory": {},
 		"time_min": 3576,
 		"time_max": 4168
+	},
+	{
+		"dest": "spqr icenia icenia:atlantica",
+		"from": "spqr",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1335,
+		"time_max": 1786
 	},
 	{
 		"dest": "spqr imc j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -19932,14 +19274,6 @@
 		"time_max": 1877
 	},
 	{
-		"dest": "it:anburon icenia atlantica",
-		"from": "it:anburon",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 842,
-		"time_max": 1041
-	},
-	{
 		"dest": "it:anburon icenia icenia:drippy",
 		"from": "it:anburon",
 		"to": "icenia:drippy",
@@ -20170,6 +19504,14 @@
 		"advisory": {},
 		"time_min": 2463,
 		"time_max": 2684
+	},
+	{
+		"dest": "it:anburon icenia icenia:atlantica",
+		"from": "it:anburon",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 222,
+		"time_max": 302
 	},
 	{
 		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -20590,14 +19932,6 @@
 		"time_max": 2247
 	},
 	{
-		"dest": "lambat j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "lambat",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1945,
-		"time_max": 2283
-	},
-	{
 		"dest": "lambat j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "lambat",
 		"to": "icenia:drippy",
@@ -20828,6 +20162,14 @@
 		"advisory": {},
 		"time_min": 2752,
 		"time_max": 3054
+	},
+	{
+		"dest": "lambat j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "lambat",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1325,
+		"time_max": 1544
 	},
 	{
 		"dest": "lambat j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -21248,14 +20590,6 @@
 		"time_max": 2252
 	},
 	{
-		"dest": "varkonia icenia atlantica",
-		"from": "varkonia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1136,
-		"time_max": 1416
-	},
-	{
 		"dest": "varkonia icenia icenia:drippy",
 		"from": "varkonia",
 		"to": "icenia:drippy",
@@ -21486,6 +20820,14 @@
 		"advisory": {},
 		"time_min": 2757,
 		"time_max": 3059
+	},
+	{
+		"dest": "varkonia icenia icenia:atlantica",
+		"from": "varkonia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 516,
+		"time_max": 677
 	},
 	{
 		"dest": "varkonia j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -21906,14 +21248,6 @@
 		"time_max": 346
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "ozonrough",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2246,
-		"time_max": 2434
-	},
-	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "ozonrough",
 		"to": "icenia:drippy",
@@ -22144,6 +21478,14 @@
 		"advisory": {},
 		"time_min": 1001,
 		"time_max": 1153
+	},
+	{
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "ozonrough",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1626,
+		"time_max": 1695
 	},
 	{
 		"dest": "ozonrough j:pniyo hiyo'mek",
@@ -22564,14 +21906,6 @@
 		"time_max": 1787
 	},
 	{
-		"dest": "icenia:potato icenia atlantica",
-		"from": "icenia:potato",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 791,
-		"time_max": 951
-	},
-	{
 		"dest": "icenia:potato icenia icenia:drippy",
 		"from": "icenia:potato",
 		"to": "icenia:drippy",
@@ -22802,6 +22136,14 @@
 		"advisory": {},
 		"time_min": 2412,
 		"time_max": 2594
+	},
+	{
+		"dest": "icenia:potato icenia icenia:atlantica",
+		"from": "icenia:potato",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 171,
+		"time_max": 212
 	},
 	{
 		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -23222,14 +22564,6 @@
 		"time_max": 1948
 	},
 	{
-		"dest": "alpoko icenia atlantica",
-		"from": "alpoko",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 946,
-		"time_max": 1112
-	},
-	{
 		"dest": "alpoko icenia icenia:drippy",
 		"from": "alpoko",
 		"to": "icenia:drippy",
@@ -23460,6 +22794,14 @@
 		"advisory": {},
 		"time_min": 2567,
 		"time_max": 2755
+	},
+	{
+		"dest": "alpoko icenia icenia:atlantica",
+		"from": "alpoko",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 326,
+		"time_max": 373
 	},
 	{
 		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -23880,14 +23222,6 @@
 		"time_max": 97
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "jevoghnya",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2291,
-		"time_max": 2481
-	},
-	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "jevoghnya",
 		"to": "icenia:drippy",
@@ -24118,6 +23452,14 @@
 		"advisory": {},
 		"time_min": 1046,
 		"time_max": 1200
+	},
+	{
+		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "jevoghnya",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1671,
+		"time_max": 1742
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -24538,14 +23880,6 @@
 		"time_max": 1734
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia atlantica",
-		"from": "wnsta",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 738,
-		"time_max": 898
-	},
-	{
 		"dest": "wnsta j:cabalwest drippy",
 		"from": "wnsta",
 		"to": "icenia:drippy",
@@ -24776,6 +24110,14 @@
 		"advisory": {},
 		"time_min": 2359,
 		"time_max": 2541
+	},
+	{
+		"dest": "wnsta j:cabalwest icenia icenia:atlantica",
+		"from": "wnsta",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 118,
+		"time_max": 159
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -25196,14 +24538,6 @@
 		"time_max": 1846
 	},
 	{
-		"dest": "icenia:nether icenia atlantica",
-		"from": "icenia:nether",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 828,
-		"time_max": 1010
-	},
-	{
 		"dest": "icenia:nether j:cabalwest drippy",
 		"from": "icenia:nether",
 		"to": "icenia:drippy",
@@ -25434,6 +24768,14 @@
 		"advisory": {},
 		"time_min": 2449,
 		"time_max": 2653
+	},
+	{
+		"dest": "icenia:nether icenia icenia:atlantica",
+		"from": "icenia:nether",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 208,
+		"time_max": 271
 	},
 	{
 		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -25854,14 +25196,6 @@
 		"time_max": 1803
 	},
 	{
-		"dest": "prussia j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "prussia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1547,
-		"time_max": 1839
-	},
-	{
 		"dest": "prussia j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "prussia",
 		"to": "icenia:drippy",
@@ -26092,6 +25426,14 @@
 		"advisory": {},
 		"time_min": 2354,
 		"time_max": 2610
+	},
+	{
+		"dest": "prussia j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "prussia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 927,
+		"time_max": 1100
 	},
 	{
 		"dest": "prussia j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -26512,14 +25854,6 @@
 		"time_max": 500
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "forta'are",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2400,
-		"time_max": 2588
-	},
-	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "forta'are",
 		"to": "icenia:drippy",
@@ -26750,6 +26084,14 @@
 		"advisory": {},
 		"time_min": 777,
 		"time_max": 929
+	},
+	{
+		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "forta'are",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1780,
+		"time_max": 1849
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:palex j:pniyo hiyo'mek",
@@ -27170,14 +26512,6 @@
 		"time_max": 4217
 	},
 	{
-		"dest": "bloom icenia atlantica",
-		"from": "bloom",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 862,
-		"time_max": 1063
-	},
-	{
 		"dest": "bloom icenia icenia:drippy",
 		"from": "bloom",
 		"to": "icenia:drippy",
@@ -27408,6 +26742,14 @@
 		"advisory": {},
 		"time_min": 2483,
 		"time_max": 2706
+	},
+	{
+		"dest": "bloom icenia icenia:atlantica",
+		"from": "bloom",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 242,
+		"time_max": 324
 	},
 	{
 		"dest": "bloom imc j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -27828,14 +27170,6 @@
 		"time_max": 1766
 	},
 	{
-		"dest": "cape_cocoa j:knot 0,0 j:picenia icenia atlantica",
-		"from": "cape_cocoa",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1550,
-		"time_max": 1802
-	},
-	{
 		"dest": "cape_cocoa j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "cape_cocoa",
 		"to": "icenia:drippy",
@@ -28066,6 +27400,14 @@
 		"advisory": {},
 		"time_min": 2357,
 		"time_max": 2573
+	},
+	{
+		"dest": "cape_cocoa j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "cape_cocoa",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 930,
+		"time_max": 1063
 	},
 	{
 		"dest": "cape_cocoa j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -28486,14 +27828,6 @@
 		"time_max": 1986
 	},
 	{
-		"dest": "icenia:oldmesa j:cabaleast icenia atlantica",
-		"from": "icenia:oldmesa",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 977,
-		"time_max": 1150
-	},
-	{
 		"dest": "icenia:oldmesa j:cabaleast icenia icenia:drippy",
 		"from": "icenia:oldmesa",
 		"to": "icenia:drippy",
@@ -28724,6 +28058,14 @@
 		"advisory": {},
 		"time_min": 2598,
 		"time_max": 2793
+	},
+	{
+		"dest": "icenia:oldmesa j:cabaleast icenia icenia:atlantica",
+		"from": "icenia:oldmesa",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 357,
+		"time_max": 411
 	},
 	{
 		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -29144,14 +28486,6 @@
 		"time_max": 538
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "pacem",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2441,
-		"time_max": 2626
-	},
-	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "pacem",
 		"to": "icenia:drippy",
@@ -29382,6 +28716,14 @@
 		"advisory": {},
 		"time_min": 818,
 		"time_max": 967
+	},
+	{
+		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "pacem",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1821,
+		"time_max": 1887
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:palex j:pniyo hiyo'mek",
@@ -29802,14 +29144,6 @@
 		"time_max": 1544
 	},
 	{
-		"dest": "endportal j:knot 0,0 j:picenia icenia atlantica",
-		"from": "endportal",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1357,
-		"time_max": 1580
-	},
-	{
 		"dest": "endportal j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "endportal",
 		"to": "icenia:drippy",
@@ -30040,6 +29374,14 @@
 		"advisory": {},
 		"time_min": 2164,
 		"time_max": 2351
+	},
+	{
+		"dest": "endportal j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "endportal",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 737,
+		"time_max": 841
 	},
 	{
 		"dest": "endportal j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -30460,14 +29802,6 @@
 		"time_max": 2748
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia atlantica",
-		"from": "hje",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2160,
-		"time_max": 2336
-	},
-	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia icenia:drippy",
 		"from": "hje",
 		"to": "icenia:drippy",
@@ -30698,6 +30032,14 @@
 		"advisory": {},
 		"time_min": 3415,
 		"time_max": 3555
+	},
+	{
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia icenia:atlantica",
+		"from": "hje",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1540,
+		"time_max": 1597
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -31118,14 +30460,6 @@
 		"time_max": 2379
 	},
 	{
-		"dest": "caledonia j:knot 0,0 j:picenia icenia atlantica",
-		"from": "caledonia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2172,
-		"time_max": 2415
-	},
-	{
 		"dest": "caledonia j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "caledonia",
 		"to": "icenia:drippy",
@@ -31356,6 +30690,14 @@
 		"advisory": {},
 		"time_min": 2979,
 		"time_max": 3186
+	},
+	{
+		"dest": "caledonia j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "caledonia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1552,
+		"time_max": 1676
 	},
 	{
 		"dest": "caledonia j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -31776,14 +31118,6 @@
 		"time_max": 1342
 	},
 	{
-		"dest": "netherfarm j:knot 0,0 j:picenia icenia atlantica",
-		"from": "netherfarm",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1202,
-		"time_max": 1378
-	},
-	{
 		"dest": "netherfarm j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "netherfarm",
 		"to": "icenia:drippy",
@@ -32014,6 +31348,14 @@
 		"advisory": {},
 		"time_min": 2009,
 		"time_max": 2149
+	},
+	{
+		"dest": "netherfarm j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "netherfarm",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 582,
+		"time_max": 639
 	},
 	{
 		"dest": "netherfarm j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -32434,14 +31776,6 @@
 		"time_max": 236
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "alexandria",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2147,
-		"time_max": 2324
-	},
-	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "alexandria",
 		"to": "icenia:drippy",
@@ -32672,6 +32006,14 @@
 		"advisory": {},
 		"time_min": 902,
 		"time_max": 1043
+	},
+	{
+		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "alexandria",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1527,
+		"time_max": 1585
 	},
 	{
 		"dest": "alexandria j:palex j:pniyo hiyo'mek",
@@ -33092,14 +32434,6 @@
 		"time_max": 1789
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia atlantica",
-		"from": "icenia:lord",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 790,
-		"time_max": 953
-	},
-	{
 		"dest": "icenia:lord j:cabaleast icenia icenia:drippy",
 		"from": "icenia:lord",
 		"to": "icenia:drippy",
@@ -33330,6 +32664,14 @@
 		"advisory": {},
 		"time_min": 2411,
 		"time_max": 2596
+	},
+	{
+		"dest": "icenia:lord j:cabaleast icenia icenia:atlantica",
+		"from": "icenia:lord",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 170,
+		"time_max": 214
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -33750,14 +33092,6 @@
 		"time_max": 962
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "hjaltland",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2761,
-		"time_max": 3050
-	},
-	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "hjaltland",
 		"to": "icenia:drippy",
@@ -33988,6 +33322,14 @@
 		"advisory": {},
 		"time_min": 1138,
 		"time_max": 1391
+	},
+	{
+		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "hjaltland",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 2141,
+		"time_max": 2311
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:palex j:pniyo hiyo'mek",
@@ -34408,14 +33750,6 @@
 		"time_max": 2200
 	},
 	{
-		"dest": "gensokyo:taozi icenia atlantica",
-		"from": "gensokyo:taozi",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1099,
-		"time_max": 1364
-	},
-	{
 		"dest": "gensokyo:taozi icenia icenia:drippy",
 		"from": "gensokyo:taozi",
 		"to": "icenia:drippy",
@@ -34646,6 +33980,14 @@
 		"advisory": {},
 		"time_min": 2720,
 		"time_max": 3007
+	},
+	{
+		"dest": "gensokyo:taozi icenia icenia:atlantica",
+		"from": "gensokyo:taozi",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 479,
+		"time_max": 625
 	},
 	{
 		"dest": "gensokyo:taozi icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -35066,14 +34408,6 @@
 		"time_max": 1255
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "fortuna",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 3027,
-		"time_max": 3343
-	},
-	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "fortuna",
 		"to": "icenia:drippy",
@@ -35306,6 +34640,14 @@
 		"time_max": 0
 	},
 	{
+		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "fortuna",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 2407,
+		"time_max": 2604
+	},
+	{
 		"dest": "fortuna j:pp j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "fortuna",
 		"to": "hiyo'mek",
@@ -35532,6 +34874,664 @@
 		"time_max": 2526
 	},
 	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria",
+		"from": "icenia:atlantica",
+		"to": "j:piria",
+		"advisory": {},
+		"time_min": 829,
+		"time_max": 962
+	},
+	{
+		"dest": "icenia:atlantica icenia its",
+		"from": "icenia:atlantica",
+		"to": "j:its",
+		"advisory": {},
+		"time_min": 101,
+		"time_max": 133
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabalwest",
+		"from": "icenia:atlantica",
+		"to": "j:cabalwest",
+		"advisory": {},
+		"time_min": 108,
+		"time_max": 146
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabaleast",
+		"from": "icenia:atlantica",
+		"to": "j:cabaleast",
+		"advisory": {},
+		"time_min": 127,
+		"time_max": 170
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot",
+		"from": "icenia:atlantica",
+		"to": "j:knot",
+		"advisory": {},
+		"time_min": 490,
+		"time_max": 547
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts imc imc:exit",
+		"from": "icenia:atlantica",
+		"to": "imc",
+		"advisory": {},
+		"time_min": 1227,
+		"time_max": 1585
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia",
+		"from": "icenia:atlantica",
+		"to": "j:picenia",
+		"advisory": {},
+		"time_min": 266,
+		"time_max": 323
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1",
+		"from": "icenia:atlantica",
+		"to": "j:nro1",
+		"advisory": {},
+		"time_min": 1651,
+		"time_max": 1721
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 0,0:exit",
+		"from": "icenia:atlantica",
+		"to": "0,0",
+		"advisory": {},
+		"time_min": 442,
+		"time_max": 499
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro",
+		"from": "icenia:atlantica",
+		"to": "j:pnro",
+		"advisory": {},
+		"time_min": 1516,
+		"time_max": 1573
+	},
+	{
+		"dest": "icenia:atlantica icenia icenia:exit",
+		"from": "icenia:atlantica",
+		"to": "icenia",
+		"advisory": {},
+		"time_min": 83,
+		"time_max": 111
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo",
+		"from": "icenia:atlantica",
+		"to": "j:pniyo",
+		"advisory": {},
+		"time_min": 1539,
+		"time_max": 1598
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp",
+		"from": "icenia:atlantica",
+		"to": "j:pp",
+		"advisory": {},
+		"time_min": 1705,
+		"time_max": 1762
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2",
+		"from": "icenia:atlantica",
+		"to": "j:nro2",
+		"advisory": {},
+		"time_min": 1712,
+		"time_max": 1790
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts j:pvark j:pkallos",
+		"from": "icenia:atlantica",
+		"to": "j:pkallos",
+		"advisory": {},
+		"time_min": 980,
+		"time_max": 1037
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts j:pvark",
+		"from": "icenia:atlantica",
+		"to": "j:pvark",
+		"advisory": {},
+		"time_min": 698,
+		"time_max": 755
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts",
+		"from": "icenia:atlantica",
+		"to": "j:pmts",
+		"advisory": {},
+		"time_min": 405,
+		"time_max": 462
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"from": "icenia:atlantica",
+		"to": "kro'ushro",
+		"advisory": {},
+		"time_min": 1759,
+		"time_max": 1837
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex",
+		"from": "icenia:atlantica",
+		"to": "j:palex",
+		"advisory": {},
+		"time_min": 1524,
+		"time_max": 1582
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal torndal:exit",
+		"from": "icenia:atlantica",
+		"to": "torndal",
+		"advisory": {},
+		"time_min": 1688,
+		"time_max": 1766
+	},
+	{
+		"dest": "icenia:atlantica icenia vinland",
+		"from": "icenia:atlantica",
+		"to": "vinland",
+		"advisory": {},
+		"time_min": 1121,
+		"time_max": 1375
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabalwest ssta",
+		"from": "icenia:atlantica",
+		"to": "ssta",
+		"advisory": {},
+		"time_min": 182,
+		"time_max": 237
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot gensokyo:roe",
+		"from": "icenia:atlantica",
+		"to": "gensokyo:roe",
+		"advisory": {},
+		"time_min": 846,
+		"time_max": 906
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"from": "icenia:atlantica",
+		"to": "nro'meagh",
+		"advisory": {},
+		"time_min": 1719,
+		"time_max": 1797
+	},
+	{
+		"dest": "icenia:atlantica icenia icenia:drippy",
+		"from": "icenia:atlantica",
+		"to": "icenia:drippy",
+		"advisory": {},
+		"time_min": 153,
+		"time_max": 199
+	},
+	{
+		"dest": "icenia:atlantica icenia westminster",
+		"from": "icenia:atlantica",
+		"to": "westminster",
+		"advisory": {},
+		"time_min": 1148,
+		"time_max": 1611
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria crowsroost",
+		"from": "icenia:atlantica",
+		"to": "crowsroost",
+		"advisory": {},
+		"time_min": 917,
+		"time_max": 1080
+	},
+	{
+		"dest": "icenia:atlantica icenia icenia:westisle",
+		"from": "icenia:atlantica",
+		"to": "icenia:westisle",
+		"advisory": {},
+		"time_min": 147,
+		"time_max": 202
+	},
+	{
+		"dest": "icenia:atlantica icenia spqr",
+		"from": "icenia:atlantica",
+		"to": "spqr",
+		"advisory": {},
+		"time_min": 1335,
+		"time_max": 1786
+	},
+	{
+		"dest": "icenia:atlantica icenia it:anburon",
+		"from": "icenia:atlantica",
+		"to": "it:anburon",
+		"advisory": {},
+		"time_min": 222,
+		"time_max": 302
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria lambat",
+		"from": "icenia:atlantica",
+		"to": "lambat",
+		"advisory": {},
+		"time_min": 1325,
+		"time_max": 1544
+	},
+	{
+		"dest": "icenia:atlantica icenia varkonia",
+		"from": "icenia:atlantica",
+		"to": "varkonia",
+		"advisory": {},
+		"time_min": 516,
+		"time_max": 677
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo ozonrough",
+		"from": "icenia:atlantica",
+		"to": "ozonrough",
+		"advisory": {},
+		"time_min": 1626,
+		"time_max": 1695
+	},
+	{
+		"dest": "icenia:atlantica icenia icenia:potato",
+		"from": "icenia:atlantica",
+		"to": "icenia:potato",
+		"advisory": {},
+		"time_min": 171,
+		"time_max": 212
+	},
+	{
+		"dest": "icenia:atlantica icenia alpoko",
+		"from": "icenia:atlantica",
+		"to": "alpoko",
+		"advisory": {},
+		"time_min": 326,
+		"time_max": 373
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 jevoghnya",
+		"from": "icenia:atlantica",
+		"to": "jevoghnya",
+		"advisory": {},
+		"time_min": 1671,
+		"time_max": 1742
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabalwest wnsta",
+		"from": "icenia:atlantica",
+		"to": "wnsta",
+		"advisory": {},
+		"time_min": 118,
+		"time_max": 159
+	},
+	{
+		"dest": "icenia:atlantica icenia icenia:nether",
+		"from": "icenia:atlantica",
+		"to": "icenia:nether",
+		"advisory": {},
+		"time_min": 208,
+		"time_max": 271
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria prussia",
+		"from": "icenia:atlantica",
+		"to": "prussia",
+		"advisory": {},
+		"time_min": 927,
+		"time_max": 1100
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
+		"from": "icenia:atlantica",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1780,
+		"time_max": 1849
+	},
+	{
+		"dest": "icenia:atlantica icenia bloom",
+		"from": "icenia:atlantica",
+		"to": "bloom",
+		"advisory": {},
+		"time_min": 242,
+		"time_max": 324
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot cape_cocoa",
+		"from": "icenia:atlantica",
+		"to": "cape_cocoa",
+		"advisory": {},
+		"time_min": 930,
+		"time_max": 1063
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabaleast mesa",
+		"from": "icenia:atlantica",
+		"to": "icenia:oldmesa",
+		"advisory": {},
+		"time_min": 357,
+		"time_max": 411
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp pacem",
+		"from": "icenia:atlantica",
+		"to": "pacem",
+		"advisory": {},
+		"time_min": 1821,
+		"time_max": 1887
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot endportal",
+		"from": "icenia:atlantica",
+		"to": "endportal",
+		"advisory": {},
+		"time_min": 737,
+		"time_max": 841
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts j:pvark j:pkallos hje",
+		"from": "icenia:atlantica",
+		"to": "hje",
+		"advisory": {},
+		"time_min": 1540,
+		"time_max": 1597
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot caledonia",
+		"from": "icenia:atlantica",
+		"to": "caledonia",
+		"advisory": {},
+		"time_min": 1552,
+		"time_max": 1676
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot netherfarm",
+		"from": "icenia:atlantica",
+		"to": "netherfarm",
+		"advisory": {},
+		"time_min": 582,
+		"time_max": 639
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex alexandria",
+		"from": "icenia:atlantica",
+		"to": "alexandria",
+		"advisory": {},
+		"time_min": 1527,
+		"time_max": 1585
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabaleast lord",
+		"from": "icenia:atlantica",
+		"to": "icenia:lord",
+		"advisory": {},
+		"time_min": 170,
+		"time_max": 214
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp hjaltland",
+		"from": "icenia:atlantica",
+		"to": "hjaltland",
+		"advisory": {},
+		"time_min": 2141,
+		"time_max": 2311
+	},
+	{
+		"dest": "icenia:atlantica icenia gensokyo:taozi",
+		"from": "icenia:atlantica",
+		"to": "gensokyo:taozi",
+		"advisory": {},
+		"time_min": 479,
+		"time_max": 625
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp fortuna",
+		"from": "icenia:atlantica",
+		"to": "fortuna",
+		"advisory": {},
+		"time_min": 2407,
+		"time_max": 2604
+	},
+	{
+		"dest": "icenia:atlantica",
+		"from": "icenia:atlantica",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 0,
+		"time_max": 0
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"from": "icenia:atlantica",
+		"to": "hiyo'mek",
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1601
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria iria",
+		"from": "icenia:atlantica",
+		"to": "iria",
+		"advisory": {},
+		"time_min": 1792,
+		"time_max": 1933
+	},
+	{
+		"dest": "icenia:atlantica icenia mta",
+		"from": "icenia:atlantica",
+		"to": "mta",
+		"advisory": {},
+		"time_min": 920,
+		"time_max": 1292
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal il'olmhir",
+		"from": "icenia:atlantica",
+		"to": "il'olmhir",
+		"advisory": {},
+		"time_min": 1739,
+		"time_max": 1823
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"from": "icenia:atlantica",
+		"to": "lriln'kriavnya",
+		"advisory": {},
+		"time_min": 1798,
+		"time_max": 1887
+	},
+	{
+		"dest": "icenia:atlantica icenia gabon",
+		"from": "icenia:atlantica",
+		"to": "gabon",
+		"advisory": {},
+		"time_min": 293,
+		"time_max": 399
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"from": "icenia:atlantica",
+		"to": "topha'nya",
+		"advisory": {},
+		"time_min": 1796,
+		"time_max": 1882
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts ellen",
+		"from": "icenia:atlantica",
+		"to": "ellen",
+		"advisory": {},
+		"time_min": 1585,
+		"time_max": 2124
+	},
+	{
+		"dest": "icenia:atlantica icenia sig",
+		"from": "icenia:atlantica",
+		"to": "sig",
+		"advisory": {},
+		"time_min": 580,
+		"time_max": 618
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia j:pmts sept september",
+		"from": "icenia:atlantica",
+		"to": "mts",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 820,
+		"time_max": 1048
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"from": "icenia:atlantica",
+		"to": "socalist_ruler",
+		"advisory": {},
+		"time_min": 1783,
+		"time_max": 1871
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:piria appomattox",
+		"from": "icenia:atlantica",
+		"to": "appomattox",
+		"advisory": {},
+		"time_min": 1400,
+		"time_max": 1714
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 wayrest",
+		"from": "icenia:atlantica",
+		"to": "wayrest",
+		"advisory": {},
+		"time_min": 603,
+		"time_max": 677
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot besia",
+		"from": "icenia:atlantica",
+		"to": "besia",
+		"advisory": {},
+		"time_min": 1252,
+		"time_max": 1451
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot newsovia",
+		"from": "icenia:atlantica",
+		"to": "newsovia",
+		"advisory": {},
+		"time_min": 1514,
+		"time_max": 1719
+	},
+	{
+		"dest": "icenia:atlantica icenia j:cabalwest mta canvasblue",
+		"from": "icenia:atlantica",
+		"to": "canvasblue",
+		"advisory": {},
+		"time_min": 168,
+		"time_max": 211
+	},
+	{
+		"dest": "icenia:atlantica icenia kallos",
+		"from": "icenia:atlantica",
+		"to": "kallos",
+		"advisory": {},
+		"time_min": 782,
+		"time_max": 952
+	},
+	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot mir",
+		"from": "icenia:atlantica",
+		"to": "mir",
+		"advisory": {},
+		"time_min": 1823,
+		"time_max": 1891
+	},
+	{
+		"dest": "icenia:atlantica icenia its skybunker",
+		"from": "icenia:atlantica",
+		"to": "its:skybunker",
+		"advisory": {},
+		"time_min": 116,
+		"time_max": 151
+	},
+	{
+		"dest": "icenia:atlantica icenia its bayloop",
+		"from": "icenia:atlantica",
+		"to": "its:bayloop",
+		"advisory": {},
+		"time_min": 109,
+		"time_max": 142
+	},
+	{
+		"dest": "icenia:atlantica icenia its adytum",
+		"from": "icenia:atlantica",
+		"to": "its:adytum",
+		"advisory": {},
+		"time_min": 150,
+		"time_max": 195
+	},
+	{
+		"dest": "icenia:atlantica icenia its qbipfb",
+		"from": "icenia:atlantica",
+		"to": "its:qbipfb",
+		"advisory": {},
+		"time_min": 124,
+		"time_max": 164
+	},
+	{
+		"dest": "icenia:atlantica icenia its hji",
+		"from": "icenia:atlantica",
+		"to": "its:hji",
+		"advisory": {},
+		"time_min": 117,
+		"time_max": 155
+	},
+	{
+		"dest": "icenia:atlantica icenia its office",
+		"from": "icenia:atlantica",
+		"to": "its:office",
+		"advisory": {},
+		"time_min": 109,
+		"time_max": 141
+	},
+	{
+		"dest": "icenia:atlantica icenia its iceniapark",
+		"from": "icenia:atlantica",
+		"to": "its:iceniapark",
+		"advisory": {},
+		"time_min": 104,
+		"time_max": 136
+	},
+	{
+		"dest": "icenia:atlantica icenia its versailles",
+		"from": "icenia:atlantica",
+		"to": "its:versailles",
+		"advisory": {},
+		"time_min": 114,
+		"time_max": 147
+	},
+	{
+		"dest": "icenia:atlantica icenia its subway",
+		"from": "icenia:atlantica",
+		"to": "its:subway",
+		"advisory": {},
+		"time_min": 107,
+		"time_max": 140
+	},
+	{
+		"dest": "icenia:atlantica icenia its beach",
+		"from": "icenia:atlantica",
+		"to": "its:beach",
+		"advisory": {},
+		"time_min": 110,
+		"time_max": 144
+	},
+	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:piria",
 		"from": "hiyo'mek",
 		"to": "j:piria",
@@ -35722,14 +35722,6 @@
 		"advisory": {},
 		"time_min": 229,
 		"time_max": 252
-	},
-	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "hiyo'mek",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2162,
-		"time_max": 2340
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
@@ -35962,6 +35954,14 @@
 		"advisory": {},
 		"time_min": 917,
 		"time_max": 1059
+	},
+	{
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "hiyo'mek",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1601
 	},
 	{
 		"dest": "hiyo'mek",
@@ -36382,14 +36382,6 @@
 		"time_max": 2636
 	},
 	{
-		"dest": "iria j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "iria",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2412,
-		"time_max": 2672
-	},
-	{
 		"dest": "iria j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "iria",
 		"to": "icenia:drippy",
@@ -36620,6 +36612,14 @@
 		"advisory": {},
 		"time_min": 3219,
 		"time_max": 3443
+	},
+	{
+		"dest": "iria j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "iria",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1792,
+		"time_max": 1933
 	},
 	{
 		"dest": "iria j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -37040,14 +37040,6 @@
 		"time_max": 2506
 	},
 	{
-		"dest": "mta icenia atlantica",
-		"from": "mta",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1540,
-		"time_max": 2031
-	},
-	{
 		"dest": "mta icenia icenia:drippy",
 		"from": "mta",
 		"to": "icenia:drippy",
@@ -37278,6 +37270,14 @@
 		"advisory": {},
 		"time_min": 2882,
 		"time_max": 3313
+	},
+	{
+		"dest": "mta icenia icenia:atlantica",
+		"from": "mta",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 920,
+		"time_max": 1292
 	},
 	{
 		"dest": "mta 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -37698,14 +37698,6 @@
 		"time_max": 88
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "il'olmhir",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2359,
-		"time_max": 2562
-	},
-	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "il'olmhir",
 		"to": "icenia:drippy",
@@ -37936,6 +37928,14 @@
 		"advisory": {},
 		"time_min": 1114,
 		"time_max": 1281
+	},
+	{
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "il'olmhir",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1739,
+		"time_max": 1823
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -38356,14 +38356,6 @@
 		"time_max": 104
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "lriln'kriavnya",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2418,
-		"time_max": 2626
-	},
-	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "lriln'kriavnya",
 		"to": "icenia:drippy",
@@ -38594,6 +38586,14 @@
 		"advisory": {},
 		"time_min": 1173,
 		"time_max": 1345
+	},
+	{
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "lriln'kriavnya",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1798,
+		"time_max": 1887
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -39014,14 +39014,6 @@
 		"time_max": 1974
 	},
 	{
-		"dest": "gabon icenia atlantica",
-		"from": "gabon",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 913,
-		"time_max": 1138
-	},
-	{
 		"dest": "gabon icenia icenia:drippy",
 		"from": "gabon",
 		"to": "icenia:drippy",
@@ -39252,6 +39244,14 @@
 		"advisory": {},
 		"time_min": 2499,
 		"time_max": 2781
+	},
+	{
+		"dest": "gabon icenia icenia:atlantica",
+		"from": "gabon",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 293,
+		"time_max": 399
 	},
 	{
 		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -39672,14 +39672,6 @@
 		"time_max": 99
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "topha'nya",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2416,
-		"time_max": 2621
-	},
-	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "topha'nya",
 		"to": "icenia:drippy",
@@ -39910,6 +39902,14 @@
 		"advisory": {},
 		"time_min": 1171,
 		"time_max": 1340
+	},
+	{
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "topha'nya",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1796,
+		"time_max": 1882
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -40330,14 +40330,6 @@
 		"time_max": 3275
 	},
 	{
-		"dest": "ellen j:pmts j:picenia icenia atlantica",
-		"from": "ellen",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2205,
-		"time_max": 2863
-	},
-	{
 		"dest": "ellen j:pmts j:picenia icenia icenia:drippy",
 		"from": "ellen",
 		"to": "icenia:drippy",
@@ -40568,6 +40560,14 @@
 		"advisory": {},
 		"time_min": 3460,
 		"time_max": 4082
+	},
+	{
+		"dest": "ellen j:pmts j:picenia icenia icenia:atlantica",
+		"from": "ellen",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1585,
+		"time_max": 2124
 	},
 	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -40988,14 +40988,6 @@
 		"time_max": 2193
 	},
 	{
-		"dest": "sig icenia atlantica",
-		"from": "sig",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1200,
-		"time_max": 1357
-	},
-	{
 		"dest": "sig icenia icenia:drippy",
 		"from": "sig",
 		"to": "icenia:drippy",
@@ -41226,6 +41218,14 @@
 		"advisory": {},
 		"time_min": 2821,
 		"time_max": 3000
+	},
+	{
+		"dest": "sig icenia icenia:atlantica",
+		"from": "sig",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 580,
+		"time_max": 618
 	},
 	{
 		"dest": "sig icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -41694,16 +41694,6 @@
 		"time_max": 2199
 	},
 	{
-		"dest": "mts j:pmts j:picenia icenia atlantica",
-		"from": "mts",
-		"to": "atlantica",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1440,
-		"time_max": 1787
-	},
-	{
 		"dest": "mts j:pmts j:picenia icenia icenia:drippy",
 		"from": "mts",
 		"to": "icenia:drippy",
@@ -41992,6 +41982,16 @@
 		},
 		"time_min": 2695,
 		"time_max": 3006
+	},
+	{
+		"dest": "mts j:pmts j:picenia icenia icenia:atlantica",
+		"from": "mts",
+		"to": "icenia:atlantica",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 820,
+		"time_max": 1048
 	},
 	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -42466,14 +42466,6 @@
 		"time_max": 88
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia atlantica",
-		"from": "socalist_ruler",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2403,
-		"time_max": 2610
-	},
-	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "socalist_ruler",
 		"to": "icenia:drippy",
@@ -42704,6 +42696,14 @@
 		"advisory": {},
 		"time_min": 1158,
 		"time_max": 1329
+	},
+	{
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "socalist_ruler",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1783,
+		"time_max": 1871
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:palex j:pniyo hiyo'mek",
@@ -43124,14 +43124,6 @@
 		"time_max": 2417
 	},
 	{
-		"dest": "appomattox j:piria j:knot 0,0 j:picenia icenia atlantica",
-		"from": "appomattox",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2020,
-		"time_max": 2453
-	},
-	{
 		"dest": "appomattox j:piria j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "appomattox",
 		"to": "icenia:drippy",
@@ -43362,6 +43354,14 @@
 		"advisory": {},
 		"time_min": 2827,
 		"time_max": 3224
+	},
+	{
+		"dest": "appomattox j:piria j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "appomattox",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1400,
+		"time_max": 1714
 	},
 	{
 		"dest": "appomattox j:piria j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -43782,14 +43782,6 @@
 		"time_max": 1380
 	},
 	{
-		"dest": "wayrest 0,0 j:picenia icenia atlantica",
-		"from": "wayrest",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1223,
-		"time_max": 1416
-	},
-	{
 		"dest": "wayrest 0,0 j:picenia icenia icenia:drippy",
 		"from": "wayrest",
 		"to": "icenia:drippy",
@@ -44020,6 +44012,14 @@
 		"advisory": {},
 		"time_min": 2031,
 		"time_max": 2187
+	},
+	{
+		"dest": "wayrest 0,0 j:picenia icenia icenia:atlantica",
+		"from": "wayrest",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 603,
+		"time_max": 677
 	},
 	{
 		"dest": "wayrest j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -44440,14 +44440,6 @@
 		"time_max": 2154
 	},
 	{
-		"dest": "besia j:knot 0,0 j:picenia icenia atlantica",
-		"from": "besia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1872,
-		"time_max": 2190
-	},
-	{
 		"dest": "besia j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "besia",
 		"to": "icenia:drippy",
@@ -44678,6 +44670,14 @@
 		"advisory": {},
 		"time_min": 2679,
 		"time_max": 2961
+	},
+	{
+		"dest": "besia j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "besia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1252,
+		"time_max": 1451
 	},
 	{
 		"dest": "besia j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -45098,14 +45098,6 @@
 		"time_max": 2422
 	},
 	{
-		"dest": "newsovia j:knot 0,0 j:picenia icenia atlantica",
-		"from": "newsovia",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2134,
-		"time_max": 2458
-	},
-	{
 		"dest": "newsovia j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "newsovia",
 		"to": "icenia:drippy",
@@ -45336,6 +45328,14 @@
 		"advisory": {},
 		"time_min": 2941,
 		"time_max": 3229
+	},
+	{
+		"dest": "newsovia j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "newsovia",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1514,
+		"time_max": 1719
 	},
 	{
 		"dest": "newsovia j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -45756,14 +45756,6 @@
 		"time_max": 1786
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia atlantica",
-		"from": "canvasblue",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 788,
-		"time_max": 950
-	},
-	{
 		"dest": "canvasblue j:cabalwest drippy",
 		"from": "canvasblue",
 		"to": "icenia:drippy",
@@ -45994,6 +45986,14 @@
 		"advisory": {},
 		"time_min": 2409,
 		"time_max": 2593
+	},
+	{
+		"dest": "canvasblue j:cabalwest icenia icenia:atlantica",
+		"from": "canvasblue",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 168,
+		"time_max": 211
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -46414,14 +46414,6 @@
 		"time_max": 2527
 	},
 	{
-		"dest": "kallos icenia atlantica",
-		"from": "kallos",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1691
-	},
-	{
 		"dest": "kallos icenia icenia:drippy",
 		"from": "kallos",
 		"to": "icenia:drippy",
@@ -46652,6 +46644,14 @@
 		"advisory": {},
 		"time_min": 3023,
 		"time_max": 3334
+	},
+	{
+		"dest": "kallos icenia icenia:atlantica",
+		"from": "kallos",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 782,
+		"time_max": 952
 	},
 	{
 		"dest": "kallos icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -47072,14 +47072,6 @@
 		"time_max": 2594
 	},
 	{
-		"dest": "mir j:knot 0,0 j:picenia icenia atlantica",
-		"from": "mir",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 2443,
-		"time_max": 2630
-	},
-	{
 		"dest": "mir j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "mir",
 		"to": "icenia:drippy",
@@ -47310,6 +47302,14 @@
 		"advisory": {},
 		"time_min": 3250,
 		"time_max": 3401
+	},
+	{
+		"dest": "mir j:knot 0,0 j:picenia icenia icenia:atlantica",
+		"from": "mir",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1823,
+		"time_max": 1891
 	},
 	{
 		"dest": "mir j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -47730,14 +47730,6 @@
 		"time_max": 1726
 	},
 	{
-		"dest": "its:skybunker j:its icenia atlantica",
-		"from": "its:skybunker",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 736,
-		"time_max": 890
-	},
-	{
 		"dest": "its:skybunker j:its icenia icenia:drippy",
 		"from": "its:skybunker",
 		"to": "icenia:drippy",
@@ -47968,6 +47960,14 @@
 		"advisory": {},
 		"time_min": 2357,
 		"time_max": 2533
+	},
+	{
+		"dest": "its:skybunker j:its icenia icenia:atlantica",
+		"from": "its:skybunker",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 116,
+		"time_max": 151
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -48388,14 +48388,6 @@
 		"time_max": 1717
 	},
 	{
-		"dest": "its:bayloop j:its icenia atlantica",
-		"from": "its:bayloop",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 729,
-		"time_max": 881
-	},
-	{
 		"dest": "its:bayloop j:its icenia icenia:drippy",
 		"from": "its:bayloop",
 		"to": "icenia:drippy",
@@ -48626,6 +48618,14 @@
 		"advisory": {},
 		"time_min": 2350,
 		"time_max": 2524
+	},
+	{
+		"dest": "its:bayloop j:its icenia icenia:atlantica",
+		"from": "its:bayloop",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 109,
+		"time_max": 142
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -49046,14 +49046,6 @@
 		"time_max": 1770
 	},
 	{
-		"dest": "its:adytum j:its icenia atlantica",
-		"from": "its:adytum",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 770,
-		"time_max": 934
-	},
-	{
 		"dest": "its:adytum j:its icenia icenia:drippy",
 		"from": "its:adytum",
 		"to": "icenia:drippy",
@@ -49284,6 +49276,14 @@
 		"advisory": {},
 		"time_min": 2391,
 		"time_max": 2577
+	},
+	{
+		"dest": "its:adytum j:its icenia icenia:atlantica",
+		"from": "its:adytum",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 150,
+		"time_max": 195
 	},
 	{
 		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -49704,14 +49704,6 @@
 		"time_max": 1739
 	},
 	{
-		"dest": "its:qbipfb j:its icenia atlantica",
-		"from": "its:qbipfb",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 744,
-		"time_max": 903
-	},
-	{
 		"dest": "its:qbipfb j:its icenia icenia:drippy",
 		"from": "its:qbipfb",
 		"to": "icenia:drippy",
@@ -49942,6 +49934,14 @@
 		"advisory": {},
 		"time_min": 2365,
 		"time_max": 2546
+	},
+	{
+		"dest": "its:qbipfb j:its icenia icenia:atlantica",
+		"from": "its:qbipfb",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 124,
+		"time_max": 164
 	},
 	{
 		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -50362,14 +50362,6 @@
 		"time_max": 1730
 	},
 	{
-		"dest": "its:hji j:its icenia atlantica",
-		"from": "its:hji",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 737,
-		"time_max": 894
-	},
-	{
 		"dest": "its:hji j:its icenia icenia:drippy",
 		"from": "its:hji",
 		"to": "icenia:drippy",
@@ -50600,6 +50592,14 @@
 		"advisory": {},
 		"time_min": 2358,
 		"time_max": 2537
+	},
+	{
+		"dest": "its:hji j:its icenia icenia:atlantica",
+		"from": "its:hji",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 117,
+		"time_max": 155
 	},
 	{
 		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -51020,14 +51020,6 @@
 		"time_max": 1716
 	},
 	{
-		"dest": "its:office j:its icenia atlantica",
-		"from": "its:office",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 729,
-		"time_max": 880
-	},
-	{
 		"dest": "its:office j:its icenia icenia:drippy",
 		"from": "its:office",
 		"to": "icenia:drippy",
@@ -51258,6 +51250,14 @@
 		"advisory": {},
 		"time_min": 2350,
 		"time_max": 2523
+	},
+	{
+		"dest": "its:office j:its icenia icenia:atlantica",
+		"from": "its:office",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 109,
+		"time_max": 141
 	},
 	{
 		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -51678,14 +51678,6 @@
 		"time_max": 1711
 	},
 	{
-		"dest": "its:iceniapark j:its icenia atlantica",
-		"from": "its:iceniapark",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 724,
-		"time_max": 875
-	},
-	{
 		"dest": "its:iceniapark j:its icenia icenia:drippy",
 		"from": "its:iceniapark",
 		"to": "icenia:drippy",
@@ -51916,6 +51908,14 @@
 		"advisory": {},
 		"time_min": 2345,
 		"time_max": 2518
+	},
+	{
+		"dest": "its:iceniapark j:its icenia icenia:atlantica",
+		"from": "its:iceniapark",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 104,
+		"time_max": 136
 	},
 	{
 		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -52336,14 +52336,6 @@
 		"time_max": 1722
 	},
 	{
-		"dest": "its:versailles j:its icenia atlantica",
-		"from": "its:versailles",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 734,
-		"time_max": 886
-	},
-	{
 		"dest": "its:versailles j:its icenia icenia:drippy",
 		"from": "its:versailles",
 		"to": "icenia:drippy",
@@ -52574,6 +52566,14 @@
 		"advisory": {},
 		"time_min": 2355,
 		"time_max": 2529
+	},
+	{
+		"dest": "its:versailles j:its icenia icenia:atlantica",
+		"from": "its:versailles",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 114,
+		"time_max": 147
 	},
 	{
 		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -52994,14 +52994,6 @@
 		"time_max": 1715
 	},
 	{
-		"dest": "its:subway j:its icenia atlantica",
-		"from": "its:subway",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 727,
-		"time_max": 879
-	},
-	{
 		"dest": "its:subway j:its icenia icenia:drippy",
 		"from": "its:subway",
 		"to": "icenia:drippy",
@@ -53232,6 +53224,14 @@
 		"advisory": {},
 		"time_min": 2348,
 		"time_max": 2522
+	},
+	{
+		"dest": "its:subway j:its icenia icenia:atlantica",
+		"from": "its:subway",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 107,
+		"time_max": 140
 	},
 	{
 		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -53652,14 +53652,6 @@
 		"time_max": 1719
 	},
 	{
-		"dest": "its:beach j:its icenia atlantica",
-		"from": "its:beach",
-		"to": "atlantica",
-		"advisory": {},
-		"time_min": 730,
-		"time_max": 883
-	},
-	{
 		"dest": "its:beach j:its icenia icenia:drippy",
 		"from": "its:beach",
 		"to": "icenia:drippy",
@@ -53890,6 +53882,14 @@
 		"advisory": {},
 		"time_min": 2351,
 		"time_max": 2526
+	},
+	{
+		"dest": "its:beach j:its icenia icenia:atlantica",
+		"from": "its:beach",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 110,
+		"time_max": 144
 	},
 	{
 		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
