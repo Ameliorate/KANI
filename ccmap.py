@@ -9,6 +9,7 @@ from sys import stderr
 import time
 import json
 from math import sqrt
+from os import environ
 
 datadir = r'./data'
 
@@ -103,7 +104,7 @@ collection = {
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": int(time.time()),
+        "last_update": environ.get('LAST_UPDATE') or int(time.time()),
     },
     "presentations": presentations,
     "features":
