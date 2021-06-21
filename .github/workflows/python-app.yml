@@ -40,6 +40,7 @@ jobs:
     - name: Run ccmap program
       run: |
         export LAST_UPDATE=$(git log --format='%at' -1 data)
+        echo LAST_UPDATE=$LAST_UPDATE
         python ./ccmap.py > docs/ccmap.json
     - name: Commit routes.json to git
       run: |
