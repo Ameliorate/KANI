@@ -2,7 +2,6 @@
 {"id":"ccmap:kani/node/alexandria","name":"Alexandria (KANI)","type":"TerminalDestinations","x":471,"y":12,"z":8209},
 {"id":"ccmap:kani/node/alpoko","name":"Alpoko (KANI)","type":"TerminalDestinations","x":-3600,"z":-1600},
 {"id":"ccmap:kani/node/appomattox","name":"Appomattox (KANI)","type":"TerminalDestinations","x":7181,"z":-2532},
-{"id":"ccmap:kani/node/atlantica","name":"Atlantica (KANI)","type":"TerminalDestinations","x":-7120,"z":-2780},
 {"id":"ccmap:kani/node/besia","name":"Besia (KANI)","type":"TerminalDestinations","x":6346,"z":1262},
 {"description":"Station of the former nation Bloom, now owned by Icenia.","id":"ccmap:kani/node/bloom","name":"Bloom (KANI)","type":"TerminalDestinations","x":-2228,"z":-2577},
 {"description":"Active city near mir, featuring the securemall.","id":"ccmap:kani/node/caledonia","name":"Caledonia (KANI)","type":"TerminalDestinations","x":8857,"z":553},
@@ -20,6 +19,7 @@
 {"description":"Vault nation of Hjaltland","id":"ccmap:kani/node/hjaltland","name":"Hjaltland (KANI)","type":"TerminalDestinations","x":-2941,"z":10794},
 {"id":"ccmap:kani/node/hje","name":"Hje (KANI)","type":"TerminalDestinations","x":-11600,"z":0},
 {"BadLinks":"j:its: its, ","description":"Newly renovated station in IceniaCity","id":"ccmap:kani/node/icenia","name":"Icenia (KANI)","station":true,"type":"CompliantSwitches","x":-1660,"y":30,"z":-1440},
+{"id":"ccmap:kani/node/icenia:atlantica","name":"Icenia:Atlantica (KANI)","type":"TerminalDestinations","x":-1961,"y":49,"z":-2030},
 {"id":"ccmap:kani/node/icenia:drippy","name":"Icenia:Drippy (KANI)","type":"TerminalDestinations","x":-1500,"z":-900},
 {"description":"LordChiefton's Estate in Icenia","id":"ccmap:kani/node/icenia:lord","name":"Icenia:Lord (KANI)","type":"TerminalDestinations","x":-1000,"z":-1300},
 {"id":"ccmap:kani/node/icenia:nether","name":"Icenia:Nether (KANI)","type":"TerminalDestinations","x":-2000,"z":-500},
@@ -88,7 +88,6 @@
 {"distance":23,"id":"ccmap:kani/link/alexandria/j:palex","line":[[[471,8209],[448,8213]]],"name":"Alexandria - J:Palex (KANI)","type":"link"},
 {"distance":1946,"id":"ccmap:kani/link/alpoko/icenia","line":[[[-3600,-1600],[-1660,-1440]]],"name":"Alpoko - Icenia (KANI)","type":"link"},
 {"distance":4564,"id":"ccmap:kani/link/appomattox/j:piria","line":[[[7181,-2532],[3000,-700]]],"name":"Appomattox - J:Piria (KANI)","type":"link"},
-{"distance":5622,"id":"ccmap:kani/link/atlantica/icenia","line":[[[-7120,-2780],[-1660,-1440]]],"name":"Atlantica - Icenia (KANI)","type":"link"},
 {"distance":6098,"id":"ccmap:kani/link/besia/j:knot","line":[[[6346,1262],[380,0]]],"name":"Besia - J:Knot (KANI)","type":"link"},
 {"distance":1270,"id":"ccmap:kani/link/bloom/icenia","line":[[[-2228,-2577],[-1660,-1440]]],"name":"Bloom - Icenia (KANI)","type":"link"},
 {"distance":8378,"id":"ccmap:kani/link/bloom/imc","line":[[[-2228,-2577],[-8200,3300]]],"name":"Bloom - Imc (KANI)","type":"link"},
@@ -110,6 +109,7 @@
 {"distance":24,"id":"ccmap:kani/link/hiyo'mek/j:pniyo","line":[[[447,8360],[449,8336]]],"name":"Hiyo'Mek - J:Pniyo (KANI)","type":"link"},
 {"distance":3490,"id":"ccmap:kani/link/hjaltland/j:pp","line":[[[-2941,10794],[381,9721]]],"name":"Hjaltland - J:Pp (KANI)","type":"link"},
 {"distance":4481,"id":"ccmap:kani/link/hje/j:pkallos","line":[[[-11600,0],[-7119,0]]],"name":"Hje - J:Pkallos (KANI)","type":"link"},
+{"distance":662,"id":"ccmap:kani/link/icenia/icenia:atlantica","line":[[[-1660,-1440],[-1961,-2030]]],"name":"Icenia - Icenia:Atlantica (KANI)","type":"link"},
 {"distance":563,"id":"ccmap:kani/link/icenia/icenia:drippy","line":[[[-1660,-1440],[-1500,-900]]],"name":"Icenia - Icenia:Drippy (KANI)","type":"link"},
 {"distance":999,"id":"ccmap:kani/link/icenia/icenia:nether","line":[[[-1660,-1440],[-2000,-500]]],"name":"Icenia - Icenia:Nether (KANI)","type":"link"},
 {"distance":704,"id":"ccmap:kani/link/icenia/icenia:potato","line":[[[-1660,-1440],[-1550,-744]]],"name":"Icenia - Icenia:Potato (KANI)","type":"link"},
@@ -185,4 +185,4 @@
 {"distance":297,"id":"ccmap:kani/link/kro'ushro/topha'nya","line":[[[-406,8734],[-696,8667]]],"name":"Kro'Ushro - Topha'Nya (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1624244420","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1624305071","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
