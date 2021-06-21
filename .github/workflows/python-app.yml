@@ -39,7 +39,7 @@ jobs:
         python ./compute.py > docs/routes.json
     - name: Run ccmap program
       run: |
-        git log -1
+        git log -1 data
         export LAST_UPDATE=$(git log --format='%ct' -1 data)
         echo LAST_UPDATE=$LAST_UPDATE
         python ./ccmap.py > docs/ccmap.json
