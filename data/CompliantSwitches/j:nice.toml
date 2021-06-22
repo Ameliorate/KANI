@@ -1,0 +1,14 @@
+x = 3364
+y = 11
+z = 0
+
+links = [
+ 'j:pend',
+ 'aurum',
+ 'arrelani',
+ 'mir',
+ 'caledonia',
+ 'newsovia',
+ 'besia',
+ 'cape_cocoa',
+]

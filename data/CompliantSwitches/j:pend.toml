@@ -7,10 +7,6 @@ switch = true
 links = [
  'j:knot',
  'j:piria',
+ 'j:nice',
  'endportal',
- 'mir',
- 'caledonia',
- 'newsovia',
- 'besia',
- 'cape_cocoa',
 ]
