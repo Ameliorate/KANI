@@ -1,0 +1,14 @@
+description = "City of England"
+
+x = 770
+y = 5
+z = -6765
+
+station = true
+
+links = [
+ 'j:coe:south',
+ 'j:coe:east',
+ 'j:coe:north',
+#'j:coe:west',
+]

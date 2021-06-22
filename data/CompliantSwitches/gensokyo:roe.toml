@@ -1,9 +1,12 @@
 description = "Gensokyo's Roe Island, where they first started out."
 
-x = 400
-z = -2850
+x = 380
+y = 5
+z = -2846
+
+station = true
 
 links = [
   "j:knot",
-  "j:piria",
+  "j:coe:south",
 ]

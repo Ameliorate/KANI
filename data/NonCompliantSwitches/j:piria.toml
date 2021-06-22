@@ -15,13 +15,9 @@ links = [
  "j:pend",
  "prussia",
  "crowsroost",
- "gensokyo:roe",
  "appomattox",
  "iria",
  "lambat",
 ]
 
 switch = true
-
-[BadLinks]
-"gensokyo:roe" = "gensokyo"

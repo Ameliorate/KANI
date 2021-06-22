@@ -1,0 +1,13 @@
+x = 9847
+y = 7
+z = -5807
+
+station = true
+
+links = [
+ 'j:coe:east',
+ 'iria',
+ 'iria:jungle',
+ 'iria:desert',
+ 'mir',
+]

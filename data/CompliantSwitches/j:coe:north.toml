@@ -1,0 +1,10 @@
+x = 770
+y = 5
+z = -5919
+
+switch = true
+
+links = [
+ 'coe',
+ 'gondolin',
+]

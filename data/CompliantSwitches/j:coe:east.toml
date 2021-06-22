@@ -1,0 +1,10 @@
+x = 1297
+y = 5
+z = -5765
+
+switch = true
+
+links = [
+ 'coe',
+ 'savion',
+]

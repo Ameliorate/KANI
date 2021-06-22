@@ -1,0 +1,9 @@
+x = 3845
+y = 1
+z = -9191
+
+station = true
+
+links = [
+ 'j:coe:north',
+]

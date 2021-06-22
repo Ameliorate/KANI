@@ -1,0 +1,12 @@
+x = 771
+y = 5
+z = -2843
+
+switch = true
+
+links = [
+ 'coe',
+ 'gensokyo:roe',
+#'gensokyo:taozi',
+#'0,0',
+] 
