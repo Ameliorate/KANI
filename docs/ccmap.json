@@ -9,7 +9,7 @@
 {"description":"Active city near mir, featuring the securemall.","id":"ccmap:kani/node/caledonia","name":"Caledonia (KANI)","type":"TerminalDestinations","x":8857,"z":553},
 {"id":"ccmap:kani/node/canvasblue","name":"Canvasblue (KANI)","type":"TerminalDestinations","x":-2280,"z":-1340},
 {"id":"ccmap:kani/node/cape_cocoa","name":"Cape_Cocoa (KANI)","type":"TerminalDestinations","x":3840,"z":665},
-{"description":"City of England","id":"ccmap:kani/node/coe","name":"Coe (KANI)","station":true,"type":"CompliantSwitches","x":770,"y":5,"z":-6765},
+{"description":"City of England","id":"ccmap:kani/node/coe","name":"Coe (KANI)","station":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5765},
 {"id":"ccmap:kani/node/crowsroost","name":"Crowsroost (KANI)","type":"TerminalDestinations","x":3307,"z":-1334},
 {"id":"ccmap:kani/node/ellen","name":"Ellen (KANI)","type":"TerminalDestinations","x":-9768,"z":6046},
 {"description":"An end portal renovated by darthorangejuice near wayrest.\n\nMore info: https://old.reddit.com/r/civclassics/comments/jpcs9p/peters_castle_end_portal/\n","id":"ccmap:kani/node/endportal","name":"Endportal (KANI)","type":"TerminalDestinations","x":2314,"y":31,"z":414},
@@ -108,9 +108,9 @@
 {"distance":5520,"id":"ccmap:kani/link/caledonia/j:nice","line":[[[8857,553],[3364,0]]],"name":"Caledonia - J:Nice (KANI)","type":"link"},
 {"distance":481,"id":"ccmap:kani/link/canvasblue/j:cabalwest","line":[[[-2280,-1340],[-1800,-1300]]],"name":"Canvasblue - J:Cabalwest (KANI)","type":"link"},
 {"distance":817,"id":"ccmap:kani/link/cape_cocoa/j:nice","line":[[[3840,665],[3364,0]]],"name":"Cape_Cocoa - J:Nice (KANI)","type":"link"},
-{"distance":1130,"id":"ccmap:kani/link/coe/j:coe:east","line":[[[770,-6765],[1297,-5765]]],"name":"Coe - J:Coe:East (KANI)","type":"link"},
-{"distance":846,"id":"ccmap:kani/link/coe/j:coe:north","line":[[[770,-6765],[770,-5919]]],"name":"Coe - J:Coe:North (KANI)","type":"link"},
-{"distance":3922,"id":"ccmap:kani/link/coe/j:coe:south","line":[[[770,-6765],[771,-2843]]],"name":"Coe - J:Coe:South (KANI)","type":"link"},
+{"distance":527,"id":"ccmap:kani/link/coe/j:coe:east","line":[[[770,-5765],[1297,-5765]]],"name":"Coe - J:Coe:East (KANI)","type":"link"},
+{"distance":154,"id":"ccmap:kani/link/coe/j:coe:north","line":[[[770,-5765],[770,-5919]]],"name":"Coe - J:Coe:North (KANI)","type":"link"},
+{"distance":2922,"id":"ccmap:kani/link/coe/j:coe:south","line":[[[770,-5765],[771,-2843]]],"name":"Coe - J:Coe:South (KANI)","type":"link"},
 {"distance":704,"id":"ccmap:kani/link/crowsroost/j:piria","line":[[[3307,-1334],[3000,-700]]],"name":"Crowsroost - J:Piria (KANI)","type":"link"},
 {"distance":3162,"id":"ccmap:kani/link/ellen/imc","line":[[[-9768,6046],[-8200,3300]]],"name":"Ellen - Imc (KANI)","type":"link"},
 {"distance":9441,"id":"ccmap:kani/link/ellen/j:pmts","line":[[[-9768,6046],[-2516,0]]],"name":"Ellen - J:Pmts (KANI)","type":"link"},
@@ -211,4 +211,4 @@
 {"distance":5843,"id":"ccmap:kani/link/mir/savion","line":[[[11043,-87],[9847,-5807]]],"name":"Mir - Savion (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1624400887","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1624403094","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
