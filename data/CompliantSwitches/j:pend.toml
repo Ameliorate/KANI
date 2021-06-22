@@ -1,0 +1,16 @@
+x = 4
+y = 11
+z = 2300
+
+switch = true
+
+links = [
+ 'j:knot',
+ 'j:piria',
+ 'endportal',
+ 'mir',
+ 'caledonia',
+ 'newsovia',
+ 'besia',
+ 'cape_cocoa',
+]

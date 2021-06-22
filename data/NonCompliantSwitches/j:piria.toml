@@ -12,6 +12,7 @@ inaccuratelocation = true
 
 links = [
  "j:knot",
+ "j:pend",
  "prussia",
  "crowsroost",
  "gensokyo:roe",
