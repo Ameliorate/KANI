@@ -114,7 +114,11 @@ def time_max(from_x, from_z, to_x, to_z):
 routeData = []
 
 for from_canon in data.keys():
+    if from_canon.startswith("j:"):
+        continue
     for to_canon in data.keys():
+        if to_canon.startswith("j:"):
+            continue
         myRoute = route(from_canon, to_canon)
         if myRoute is None:
             exit(f"Can't route between {from_canon} and {to_canon}! Is the station connected to nexus?")
