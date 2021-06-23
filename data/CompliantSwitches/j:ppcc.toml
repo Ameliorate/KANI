@@ -1,0 +1,20 @@
+x = 3839
+y = 11
+z = 0
+
+switch = true
+
+links = [
+ 'j:nice',
+ 'cape_cocoa',
+ 'mir',
+ 'caledonia',
+ 'newsovia',
+ 'besia',
+]
+
+[BadLinks]
+'mir' = 'ppcc:east mir'
+'caledonia' = 'ppcc:east caledonia'
+'newsovia' = 'ppcc:east newsovia'
+'besia' = 'ppcc:east besia'
