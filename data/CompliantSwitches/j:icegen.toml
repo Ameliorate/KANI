@@ -10,7 +10,7 @@ links = [
  'j:knot',
  'icenia',
  'gensokyo:roe',
- 'gensokyo:taozi',
+ 'gensokyo:taozi'
 ]
 
 switch = true
