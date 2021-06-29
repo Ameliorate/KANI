@@ -7,6 +7,6 @@ z = -2846
 station = true
 
 links = [
-  "j:knot",
+  "j:icegen",
   "j:coe:south",
 ]
