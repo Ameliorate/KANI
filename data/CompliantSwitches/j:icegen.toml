@@ -1,5 +1,5 @@
 description = """
-Junction in the North East which connects icenia, j:knot, gensokyo:roe, and gensokyo:taozi
+Junction in the North East which connects icenia, j:knot, gensokyo:roe, and j:gensig
 """
 
 x = 380
@@ -10,7 +10,7 @@ links = [
  'j:knot',
  'icenia',
  'gensokyo:roe',
- 'gensokyo:taozi',
+ 'j:gensig',
 ]
 
 switch = true
