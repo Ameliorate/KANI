@@ -1,0 +1,15 @@
+description = """
+Junction in the North East which connects j:icegen, gensokyo:taozi, and sig
+"""
+
+x = 1249
+y = 7
+z = -1412
+
+links = [
+ 'j:icegen',
+ 'gensokyo:taozi',
+ 'sig',
+]
+
+switch = true
