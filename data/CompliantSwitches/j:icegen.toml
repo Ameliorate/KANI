@@ -13,4 +13,4 @@ links = [
  'gensokyo:taozi',
 ]
 
-station = false
+switch = true
