@@ -4,6 +4,5 @@ x = 1278
 z = -2618
 
 links = [
-  "j:icegen",
-  "sig",
+  "j:icegen"
 ]
