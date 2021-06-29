@@ -89,7 +89,7 @@ for node in data.values():
 
 presentations = [
     {
-        "name": "Rails and Stops",
+        "name": "Rails and Stops (KANI)",
         "style_base": {
             "color": "#ff8800",
         },
