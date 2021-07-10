@@ -112,14 +112,6 @@
 		"time_max": 116
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "torndal",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1903,
-		"time_max": 1953
-	},
-	{
 		"dest": "torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "torndal",
 		"to": "lriln'kriavnya",
@@ -704,14 +696,6 @@
 		"advisory": {},
 		"time_min": 2491,
 		"time_max": 2821
-	},
-	{
-		"dest": "imc j:pmts j:picenia icenia j:cabaleast mesa",
-		"from": "imc",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1418,
-		"time_max": 1774
 	},
 	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -1300,14 +1284,6 @@
 		"time_max": 45
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "kro'ushro",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1974,
-		"time_max": 2024
-	},
-	{
 		"dest": "kro'ushro lriln'kriavnya",
 		"from": "kro'ushro",
 		"to": "lriln'kriavnya",
@@ -1892,14 +1868,6 @@
 		"advisory": {},
 		"time_min": 1354,
 		"time_max": 1383
-	},
-	{
-		"dest": "0,0 j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "0,0",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 753,
-		"time_max": 782
 	},
 	{
 		"dest": "0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -2488,14 +2456,6 @@
 		"time_max": 2104
 	},
 	{
-		"dest": "coe j:coe:south gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "coe",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1122,
-		"time_max": 1151
-	},
-	{
 		"dest": "coe j:coe:south gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "coe",
 		"to": "lriln'kriavnya",
@@ -3080,14 +3040,6 @@
 		"advisory": {},
 		"time_min": 3210,
 		"time_max": 3244
-	},
-	{
-		"dest": "savion j:coe:east coe j:coe:south gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "savion",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2257,
-		"time_max": 2291
 	},
 	{
 		"dest": "savion j:coe:east coe j:coe:south gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -3676,14 +3628,6 @@
 		"time_max": 1690
 	},
 	{
-		"dest": "gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "gensokyo:roe",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 708,
-		"time_max": 737
-	},
-	{
 		"dest": "gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gensokyo:roe",
 		"to": "lriln'kriavnya",
@@ -4268,14 +4212,6 @@
 		"advisory": {},
 		"time_min": 1713,
 		"time_max": 1771
-	},
-	{
-		"dest": "icenia j:cabaleast mesa",
-		"from": "icenia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 274,
-		"time_max": 300
 	},
 	{
 		"dest": "icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -4864,14 +4800,6 @@
 		"time_max": 2679
 	},
 	{
-		"dest": "mir j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "mir",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2038,
-		"time_max": 2078
-	},
-	{
 		"dest": "mir j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "mir",
 		"to": "lriln'kriavnya",
@@ -5456,14 +5384,6 @@
 		"advisory": {},
 		"time_min": 1812,
 		"time_max": 1897
-	},
-	{
-		"dest": "ssta j:cabalwest icenia j:cabaleast mesa",
-		"from": "ssta",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 373,
-		"time_max": 426
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -6052,14 +5972,6 @@
 		"time_max": 2833
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia j:cabaleast mesa",
-		"from": "hje",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1731,
-		"time_max": 1786
-	},
-	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "hje",
 		"to": "lriln'kriavnya",
@@ -6644,14 +6556,6 @@
 		"advisory": {},
 		"time_min": 1800,
 		"time_max": 1874
-	},
-	{
-		"dest": "icenia:lord j:cabaleast mesa",
-		"from": "icenia:lord",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 273,
-		"time_max": 285
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -7240,14 +7144,6 @@
 		"time_max": 99
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "nro'meagh",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1934,
-		"time_max": 1984
-	},
-	{
 		"dest": "nro'meagh j:nro2 kro'ushro lriln'kriavnya",
 		"from": "nro'meagh",
 		"to": "lriln'kriavnya",
@@ -7834,14 +7730,6 @@
 		"time_max": 0
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "topha'nya",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2011,
-		"time_max": 2069
-	},
-	{
 		"dest": "topha'nya kro'ushro lriln'kriavnya",
 		"from": "topha'nya",
 		"to": "lriln'kriavnya",
@@ -8316,600 +8204,6 @@
 		"time_max": 1800
 	},
 	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal torndal:exit",
-		"from": "icenia:oldmesa",
-		"to": "torndal",
-		"advisory": {},
-		"time_min": 1879,
-		"time_max": 1955
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia j:pmts imc imc:exit",
-		"from": "icenia:oldmesa",
-		"to": "imc",
-		"advisory": {},
-		"time_min": 1418,
-		"time_max": 1774
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
-		"from": "icenia:oldmesa",
-		"to": "kro'ushro",
-		"advisory": {},
-		"time_min": 1950,
-		"time_max": 2026
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 0,0:exit",
-		"from": "icenia:oldmesa",
-		"to": "0,0",
-		"advisory": {},
-		"time_min": 633,
-		"time_max": 688
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe j:coe:south coe coe:exit",
-		"from": "icenia:oldmesa",
-		"to": "coe",
-		"advisory": {},
-		"time_min": 1122,
-		"time_max": 1151
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe j:coe:south coe j:coe:east savion savion:exit",
-		"from": "icenia:oldmesa",
-		"to": "savion",
-		"advisory": {},
-		"time_min": 2257,
-		"time_max": 2291
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe gensokyo:roe:exit",
-		"from": "icenia:oldmesa",
-		"to": "gensokyo:roe",
-		"advisory": {},
-		"time_min": 708,
-		"time_max": 737
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:exit",
-		"from": "icenia:oldmesa",
-		"to": "icenia",
-		"advisory": {},
-		"time_min": 274,
-		"time_max": 300
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice j:ppcc ppcc:east mir",
-		"from": "icenia:oldmesa",
-		"to": "mir",
-		"advisory": {},
-		"time_min": 2038,
-		"time_max": 2078
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:cabalwest ssta",
-		"from": "icenia:oldmesa",
-		"to": "ssta",
-		"advisory": {},
-		"time_min": 373,
-		"time_max": 426
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia j:pmts j:pvark j:pkallos hje",
-		"from": "icenia:oldmesa",
-		"to": "hje",
-		"advisory": {},
-		"time_min": 1731,
-		"time_max": 1786
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast lord",
-		"from": "icenia:oldmesa",
-		"to": "icenia:lord",
-		"advisory": {},
-		"time_min": 273,
-		"time_max": 285
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
-		"from": "icenia:oldmesa",
-		"to": "nro'meagh",
-		"advisory": {},
-		"time_min": 1910,
-		"time_max": 1986
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
-		"from": "icenia:oldmesa",
-		"to": "topha'nya",
-		"advisory": {},
-		"time_min": 1987,
-		"time_max": 2071
-	},
-	{
-		"dest": "icenia:oldmesa",
-		"from": "icenia:oldmesa",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 0,
-		"time_max": 0
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
-		"from": "icenia:oldmesa",
-		"to": "lriln'kriavnya",
-		"advisory": {},
-		"time_min": 1989,
-		"time_max": 2076
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:cabalwest mta canvasblue",
-		"from": "icenia:oldmesa",
-		"to": "canvasblue",
-		"advisory": {},
-		"time_min": 359,
-		"time_max": 400
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia j:pmts ellen",
-		"from": "icenia:oldmesa",
-		"to": "ellen",
-		"advisory": {},
-		"time_min": 1776,
-		"time_max": 2313
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice arrelani",
-		"from": "icenia:oldmesa",
-		"to": "arrelani",
-		"advisory": {},
-		"time_min": 1243,
-		"time_max": 1340
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:drippy",
-		"from": "icenia:oldmesa",
-		"to": "icenia:drippy",
-		"advisory": {},
-		"time_min": 344,
-		"time_max": 388
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo hiyo'mek",
-		"from": "icenia:oldmesa",
-		"to": "hiyo'mek",
-		"advisory": {},
-		"time_min": 1733,
-		"time_max": 1790
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:atlantica",
-		"from": "icenia:oldmesa",
-		"to": "icenia:atlantica",
-		"advisory": {},
-		"time_min": 357,
-		"time_max": 411
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:westisle",
-		"from": "icenia:oldmesa",
-		"to": "icenia:westisle",
-		"advisory": {},
-		"time_min": 338,
-		"time_max": 391
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal il'olmhir",
-		"from": "icenia:oldmesa",
-		"to": "il'olmhir",
-		"advisory": {},
-		"time_min": 1930,
-		"time_max": 2012
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex j:pniyo ozonrough",
-		"from": "icenia:oldmesa",
-		"to": "ozonrough",
-		"advisory": {},
-		"time_min": 1817,
-		"time_max": 1884
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia alpoko",
-		"from": "icenia:oldmesa",
-		"to": "alpoko",
-		"advisory": {},
-		"time_min": 517,
-		"time_max": 562
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia it:anburon",
-		"from": "icenia:oldmesa",
-		"to": "it:anburon",
-		"advisory": {},
-		"time_min": 413,
-		"time_max": 491
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia varkonia",
-		"from": "icenia:oldmesa",
-		"to": "varkonia",
-		"advisory": {},
-		"time_min": 707,
-		"time_max": 866
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia westminster",
-		"from": "icenia:oldmesa",
-		"to": "westminster",
-		"advisory": {},
-		"time_min": 1339,
-		"time_max": 1800
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe j:coe:south coe j:coe:east savion iria:desert",
-		"from": "icenia:oldmesa",
-		"to": "iria:desert",
-		"advisory": {},
-		"time_min": 2402,
-		"time_max": 2495
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:gensig gensokyo:taozi",
-		"from": "icenia:oldmesa",
-		"to": "gensokyo:taozi",
-		"advisory": {},
-		"time_min": 789,
-		"time_max": 821
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot netherfarm",
-		"from": "icenia:oldmesa",
-		"to": "netherfarm",
-		"advisory": {},
-		"time_min": 797,
-		"time_max": 826
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:potato",
-		"from": "icenia:oldmesa",
-		"to": "icenia:potato",
-		"advisory": {},
-		"time_min": 362,
-		"time_max": 401
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice j:ppcc ppcc:east caledonia",
-		"from": "icenia:oldmesa",
-		"to": "caledonia",
-		"advisory": {},
-		"time_min": 1768,
-		"time_max": 1863
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:gensig sig",
-		"from": "icenia:oldmesa",
-		"to": "sig",
-		"advisory": {},
-		"time_min": 771,
-		"time_max": 807
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:palex alexandria",
-		"from": "icenia:oldmesa",
-		"to": "alexandria",
-		"advisory": {},
-		"time_min": 1718,
-		"time_max": 1774
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe j:coe:south coe j:coe:north gondolin gondolin:exit",
-		"from": "icenia:oldmesa",
-		"to": "gondolin",
-		"advisory": {},
-		"time_min": 1702,
-		"time_max": 1963
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:piria lambat",
-		"from": "icenia:oldmesa",
-		"to": "lambat",
-		"advisory": {},
-		"time_min": 1566,
-		"time_max": 1732
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice aurum",
-		"from": "icenia:oldmesa",
-		"to": "aurum",
-		"advisory": {},
-		"time_min": 1130,
-		"time_max": 1182
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp pacem",
-		"from": "icenia:oldmesa",
-		"to": "pacem",
-		"advisory": {},
-		"time_min": 2012,
-		"time_max": 2076
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia kallos",
-		"from": "icenia:oldmesa",
-		"to": "kallos",
-		"advisory": {},
-		"time_min": 973,
-		"time_max": 1141
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot wayrest",
-		"from": "icenia:oldmesa",
-		"to": "wayrest",
-		"advisory": {},
-		"time_min": 819,
-		"time_max": 864
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen gensokyo:roe j:coe:south coe j:coe:east savion iria:jungle",
-		"from": "icenia:oldmesa",
-		"to": "iria:jungle",
-		"advisory": {},
-		"time_min": 2890,
-		"time_max": 3022
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp hjaltland",
-		"from": "icenia:oldmesa",
-		"to": "hjaltland",
-		"advisory": {},
-		"time_min": 2332,
-		"time_max": 2500
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia bloom",
-		"from": "icenia:oldmesa",
-		"to": "bloom",
-		"advisory": {},
-		"time_min": 433,
-		"time_max": 513
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:cabalwest wnsta",
-		"from": "icenia:oldmesa",
-		"to": "wnsta",
-		"advisory": {},
-		"time_min": 309,
-		"time_max": 348
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:oldmesa",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1158,
-		"time_max": 1268
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia gabon",
-		"from": "icenia:oldmesa",
-		"to": "gabon",
-		"advisory": {},
-		"time_min": 484,
-		"time_max": 588
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice j:ppcc ppcc:east newsovia",
-		"from": "icenia:oldmesa",
-		"to": "newsovia",
-		"advisory": {},
-		"time_min": 1738,
-		"time_max": 1906
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia j:pmts sept september",
-		"from": "icenia:oldmesa",
-		"to": "mts",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1011,
-		"time_max": 1237
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia icenia:nether",
-		"from": "icenia:oldmesa",
-		"to": "icenia:nether",
-		"advisory": {},
-		"time_min": 399,
-		"time_max": 460
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia spqr",
-		"from": "icenia:oldmesa",
-		"to": "spqr",
-		"advisory": {},
-		"time_min": 1526,
-		"time_max": 1975
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp fortuna",
-		"from": "icenia:oldmesa",
-		"to": "fortuna",
-		"advisory": {},
-		"time_min": 2598,
-		"time_max": 2793
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia vinland",
-		"from": "icenia:oldmesa",
-		"to": "vinland",
-		"advisory": {},
-		"time_min": 1312,
-		"time_max": 1564
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:oldmesa",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1168,
-		"time_max": 1288
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
-		"from": "icenia:oldmesa",
-		"to": "forta'are",
-		"advisory": {},
-		"time_min": 1971,
-		"time_max": 2038
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:oldmesa",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1641,
-		"time_max": 1902
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia mta",
-		"from": "icenia:oldmesa",
-		"to": "mta",
-		"advisory": {},
-		"time_min": 1111,
-		"time_max": 1481
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
-		"from": "icenia:oldmesa",
-		"to": "socalist_ruler",
-		"advisory": {},
-		"time_min": 1974,
-		"time_max": 2060
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 jevoghnya",
-		"from": "icenia:oldmesa",
-		"to": "jevoghnya",
-		"advisory": {},
-		"time_min": 1862,
-		"time_max": 1931
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend endportal",
-		"from": "icenia:oldmesa",
-		"to": "endportal",
-		"advisory": {},
-		"time_min": 998,
-		"time_max": 1027
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice j:ppcc ppcc:east besia",
-		"from": "icenia:oldmesa",
-		"to": "besia",
-		"advisory": {},
-		"time_min": 1488,
-		"time_max": 1638
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:nice j:ppcc cape_cocoa",
-		"from": "icenia:oldmesa",
-		"to": "cape_cocoa",
-		"advisory": {},
-		"time_min": 1220,
-		"time_max": 1250
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia j:icegen j:knot j:pend j:piria iria",
-		"from": "icenia:oldmesa",
-		"to": "iria",
-		"advisory": {},
-		"time_min": 2033,
-		"time_max": 2121
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its qbipfb",
-		"from": "icenia:oldmesa",
-		"to": "its:qbipfb",
-		"advisory": {},
-		"time_min": 315,
-		"time_max": 353
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its versailles",
-		"from": "icenia:oldmesa",
-		"to": "its:versailles",
-		"advisory": {},
-		"time_min": 305,
-		"time_max": 336
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its iceniapark",
-		"from": "icenia:oldmesa",
-		"to": "its:iceniapark",
-		"advisory": {},
-		"time_min": 295,
-		"time_max": 325
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its skybunker",
-		"from": "icenia:oldmesa",
-		"to": "its:skybunker",
-		"advisory": {},
-		"time_min": 307,
-		"time_max": 340
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its hji",
-		"from": "icenia:oldmesa",
-		"to": "its:hji",
-		"advisory": {},
-		"time_min": 308,
-		"time_max": 344
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its adytum",
-		"from": "icenia:oldmesa",
-		"to": "its:adytum",
-		"advisory": {},
-		"time_min": 341,
-		"time_max": 384
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its office",
-		"from": "icenia:oldmesa",
-		"to": "its:office",
-		"advisory": {},
-		"time_min": 300,
-		"time_max": 330
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its beach",
-		"from": "icenia:oldmesa",
-		"to": "its:beach",
-		"advisory": {},
-		"time_min": 301,
-		"time_max": 333
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its subway",
-		"from": "icenia:oldmesa",
-		"to": "its:subway",
-		"advisory": {},
-		"time_min": 298,
-		"time_max": 329
-	},
-	{
-		"dest": "icenia:oldmesa j:cabaleast icenia its bayloop",
-		"from": "icenia:oldmesa",
-		"to": "its:bayloop",
-		"advisory": {},
-		"time_min": 300,
-		"time_max": 331
-	},
-	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal torndal:exit",
 		"from": "lriln'kriavnya",
 		"to": "torndal",
@@ -9020,14 +8314,6 @@
 		"advisory": {},
 		"time_min": 76,
 		"time_max": 95
-	},
-	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "lriln'kriavnya",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2013,
-		"time_max": 2074
 	},
 	{
 		"dest": "lriln'kriavnya",
@@ -9616,14 +8902,6 @@
 		"time_max": 1871
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:cabaleast mesa",
-		"from": "canvasblue",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 359,
-		"time_max": 400
-	},
-	{
 		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "canvasblue",
 		"to": "lriln'kriavnya",
@@ -10208,14 +9486,6 @@
 		"advisory": {},
 		"time_min": 2849,
 		"time_max": 3360
-	},
-	{
-		"dest": "ellen j:pmts j:picenia icenia j:cabaleast mesa",
-		"from": "ellen",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1776,
-		"time_max": 2313
 	},
 	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -10804,14 +10074,6 @@
 		"time_max": 1941
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "arrelani",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1243,
-		"time_max": 1340
-	},
-	{
 		"dest": "arrelani j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "arrelani",
 		"to": "lriln'kriavnya",
@@ -11396,14 +10658,6 @@
 		"advisory": {},
 		"time_min": 1783,
 		"time_max": 1859
-	},
-	{
-		"dest": "icenia:drippy icenia j:cabaleast mesa",
-		"from": "icenia:drippy",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 344,
-		"time_max": 388
 	},
 	{
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -11992,14 +11246,6 @@
 		"time_max": 337
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "hiyo'mek",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1757,
-		"time_max": 1788
-	},
-	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "hiyo'mek",
 		"to": "lriln'kriavnya",
@@ -12584,14 +11830,6 @@
 		"advisory": {},
 		"time_min": 1796,
 		"time_max": 1882
-	},
-	{
-		"dest": "icenia:atlantica icenia j:cabaleast mesa",
-		"from": "icenia:atlantica",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 357,
-		"time_max": 411
 	},
 	{
 		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -13180,14 +12418,6 @@
 		"time_max": 1862
 	},
 	{
-		"dest": "icenia:westisle icenia j:cabaleast mesa",
-		"from": "icenia:westisle",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 338,
-		"time_max": 391
-	},
-	{
 		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:westisle",
 		"to": "lriln'kriavnya",
@@ -13772,14 +13002,6 @@
 		"advisory": {},
 		"time_min": 159,
 		"time_max": 173
-	},
-	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "il'olmhir",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1954,
-		"time_max": 2010
 	},
 	{
 		"dest": "il'olmhir torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -14368,14 +13590,6 @@
 		"time_max": 431
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "ozonrough",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1841,
-		"time_max": 1882
-	},
-	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "ozonrough",
 		"to": "lriln'kriavnya",
@@ -14960,14 +14174,6 @@
 		"advisory": {},
 		"time_min": 1956,
 		"time_max": 2033
-	},
-	{
-		"dest": "alpoko icenia j:cabaleast mesa",
-		"from": "alpoko",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 517,
-		"time_max": 562
 	},
 	{
 		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -15556,14 +14762,6 @@
 		"time_max": 1962
 	},
 	{
-		"dest": "it:anburon icenia j:cabaleast mesa",
-		"from": "it:anburon",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 413,
-		"time_max": 491
-	},
-	{
 		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "it:anburon",
 		"to": "lriln'kriavnya",
@@ -16148,14 +15346,6 @@
 		"advisory": {},
 		"time_min": 2308,
 		"time_max": 2337
-	},
-	{
-		"dest": "varkonia icenia j:cabaleast mesa",
-		"from": "varkonia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 707,
-		"time_max": 866
 	},
 	{
 		"dest": "varkonia j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -16744,14 +15934,6 @@
 		"time_max": 2911
 	},
 	{
-		"dest": "westminster icenia j:cabaleast mesa",
-		"from": "westminster",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1339,
-		"time_max": 1800
-	},
-	{
 		"dest": "westminster 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "westminster",
 		"to": "lriln'kriavnya",
@@ -17336,14 +16518,6 @@
 		"advisory": {},
 		"time_min": 3355,
 		"time_max": 3448
-	},
-	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "iria:desert",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2402,
-		"time_max": 2495
 	},
 	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -17932,14 +17106,6 @@
 		"time_max": 1774
 	},
 	{
-		"dest": "gensokyo:taozi j:gensig j:icegen icenia j:cabaleast mesa",
-		"from": "gensokyo:taozi",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 789,
-		"time_max": 821
-	},
-	{
 		"dest": "gensokyo:taozi j:gensig j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gensokyo:taozi",
 		"to": "lriln'kriavnya",
@@ -18524,14 +17690,6 @@
 		"advisory": {},
 		"time_min": 1398,
 		"time_max": 1427
-	},
-	{
-		"dest": "netherfarm j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "netherfarm",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 797,
-		"time_max": 826
 	},
 	{
 		"dest": "netherfarm j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -19120,14 +18278,6 @@
 		"time_max": 1872
 	},
 	{
-		"dest": "icenia:potato icenia j:cabaleast mesa",
-		"from": "icenia:potato",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 362,
-		"time_max": 401
-	},
-	{
 		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:potato",
 		"to": "lriln'kriavnya",
@@ -19712,14 +18862,6 @@
 		"advisory": {},
 		"time_min": 2369,
 		"time_max": 2464
-	},
-	{
-		"dest": "caledonia j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "caledonia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1768,
-		"time_max": 1863
 	},
 	{
 		"dest": "caledonia j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -20308,14 +19450,6 @@
 		"time_max": 1760
 	},
 	{
-		"dest": "sig j:gensig j:icegen icenia j:cabaleast mesa",
-		"from": "sig",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 771,
-		"time_max": 807
-	},
-	{
 		"dest": "sig j:gensig j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "sig",
 		"to": "lriln'kriavnya",
@@ -20900,14 +20034,6 @@
 		"advisory": {},
 		"time_min": 291,
 		"time_max": 321
-	},
-	{
-		"dest": "alexandria j:palex j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "alexandria",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1742,
-		"time_max": 1772
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -21496,14 +20622,6 @@
 		"time_max": 2916
 	},
 	{
-		"dest": "gondolin j:coe:north coe j:coe:south gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "gondolin",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1702,
-		"time_max": 1963
-	},
-	{
 		"dest": "gondolin j:coe:north coe j:coe:south gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gondolin",
 		"to": "lriln'kriavnya",
@@ -22088,14 +21206,6 @@
 		"advisory": {},
 		"time_min": 2167,
 		"time_max": 2333
-	},
-	{
-		"dest": "lambat j:piria j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "lambat",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1566,
-		"time_max": 1732
 	},
 	{
 		"dest": "lambat j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -22684,14 +21794,6 @@
 		"time_max": 1783
 	},
 	{
-		"dest": "aurum j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "aurum",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1130,
-		"time_max": 1182
-	},
-	{
 		"dest": "aurum j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "aurum",
 		"to": "lriln'kriavnya",
@@ -23276,14 +22378,6 @@
 		"advisory": {},
 		"time_min": 585,
 		"time_max": 623
-	},
-	{
-		"dest": "pacem j:pp j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "pacem",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2036,
-		"time_max": 2074
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -23872,14 +22966,6 @@
 		"time_max": 2612
 	},
 	{
-		"dest": "kallos icenia j:cabaleast mesa",
-		"from": "kallos",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 973,
-		"time_max": 1141
-	},
-	{
 		"dest": "kallos icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "kallos",
 		"to": "lriln'kriavnya",
@@ -24464,14 +23550,6 @@
 		"advisory": {},
 		"time_min": 1420,
 		"time_max": 1465
-	},
-	{
-		"dest": "wayrest j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "wayrest",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 819,
-		"time_max": 864
 	},
 	{
 		"dest": "wayrest j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -25060,14 +24138,6 @@
 		"time_max": 3975
 	},
 	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south gensokyo:roe j:icegen icenia j:cabaleast mesa",
-		"from": "iria:jungle",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2890,
-		"time_max": 3022
-	},
-	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south gensokyo:roe j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "iria:jungle",
 		"to": "lriln'kriavnya",
@@ -25652,14 +24722,6 @@
 		"advisory": {},
 		"time_min": 905,
 		"time_max": 1047
-	},
-	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "hjaltland",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2356,
-		"time_max": 2498
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -26248,14 +25310,6 @@
 		"time_max": 4302
 	},
 	{
-		"dest": "bloom icenia j:cabaleast mesa",
-		"from": "bloom",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 433,
-		"time_max": 513
-	},
-	{
 		"dest": "bloom imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "bloom",
 		"to": "lriln'kriavnya",
@@ -26840,14 +25894,6 @@
 		"advisory": {},
 		"time_min": 1748,
 		"time_max": 1819
-	},
-	{
-		"dest": "wnsta j:cabalwest icenia j:cabaleast mesa",
-		"from": "wnsta",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 309,
-		"time_max": 348
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -27436,14 +26482,6 @@
 		"time_max": 1869
 	},
 	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "crowsroost",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1158,
-		"time_max": 1268
-	},
-	{
 		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "crowsroost",
 		"to": "lriln'kriavnya",
@@ -28030,14 +27068,6 @@
 		"time_max": 2059
 	},
 	{
-		"dest": "gabon icenia j:cabaleast mesa",
-		"from": "gabon",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 484,
-		"time_max": 588
-	},
-	{
 		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gabon",
 		"to": "lriln'kriavnya",
@@ -28622,14 +27652,6 @@
 		"advisory": {},
 		"time_min": 2339,
 		"time_max": 2507
-	},
-	{
-		"dest": "newsovia j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "newsovia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1738,
-		"time_max": 1906
 	},
 	{
 		"dest": "newsovia j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -29244,16 +28266,6 @@
 		},
 		"time_min": 2084,
 		"time_max": 2284
-	},
-	{
-		"dest": "mts j:pmts j:picenia icenia j:cabaleast mesa",
-		"from": "mts",
-		"to": "icenia:oldmesa",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1011,
-		"time_max": 1237
 	},
 	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -29958,14 +28970,6 @@
 		"time_max": 1931
 	},
 	{
-		"dest": "icenia:nether icenia j:cabaleast mesa",
-		"from": "icenia:nether",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 399,
-		"time_max": 460
-	},
-	{
 		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:nether",
 		"to": "lriln'kriavnya",
@@ -30550,14 +29554,6 @@
 		"advisory": {},
 		"time_min": 3675,
 		"time_max": 4271
-	},
-	{
-		"dest": "spqr icenia j:cabaleast mesa",
-		"from": "spqr",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1526,
-		"time_max": 1975
 	},
 	{
 		"dest": "spqr imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -31146,14 +30142,6 @@
 		"time_max": 1340
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "fortuna",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2622,
-		"time_max": 2791
-	},
-	{
 		"dest": "fortuna j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "fortuna",
 		"to": "lriln'kriavnya",
@@ -31738,14 +30726,6 @@
 		"advisory": {},
 		"time_min": 2131,
 		"time_max": 2165
-	},
-	{
-		"dest": "vinland icenia j:cabaleast mesa",
-		"from": "vinland",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1312,
-		"time_max": 1564
 	},
 	{
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -32334,14 +31314,6 @@
 		"time_max": 1889
 	},
 	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "prussia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1168,
-		"time_max": 1288
-	},
-	{
 		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "prussia",
 		"to": "lriln'kriavnya",
@@ -32926,14 +31898,6 @@
 		"advisory": {},
 		"time_min": 544,
 		"time_max": 585
-	},
-	{
-		"dest": "forta'are j:pp j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "forta'are",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1995,
-		"time_max": 2036
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -33522,14 +32486,6 @@
 		"time_max": 2503
 	},
 	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "appomattox",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1641,
-		"time_max": 1902
-	},
-	{
 		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "appomattox",
 		"to": "lriln'kriavnya",
@@ -34114,14 +33070,6 @@
 		"advisory": {},
 		"time_min": 2271,
 		"time_max": 2591
-	},
-	{
-		"dest": "mta icenia j:cabaleast mesa",
-		"from": "mta",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1111,
-		"time_max": 1481
 	},
 	{
 		"dest": "mta 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -34710,14 +33658,6 @@
 		"time_max": 79
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "socalist_ruler",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1998,
-		"time_max": 2058
-	},
-	{
 		"dest": "socalist_ruler kro'ushro lriln'kriavnya",
 		"from": "socalist_ruler",
 		"to": "lriln'kriavnya",
@@ -35302,14 +34242,6 @@
 		"advisory": {},
 		"time_min": 165,
 		"time_max": 182
-	},
-	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "jevoghnya",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1886,
-		"time_max": 1929
 	},
 	{
 		"dest": "jevoghnya j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -35898,14 +34830,6 @@
 		"time_max": 1628
 	},
 	{
-		"dest": "endportal j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "endportal",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 998,
-		"time_max": 1027
-	},
-	{
 		"dest": "endportal j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "endportal",
 		"to": "lriln'kriavnya",
@@ -36490,14 +35414,6 @@
 		"advisory": {},
 		"time_min": 2089,
 		"time_max": 2239
-	},
-	{
-		"dest": "besia j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "besia",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1488,
-		"time_max": 1638
 	},
 	{
 		"dest": "besia j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -37086,14 +36002,6 @@
 		"time_max": 1851
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "cape_cocoa",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 1220,
-		"time_max": 1250
-	},
-	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "cape_cocoa",
 		"to": "lriln'kriavnya",
@@ -37678,14 +36586,6 @@
 		"advisory": {},
 		"time_min": 2634,
 		"time_max": 2722
-	},
-	{
-		"dest": "iria j:piria j:pend j:knot j:icegen icenia j:cabaleast mesa",
-		"from": "iria",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 2033,
-		"time_max": 2121
 	},
 	{
 		"dest": "iria j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -38274,14 +37174,6 @@
 		"time_max": 1824
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:cabaleast mesa",
-		"from": "its:qbipfb",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 315,
-		"time_max": 353
-	},
-	{
 		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:qbipfb",
 		"to": "lriln'kriavnya",
@@ -38866,14 +37758,6 @@
 		"advisory": {},
 		"time_min": 1744,
 		"time_max": 1807
-	},
-	{
-		"dest": "its:versailles j:its icenia j:cabaleast mesa",
-		"from": "its:versailles",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 305,
-		"time_max": 336
 	},
 	{
 		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -39462,14 +38346,6 @@
 		"time_max": 1796
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:cabaleast mesa",
-		"from": "its:iceniapark",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 295,
-		"time_max": 325
-	},
-	{
 		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:iceniapark",
 		"to": "lriln'kriavnya",
@@ -40054,14 +38930,6 @@
 		"advisory": {},
 		"time_min": 1746,
 		"time_max": 1811
-	},
-	{
-		"dest": "its:skybunker j:its icenia j:cabaleast mesa",
-		"from": "its:skybunker",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 307,
-		"time_max": 340
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -40650,14 +39518,6 @@
 		"time_max": 1815
 	},
 	{
-		"dest": "its:hji j:its icenia j:cabaleast mesa",
-		"from": "its:hji",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 308,
-		"time_max": 344
-	},
-	{
 		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:hji",
 		"to": "lriln'kriavnya",
@@ -41242,14 +40102,6 @@
 		"advisory": {},
 		"time_min": 1780,
 		"time_max": 1855
-	},
-	{
-		"dest": "its:adytum j:its icenia j:cabaleast mesa",
-		"from": "its:adytum",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 341,
-		"time_max": 384
 	},
 	{
 		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -41838,14 +40690,6 @@
 		"time_max": 1801
 	},
 	{
-		"dest": "its:office j:its icenia j:cabaleast mesa",
-		"from": "its:office",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 300,
-		"time_max": 330
-	},
-	{
 		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:office",
 		"to": "lriln'kriavnya",
@@ -42430,14 +41274,6 @@
 		"advisory": {},
 		"time_min": 1740,
 		"time_max": 1804
-	},
-	{
-		"dest": "its:beach j:its icenia j:cabaleast mesa",
-		"from": "its:beach",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 301,
-		"time_max": 333
 	},
 	{
 		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -43026,14 +41862,6 @@
 		"time_max": 1800
 	},
 	{
-		"dest": "its:subway j:its icenia j:cabaleast mesa",
-		"from": "its:subway",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 298,
-		"time_max": 329
-	},
-	{
 		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:subway",
 		"to": "lriln'kriavnya",
@@ -43618,14 +42446,6 @@
 		"advisory": {},
 		"time_min": 1739,
 		"time_max": 1802
-	},
-	{
-		"dest": "its:bayloop j:its icenia j:cabaleast mesa",
-		"from": "its:bayloop",
-		"to": "icenia:oldmesa",
-		"advisory": {},
-		"time_min": 300,
-		"time_max": 331
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
