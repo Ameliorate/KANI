@@ -1,8 +1,0 @@
-description = "Icenia's old mesa claims, now sold to IT."
-
-x = 500
-z = -1200
-
-links = [
-  "j:cabaleast",
-]

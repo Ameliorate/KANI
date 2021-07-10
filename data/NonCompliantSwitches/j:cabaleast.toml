@@ -8,11 +8,9 @@ z = -1290
 links = [
  "icenia",
  "icenia:lord",
- "icenia:oldmesa",
 ]
 
 switch = true
 
 [BadLinks]
 "icenia:lord" = "lord"
-"icenia:oldmesa" = "mesa"
