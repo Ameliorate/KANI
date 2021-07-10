@@ -27,7 +27,6 @@
 {"id":"ccmap:kani/node/icenia:drippy","name":"Icenia:Drippy (KANI)","type":"TerminalDestinations","x":-1500,"z":-900},
 {"description":"LordChiefton's Estate in Icenia","id":"ccmap:kani/node/icenia:lord","name":"Icenia:Lord (KANI)","type":"TerminalDestinations","x":-1000,"z":-1300},
 {"id":"ccmap:kani/node/icenia:nether","name":"Icenia:Nether (KANI)","type":"TerminalDestinations","x":-2000,"z":-500},
-{"description":"Icenia's old mesa claims, now sold to IT.","id":"ccmap:kani/node/icenia:oldmesa","name":"Icenia:Oldmesa (KANI)","type":"TerminalDestinations","x":500,"z":-1200},
 {"description":"A exp-sized potato farm south of WestIsle.","id":"ccmap:kani/node/icenia:potato","name":"Icenia:Potato (KANI)","type":"TerminalDestinations","x":-1550,"z":-744},
 {"description":"State of Icenia, dissolved after a period of inactivity after an attempted takeover of Icenia Government","id":"ccmap:kani/node/icenia:westisle","name":"Icenia:Westisle (KANI)","type":"TerminalDestinations","x":-2002,"y":101,"z":-1054},
 {"id":"ccmap:kani/node/il'olmhir","name":"Il'Olmhir (KANI)","type":"TerminalDestinations","x":-453,"y":148,"z":7762},
@@ -46,7 +45,7 @@
 {"description":"Contains a water drop to the IceniaSkybunker, a short staircase to the surface, and a door to SoundTech's basement.","id":"ccmap:kani/node/its:skybunker","name":"Its:Skybunker (KANI)","type":"TerminalDestinations","x":-1584,"y":67,"z":-1325},
 {"description":"The subway under IceniaCity near JahPark and the station building. This station also serves JahPark.","id":"ccmap:kani/node/its:subway","name":"Its:Subway (KANI)","type":"TerminalDestinations","x":-1691,"y":64,"z":-1348},
 {"description":"The greenery part of icenia, notibly featuring SoundTech's house.","id":"ccmap:kani/node/its:versailles","name":"Its:Versailles (KANI)","type":"TerminalDestinations","x":-1594,"y":70,"z":-1292},
-{"BadLinks":"icenia:lord: lord, icenia:oldmesa: mesa, ","description":"East network of the rail cabal run by SoundTech.","id":"ccmap:kani/node/j:cabaleast","location":"East of IceniaCity","name":"J:Cabaleast (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1341,"y":5,"z":-1290},
+{"BadLinks":"icenia:lord: lord, ","description":"East network of the rail cabal run by SoundTech.","id":"ccmap:kani/node/j:cabaleast","location":"East of IceniaCity","name":"J:Cabaleast (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1341,"y":5,"z":-1290},
 {"BadLinks":"icenia:westisle: westisle, icenia:nether: nether, icenia:drippy: drippy, canvasblue: mta canvasblue, ","description":"West Network of SoundTech's Rail Cabal.","id":"ccmap:kani/node/j:cabalwest","location":"West of IceniaCity, East of WestIsle.","name":"J:Cabalwest (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1800,"z":-1300},
 {"id":"ccmap:kani/node/j:coe:east","name":"J:Coe:East (KANI)","switch":true,"type":"CompliantSwitches","x":1297,"y":5,"z":-5765},
 {"id":"ccmap:kani/node/j:coe:north","name":"J:Coe:North (KANI)","switch":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5919},
@@ -149,7 +148,6 @@
 {"distance":500,"id":"ccmap:kani/link/icenia:drippy/j:cabalwest","line":[[[-1500,-900],[-1800,-1300]]],"name":"Icenia:Drippy - J:Cabalwest (KANI)","type":"link"},
 {"distance":341,"id":"ccmap:kani/link/icenia:lord/j:cabaleast","line":[[[-1000,-1300],[-1341,-1290]]],"name":"Icenia:Lord - J:Cabaleast (KANI)","type":"link"},
 {"distance":824,"id":"ccmap:kani/link/icenia:nether/j:cabalwest","line":[[[-2000,-500],[-1800,-1300]]],"name":"Icenia:Nether - J:Cabalwest (KANI)","type":"link"},
-{"distance":1843,"id":"ccmap:kani/link/icenia:oldmesa/j:cabaleast","line":[[[500,-1200],[-1341,-1290]]],"name":"Icenia:Oldmesa - J:Cabaleast (KANI)","type":"link"},
 {"distance":318,"id":"ccmap:kani/link/icenia:westisle/j:cabalwest","line":[[[-2002,-1054],[-1800,-1300]]],"name":"Icenia:Westisle - J:Cabalwest (KANI)","type":"link"},
 {"distance":407,"id":"ccmap:kani/link/il'olmhir/torndal","line":[[[-453,7762],[-403,8166]]],"name":"Il'Olmhir - Torndal (KANI)","type":"link"},
 {"distance":6572,"id":"ccmap:kani/link/imc/j:pmts","line":[[[-8200,3300],[-2516,0]]],"name":"Imc - J:Pmts (KANI)","type":"link"},
@@ -216,4 +214,4 @@
 {"distance":5843,"id":"ccmap:kani/link/mir/savion","line":[[[11043,-87],[9847,-5807]]],"name":"Mir - Savion (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1625958755","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1625959409","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
