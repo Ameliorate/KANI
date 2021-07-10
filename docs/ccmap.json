@@ -178,7 +178,6 @@
 {"distance":1067,"id":"ccmap:kani/link/j:gensig/sig","line":[[[1249,-1412],[2315,-1360]]],"name":"J:Gensig - Sig (KANI)","type":"link"},
 {"distance":1412,"id":"ccmap:kani/link/j:icegen/j:knot","line":[[[380,-1412],[380,0]]],"name":"J:Icegen - J:Knot (KANI)","type":"link"},
 {"distance":1933,"id":"ccmap:kani/link/j:knot/j:pend","line":[[[380,0],[2313,4]]],"name":"J:Knot - J:Pend (KANI)","type":"link"},
-{"distance":2711,"id":"ccmap:kani/link/j:knot/j:piria","line":[[[380,0],[3000,-700]]],"name":"J:Knot - J:Piria (KANI)","type":"link"},
 {"distance":8208,"id":"ccmap:kani/link/j:knot/j:pnro","line":[[[380,0],[381,8208]]],"name":"J:Knot - J:Pnro (KANI)","type":"link"},
 {"distance":735,"id":"ccmap:kani/link/j:knot/netherfarm","line":[[[380,0],[1115,0]]],"name":"J:Knot - Netherfarm (KANI)","type":"link"},
 {"distance":6602,"id":"ccmap:kani/link/j:knot/vinland","line":[[[380,0],[414,6602]]],"name":"J:Knot - Vinland (KANI)","type":"link"},
@@ -217,4 +216,4 @@
 {"distance":5843,"id":"ccmap:kani/link/mir/savion","line":[[[11043,-87],[9847,-5807]]],"name":"Mir - Savion (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1625014847","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1625958755","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
