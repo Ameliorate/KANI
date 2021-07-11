@@ -1,0 +1,14 @@
+x = -746
+y = 11
+z = -3501
+
+switch = true
+
+links = [
+ 'gensokyo:roe',
+ 'tvtopia',
+ 'gabon',
+#'nyasaland', # Can't get to gntv from nyasaland
+#'em', # These two rails are not varified to work correctly.
+#'gondolin',
+]

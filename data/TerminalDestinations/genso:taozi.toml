@@ -4,5 +4,6 @@ x = 1278
 z = -2618
 
 links = [
-  "j:gensig"
+  "j:gensig",
+  "gensokyo:roe",
 ]

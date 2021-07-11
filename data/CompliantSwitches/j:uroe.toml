@@ -1,0 +1,13 @@
+description = "Switch located directly under gensokyo:roe"
+
+x = 380
+y = 5
+z = -2846
+
+switch = true
+
+links = [
+  "j:icegen",
+  "j:coe:south",
+  "gensokyo:roe",
+]

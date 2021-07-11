@@ -1,12 +1,15 @@
 description = "Gensokyo's Roe Island, where they first started out."
 
-x = 380
-y = 5
-z = -2846
+x = 406
+y = 74
+z = -2849
 
 station = true
 
 links = [
-  "j:icegen",
-  "j:coe:south",
+ 'j:uroe',
+ 'j:gntv',
+ 'genso:taozi',
+ 'genso:centi',
+ 'bloom',
 ]
