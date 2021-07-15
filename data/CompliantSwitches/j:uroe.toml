@@ -9,5 +9,5 @@ switch = true
 links = [
   "j:icegen",
   "j:coe:south",
-  "gensokyo:roe",
+  "genso:roe",
 ]

@@ -5,7 +5,7 @@ z = -3501
 switch = true
 
 links = [
- 'gensokyo:roe',
+ 'genso:roe',
  'tvtopia',
  'gabon',
 #'nyasaland', # Can't get to gntv from nyasaland
