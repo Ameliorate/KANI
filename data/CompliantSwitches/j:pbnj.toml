@@ -1,0 +1,15 @@
+x = 6300
+y = 13
+z = 0
+
+links = [
+ 'besia',
+ 'mir',
+ 'caledonia',
+ 'newsovia',
+]
+
+[BadLinks]
+'mir' = 'pbnj:east mir'
+'caledonia' = 'pbnj:east caledonia'
+'newsovia' = 'pbnj:east newsovia'
