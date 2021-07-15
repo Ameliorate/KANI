@@ -6,10 +6,8 @@ links = [
  'besia',
  'mir',
  'caledonia',
- 'newsovia',
 ]
 
 [BadLinks]
 'mir' = 'pbnj:east mir'
 'caledonia' = 'pbnj:east caledonia'
-'newsovia' = 'pbnj:east newsovia'

@@ -1,8 +1,0 @@
-description = "City of New Sovia, home of LSD members such as Pirater and iwaki."
-
-x = 8475 
-z = -1278
-
-links = [
- 'j:ppcc',
-]
