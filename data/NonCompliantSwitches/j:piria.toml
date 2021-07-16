@@ -1,7 +1,5 @@
 description = """
 Very nice intesection of 4 rails outside the city of Elwin.
-
-Only correctly routes towards prussia, crowsroost, and gensokyo:roe.
 """
 
 location = "Northeast of Elwin, far East Northeast of JunctionKnot."
@@ -12,9 +10,6 @@ inaccuratelocation = true
 
 links = [
  "j:pend",
- "prussia",
- "crowsroost",
- "appomattox",
  "iria",
  "lambat",
 ]
