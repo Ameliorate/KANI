@@ -12,6 +12,10 @@ links = [
  "j:pend",
  "iria",
  "lambat",
+ "genso:taozi",
 ]
 
 switch = true
+
+[BadLinks]
+"genso:taozi" = "gensokyo"

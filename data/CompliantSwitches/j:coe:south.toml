@@ -7,6 +7,6 @@ switch = true
 links = [
  'coe',
  'j:uroe',
-#'gensokyo:taozi',
+ 'genso:taozi',
 #'0,0',
 ] 

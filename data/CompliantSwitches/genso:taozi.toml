@@ -1,0 +1,21 @@
+description = "Gensokyo's current project, a modern japanese city."
+
+x = 1278
+z = -2618
+
+station = true
+
+links = [
+  "j:gensig",
+  "genso:roe",
+  "j:coe:south",
+  "j:piria",
+  "old_sanctuary",
+  "sig",
+  "crowsroost",
+  "nyasaland",
+  "gondolin",
+  "coventhia",
+  "genso:shiranui",
+  "genso:farms",
+]
