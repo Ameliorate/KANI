@@ -368,14 +368,6 @@
 		"time_max": 1701
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "torndal",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1651,
-		"time_max": 1753
-	},
-	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "torndal",
 		"to": "gabon",
@@ -434,28 +426,12 @@
 		"time_max": 2049
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "torndal",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1661,
-		"time_max": 1773
-	},
-	{
 		"dest": "torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "torndal",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 436,
 		"time_max": 469
-	},
-	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "torndal",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2134,
-		"time_max": 2387
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -962,14 +938,6 @@
 		"time_max": 1522
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "imc",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1638,
-		"time_max": 2020
-	},
-	{
 		"dest": "imc j:pmts j:picenia gabon",
 		"from": "imc",
 		"to": "gabon",
@@ -1028,28 +996,12 @@
 		"time_max": 2316
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria prussia",
-		"from": "imc",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1648,
-		"time_max": 2040
-	},
-	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "imc",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2475,
 		"time_max": 2788
-	},
-	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria appomattox",
-		"from": "imc",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2121,
-		"time_max": 2654
 	},
 	{
 		"dest": "imc mta",
@@ -1556,14 +1508,6 @@
 		"time_max": 1772
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "kro'ushro",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1722,
-		"time_max": 1824
-	},
-	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "kro'ushro",
 		"to": "gabon",
@@ -1622,28 +1566,12 @@
 		"time_max": 2120
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "kro'ushro",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1732,
-		"time_max": 1844
-	},
-	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "kro'ushro",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 507,
 		"time_max": 540
-	},
-	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "kro'ushro",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2205,
-		"time_max": 2458
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -2150,14 +2078,6 @@
 		"time_max": 436
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:piria crowsroost",
-		"from": "0,0",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 501,
-		"time_max": 582
-	},
-	{
 		"dest": "0,0 j:picenia gabon",
 		"from": "0,0",
 		"to": "gabon",
@@ -2216,28 +2136,12 @@
 		"time_max": 878
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:piria prussia",
-		"from": "0,0",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 511,
-		"time_max": 602
-	},
-	{
 		"dest": "0,0 j:knot j:pnro j:pp forta'are",
 		"from": "0,0",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1338,
 		"time_max": 1350
-	},
-	{
-		"dest": "0,0 j:knot j:pend j:piria appomattox",
-		"from": "0,0",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 984,
-		"time_max": 1216
 	},
 	{
 		"dest": "0,0 mta",
@@ -2744,14 +2648,6 @@
 		"time_max": 489
 	},
 	{
-		"dest": "genso:roe j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "genso:roe",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 811,
-		"time_max": 893
-	},
-	{
 		"dest": "genso:roe j:gntv gabon",
 		"from": "genso:roe",
 		"to": "gabon",
@@ -2810,28 +2706,12 @@
 		"time_max": 1189
 	},
 	{
-		"dest": "genso:roe j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "genso:roe",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 821,
-		"time_max": 913
-	},
-	{
 		"dest": "genso:roe j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "genso:roe",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1648,
 		"time_max": 1661
-	},
-	{
-		"dest": "genso:roe j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "genso:roe",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1294,
-		"time_max": 1527
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia mta",
@@ -3338,14 +3218,6 @@
 		"time_max": 899
 	},
 	{
-		"dest": "coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "coe",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1222,
-		"time_max": 1303
-	},
-	{
 		"dest": "coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "coe",
 		"to": "gabon",
@@ -3404,28 +3276,12 @@
 		"time_max": 1599
 	},
 	{
-		"dest": "coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "coe",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1232,
-		"time_max": 1323
-	},
-	{
 		"dest": "coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "coe",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2059,
 		"time_max": 2071
-	},
-	{
-		"dest": "coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "coe",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1705,
-		"time_max": 1937
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia mta",
@@ -3932,14 +3788,6 @@
 		"time_max": 2039
 	},
 	{
-		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "savion",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2357,
-		"time_max": 2443
-	},
-	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "savion",
 		"to": "gabon",
@@ -3998,28 +3846,12 @@
 		"time_max": 2739
 	},
 	{
-		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "savion",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2367,
-		"time_max": 2463
-	},
-	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "savion",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 3194,
 		"time_max": 3211
-	},
-	{
-		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "savion",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2840,
-		"time_max": 3077
 	},
 	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen icenia mta",
@@ -4526,14 +4358,6 @@
 		"time_max": 48
 	},
 	{
-		"dest": "icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 884,
-		"time_max": 968
-	},
-	{
 		"dest": "icenia gabon",
 		"from": "icenia",
 		"to": "gabon",
@@ -4592,28 +4416,12 @@
 		"time_max": 1264
 	},
 	{
-		"dest": "icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 894,
-		"time_max": 988
-	},
-	{
 		"dest": "icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1697,
 		"time_max": 1738
-	},
-	{
-		"dest": "icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1367,
-		"time_max": 1602
 	},
 	{
 		"dest": "icenia mta",
@@ -5120,14 +4928,6 @@
 		"time_max": 1827
 	},
 	{
-		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:piria crowsroost",
-		"from": "mir",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1302,
-		"time_max": 1395
-	},
-	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "mir",
 		"to": "gabon",
@@ -5186,28 +4986,12 @@
 		"time_max": 2175
 	},
 	{
-		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:piria prussia",
-		"from": "mir",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1312,
-		"time_max": 1415
-	},
-	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "mir",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2623,
 		"time_max": 2647
-	},
-	{
-		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:piria appomattox",
-		"from": "mir",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1785,
-		"time_max": 2029
 	},
 	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot 0,0 mta",
@@ -5714,14 +5498,6 @@
 		"time_max": 104
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "ssta",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 983,
-		"time_max": 1094
-	},
-	{
 		"dest": "ssta j:cabalwest icenia gabon",
 		"from": "ssta",
 		"to": "gabon",
@@ -5780,28 +5556,12 @@
 		"time_max": 1390
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "ssta",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 993,
-		"time_max": 1114
-	},
-	{
 		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "ssta",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1796,
 		"time_max": 1864
-	},
-	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "ssta",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1466,
-		"time_max": 1728
 	},
 	{
 		"dest": "ssta j:cabalwest icenia mta",
@@ -6308,14 +6068,6 @@
 		"time_max": 1534
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "hje",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1951,
-		"time_max": 2032
-	},
-	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia gabon",
 		"from": "hje",
 		"to": "gabon",
@@ -6374,28 +6126,12 @@
 		"time_max": 2328
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria prussia",
-		"from": "hje",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1961,
-		"time_max": 2052
-	},
-	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "hje",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2788,
 		"time_max": 2800
-	},
-	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria appomattox",
-		"from": "hje",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2434,
-		"time_max": 2666
 	},
 	{
 		"dest": "hje j:pkallos j:pvark mta",
@@ -6902,14 +6638,6 @@
 		"time_max": 151
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:lord",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 971,
-		"time_max": 1071
-	},
-	{
 		"dest": "icenia:lord j:cabaleast icenia gabon",
 		"from": "icenia:lord",
 		"to": "gabon",
@@ -6968,28 +6696,12 @@
 		"time_max": 1367
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:lord",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 981,
-		"time_max": 1091
-	},
-	{
 		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:lord",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1784,
 		"time_max": 1841
-	},
-	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:lord",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1454,
-		"time_max": 1705
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia mta",
@@ -7496,14 +7208,6 @@
 		"time_max": 1732
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "nro'meagh",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1682,
-		"time_max": 1784
-	},
-	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "nro'meagh",
 		"to": "gabon",
@@ -7562,28 +7266,12 @@
 		"time_max": 2080
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "nro'meagh",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1692,
-		"time_max": 1804
-	},
-	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "nro'meagh",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 467,
 		"time_max": 500
-	},
-	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "nro'meagh",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2165,
-		"time_max": 2418
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -8090,14 +7778,6 @@
 		"time_max": 1817
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "topha'nya",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1759,
-		"time_max": 1869
-	},
-	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "topha'nya",
 		"to": "gabon",
@@ -8156,28 +7836,12 @@
 		"time_max": 2165
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "topha'nya",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1769,
-		"time_max": 1889
-	},
-	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "topha'nya",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 544,
 		"time_max": 585
-	},
-	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "topha'nya",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2242,
-		"time_max": 2503
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -8684,14 +8348,6 @@
 		"time_max": 1822
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "lriln'kriavnya",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1761,
-		"time_max": 1874
-	},
-	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "lriln'kriavnya",
 		"to": "gabon",
@@ -8750,28 +8406,12 @@
 		"time_max": 2170
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "lriln'kriavnya",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1771,
-		"time_max": 1894
-	},
-	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "lriln'kriavnya",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 546,
 		"time_max": 590
-	},
-	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "lriln'kriavnya",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2244,
-		"time_max": 2508
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -9278,14 +8918,6 @@
 		"time_max": 78
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "canvasblue",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 969,
-		"time_max": 1068
-	},
-	{
 		"dest": "canvasblue j:cabalwest icenia gabon",
 		"from": "canvasblue",
 		"to": "gabon",
@@ -9344,28 +8976,12 @@
 		"time_max": 1364
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "canvasblue",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 979,
-		"time_max": 1088
-	},
-	{
 		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "canvasblue",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1782,
 		"time_max": 1838
-	},
-	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "canvasblue",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1452,
-		"time_max": 1702
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia mta",
@@ -9872,14 +9488,6 @@
 		"time_max": 2061
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "ellen",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1996,
-		"time_max": 2559
-	},
-	{
 		"dest": "ellen j:pmts j:picenia gabon",
 		"from": "ellen",
 		"to": "gabon",
@@ -9938,28 +9546,12 @@
 		"time_max": 2855
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria prussia",
-		"from": "ellen",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2006,
-		"time_max": 2579
-	},
-	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "ellen",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2833,
 		"time_max": 3327
-	},
-	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria appomattox",
-		"from": "ellen",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2479,
-		"time_max": 3193
 	},
 	{
 		"dest": "ellen imc mta",
@@ -10466,14 +10058,6 @@
 		"time_max": 1088
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:piria crowsroost",
-		"from": "arrelani",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 507,
-		"time_max": 656
-	},
-	{
 		"dest": "arrelani j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "arrelani",
 		"to": "gabon",
@@ -10532,28 +10116,12 @@
 		"time_max": 1436
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:piria prussia",
-		"from": "arrelani",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 517,
-		"time_max": 676
-	},
-	{
 		"dest": "arrelani j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "arrelani",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1828,
 		"time_max": 1908
-	},
-	{
-		"dest": "arrelani j:nice j:pend j:piria appomattox",
-		"from": "arrelani",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 990,
-		"time_max": 1290
 	},
 	{
 		"dest": "arrelani j:nice j:pend j:knot 0,0 mta",
@@ -11060,14 +10628,6 @@
 		"time_max": 627
 	},
 	{
-		"dest": "genso:taozi j:gensig j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "genso:taozi",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 889,
-		"time_max": 973
-	},
-	{
 		"dest": "genso:taozi genso:roe j:gntv gabon",
 		"from": "genso:taozi",
 		"to": "gabon",
@@ -11126,28 +10686,12 @@
 		"time_max": 1269
 	},
 	{
-		"dest": "genso:taozi j:gensig j:icegen j:knot j:pend j:piria prussia",
-		"from": "genso:taozi",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 899,
-		"time_max": 993
-	},
-	{
 		"dest": "genso:taozi j:gensig j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "genso:taozi",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1726,
 		"time_max": 1741
-	},
-	{
-		"dest": "genso:taozi j:gensig j:icegen j:knot j:pend j:piria appomattox",
-		"from": "genso:taozi",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1372,
-		"time_max": 1607
 	},
 	{
 		"dest": "genso:taozi j:gensig j:icegen icenia mta",
@@ -11654,14 +11198,6 @@
 		"time_max": 101
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:drippy",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 954,
-		"time_max": 1056
-	},
-	{
 		"dest": "icenia:drippy icenia gabon",
 		"from": "icenia:drippy",
 		"to": "gabon",
@@ -11720,28 +11256,12 @@
 		"time_max": 1352
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:drippy",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 964,
-		"time_max": 1076
-	},
-	{
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:drippy",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1767,
 		"time_max": 1826
-	},
-	{
-		"dest": "icenia:drippy icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:drippy",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1437,
-		"time_max": 1690
 	},
 	{
 		"dest": "icenia:drippy icenia mta",
@@ -12248,14 +11768,6 @@
 		"time_max": 1536
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "hiyo'mek",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1505,
-		"time_max": 1588
-	},
-	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen icenia gabon",
 		"from": "hiyo'mek",
 		"to": "gabon",
@@ -12314,28 +11826,12 @@
 		"time_max": 1884
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria prussia",
-		"from": "hiyo'mek",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1608
-	},
-	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:pp forta'are",
 		"from": "hiyo'mek",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 290,
 		"time_max": 304
-	},
-	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria appomattox",
-		"from": "hiyo'mek",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1988,
-		"time_max": 2222
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 mta",
@@ -12842,14 +12338,6 @@
 		"time_max": 159
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:atlantica",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 967,
-		"time_max": 1079
-	},
-	{
 		"dest": "icenia:atlantica icenia gabon",
 		"from": "icenia:atlantica",
 		"to": "gabon",
@@ -12908,28 +12396,12 @@
 		"time_max": 1375
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:atlantica",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 977,
-		"time_max": 1099
-	},
-	{
 		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:atlantica",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1780,
 		"time_max": 1849
-	},
-	{
-		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:atlantica",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1450,
-		"time_max": 1713
 	},
 	{
 		"dest": "icenia:atlantica icenia mta",
@@ -13436,14 +12908,6 @@
 		"time_max": 69
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:westisle",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 948,
-		"time_max": 1059
-	},
-	{
 		"dest": "icenia:westisle icenia gabon",
 		"from": "icenia:westisle",
 		"to": "gabon",
@@ -13502,28 +12966,12 @@
 		"time_max": 1355
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:westisle",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 958,
-		"time_max": 1079
-	},
-	{
 		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:westisle",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1761,
 		"time_max": 1829
-	},
-	{
-		"dest": "icenia:westisle icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:westisle",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1431,
-		"time_max": 1693
 	},
 	{
 		"dest": "icenia:westisle icenia mta",
@@ -14030,14 +13478,6 @@
 		"time_max": 1758
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "il'olmhir",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1702,
-		"time_max": 1810
-	},
-	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "il'olmhir",
 		"to": "gabon",
@@ -14096,28 +13536,12 @@
 		"time_max": 2106
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "il'olmhir",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1712,
-		"time_max": 1830
-	},
-	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "il'olmhir",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 487,
 		"time_max": 526
-	},
-	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "il'olmhir",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2185,
-		"time_max": 2444
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -14624,14 +14048,6 @@
 		"time_max": 1630
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "ozonrough",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1589,
-		"time_max": 1682
-	},
-	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen icenia gabon",
 		"from": "ozonrough",
 		"to": "gabon",
@@ -14690,28 +14106,12 @@
 		"time_max": 1978
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria prussia",
-		"from": "ozonrough",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1599,
-		"time_max": 1702
-	},
-	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:pp forta'are",
 		"from": "ozonrough",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 374,
 		"time_max": 398
-	},
-	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria appomattox",
-		"from": "ozonrough",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2072,
-		"time_max": 2316
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 mta",
@@ -15218,14 +14618,6 @@
 		"time_max": 310
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "alpoko",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1127,
-		"time_max": 1230
-	},
-	{
 		"dest": "alpoko icenia gabon",
 		"from": "alpoko",
 		"to": "gabon",
@@ -15284,28 +14676,12 @@
 		"time_max": 1526
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "alpoko",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1137,
-		"time_max": 1250
-	},
-	{
 		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "alpoko",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1940,
 		"time_max": 2000
-	},
-	{
-		"dest": "alpoko icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "alpoko",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1610,
-		"time_max": 1864
 	},
 	{
 		"dest": "alpoko icenia mta",
@@ -15812,14 +15188,6 @@
 		"time_max": 239
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "it:anburon",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1023,
-		"time_max": 1159
-	},
-	{
 		"dest": "it:anburon icenia gabon",
 		"from": "it:anburon",
 		"to": "gabon",
@@ -15878,28 +15246,12 @@
 		"time_max": 1455
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "it:anburon",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1033,
-		"time_max": 1179
-	},
-	{
 		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "it:anburon",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1836,
 		"time_max": 1929
-	},
-	{
-		"dest": "it:anburon icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "it:anburon",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1506,
-		"time_max": 1793
 	},
 	{
 		"dest": "it:anburon icenia mta",
@@ -16406,14 +15758,6 @@
 		"time_max": 614
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "varkonia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1317,
-		"time_max": 1534
-	},
-	{
 		"dest": "varkonia icenia gabon",
 		"from": "varkonia",
 		"to": "gabon",
@@ -16472,28 +15816,12 @@
 		"time_max": 1830
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "varkonia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1327,
-		"time_max": 1554
-	},
-	{
 		"dest": "varkonia j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "varkonia",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2292,
 		"time_max": 2304
-	},
-	{
-		"dest": "varkonia icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "varkonia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1800,
-		"time_max": 2168
 	},
 	{
 		"dest": "varkonia mta",
@@ -17000,14 +16328,6 @@
 		"time_max": 1548
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "westminster",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1596,
-		"time_max": 2110
-	},
-	{
 		"dest": "westminster icenia gabon",
 		"from": "westminster",
 		"to": "gabon",
@@ -17066,28 +16386,12 @@
 		"time_max": 2406
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria prussia",
-		"from": "westminster",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1606,
-		"time_max": 2130
-	},
-	{
 		"dest": "westminster 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "westminster",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2433,
 		"time_max": 2878
-	},
-	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria appomattox",
-		"from": "westminster",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2079,
-		"time_max": 2744
 	},
 	{
 		"dest": "westminster imc mta",
@@ -17594,14 +16898,6 @@
 		"time_max": 2243
 	},
 	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "iria:desert",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2502,
-		"time_max": 2647
-	},
-	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "iria:desert",
 		"to": "gabon",
@@ -17660,28 +16956,12 @@
 		"time_max": 2943
 	},
 	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "iria:desert",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2512,
-		"time_max": 2667
-	},
-	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "iria:desert",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 3339,
 		"time_max": 3415
-	},
-	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "iria:desert",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2985,
-		"time_max": 3281
 	},
 	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen icenia mta",
@@ -18188,14 +17468,6 @@
 		"time_max": 574
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:piria crowsroost",
-		"from": "netherfarm",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 545,
-		"time_max": 626
-	},
-	{
 		"dest": "netherfarm j:knot j:icegen icenia gabon",
 		"from": "netherfarm",
 		"to": "gabon",
@@ -18254,28 +17526,12 @@
 		"time_max": 922
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:piria prussia",
-		"from": "netherfarm",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 555,
-		"time_max": 646
-	},
-	{
 		"dest": "netherfarm j:knot j:pnro j:pp forta'are",
 		"from": "netherfarm",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1382,
 		"time_max": 1394
-	},
-	{
-		"dest": "netherfarm j:knot j:pend j:piria appomattox",
-		"from": "netherfarm",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1028,
-		"time_max": 1260
 	},
 	{
 		"dest": "netherfarm j:knot 0,0 mta",
@@ -18782,14 +18038,6 @@
 		"time_max": 149
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:potato",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 972,
-		"time_max": 1069
-	},
-	{
 		"dest": "icenia:potato icenia gabon",
 		"from": "icenia:potato",
 		"to": "gabon",
@@ -18848,28 +18096,12 @@
 		"time_max": 1365
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:potato",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 982,
-		"time_max": 1089
-	},
-	{
 		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:potato",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1785,
 		"time_max": 1839
-	},
-	{
-		"dest": "icenia:potato icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:potato",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1455,
-		"time_max": 1703
 	},
 	{
 		"dest": "icenia:potato icenia mta",
@@ -19376,14 +18608,6 @@
 		"time_max": 1612
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria crowsroost",
-		"from": "caledonia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1036,
-		"time_max": 1180
-	},
-	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "caledonia",
 		"to": "gabon",
@@ -19442,28 +18666,12 @@
 		"time_max": 1960
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria prussia",
-		"from": "caledonia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1046,
-		"time_max": 1200
-	},
-	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "caledonia",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2357,
 		"time_max": 2432
-	},
-	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria appomattox",
-		"from": "caledonia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1519,
-		"time_max": 1814
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 mta",
@@ -19970,14 +19178,6 @@
 		"time_max": 555
 	},
 	{
-		"dest": "sig j:gensig j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "sig",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 871,
-		"time_max": 959
-	},
-	{
 		"dest": "sig j:gensig j:icegen icenia gabon",
 		"from": "sig",
 		"to": "gabon",
@@ -20036,28 +19236,12 @@
 		"time_max": 1255
 	},
 	{
-		"dest": "sig j:gensig j:icegen j:knot j:pend j:piria prussia",
-		"from": "sig",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 881,
-		"time_max": 979
-	},
-	{
 		"dest": "sig j:gensig j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "sig",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1708,
 		"time_max": 1727
-	},
-	{
-		"dest": "sig j:gensig j:icegen j:knot j:pend j:piria appomattox",
-		"from": "sig",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1354,
-		"time_max": 1593
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia mta",
@@ -20564,14 +19748,6 @@
 		"time_max": 1520
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "alexandria",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1490,
-		"time_max": 1572
-	},
-	{
 		"dest": "alexandria j:palex j:pnro j:knot j:icegen icenia gabon",
 		"from": "alexandria",
 		"to": "gabon",
@@ -20630,28 +19806,12 @@
 		"time_max": 1868
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria prussia",
-		"from": "alexandria",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1500,
-		"time_max": 1592
-	},
-	{
 		"dest": "alexandria j:palex j:pnro j:pp forta'are",
 		"from": "alexandria",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 275,
 		"time_max": 288
-	},
-	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria appomattox",
-		"from": "alexandria",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1973,
-		"time_max": 2206
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 mta",
@@ -21158,14 +20318,6 @@
 		"time_max": 1711
 	},
 	{
-		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "gondolin",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1802,
-		"time_max": 2115
-	},
-	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "gondolin",
 		"to": "gabon",
@@ -21224,28 +20376,12 @@
 		"time_max": 2411
 	},
 	{
-		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "gondolin",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1812,
-		"time_max": 2135
-	},
-	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "gondolin",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2639,
 		"time_max": 2883
-	},
-	{
-		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "gondolin",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2285,
-		"time_max": 2749
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia mta",
@@ -21752,14 +20888,6 @@
 		"time_max": 1480
 	},
 	{
-		"dest": "lambat j:piria crowsroost",
-		"from": "lambat",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 584,
-		"time_max": 700
-	},
-	{
 		"dest": "lambat j:piria j:pend j:knot j:icegen icenia gabon",
 		"from": "lambat",
 		"to": "gabon",
@@ -21818,28 +20946,12 @@
 		"time_max": 1828
 	},
 	{
-		"dest": "lambat j:piria prussia",
-		"from": "lambat",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 594,
-		"time_max": 720
-	},
-	{
 		"dest": "lambat j:piria j:pend j:knot j:pnro j:pp forta'are",
 		"from": "lambat",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2151,
 		"time_max": 2300
-	},
-	{
-		"dest": "lambat j:piria appomattox",
-		"from": "lambat",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1067,
-		"time_max": 1334
 	},
 	{
 		"dest": "lambat j:piria j:pend j:knot 0,0 mta",
@@ -22346,14 +21458,6 @@
 		"time_max": 930
 	},
 	{
-		"dest": "aurum j:nice j:pend j:piria crowsroost",
-		"from": "aurum",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 394,
-		"time_max": 498
-	},
-	{
 		"dest": "aurum j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "aurum",
 		"to": "gabon",
@@ -22412,28 +21516,12 @@
 		"time_max": 1278
 	},
 	{
-		"dest": "aurum j:nice j:pend j:piria prussia",
-		"from": "aurum",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 404,
-		"time_max": 518
-	},
-	{
 		"dest": "aurum j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "aurum",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1715,
 		"time_max": 1750
-	},
-	{
-		"dest": "aurum j:nice j:pend j:piria appomattox",
-		"from": "aurum",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 877,
-		"time_max": 1132
 	},
 	{
 		"dest": "aurum j:nice j:pend j:knot 0,0 mta",
@@ -22940,14 +22028,6 @@
 		"time_max": 1822
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "pacem",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1784,
-		"time_max": 1874
-	},
-	{
 		"dest": "pacem j:pp j:pnro j:knot j:icegen icenia gabon",
 		"from": "pacem",
 		"to": "gabon",
@@ -23006,28 +22086,12 @@
 		"time_max": 2170
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria prussia",
-		"from": "pacem",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1794,
-		"time_max": 1894
-	},
-	{
 		"dest": "pacem j:pp forta'are",
 		"from": "pacem",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 191,
 		"time_max": 212
-	},
-	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria appomattox",
-		"from": "pacem",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2267,
-		"time_max": 2508
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 mta",
@@ -23534,14 +22598,6 @@
 		"time_max": 889
 	},
 	{
-		"dest": "kallos icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "kallos",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1583,
-		"time_max": 1809
-	},
-	{
 		"dest": "kallos icenia gabon",
 		"from": "kallos",
 		"to": "gabon",
@@ -23600,28 +22656,12 @@
 		"time_max": 2105
 	},
 	{
-		"dest": "kallos icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "kallos",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1593,
-		"time_max": 1829
-	},
-	{
 		"dest": "kallos icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "kallos",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2396,
 		"time_max": 2579
-	},
-	{
-		"dest": "kallos icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "kallos",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2066,
-		"time_max": 2443
 	},
 	{
 		"dest": "kallos mta",
@@ -24128,14 +23168,6 @@
 		"time_max": 614
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:piria crowsroost",
-		"from": "wayrest",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 567,
-		"time_max": 664
-	},
-	{
 		"dest": "wayrest 0,0 j:picenia gabon",
 		"from": "wayrest",
 		"to": "gabon",
@@ -24194,28 +23226,12 @@
 		"time_max": 960
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:piria prussia",
-		"from": "wayrest",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 577,
-		"time_max": 684
-	},
-	{
 		"dest": "wayrest j:knot j:pnro j:pp forta'are",
 		"from": "wayrest",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1404,
 		"time_max": 1432
-	},
-	{
-		"dest": "wayrest j:knot j:pend j:piria appomattox",
-		"from": "wayrest",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1050,
-		"time_max": 1298
 	},
 	{
 		"dest": "wayrest 0,0 mta",
@@ -24722,14 +23738,6 @@
 		"time_max": 2770
 	},
 	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "iria:jungle",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2990,
-		"time_max": 3174
-	},
-	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "iria:jungle",
 		"to": "gabon",
@@ -24788,28 +23796,12 @@
 		"time_max": 3470
 	},
 	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "iria:jungle",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 3000,
-		"time_max": 3194
-	},
-	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "iria:jungle",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 3827,
 		"time_max": 3942
-	},
-	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "iria:jungle",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 3473,
-		"time_max": 3808
 	},
 	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen icenia mta",
@@ -25316,14 +24308,6 @@
 		"time_max": 2246
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "hjaltland",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2104,
-		"time_max": 2298
-	},
-	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:icegen icenia gabon",
 		"from": "hjaltland",
 		"to": "gabon",
@@ -25382,28 +24366,12 @@
 		"time_max": 2594
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria prussia",
-		"from": "hjaltland",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2114,
-		"time_max": 2318
-	},
-	{
 		"dest": "hjaltland j:pp forta'are",
 		"from": "hjaltland",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 511,
 		"time_max": 636
-	},
-	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria appomattox",
-		"from": "hjaltland",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2587,
-		"time_max": 2932
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 mta",
@@ -25910,14 +24878,6 @@
 		"time_max": 261
 	},
 	{
-		"dest": "bloom genso:roe j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "bloom",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1142,
-		"time_max": 1256
-	},
-	{
 		"dest": "bloom icenia gabon",
 		"from": "bloom",
 		"to": "gabon",
@@ -25976,28 +24936,12 @@
 		"time_max": 1477
 	},
 	{
-		"dest": "bloom genso:roe j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "bloom",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1152,
-		"time_max": 1276
-	},
-	{
 		"dest": "bloom imc j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "bloom",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 3522,
 		"time_max": 4269
-	},
-	{
-		"dest": "bloom genso:roe j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "bloom",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1625,
-		"time_max": 1890
 	},
 	{
 		"dest": "bloom imc mta",
@@ -26504,14 +25448,6 @@
 		"time_max": 745
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "tvtopia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1006,
-		"time_max": 1149
-	},
-	{
 		"dest": "tvtopia j:gntv gabon",
 		"from": "tvtopia",
 		"to": "gabon",
@@ -26570,28 +25506,12 @@
 		"time_max": 1445
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "tvtopia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1016,
-		"time_max": 1169
-	},
-	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "tvtopia",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1843,
 		"time_max": 1917
-	},
-	{
-		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "tvtopia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1489,
-		"time_max": 1783
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia mta",
@@ -27098,14 +26018,6 @@
 		"time_max": 0
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "wnsta",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 919,
-		"time_max": 1016
-	},
-	{
 		"dest": "wnsta j:cabalwest icenia gabon",
 		"from": "wnsta",
 		"to": "gabon",
@@ -27164,28 +26076,12 @@
 		"time_max": 1312
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "wnsta",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 929,
-		"time_max": 1036
-	},
-	{
 		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "wnsta",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1732,
 		"time_max": 1786
-	},
-	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "wnsta",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1650
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia mta",
@@ -27322,600 +26218,6 @@
 		"advisory": {},
 		"time_min": 61,
 		"time_max": 79
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
-		"from": "crowsroost",
-		"to": "torndal",
-		"advisory": {},
-		"time_min": 1651,
-		"time_max": 1753
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
-		"from": "crowsroost",
-		"to": "imc",
-		"advisory": {},
-		"time_min": 1638,
-		"time_max": 2020
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
-		"from": "crowsroost",
-		"to": "kro'ushro",
-		"advisory": {},
-		"time_min": 1722,
-		"time_max": 1824
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 0,0:exit",
-		"from": "crowsroost",
-		"to": "0,0",
-		"advisory": {},
-		"time_min": 501,
-		"time_max": 582
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
-		"from": "crowsroost",
-		"to": "genso:roe",
-		"advisory": {},
-		"time_min": 811,
-		"time_max": 893
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe coe:exit",
-		"from": "crowsroost",
-		"to": "coe",
-		"advisory": {},
-		"time_min": 1222,
-		"time_max": 1303
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion savion:exit",
-		"from": "crowsroost",
-		"to": "savion",
-		"advisory": {},
-		"time_min": 2357,
-		"time_max": 2443
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia icenia:exit",
-		"from": "crowsroost",
-		"to": "icenia",
-		"advisory": {},
-		"time_min": 884,
-		"time_max": 968
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
-		"from": "crowsroost",
-		"to": "mir",
-		"advisory": {},
-		"time_min": 1302,
-		"time_max": 1395
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
-		"from": "crowsroost",
-		"to": "ssta",
-		"advisory": {},
-		"time_min": 959,
-		"time_max": 1096
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
-		"from": "crowsroost",
-		"to": "hje",
-		"advisory": {},
-		"time_min": 1951,
-		"time_max": 2032
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia j:cabaleast lord",
-		"from": "crowsroost",
-		"to": "icenia:lord",
-		"advisory": {},
-		"time_min": 971,
-		"time_max": 1071
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
-		"from": "crowsroost",
-		"to": "nro'meagh",
-		"advisory": {},
-		"time_min": 1682,
-		"time_max": 1784
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
-		"from": "crowsroost",
-		"to": "topha'nya",
-		"advisory": {},
-		"time_min": 1759,
-		"time_max": 1869
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
-		"from": "crowsroost",
-		"to": "lriln'kriavnya",
-		"advisory": {},
-		"time_min": 1761,
-		"time_max": 1874
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
-		"from": "crowsroost",
-		"to": "canvasblue",
-		"advisory": {},
-		"time_min": 945,
-		"time_max": 1070
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia j:pmts ellen",
-		"from": "crowsroost",
-		"to": "ellen",
-		"advisory": {},
-		"time_min": 1996,
-		"time_max": 2559
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice arrelani",
-		"from": "crowsroost",
-		"to": "arrelani",
-		"advisory": {},
-		"time_min": 507,
-		"time_max": 656
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:taozi",
-		"from": "crowsroost",
-		"to": "genso:taozi",
-		"advisory": {},
-		"time_min": 924,
-		"time_max": 1031
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
-		"from": "crowsroost",
-		"to": "icenia:drippy",
-		"advisory": {},
-		"time_min": 930,
-		"time_max": 1058
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
-		"from": "crowsroost",
-		"to": "hiyo'mek",
-		"advisory": {},
-		"time_min": 1505,
-		"time_max": 1588
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia icenia:atlantica",
-		"from": "crowsroost",
-		"to": "icenia:atlantica",
-		"advisory": {},
-		"time_min": 967,
-		"time_max": 1079
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
-		"from": "crowsroost",
-		"to": "icenia:westisle",
-		"advisory": {},
-		"time_min": 924,
-		"time_max": 1061
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
-		"from": "crowsroost",
-		"to": "il'olmhir",
-		"advisory": {},
-		"time_min": 1702,
-		"time_max": 1810
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
-		"from": "crowsroost",
-		"to": "ozonrough",
-		"advisory": {},
-		"time_min": 1589,
-		"time_max": 1682
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia alpoko",
-		"from": "crowsroost",
-		"to": "alpoko",
-		"advisory": {},
-		"time_min": 1103,
-		"time_max": 1232
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia it:anburon",
-		"from": "crowsroost",
-		"to": "it:anburon",
-		"advisory": {},
-		"time_min": 999,
-		"time_max": 1161
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia varkonia",
-		"from": "crowsroost",
-		"to": "varkonia",
-		"advisory": {},
-		"time_min": 1317,
-		"time_max": 1534
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 westminster",
-		"from": "crowsroost",
-		"to": "westminster",
-		"advisory": {},
-		"time_min": 1596,
-		"time_max": 2110
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:desert",
-		"from": "crowsroost",
-		"to": "iria:desert",
-		"advisory": {},
-		"time_min": 2502,
-		"time_max": 2647
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot netherfarm",
-		"from": "crowsroost",
-		"to": "netherfarm",
-		"advisory": {},
-		"time_min": 545,
-		"time_max": 626
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia icenia:potato",
-		"from": "crowsroost",
-		"to": "icenia:potato",
-		"advisory": {},
-		"time_min": 948,
-		"time_max": 1071
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
-		"from": "crowsroost",
-		"to": "caledonia",
-		"advisory": {},
-		"time_min": 1036,
-		"time_max": 1180
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:gensig sig",
-		"from": "crowsroost",
-		"to": "sig",
-		"advisory": {},
-		"time_min": 871,
-		"time_max": 959
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:palex alexandria",
-		"from": "crowsroost",
-		"to": "alexandria",
-		"advisory": {},
-		"time_min": 1490,
-		"time_max": 1572
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:north gondolin gondolin:exit",
-		"from": "crowsroost",
-		"to": "gondolin",
-		"advisory": {},
-		"time_min": 1802,
-		"time_max": 2115
-	},
-	{
-		"dest": "crowsroost j:piria lambat",
-		"from": "crowsroost",
-		"to": "lambat",
-		"advisory": {},
-		"time_min": 584,
-		"time_max": 700
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice aurum",
-		"from": "crowsroost",
-		"to": "aurum",
-		"advisory": {},
-		"time_min": 394,
-		"time_max": 498
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:pp pacem",
-		"from": "crowsroost",
-		"to": "pacem",
-		"advisory": {},
-		"time_min": 1784,
-		"time_max": 1874
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
-		"from": "crowsroost",
-		"to": "kallos",
-		"advisory": {},
-		"time_min": 1410,
-		"time_max": 1493
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot wayrest",
-		"from": "crowsroost",
-		"to": "wayrest",
-		"advisory": {},
-		"time_min": 567,
-		"time_max": 664
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:jungle",
-		"from": "crowsroost",
-		"to": "iria:jungle",
-		"advisory": {},
-		"time_min": 2990,
-		"time_max": 3174
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:pp hjaltland",
-		"from": "crowsroost",
-		"to": "hjaltland",
-		"advisory": {},
-		"time_min": 2104,
-		"time_max": 2298
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia bloom",
-		"from": "crowsroost",
-		"to": "bloom",
-		"advisory": {},
-		"time_min": 1043,
-		"time_max": 1181
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
-		"from": "crowsroost",
-		"to": "tvtopia",
-		"advisory": {},
-		"time_min": 1006,
-		"time_max": 1149
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia j:cabalwest wnsta",
-		"from": "crowsroost",
-		"to": "wnsta",
-		"advisory": {},
-		"time_min": 919,
-		"time_max": 1016
-	},
-	{
-		"dest": "crowsroost",
-		"from": "crowsroost",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 0,
-		"time_max": 0
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia gabon",
-		"from": "crowsroost",
-		"to": "gabon",
-		"advisory": {},
-		"time_min": 1094,
-		"time_max": 1256
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
-		"from": "crowsroost",
-		"to": "mts",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1231,
-		"time_max": 1483
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 j:picenia icenia icenia:nether",
-		"from": "crowsroost",
-		"to": "icenia:nether",
-		"advisory": {},
-		"time_min": 985,
-		"time_max": 1130
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia spqr",
-		"from": "crowsroost",
-		"to": "spqr",
-		"advisory": {},
-		"time_min": 2136,
-		"time_max": 2643
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:pp fortuna",
-		"from": "crowsroost",
-		"to": "fortuna",
-		"advisory": {},
-		"time_min": 2370,
-		"time_max": 2591
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
-		"from": "crowsroost",
-		"to": "genso:centi",
-		"advisory": {},
-		"time_min": 851,
-		"time_max": 939
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot vinland",
-		"from": "crowsroost",
-		"to": "vinland",
-		"advisory": {},
-		"time_min": 1278,
-		"time_max": 1364
-	},
-	{
-		"dest": "crowsroost j:piria prussia",
-		"from": "crowsroost",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 186,
-		"time_max": 256
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:pp forta'are",
-		"from": "crowsroost",
-		"to": "forta'are",
-		"advisory": {},
-		"time_min": 1743,
-		"time_max": 1836
-	},
-	{
-		"dest": "crowsroost j:piria appomattox",
-		"from": "crowsroost",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 659,
-		"time_max": 870
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot 0,0 mta",
-		"from": "crowsroost",
-		"to": "mta",
-		"advisory": {},
-		"time_min": 1418,
-		"time_max": 1790
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
-		"from": "crowsroost",
-		"to": "socalist_ruler",
-		"advisory": {},
-		"time_min": 1746,
-		"time_max": 1858
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
-		"from": "crowsroost",
-		"to": "jevoghnya",
-		"advisory": {},
-		"time_min": 1634,
-		"time_max": 1729
-	},
-	{
-		"dest": "crowsroost j:piria j:pend endportal",
-		"from": "crowsroost",
-		"to": "endportal",
-		"advisory": {},
-		"time_min": 262,
-		"time_max": 343
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice j:ppcc j:pbnj besia",
-		"from": "crowsroost",
-		"to": "besia",
-		"advisory": {},
-		"time_min": 867,
-		"time_max": 955
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:nice j:ppcc cape_cocoa",
-		"from": "crowsroost",
-		"to": "cape_cocoa",
-		"advisory": {},
-		"time_min": 484,
-		"time_max": 566
-	},
-	{
-		"dest": "crowsroost j:piria iria",
-		"from": "crowsroost",
-		"to": "iria",
-		"advisory": {},
-		"time_min": 1051,
-		"time_max": 1089
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its qbipfb",
-		"from": "crowsroost",
-		"to": "its:qbipfb",
-		"advisory": {},
-		"time_min": 925,
-		"time_max": 1021
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its versailles",
-		"from": "crowsroost",
-		"to": "its:versailles",
-		"advisory": {},
-		"time_min": 915,
-		"time_max": 1004
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its iceniapark",
-		"from": "crowsroost",
-		"to": "its:iceniapark",
-		"advisory": {},
-		"time_min": 905,
-		"time_max": 993
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its skybunker",
-		"from": "crowsroost",
-		"to": "its:skybunker",
-		"advisory": {},
-		"time_min": 917,
-		"time_max": 1008
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its hji",
-		"from": "crowsroost",
-		"to": "its:hji",
-		"advisory": {},
-		"time_min": 918,
-		"time_max": 1012
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its adytum",
-		"from": "crowsroost",
-		"to": "its:adytum",
-		"advisory": {},
-		"time_min": 951,
-		"time_max": 1052
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its office",
-		"from": "crowsroost",
-		"to": "its:office",
-		"advisory": {},
-		"time_min": 910,
-		"time_max": 998
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its beach",
-		"from": "crowsroost",
-		"to": "its:beach",
-		"advisory": {},
-		"time_min": 911,
-		"time_max": 1001
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its subway",
-		"from": "crowsroost",
-		"to": "its:subway",
-		"advisory": {},
-		"time_min": 908,
-		"time_max": 997
-	},
-	{
-		"dest": "crowsroost j:piria j:pend j:knot j:icegen icenia its bayloop",
-		"from": "crowsroost",
-		"to": "its:bayloop",
-		"advisory": {},
-		"time_min": 910,
-		"time_max": 999
 	},
 	{
 		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:nro1 torndal torndal:exit",
@@ -28286,14 +26588,6 @@
 		"time_max": 336
 	},
 	{
-		"dest": "gabon j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "gabon",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1307,
-		"time_max": 1564
-	},
-	{
 		"dest": "gabon",
 		"from": "gabon",
 		"to": "gabon",
@@ -28352,28 +26646,12 @@
 		"time_max": 1554
 	},
 	{
-		"dest": "gabon j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "gabon",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1317,
-		"time_max": 1584
-	},
-	{
 		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "gabon",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1872,
 		"time_max": 2026
-	},
-	{
-		"dest": "gabon j:gntv genso:roe j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "gabon",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1790,
-		"time_max": 2198
 	},
 	{
 		"dest": "gabon j:picenia j:pmts imc mta",
@@ -28972,16 +27250,6 @@
 		"time_max": 985
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "mts",
-		"to": "crowsroost",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1231,
-		"time_max": 1483
-	},
-	{
 		"dest": "mts j:pmts j:picenia gabon",
 		"from": "mts",
 		"to": "gabon",
@@ -29052,16 +27320,6 @@
 		"time_max": 1779
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria prussia",
-		"from": "mts",
-		"to": "prussia",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1241,
-		"time_max": 1503
-	},
-	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "mts",
 		"to": "forta'are",
@@ -29070,16 +27328,6 @@
 		},
 		"time_min": 2068,
 		"time_max": 2251
-	},
-	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria appomattox",
-		"from": "mts",
-		"to": "appomattox",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1714,
-		"time_max": 2117
 	},
 	{
 		"dest": "mts imc mta",
@@ -29620,14 +27868,6 @@
 		"time_max": 138
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "icenia:nether",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1009,
-		"time_max": 1128
-	},
-	{
 		"dest": "icenia:nether icenia gabon",
 		"from": "icenia:nether",
 		"to": "gabon",
@@ -29686,28 +27926,12 @@
 		"time_max": 1424
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "icenia:nether",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1019,
-		"time_max": 1148
-	},
-	{
 		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "icenia:nether",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1822,
 		"time_max": 1898
-	},
-	{
-		"dest": "icenia:nether icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "icenia:nether",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1492,
-		"time_max": 1762
 	},
 	{
 		"dest": "icenia:nether icenia mta",
@@ -30214,14 +28438,6 @@
 		"time_max": 1723
 	},
 	{
-		"dest": "spqr icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "spqr",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2136,
-		"time_max": 2643
-	},
-	{
 		"dest": "spqr icenia gabon",
 		"from": "spqr",
 		"to": "gabon",
@@ -30280,28 +28496,12 @@
 		"time_max": 2939
 	},
 	{
-		"dest": "spqr icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "spqr",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2146,
-		"time_max": 2663
-	},
-	{
 		"dest": "spqr imc j:pmts j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "spqr",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 3659,
 		"time_max": 4238
-	},
-	{
-		"dest": "spqr icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "spqr",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2619,
-		"time_max": 3277
 	},
 	{
 		"dest": "spqr mta",
@@ -30808,14 +29008,6 @@
 		"time_max": 2539
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "fortuna",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 2370,
-		"time_max": 2591
-	},
-	{
 		"dest": "fortuna j:pp j:pnro j:knot j:icegen icenia gabon",
 		"from": "fortuna",
 		"to": "gabon",
@@ -30874,28 +29066,12 @@
 		"time_max": 2887
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria prussia",
-		"from": "fortuna",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 2380,
-		"time_max": 2611
-	},
-	{
 		"dest": "fortuna j:pp forta'are",
 		"from": "fortuna",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 777,
 		"time_max": 929
-	},
-	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria appomattox",
-		"from": "fortuna",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2853,
-		"time_max": 3225
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 mta",
@@ -31402,14 +29578,6 @@
 		"time_max": 535
 	},
 	{
-		"dest": "genso:centi genso:roe j:uroe j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "genso:centi",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 851,
-		"time_max": 939
-	},
-	{
 		"dest": "genso:centi genso:roe j:gntv gabon",
 		"from": "genso:centi",
 		"to": "gabon",
@@ -31468,28 +29636,12 @@
 		"time_max": 1235
 	},
 	{
-		"dest": "genso:centi genso:roe j:uroe j:icegen j:knot j:pend j:piria prussia",
-		"from": "genso:centi",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 861,
-		"time_max": 959
-	},
-	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen j:knot j:pnro j:pp forta'are",
 		"from": "genso:centi",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1688,
 		"time_max": 1707
-	},
-	{
-		"dest": "genso:centi genso:roe j:uroe j:icegen j:knot j:pend j:piria appomattox",
-		"from": "genso:centi",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1334,
-		"time_max": 1573
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia mta",
@@ -31996,14 +30148,6 @@
 		"time_max": 1312
 	},
 	{
-		"dest": "vinland j:knot j:pend j:piria crowsroost",
-		"from": "vinland",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1278,
-		"time_max": 1364
-	},
-	{
 		"dest": "vinland icenia gabon",
 		"from": "vinland",
 		"to": "gabon",
@@ -32062,28 +30206,12 @@
 		"time_max": 0
 	},
 	{
-		"dest": "vinland j:knot j:pend j:piria prussia",
-		"from": "vinland",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1288,
-		"time_max": 1384
-	},
-	{
 		"dest": "vinland j:knot j:pnro j:pp forta'are",
 		"from": "vinland",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2115,
 		"time_max": 2132
-	},
-	{
-		"dest": "vinland j:knot j:pend j:piria appomattox",
-		"from": "vinland",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1761,
-		"time_max": 1998
 	},
 	{
 		"dest": "vinland icenia mta",
@@ -32220,600 +30348,6 @@
 		"advisory": {},
 		"time_min": 1064,
 		"time_max": 1295
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
-		"from": "prussia",
-		"to": "torndal",
-		"advisory": {},
-		"time_min": 1661,
-		"time_max": 1773
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
-		"from": "prussia",
-		"to": "imc",
-		"advisory": {},
-		"time_min": 1648,
-		"time_max": 2040
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
-		"from": "prussia",
-		"to": "kro'ushro",
-		"advisory": {},
-		"time_min": 1732,
-		"time_max": 1844
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 0,0:exit",
-		"from": "prussia",
-		"to": "0,0",
-		"advisory": {},
-		"time_min": 511,
-		"time_max": 602
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
-		"from": "prussia",
-		"to": "genso:roe",
-		"advisory": {},
-		"time_min": 821,
-		"time_max": 913
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe coe:exit",
-		"from": "prussia",
-		"to": "coe",
-		"advisory": {},
-		"time_min": 1232,
-		"time_max": 1323
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion savion:exit",
-		"from": "prussia",
-		"to": "savion",
-		"advisory": {},
-		"time_min": 2367,
-		"time_max": 2463
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia icenia:exit",
-		"from": "prussia",
-		"to": "icenia",
-		"advisory": {},
-		"time_min": 894,
-		"time_max": 988
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
-		"from": "prussia",
-		"to": "mir",
-		"advisory": {},
-		"time_min": 1312,
-		"time_max": 1415
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
-		"from": "prussia",
-		"to": "ssta",
-		"advisory": {},
-		"time_min": 969,
-		"time_max": 1116
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
-		"from": "prussia",
-		"to": "hje",
-		"advisory": {},
-		"time_min": 1961,
-		"time_max": 2052
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia j:cabaleast lord",
-		"from": "prussia",
-		"to": "icenia:lord",
-		"advisory": {},
-		"time_min": 981,
-		"time_max": 1091
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
-		"from": "prussia",
-		"to": "nro'meagh",
-		"advisory": {},
-		"time_min": 1692,
-		"time_max": 1804
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
-		"from": "prussia",
-		"to": "topha'nya",
-		"advisory": {},
-		"time_min": 1769,
-		"time_max": 1889
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
-		"from": "prussia",
-		"to": "lriln'kriavnya",
-		"advisory": {},
-		"time_min": 1771,
-		"time_max": 1894
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
-		"from": "prussia",
-		"to": "canvasblue",
-		"advisory": {},
-		"time_min": 955,
-		"time_max": 1090
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia j:pmts ellen",
-		"from": "prussia",
-		"to": "ellen",
-		"advisory": {},
-		"time_min": 2006,
-		"time_max": 2579
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice arrelani",
-		"from": "prussia",
-		"to": "arrelani",
-		"advisory": {},
-		"time_min": 517,
-		"time_max": 676
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:taozi",
-		"from": "prussia",
-		"to": "genso:taozi",
-		"advisory": {},
-		"time_min": 934,
-		"time_max": 1051
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
-		"from": "prussia",
-		"to": "icenia:drippy",
-		"advisory": {},
-		"time_min": 940,
-		"time_max": 1078
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
-		"from": "prussia",
-		"to": "hiyo'mek",
-		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1608
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia icenia:atlantica",
-		"from": "prussia",
-		"to": "icenia:atlantica",
-		"advisory": {},
-		"time_min": 977,
-		"time_max": 1099
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
-		"from": "prussia",
-		"to": "icenia:westisle",
-		"advisory": {},
-		"time_min": 934,
-		"time_max": 1081
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
-		"from": "prussia",
-		"to": "il'olmhir",
-		"advisory": {},
-		"time_min": 1712,
-		"time_max": 1830
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
-		"from": "prussia",
-		"to": "ozonrough",
-		"advisory": {},
-		"time_min": 1599,
-		"time_max": 1702
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia alpoko",
-		"from": "prussia",
-		"to": "alpoko",
-		"advisory": {},
-		"time_min": 1113,
-		"time_max": 1252
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia it:anburon",
-		"from": "prussia",
-		"to": "it:anburon",
-		"advisory": {},
-		"time_min": 1009,
-		"time_max": 1181
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia varkonia",
-		"from": "prussia",
-		"to": "varkonia",
-		"advisory": {},
-		"time_min": 1327,
-		"time_max": 1554
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 westminster",
-		"from": "prussia",
-		"to": "westminster",
-		"advisory": {},
-		"time_min": 1606,
-		"time_max": 2130
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:desert",
-		"from": "prussia",
-		"to": "iria:desert",
-		"advisory": {},
-		"time_min": 2512,
-		"time_max": 2667
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot netherfarm",
-		"from": "prussia",
-		"to": "netherfarm",
-		"advisory": {},
-		"time_min": 555,
-		"time_max": 646
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia icenia:potato",
-		"from": "prussia",
-		"to": "icenia:potato",
-		"advisory": {},
-		"time_min": 958,
-		"time_max": 1091
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
-		"from": "prussia",
-		"to": "caledonia",
-		"advisory": {},
-		"time_min": 1046,
-		"time_max": 1200
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:gensig sig",
-		"from": "prussia",
-		"to": "sig",
-		"advisory": {},
-		"time_min": 881,
-		"time_max": 979
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:palex alexandria",
-		"from": "prussia",
-		"to": "alexandria",
-		"advisory": {},
-		"time_min": 1500,
-		"time_max": 1592
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:north gondolin gondolin:exit",
-		"from": "prussia",
-		"to": "gondolin",
-		"advisory": {},
-		"time_min": 1812,
-		"time_max": 2135
-	},
-	{
-		"dest": "prussia j:piria lambat",
-		"from": "prussia",
-		"to": "lambat",
-		"advisory": {},
-		"time_min": 594,
-		"time_max": 720
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice aurum",
-		"from": "prussia",
-		"to": "aurum",
-		"advisory": {},
-		"time_min": 404,
-		"time_max": 518
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:pp pacem",
-		"from": "prussia",
-		"to": "pacem",
-		"advisory": {},
-		"time_min": 1794,
-		"time_max": 1894
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
-		"from": "prussia",
-		"to": "kallos",
-		"advisory": {},
-		"time_min": 1420,
-		"time_max": 1513
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot wayrest",
-		"from": "prussia",
-		"to": "wayrest",
-		"advisory": {},
-		"time_min": 577,
-		"time_max": 684
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:jungle",
-		"from": "prussia",
-		"to": "iria:jungle",
-		"advisory": {},
-		"time_min": 3000,
-		"time_max": 3194
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:pp hjaltland",
-		"from": "prussia",
-		"to": "hjaltland",
-		"advisory": {},
-		"time_min": 2114,
-		"time_max": 2318
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia bloom",
-		"from": "prussia",
-		"to": "bloom",
-		"advisory": {},
-		"time_min": 1053,
-		"time_max": 1201
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
-		"from": "prussia",
-		"to": "tvtopia",
-		"advisory": {},
-		"time_min": 1016,
-		"time_max": 1169
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia j:cabalwest wnsta",
-		"from": "prussia",
-		"to": "wnsta",
-		"advisory": {},
-		"time_min": 929,
-		"time_max": 1036
-	},
-	{
-		"dest": "prussia j:piria crowsroost",
-		"from": "prussia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 186,
-		"time_max": 256
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia gabon",
-		"from": "prussia",
-		"to": "gabon",
-		"advisory": {},
-		"time_min": 1104,
-		"time_max": 1276
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
-		"from": "prussia",
-		"to": "mts",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1241,
-		"time_max": 1503
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 j:picenia icenia icenia:nether",
-		"from": "prussia",
-		"to": "icenia:nether",
-		"advisory": {},
-		"time_min": 995,
-		"time_max": 1150
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia spqr",
-		"from": "prussia",
-		"to": "spqr",
-		"advisory": {},
-		"time_min": 2146,
-		"time_max": 2663
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:pp fortuna",
-		"from": "prussia",
-		"to": "fortuna",
-		"advisory": {},
-		"time_min": 2380,
-		"time_max": 2611
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
-		"from": "prussia",
-		"to": "genso:centi",
-		"advisory": {},
-		"time_min": 861,
-		"time_max": 959
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot vinland",
-		"from": "prussia",
-		"to": "vinland",
-		"advisory": {},
-		"time_min": 1288,
-		"time_max": 1384
-	},
-	{
-		"dest": "prussia",
-		"from": "prussia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 0,
-		"time_max": 0
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:pp forta'are",
-		"from": "prussia",
-		"to": "forta'are",
-		"advisory": {},
-		"time_min": 1753,
-		"time_max": 1856
-	},
-	{
-		"dest": "prussia j:piria appomattox",
-		"from": "prussia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 669,
-		"time_max": 890
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot 0,0 mta",
-		"from": "prussia",
-		"to": "mta",
-		"advisory": {},
-		"time_min": 1428,
-		"time_max": 1810
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
-		"from": "prussia",
-		"to": "socalist_ruler",
-		"advisory": {},
-		"time_min": 1756,
-		"time_max": 1878
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
-		"from": "prussia",
-		"to": "jevoghnya",
-		"advisory": {},
-		"time_min": 1644,
-		"time_max": 1749
-	},
-	{
-		"dest": "prussia j:piria j:pend endportal",
-		"from": "prussia",
-		"to": "endportal",
-		"advisory": {},
-		"time_min": 272,
-		"time_max": 363
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice j:ppcc j:pbnj besia",
-		"from": "prussia",
-		"to": "besia",
-		"advisory": {},
-		"time_min": 877,
-		"time_max": 975
-	},
-	{
-		"dest": "prussia j:piria j:pend j:nice j:ppcc cape_cocoa",
-		"from": "prussia",
-		"to": "cape_cocoa",
-		"advisory": {},
-		"time_min": 494,
-		"time_max": 586
-	},
-	{
-		"dest": "prussia j:piria iria",
-		"from": "prussia",
-		"to": "iria",
-		"advisory": {},
-		"time_min": 1061,
-		"time_max": 1109
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its qbipfb",
-		"from": "prussia",
-		"to": "its:qbipfb",
-		"advisory": {},
-		"time_min": 935,
-		"time_max": 1041
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its versailles",
-		"from": "prussia",
-		"to": "its:versailles",
-		"advisory": {},
-		"time_min": 925,
-		"time_max": 1024
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its iceniapark",
-		"from": "prussia",
-		"to": "its:iceniapark",
-		"advisory": {},
-		"time_min": 915,
-		"time_max": 1013
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its skybunker",
-		"from": "prussia",
-		"to": "its:skybunker",
-		"advisory": {},
-		"time_min": 927,
-		"time_max": 1028
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its hji",
-		"from": "prussia",
-		"to": "its:hji",
-		"advisory": {},
-		"time_min": 928,
-		"time_max": 1032
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its adytum",
-		"from": "prussia",
-		"to": "its:adytum",
-		"advisory": {},
-		"time_min": 961,
-		"time_max": 1072
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its office",
-		"from": "prussia",
-		"to": "its:office",
-		"advisory": {},
-		"time_min": 920,
-		"time_max": 1018
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its beach",
-		"from": "prussia",
-		"to": "its:beach",
-		"advisory": {},
-		"time_min": 921,
-		"time_max": 1021
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its subway",
-		"from": "prussia",
-		"to": "its:subway",
-		"advisory": {},
-		"time_min": 918,
-		"time_max": 1017
-	},
-	{
-		"dest": "prussia j:piria j:pend j:knot j:icegen icenia its bayloop",
-		"from": "prussia",
-		"to": "its:bayloop",
-		"advisory": {},
-		"time_min": 920,
-		"time_max": 1019
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:nro1 torndal torndal:exit",
@@ -33184,14 +30718,6 @@
 		"time_max": 1784
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "forta'are",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1743,
-		"time_max": 1836
-	},
-	{
 		"dest": "forta'are j:pp j:pnro j:knot j:icegen icenia gabon",
 		"from": "forta'are",
 		"to": "gabon",
@@ -33250,28 +30776,12 @@
 		"time_max": 2132
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria prussia",
-		"from": "forta'are",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1753,
-		"time_max": 1856
-	},
-	{
 		"dest": "forta'are",
 		"from": "forta'are",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 0,
 		"time_max": 0
-	},
-	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria appomattox",
-		"from": "forta'are",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2226,
-		"time_max": 2470
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 mta",
@@ -33408,600 +30918,6 @@
 		"advisory": {},
 		"time_min": 1747,
 		"time_max": 1767
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
-		"from": "appomattox",
-		"to": "torndal",
-		"advisory": {},
-		"time_min": 2134,
-		"time_max": 2387
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
-		"from": "appomattox",
-		"to": "imc",
-		"advisory": {},
-		"time_min": 2121,
-		"time_max": 2654
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
-		"from": "appomattox",
-		"to": "kro'ushro",
-		"advisory": {},
-		"time_min": 2205,
-		"time_max": 2458
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 0,0:exit",
-		"from": "appomattox",
-		"to": "0,0",
-		"advisory": {},
-		"time_min": 984,
-		"time_max": 1216
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
-		"from": "appomattox",
-		"to": "genso:roe",
-		"advisory": {},
-		"time_min": 1294,
-		"time_max": 1527
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe coe:exit",
-		"from": "appomattox",
-		"to": "coe",
-		"advisory": {},
-		"time_min": 1705,
-		"time_max": 1937
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion savion:exit",
-		"from": "appomattox",
-		"to": "savion",
-		"advisory": {},
-		"time_min": 2840,
-		"time_max": 3077
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia icenia:exit",
-		"from": "appomattox",
-		"to": "icenia",
-		"advisory": {},
-		"time_min": 1367,
-		"time_max": 1602
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
-		"from": "appomattox",
-		"to": "mir",
-		"advisory": {},
-		"time_min": 1785,
-		"time_max": 2029
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
-		"from": "appomattox",
-		"to": "ssta",
-		"advisory": {},
-		"time_min": 1442,
-		"time_max": 1730
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
-		"from": "appomattox",
-		"to": "hje",
-		"advisory": {},
-		"time_min": 2434,
-		"time_max": 2666
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia j:cabaleast lord",
-		"from": "appomattox",
-		"to": "icenia:lord",
-		"advisory": {},
-		"time_min": 1454,
-		"time_max": 1705
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
-		"from": "appomattox",
-		"to": "nro'meagh",
-		"advisory": {},
-		"time_min": 2165,
-		"time_max": 2418
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
-		"from": "appomattox",
-		"to": "topha'nya",
-		"advisory": {},
-		"time_min": 2242,
-		"time_max": 2503
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
-		"from": "appomattox",
-		"to": "lriln'kriavnya",
-		"advisory": {},
-		"time_min": 2244,
-		"time_max": 2508
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
-		"from": "appomattox",
-		"to": "canvasblue",
-		"advisory": {},
-		"time_min": 1428,
-		"time_max": 1704
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts ellen",
-		"from": "appomattox",
-		"to": "ellen",
-		"advisory": {},
-		"time_min": 2479,
-		"time_max": 3193
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice arrelani",
-		"from": "appomattox",
-		"to": "arrelani",
-		"advisory": {},
-		"time_min": 990,
-		"time_max": 1290
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:taozi",
-		"from": "appomattox",
-		"to": "genso:taozi",
-		"advisory": {},
-		"time_min": 1407,
-		"time_max": 1665
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
-		"from": "appomattox",
-		"to": "icenia:drippy",
-		"advisory": {},
-		"time_min": 1413,
-		"time_max": 1692
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
-		"from": "appomattox",
-		"to": "hiyo'mek",
-		"advisory": {},
-		"time_min": 1988,
-		"time_max": 2222
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia icenia:atlantica",
-		"from": "appomattox",
-		"to": "icenia:atlantica",
-		"advisory": {},
-		"time_min": 1450,
-		"time_max": 1713
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
-		"from": "appomattox",
-		"to": "icenia:westisle",
-		"advisory": {},
-		"time_min": 1407,
-		"time_max": 1695
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
-		"from": "appomattox",
-		"to": "il'olmhir",
-		"advisory": {},
-		"time_min": 2185,
-		"time_max": 2444
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
-		"from": "appomattox",
-		"to": "ozonrough",
-		"advisory": {},
-		"time_min": 2072,
-		"time_max": 2316
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia alpoko",
-		"from": "appomattox",
-		"to": "alpoko",
-		"advisory": {},
-		"time_min": 1586,
-		"time_max": 1866
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia it:anburon",
-		"from": "appomattox",
-		"to": "it:anburon",
-		"advisory": {},
-		"time_min": 1482,
-		"time_max": 1795
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia varkonia",
-		"from": "appomattox",
-		"to": "varkonia",
-		"advisory": {},
-		"time_min": 1800,
-		"time_max": 2168
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 westminster",
-		"from": "appomattox",
-		"to": "westminster",
-		"advisory": {},
-		"time_min": 2079,
-		"time_max": 2744
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:desert",
-		"from": "appomattox",
-		"to": "iria:desert",
-		"advisory": {},
-		"time_min": 2985,
-		"time_max": 3281
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot netherfarm",
-		"from": "appomattox",
-		"to": "netherfarm",
-		"advisory": {},
-		"time_min": 1028,
-		"time_max": 1260
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia icenia:potato",
-		"from": "appomattox",
-		"to": "icenia:potato",
-		"advisory": {},
-		"time_min": 1431,
-		"time_max": 1705
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
-		"from": "appomattox",
-		"to": "caledonia",
-		"advisory": {},
-		"time_min": 1519,
-		"time_max": 1814
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:gensig sig",
-		"from": "appomattox",
-		"to": "sig",
-		"advisory": {},
-		"time_min": 1354,
-		"time_max": 1593
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:palex alexandria",
-		"from": "appomattox",
-		"to": "alexandria",
-		"advisory": {},
-		"time_min": 1973,
-		"time_max": 2206
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:north gondolin gondolin:exit",
-		"from": "appomattox",
-		"to": "gondolin",
-		"advisory": {},
-		"time_min": 2285,
-		"time_max": 2749
-	},
-	{
-		"dest": "appomattox j:piria lambat",
-		"from": "appomattox",
-		"to": "lambat",
-		"advisory": {},
-		"time_min": 1067,
-		"time_max": 1334
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice aurum",
-		"from": "appomattox",
-		"to": "aurum",
-		"advisory": {},
-		"time_min": 877,
-		"time_max": 1132
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:pp pacem",
-		"from": "appomattox",
-		"to": "pacem",
-		"advisory": {},
-		"time_min": 2267,
-		"time_max": 2508
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
-		"from": "appomattox",
-		"to": "kallos",
-		"advisory": {},
-		"time_min": 1893,
-		"time_max": 2127
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot wayrest",
-		"from": "appomattox",
-		"to": "wayrest",
-		"advisory": {},
-		"time_min": 1050,
-		"time_max": 1298
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe j:coe:south coe j:coe:east savion iria:jungle",
-		"from": "appomattox",
-		"to": "iria:jungle",
-		"advisory": {},
-		"time_min": 3473,
-		"time_max": 3808
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:pp hjaltland",
-		"from": "appomattox",
-		"to": "hjaltland",
-		"advisory": {},
-		"time_min": 2587,
-		"time_max": 2932
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia bloom",
-		"from": "appomattox",
-		"to": "bloom",
-		"advisory": {},
-		"time_min": 1526,
-		"time_max": 1815
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
-		"from": "appomattox",
-		"to": "tvtopia",
-		"advisory": {},
-		"time_min": 1489,
-		"time_max": 1783
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia j:cabalwest wnsta",
-		"from": "appomattox",
-		"to": "wnsta",
-		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1650
-	},
-	{
-		"dest": "appomattox j:piria crowsroost",
-		"from": "appomattox",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 659,
-		"time_max": 870
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia gabon",
-		"from": "appomattox",
-		"to": "gabon",
-		"advisory": {},
-		"time_min": 1577,
-		"time_max": 1890
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
-		"from": "appomattox",
-		"to": "mts",
-		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
-		},
-		"time_min": 1714,
-		"time_max": 2117
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia icenia icenia:nether",
-		"from": "appomattox",
-		"to": "icenia:nether",
-		"advisory": {},
-		"time_min": 1468,
-		"time_max": 1764
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia spqr",
-		"from": "appomattox",
-		"to": "spqr",
-		"advisory": {},
-		"time_min": 2619,
-		"time_max": 3277
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:pp fortuna",
-		"from": "appomattox",
-		"to": "fortuna",
-		"advisory": {},
-		"time_min": 2853,
-		"time_max": 3225
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
-		"from": "appomattox",
-		"to": "genso:centi",
-		"advisory": {},
-		"time_min": 1334,
-		"time_max": 1573
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot vinland",
-		"from": "appomattox",
-		"to": "vinland",
-		"advisory": {},
-		"time_min": 1761,
-		"time_max": 1998
-	},
-	{
-		"dest": "appomattox j:piria prussia",
-		"from": "appomattox",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 669,
-		"time_max": 890
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:pp forta'are",
-		"from": "appomattox",
-		"to": "forta'are",
-		"advisory": {},
-		"time_min": 2226,
-		"time_max": 2470
-	},
-	{
-		"dest": "appomattox",
-		"from": "appomattox",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 0,
-		"time_max": 0
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot 0,0 mta",
-		"from": "appomattox",
-		"to": "mta",
-		"advisory": {},
-		"time_min": 1901,
-		"time_max": 2424
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
-		"from": "appomattox",
-		"to": "socalist_ruler",
-		"advisory": {},
-		"time_min": 2229,
-		"time_max": 2492
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
-		"from": "appomattox",
-		"to": "jevoghnya",
-		"advisory": {},
-		"time_min": 2117,
-		"time_max": 2363
-	},
-	{
-		"dest": "appomattox j:piria j:pend endportal",
-		"from": "appomattox",
-		"to": "endportal",
-		"advisory": {},
-		"time_min": 745,
-		"time_max": 977
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice j:ppcc j:pbnj besia",
-		"from": "appomattox",
-		"to": "besia",
-		"advisory": {},
-		"time_min": 1350,
-		"time_max": 1589
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:nice j:ppcc cape_cocoa",
-		"from": "appomattox",
-		"to": "cape_cocoa",
-		"advisory": {},
-		"time_min": 967,
-		"time_max": 1200
-	},
-	{
-		"dest": "appomattox j:piria iria",
-		"from": "appomattox",
-		"to": "iria",
-		"advisory": {},
-		"time_min": 1534,
-		"time_max": 1723
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its qbipfb",
-		"from": "appomattox",
-		"to": "its:qbipfb",
-		"advisory": {},
-		"time_min": 1408,
-		"time_max": 1655
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its versailles",
-		"from": "appomattox",
-		"to": "its:versailles",
-		"advisory": {},
-		"time_min": 1398,
-		"time_max": 1638
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its iceniapark",
-		"from": "appomattox",
-		"to": "its:iceniapark",
-		"advisory": {},
-		"time_min": 1388,
-		"time_max": 1627
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its skybunker",
-		"from": "appomattox",
-		"to": "its:skybunker",
-		"advisory": {},
-		"time_min": 1400,
-		"time_max": 1642
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its hji",
-		"from": "appomattox",
-		"to": "its:hji",
-		"advisory": {},
-		"time_min": 1401,
-		"time_max": 1646
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its adytum",
-		"from": "appomattox",
-		"to": "its:adytum",
-		"advisory": {},
-		"time_min": 1434,
-		"time_max": 1686
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its office",
-		"from": "appomattox",
-		"to": "its:office",
-		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1632
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its beach",
-		"from": "appomattox",
-		"to": "its:beach",
-		"advisory": {},
-		"time_min": 1394,
-		"time_max": 1635
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its subway",
-		"from": "appomattox",
-		"to": "its:subway",
-		"advisory": {},
-		"time_min": 1391,
-		"time_max": 1631
-	},
-	{
-		"dest": "appomattox j:piria j:pend j:knot j:icegen icenia its bayloop",
-		"from": "appomattox",
-		"to": "its:bayloop",
-		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1633
 	},
 	{
 		"dest": "mta 0,0 j:knot j:pnro j:nro1 torndal torndal:exit",
@@ -34372,14 +31288,6 @@
 		"time_max": 1229
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:piria crowsroost",
-		"from": "mta",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1418,
-		"time_max": 1790
-	},
-	{
 		"dest": "mta icenia gabon",
 		"from": "mta",
 		"to": "gabon",
@@ -34438,28 +31346,12 @@
 		"time_max": 2086
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:piria prussia",
-		"from": "mta",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1428,
-		"time_max": 1810
-	},
-	{
 		"dest": "mta 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "mta",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2255,
 		"time_max": 2558
-	},
-	{
-		"dest": "mta 0,0 j:knot j:pend j:piria appomattox",
-		"from": "mta",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1901,
-		"time_max": 2424
 	},
 	{
 		"dest": "mta",
@@ -34966,14 +31858,6 @@
 		"time_max": 1806
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "socalist_ruler",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1746,
-		"time_max": 1858
-	},
-	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "socalist_ruler",
 		"to": "gabon",
@@ -35032,28 +31916,12 @@
 		"time_max": 2154
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "socalist_ruler",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1756,
-		"time_max": 1878
-	},
-	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:pp forta'are",
 		"from": "socalist_ruler",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 531,
 		"time_max": 574
-	},
-	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "socalist_ruler",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2229,
-		"time_max": 2492
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 mta",
@@ -35560,14 +32428,6 @@
 		"time_max": 1677
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria crowsroost",
-		"from": "jevoghnya",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1634,
-		"time_max": 1729
-	},
-	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen icenia gabon",
 		"from": "jevoghnya",
 		"to": "gabon",
@@ -35626,28 +32486,12 @@
 		"time_max": 2025
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria prussia",
-		"from": "jevoghnya",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1644,
-		"time_max": 1749
-	},
-	{
 		"dest": "jevoghnya j:nro1 j:pnro j:pp forta'are",
 		"from": "jevoghnya",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 419,
 		"time_max": 445
-	},
-	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria appomattox",
-		"from": "jevoghnya",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 2117,
-		"time_max": 2363
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 mta",
@@ -36154,14 +32998,6 @@
 		"time_max": 775
 	},
 	{
-		"dest": "endportal j:pend j:piria crowsroost",
-		"from": "endportal",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 262,
-		"time_max": 343
-	},
-	{
 		"dest": "endportal j:pend j:knot j:icegen icenia gabon",
 		"from": "endportal",
 		"to": "gabon",
@@ -36220,28 +33056,12 @@
 		"time_max": 1123
 	},
 	{
-		"dest": "endportal j:pend j:piria prussia",
-		"from": "endportal",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 272,
-		"time_max": 363
-	},
-	{
 		"dest": "endportal j:pend j:knot j:pnro j:pp forta'are",
 		"from": "endportal",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1583,
 		"time_max": 1595
-	},
-	{
-		"dest": "endportal j:pend j:piria appomattox",
-		"from": "endportal",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 745,
-		"time_max": 977
 	},
 	{
 		"dest": "endportal j:pend j:knot 0,0 mta",
@@ -36748,14 +33568,6 @@
 		"time_max": 1387
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria crowsroost",
-		"from": "besia",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 867,
-		"time_max": 955
-	},
-	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "besia",
 		"to": "gabon",
@@ -36814,28 +33626,12 @@
 		"time_max": 1735
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria prussia",
-		"from": "besia",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 877,
-		"time_max": 975
-	},
-	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "besia",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2188,
 		"time_max": 2207
-	},
-	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria appomattox",
-		"from": "besia",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1350,
-		"time_max": 1589
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 mta",
@@ -37342,14 +34138,6 @@
 		"time_max": 998
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria crowsroost",
-		"from": "cape_cocoa",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 484,
-		"time_max": 566
-	},
-	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "cape_cocoa",
 		"to": "gabon",
@@ -37408,28 +34196,12 @@
 		"time_max": 1346
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria prussia",
-		"from": "cape_cocoa",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 494,
-		"time_max": 586
-	},
-	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "cape_cocoa",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1805,
 		"time_max": 1818
-	},
-	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria appomattox",
-		"from": "cape_cocoa",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 967,
-		"time_max": 1200
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot 0,0 mta",
@@ -37936,14 +34708,6 @@
 		"time_max": 1869
 	},
 	{
-		"dest": "iria j:piria crowsroost",
-		"from": "iria",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 1051,
-		"time_max": 1089
-	},
-	{
 		"dest": "iria j:piria j:pend j:knot j:icegen icenia gabon",
 		"from": "iria",
 		"to": "gabon",
@@ -38002,28 +34766,12 @@
 		"time_max": 2217
 	},
 	{
-		"dest": "iria j:piria prussia",
-		"from": "iria",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 1061,
-		"time_max": 1109
-	},
-	{
 		"dest": "iria j:piria j:pend j:knot j:pnro j:pp forta'are",
 		"from": "iria",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 2618,
 		"time_max": 2689
-	},
-	{
-		"dest": "iria j:piria appomattox",
-		"from": "iria",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1534,
-		"time_max": 1723
 	},
 	{
 		"dest": "iria j:piria j:pend j:knot 0,0 mta",
@@ -38530,14 +35278,6 @@
 		"time_max": 101
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:qbipfb",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 925,
-		"time_max": 1021
-	},
-	{
 		"dest": "its:qbipfb j:its icenia gabon",
 		"from": "its:qbipfb",
 		"to": "gabon",
@@ -38596,28 +35336,12 @@
 		"time_max": 1317
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:qbipfb",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 935,
-		"time_max": 1041
-	},
-	{
 		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:qbipfb",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1738,
 		"time_max": 1791
-	},
-	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:qbipfb",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1408,
-		"time_max": 1655
 	},
 	{
 		"dest": "its:qbipfb j:its icenia mta",
@@ -39124,14 +35848,6 @@
 		"time_max": 84
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:versailles",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 915,
-		"time_max": 1004
-	},
-	{
 		"dest": "its:versailles j:its icenia gabon",
 		"from": "its:versailles",
 		"to": "gabon",
@@ -39190,28 +35906,12 @@
 		"time_max": 1300
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:versailles",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 925,
-		"time_max": 1024
-	},
-	{
 		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:versailles",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1728,
 		"time_max": 1774
-	},
-	{
-		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:versailles",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1398,
-		"time_max": 1638
 	},
 	{
 		"dest": "its:versailles j:its icenia mta",
@@ -39718,14 +36418,6 @@
 		"time_max": 73
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:iceniapark",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 905,
-		"time_max": 993
-	},
-	{
 		"dest": "its:iceniapark j:its icenia gabon",
 		"from": "its:iceniapark",
 		"to": "gabon",
@@ -39784,28 +36476,12 @@
 		"time_max": 1289
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:iceniapark",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 915,
-		"time_max": 1013
-	},
-	{
 		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:iceniapark",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1718,
 		"time_max": 1763
-	},
-	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:iceniapark",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1388,
-		"time_max": 1627
 	},
 	{
 		"dest": "its:iceniapark j:its icenia mta",
@@ -40312,14 +36988,6 @@
 		"time_max": 88
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:skybunker",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 917,
-		"time_max": 1008
-	},
-	{
 		"dest": "its:skybunker j:its icenia gabon",
 		"from": "its:skybunker",
 		"to": "gabon",
@@ -40378,28 +37046,12 @@
 		"time_max": 1304
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:skybunker",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 927,
-		"time_max": 1028
-	},
-	{
 		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:skybunker",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1730,
 		"time_max": 1778
-	},
-	{
-		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:skybunker",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1400,
-		"time_max": 1642
 	},
 	{
 		"dest": "its:skybunker j:its icenia mta",
@@ -40906,14 +37558,6 @@
 		"time_max": 92
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:hji",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 918,
-		"time_max": 1012
-	},
-	{
 		"dest": "its:hji j:its icenia gabon",
 		"from": "its:hji",
 		"to": "gabon",
@@ -40972,28 +37616,12 @@
 		"time_max": 1308
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:hji",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 928,
-		"time_max": 1032
-	},
-	{
 		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:hji",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1731,
 		"time_max": 1782
-	},
-	{
-		"dest": "its:hji j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:hji",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1401,
-		"time_max": 1646
 	},
 	{
 		"dest": "its:hji j:its icenia mta",
@@ -41500,14 +38128,6 @@
 		"time_max": 132
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:adytum",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 951,
-		"time_max": 1052
-	},
-	{
 		"dest": "its:adytum j:its icenia gabon",
 		"from": "its:adytum",
 		"to": "gabon",
@@ -41566,28 +38186,12 @@
 		"time_max": 1348
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:adytum",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 961,
-		"time_max": 1072
-	},
-	{
 		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:adytum",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1764,
 		"time_max": 1822
-	},
-	{
-		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:adytum",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1434,
-		"time_max": 1686
 	},
 	{
 		"dest": "its:adytum j:its icenia mta",
@@ -42094,14 +38698,6 @@
 		"time_max": 78
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:office",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 910,
-		"time_max": 998
-	},
-	{
 		"dest": "its:office j:its icenia gabon",
 		"from": "its:office",
 		"to": "gabon",
@@ -42160,28 +38756,12 @@
 		"time_max": 1294
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:office",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 920,
-		"time_max": 1018
-	},
-	{
 		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:office",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1723,
 		"time_max": 1768
-	},
-	{
-		"dest": "its:office j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:office",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1632
 	},
 	{
 		"dest": "its:office j:its icenia mta",
@@ -42688,14 +39268,6 @@
 		"time_max": 81
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:beach",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 911,
-		"time_max": 1001
-	},
-	{
 		"dest": "its:beach j:its icenia gabon",
 		"from": "its:beach",
 		"to": "gabon",
@@ -42754,28 +39326,12 @@
 		"time_max": 1297
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:beach",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 921,
-		"time_max": 1021
-	},
-	{
 		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:beach",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1724,
 		"time_max": 1771
-	},
-	{
-		"dest": "its:beach j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:beach",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1394,
-		"time_max": 1635
 	},
 	{
 		"dest": "its:beach j:its icenia mta",
@@ -43282,14 +39838,6 @@
 		"time_max": 77
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:subway",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 908,
-		"time_max": 997
-	},
-	{
 		"dest": "its:subway j:its icenia gabon",
 		"from": "its:subway",
 		"to": "gabon",
@@ -43348,28 +39896,12 @@
 		"time_max": 1293
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:subway",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 918,
-		"time_max": 1017
-	},
-	{
 		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:subway",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1721,
 		"time_max": 1767
-	},
-	{
-		"dest": "its:subway j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:subway",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1391,
-		"time_max": 1631
 	},
 	{
 		"dest": "its:subway j:its icenia mta",
@@ -43876,14 +40408,6 @@
 		"time_max": 79
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend j:piria crowsroost",
-		"from": "its:bayloop",
-		"to": "crowsroost",
-		"advisory": {},
-		"time_min": 910,
-		"time_max": 999
-	},
-	{
 		"dest": "its:bayloop j:its icenia gabon",
 		"from": "its:bayloop",
 		"to": "gabon",
@@ -43942,28 +40466,12 @@
 		"time_max": 1295
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend j:piria prussia",
-		"from": "its:bayloop",
-		"to": "prussia",
-		"advisory": {},
-		"time_min": 920,
-		"time_max": 1019
-	},
-	{
 		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pnro j:pp forta'are",
 		"from": "its:bayloop",
 		"to": "forta'are",
 		"advisory": {},
 		"time_min": 1723,
 		"time_max": 1769
-	},
-	{
-		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend j:piria appomattox",
-		"from": "its:bayloop",
-		"to": "appomattox",
-		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1633
 	},
 	{
 		"dest": "its:bayloop j:its icenia mta",
