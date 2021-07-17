@@ -56,12 +56,12 @@
 		"time_max": 457
 	},
 	{
-		"dest": "genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:taozi",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2597,
-		"time_max": 3094
+		"time_min": 1569,
+		"time_max": 1597
 	},
 	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -248,12 +248,12 @@
 		"time_max": 2021
 	},
 	{
-		"dest": "genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:taozi",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2742,
-		"time_max": 3298
+		"time_min": 1714,
+		"time_max": 1801
 	},
 	{
 		"dest": "genso:taozi genso:shiranui",
@@ -312,12 +312,12 @@
 		"time_max": 1909
 	},
 	{
-		"dest": "genso:taozi gondolin gondolin:exit",
+		"dest": "genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:taozi",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 882,
-		"time_max": 1142
+		"time_min": 1014,
+		"time_max": 1269
 	},
 	{
 		"dest": "genso:taozi j:piria lambat",
@@ -698,12 +698,12 @@
 		"time_max": 1988
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "torndal",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4482,
-		"time_max": 5184
+		"time_min": 3454,
+		"time_max": 3687
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -890,12 +890,12 @@
 		"time_max": 2795
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "torndal",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4627,
-		"time_max": 5388
+		"time_min": 3599,
+		"time_max": 3891
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -1340,12 +1340,12 @@
 		"time_max": 2325
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "imc",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4469,
-		"time_max": 5451
+		"time_min": 3441,
+		"time_max": 3954
 	},
 	{
 		"dest": "imc j:pmts j:picenia icenia icenia:exit",
@@ -1532,12 +1532,12 @@
 		"time_max": 360
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "imc",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4614,
-		"time_max": 5655
+		"time_min": 3586,
+		"time_max": 4158
 	},
 	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -1982,12 +1982,12 @@
 		"time_max": 2059
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "kro'ushro",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4553,
-		"time_max": 5255
+		"time_min": 3525,
+		"time_max": 3758
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -2174,12 +2174,12 @@
 		"time_max": 2866
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "kro'ushro",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4698,
-		"time_max": 5459
+		"time_min": 3670,
+		"time_max": 3962
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -2624,12 +2624,12 @@
 		"time_max": 817
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "0,0",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3332,
-		"time_max": 4013
+		"time_min": 2304,
+		"time_max": 2516
 	},
 	{
 		"dest": "0,0 j:picenia icenia icenia:exit",
@@ -2816,12 +2816,12 @@
 		"time_max": 1528
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "0,0",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3477,
-		"time_max": 4217
+		"time_min": 2449,
+		"time_max": 2720
 	},
 	{
 		"dest": "0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -3266,12 +3266,12 @@
 		"time_max": 418
 	},
 	{
-		"dest": "genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "genso:roe genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:roe",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2710,
-		"time_max": 3232
+		"time_min": 1682,
+		"time_max": 1735
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -3458,12 +3458,12 @@
 		"time_max": 1941
 	},
 	{
-		"dest": "genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "genso:roe genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:roe",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2855,
-		"time_max": 3436
+		"time_min": 1827,
+		"time_max": 1939
 	},
 	{
 		"dest": "genso:roe genso:taozi genso:shiranui",
@@ -3522,12 +3522,12 @@
 		"time_max": 2047
 	},
 	{
-		"dest": "genso:roe genso:taozi gondolin gondolin:exit",
+		"dest": "genso:roe genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:roe",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 995,
-		"time_max": 1280
+		"time_min": 1127,
+		"time_max": 1407
 	},
 	{
 		"dest": "genso:roe genso:taozi j:piria lambat",
@@ -5192,12 +5192,12 @@
 		"time_max": 851
 	},
 	{
-		"dest": "icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3112,
-		"time_max": 3615
+		"time_min": 2084,
+		"time_max": 2118
 	},
 	{
 		"dest": "icenia icenia:exit",
@@ -5384,12 +5384,12 @@
 		"time_max": 1500
 	},
 	{
-		"dest": "icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3257,
-		"time_max": 3819
+		"time_min": 2229,
+		"time_max": 2322
 	},
 	{
 		"dest": "icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -6476,12 +6476,12 @@
 		"time_max": 977
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "ssta j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "ssta",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3211,
-		"time_max": 3741
+		"time_min": 2183,
+		"time_max": 2244
 	},
 	{
 		"dest": "ssta j:cabalwest icenia icenia:exit",
@@ -6668,12 +6668,12 @@
 		"time_max": 1626
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "ssta j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "ssta",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3356,
-		"time_max": 3945
+		"time_min": 2328,
+		"time_max": 2448
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -7118,12 +7118,12 @@
 		"time_max": 2337
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "hje",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4782,
-		"time_max": 5463
+		"time_min": 3754,
+		"time_max": 3966
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia icenia:exit",
@@ -7310,12 +7310,12 @@
 		"time_max": 2618
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "hje",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4927,
-		"time_max": 5667
+		"time_min": 3899,
+		"time_max": 4170
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -7760,12 +7760,12 @@
 		"time_max": 954
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:lord",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3199,
-		"time_max": 3718
+		"time_min": 2171,
+		"time_max": 2221
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia icenia:exit",
@@ -7952,12 +7952,12 @@
 		"time_max": 1603
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:lord",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3344,
-		"time_max": 3922
+		"time_min": 2316,
+		"time_max": 2425
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -8402,12 +8402,12 @@
 		"time_max": 2019
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "nro'meagh",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4513,
-		"time_max": 5215
+		"time_min": 3485,
+		"time_max": 3718
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -8594,12 +8594,12 @@
 		"time_max": 2826
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "nro'meagh",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4658,
-		"time_max": 5419
+		"time_min": 3630,
+		"time_max": 3922
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -9044,12 +9044,12 @@
 		"time_max": 2104
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "topha'nya",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4590,
-		"time_max": 5300
+		"time_min": 3562,
+		"time_max": 3803
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -9236,12 +9236,12 @@
 		"time_max": 2911
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "topha'nya",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4735,
-		"time_max": 5504
+		"time_min": 3707,
+		"time_max": 4007
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -9686,12 +9686,12 @@
 		"time_max": 987
 	},
 	{
-		"dest": "nyasaland taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "nyasaland taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "nyasaland",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2990,
-		"time_max": 3624
+		"time_min": 1962,
+		"time_max": 2127
 	},
 	{
 		"dest": "nyasaland taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -9878,12 +9878,12 @@
 		"time_max": 2551
 	},
 	{
-		"dest": "nyasaland taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "nyasaland taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "nyasaland",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3135,
-		"time_max": 3828
+		"time_min": 2107,
+		"time_max": 2331
 	},
 	{
 		"dest": "nyasaland taozi genso:shiranui",
@@ -9942,12 +9942,12 @@
 		"time_max": 2439
 	},
 	{
-		"dest": "nyasaland taozi gondolin gondolin:exit",
+		"dest": "nyasaland taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "nyasaland",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1275,
-		"time_max": 1672
+		"time_min": 1407,
+		"time_max": 1799
 	},
 	{
 		"dest": "nyasaland taozi j:piria lambat",
@@ -10328,12 +10328,12 @@
 		"time_max": 2109
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "lriln'kriavnya",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4592,
-		"time_max": 5305
+		"time_min": 3564,
+		"time_max": 3808
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -10520,12 +10520,12 @@
 		"time_max": 2916
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "lriln'kriavnya",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4737,
-		"time_max": 5509
+		"time_min": 3709,
+		"time_max": 4012
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -10970,12 +10970,12 @@
 		"time_max": 951
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "canvasblue",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3197,
-		"time_max": 3715
+		"time_min": 2169,
+		"time_max": 2218
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia icenia:exit",
@@ -11162,12 +11162,12 @@
 		"time_max": 1600
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "canvasblue",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3342,
-		"time_max": 3919
+		"time_min": 2314,
+		"time_max": 2422
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -11612,12 +11612,12 @@
 		"time_max": 2864
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "ellen",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4827,
-		"time_max": 5990
+		"time_min": 3799,
+		"time_max": 4493
 	},
 	{
 		"dest": "ellen j:pmts j:picenia icenia icenia:exit",
@@ -11804,12 +11804,12 @@
 		"time_max": 899
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "ellen",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4972,
-		"time_max": 6194
+		"time_min": 3944,
+		"time_max": 4697
 	},
 	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -12254,12 +12254,12 @@
 		"time_max": 1450
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "arrelani j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "arrelani",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3338,
-		"time_max": 4087
+		"time_min": 2310,
+		"time_max": 2590
 	},
 	{
 		"dest": "arrelani j:nice j:pend j:knot j:icegen icenia icenia:exit",
@@ -12446,12 +12446,12 @@
 		"time_max": 2182
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "arrelani j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "arrelani",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3483,
-		"time_max": 4291
+		"time_min": 2455,
+		"time_max": 2794
 	},
 	{
 		"dest": "arrelani j:nice j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -12510,12 +12510,12 @@
 		"time_max": 1644
 	},
 	{
-		"dest": "arrelani j:nice j:pend j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "arrelani j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "arrelani",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1623,
-		"time_max": 2135
+		"time_min": 1755,
+		"time_max": 2262
 	},
 	{
 		"dest": "arrelani j:nice j:pend j:piria lambat",
@@ -12896,12 +12896,12 @@
 		"time_max": 939
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:drippy icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:drippy",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3182,
-		"time_max": 3703
+		"time_min": 2154,
+		"time_max": 2206
 	},
 	{
 		"dest": "icenia:drippy icenia icenia:exit",
@@ -13088,12 +13088,12 @@
 		"time_max": 1588
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:drippy icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:drippy",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3327,
-		"time_max": 3907
+		"time_min": 2299,
+		"time_max": 2410
 	},
 	{
 		"dest": "icenia:drippy icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -13538,12 +13538,12 @@
 		"time_max": 1823
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "hiyo'mek",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4336,
-		"time_max": 5019
+		"time_min": 3308,
+		"time_max": 3522
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen icenia icenia:exit",
@@ -13730,12 +13730,12 @@
 		"time_max": 2630
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "hiyo'mek",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4481,
-		"time_max": 5223
+		"time_min": 3453,
+		"time_max": 3726
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -14180,12 +14180,12 @@
 		"time_max": 962
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:atlantica icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:atlantica",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3195,
-		"time_max": 3726
+		"time_min": 2167,
+		"time_max": 2229
 	},
 	{
 		"dest": "icenia:atlantica icenia icenia:exit",
@@ -14372,12 +14372,12 @@
 		"time_max": 1611
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:atlantica icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:atlantica",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3340,
-		"time_max": 3930
+		"time_min": 2312,
+		"time_max": 2433
 	},
 	{
 		"dest": "icenia:atlantica icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -14822,12 +14822,12 @@
 		"time_max": 942
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:westisle icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:westisle",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3176,
-		"time_max": 3706
+		"time_min": 2148,
+		"time_max": 2209
 	},
 	{
 		"dest": "icenia:westisle icenia icenia:exit",
@@ -15014,12 +15014,12 @@
 		"time_max": 1591
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:westisle icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:westisle",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3321,
-		"time_max": 3910
+		"time_min": 2293,
+		"time_max": 2413
 	},
 	{
 		"dest": "icenia:westisle icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -15464,12 +15464,12 @@
 		"time_max": 2045
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "il'olmhir",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4533,
-		"time_max": 5241
+		"time_min": 3505,
+		"time_max": 3744
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -15656,12 +15656,12 @@
 		"time_max": 2852
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "il'olmhir",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4678,
-		"time_max": 5445
+		"time_min": 3650,
+		"time_max": 3948
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -16106,12 +16106,12 @@
 		"time_max": 1917
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "ozonrough",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4420,
-		"time_max": 5113
+		"time_min": 3392,
+		"time_max": 3616
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen icenia icenia:exit",
@@ -16298,12 +16298,12 @@
 		"time_max": 2724
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "ozonrough",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4565,
-		"time_max": 5317
+		"time_min": 3537,
+		"time_max": 3820
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -16748,12 +16748,12 @@
 		"time_max": 1510
 	},
 	{
-		"dest": "coventhia genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "coventhia genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "coventhia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3382,
-		"time_max": 4147
+		"time_min": 2354,
+		"time_max": 2650
 	},
 	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -16940,12 +16940,12 @@
 		"time_max": 3074
 	},
 	{
-		"dest": "coventhia genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "coventhia genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "coventhia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3527,
-		"time_max": 4351
+		"time_min": 2499,
+		"time_max": 2854
 	},
 	{
 		"dest": "coventhia genso:taozi genso:shiranui",
@@ -17004,12 +17004,12 @@
 		"time_max": 2962
 	},
 	{
-		"dest": "coventhia genso:taozi gondolin gondolin:exit",
+		"dest": "coventhia genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "coventhia",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1667,
-		"time_max": 2195
+		"time_min": 1799,
+		"time_max": 2322
 	},
 	{
 		"dest": "coventhia genso:taozi j:piria lambat",
@@ -17390,12 +17390,12 @@
 		"time_max": 1113
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "alpoko icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "alpoko",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3355,
-		"time_max": 3877
+		"time_min": 2327,
+		"time_max": 2380
 	},
 	{
 		"dest": "alpoko icenia icenia:exit",
@@ -17582,12 +17582,12 @@
 		"time_max": 1762
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "alpoko icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "alpoko",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3500,
-		"time_max": 4081
+		"time_min": 2472,
+		"time_max": 2584
 	},
 	{
 		"dest": "alpoko icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -18032,12 +18032,12 @@
 		"time_max": 1042
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "it:anburon icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "it:anburon",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3251,
-		"time_max": 3806
+		"time_min": 2223,
+		"time_max": 2309
 	},
 	{
 		"dest": "it:anburon icenia icenia:exit",
@@ -18224,12 +18224,12 @@
 		"time_max": 1691
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "it:anburon icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "it:anburon",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3396,
-		"time_max": 4010
+		"time_min": 2368,
+		"time_max": 2513
 	},
 	{
 		"dest": "it:anburon icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -18674,12 +18674,12 @@
 		"time_max": 1417
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "varkonia icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "varkonia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3545,
-		"time_max": 4181
+		"time_min": 2517,
+		"time_max": 2684
 	},
 	{
 		"dest": "varkonia icenia icenia:exit",
@@ -18866,12 +18866,12 @@
 		"time_max": 2122
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "varkonia icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "varkonia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3690,
-		"time_max": 4385
+		"time_min": 2662,
+		"time_max": 2888
 	},
 	{
 		"dest": "varkonia icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -19316,12 +19316,12 @@
 		"time_max": 2351
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "westminster 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "westminster",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4427,
-		"time_max": 5541
+		"time_min": 3399,
+		"time_max": 4044
 	},
 	{
 		"dest": "westminster icenia icenia:exit",
@@ -19508,12 +19508,12 @@
 		"time_max": 0
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "westminster 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "westminster",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4572,
-		"time_max": 5745
+		"time_min": 3544,
+		"time_max": 4248
 	},
 	{
 		"dest": "westminster 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -20600,12 +20600,12 @@
 		"time_max": 540
 	},
 	{
-		"dest": "genso:shiranui genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "genso:shiranui genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:shiranui",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2663,
-		"time_max": 3177
+		"time_min": 1635,
+		"time_max": 1680
 	},
 	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -20792,12 +20792,12 @@
 		"time_max": 2104
 	},
 	{
-		"dest": "genso:shiranui genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "genso:shiranui genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:shiranui",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2808,
-		"time_max": 3381
+		"time_min": 1780,
+		"time_max": 1884
 	},
 	{
 		"dest": "genso:shiranui",
@@ -20856,12 +20856,12 @@
 		"time_max": 1992
 	},
 	{
-		"dest": "genso:shiranui genso:taozi gondolin gondolin:exit",
+		"dest": "genso:shiranui genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:shiranui",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 948,
-		"time_max": 1225
+		"time_min": 1080,
+		"time_max": 1352
 	},
 	{
 		"dest": "genso:shiranui genso:taozi j:piria lambat",
@@ -21242,12 +21242,12 @@
 		"time_max": 861
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "netherfarm j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "netherfarm",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3376,
-		"time_max": 4057
+		"time_min": 2348,
+		"time_max": 2560
 	},
 	{
 		"dest": "netherfarm j:knot j:icegen icenia icenia:exit",
@@ -21434,12 +21434,12 @@
 		"time_max": 1668
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "netherfarm j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "netherfarm",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3521,
-		"time_max": 4261
+		"time_min": 2493,
+		"time_max": 2764
 	},
 	{
 		"dest": "netherfarm j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -21884,12 +21884,12 @@
 		"time_max": 952
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:potato icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:potato",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3200,
-		"time_max": 3716
+		"time_min": 2172,
+		"time_max": 2219
 	},
 	{
 		"dest": "icenia:potato icenia icenia:exit",
@@ -22076,12 +22076,12 @@
 		"time_max": 1601
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:potato icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:potato",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3345,
-		"time_max": 3920
+		"time_min": 2317,
+		"time_max": 2423
 	},
 	{
 		"dest": "icenia:potato icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -22526,12 +22526,12 @@
 		"time_max": 1018
 	},
 	{
-		"dest": "aurum:cactus j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "aurum:cactus j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "aurum:cactus",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3002,
-		"time_max": 3655
+		"time_min": 1974,
+		"time_max": 2158
 	},
 	{
 		"dest": "aurum:cactus j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -22718,12 +22718,12 @@
 		"time_max": 2116
 	},
 	{
-		"dest": "aurum:cactus j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "aurum:cactus j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "aurum:cactus",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3147,
-		"time_max": 3859
+		"time_min": 2119,
+		"time_max": 2362
 	},
 	{
 		"dest": "aurum:cactus j:piria genso:taozi genso:shiranui",
@@ -22782,12 +22782,12 @@
 		"time_max": 1578
 	},
 	{
-		"dest": "aurum:cactus j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "aurum:cactus j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "aurum:cactus",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1287,
-		"time_max": 1703
+		"time_min": 1419,
+		"time_max": 1830
 	},
 	{
 		"dest": "aurum:cactus j:piria lambat",
@@ -23168,12 +23168,12 @@
 		"time_max": 1974
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "caledonia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3867,
-		"time_max": 4611
+		"time_min": 2839,
+		"time_max": 3114
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
@@ -23360,12 +23360,12 @@
 		"time_max": 2706
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "caledonia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4012,
-		"time_max": 4815
+		"time_min": 2984,
+		"time_max": 3318
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -23424,12 +23424,12 @@
 		"time_max": 2168
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "caledonia",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 2152,
-		"time_max": 2659
+		"time_min": 2284,
+		"time_max": 2786
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria lambat",
@@ -23810,12 +23810,12 @@
 		"time_max": 744
 	},
 	{
-		"dest": "sig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "sig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "sig",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2801,
-		"time_max": 3381
+		"time_min": 1773,
+		"time_max": 1884
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia icenia:exit",
@@ -24002,12 +24002,12 @@
 		"time_max": 2007
 	},
 	{
-		"dest": "sig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "sig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "sig",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2946,
-		"time_max": 3585
+		"time_min": 1918,
+		"time_max": 2088
 	},
 	{
 		"dest": "sig genso:taozi genso:shiranui",
@@ -24066,12 +24066,12 @@
 		"time_max": 1463
 	},
 	{
-		"dest": "sig genso:taozi gondolin gondolin:exit",
+		"dest": "sig genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "sig",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1086,
-		"time_max": 1429
+		"time_min": 1218,
+		"time_max": 1556
 	},
 	{
 		"dest": "sig genso:taozi j:piria lambat",
@@ -24452,12 +24452,12 @@
 		"time_max": 1807
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "alexandria",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4321,
-		"time_max": 5003
+		"time_min": 3293,
+		"time_max": 3506
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot j:icegen icenia icenia:exit",
@@ -24644,12 +24644,12 @@
 		"time_max": 2614
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "alexandria",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4466,
-		"time_max": 5207
+		"time_min": 3438,
+		"time_max": 3710
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -25038,52 +25038,52 @@
 		"time_max": 1503
 	},
 	{
-		"dest": "gondolin genso:taozi genso:taozi:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi genso:taozi:exit",
 		"from": "gondolin",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 882,
-		"time_max": 1142
+		"time_min": 1014,
+		"time_max": 1269
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "gondolin",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2767,
-		"time_max": 3232
+		"time_min": 2899,
+		"time_max": 3359
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia j:picenia j:pmts imc imc:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts imc imc:exit",
 		"from": "gondolin",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2541,
+		"time_min": 2572,
 		"time_max": 3137
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "gondolin",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2838,
-		"time_max": 3303
+		"time_min": 2970,
+		"time_max": 3430
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen j:knot 0,0 0,0:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot 0,0 0,0:exit",
 		"from": "gondolin",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 1366,
+		"time_min": 1397,
 		"time_max": 1629
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe genso:roe:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe genso:roe:exit",
 		"from": "gondolin",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 995,
-		"time_max": 1280
+		"time_min": 997,
+		"time_max": 1230
 	},
 	{
 		"dest": "gondolin j:coe:north coe coe:exit",
@@ -25102,187 +25102,187 @@
 		"time_max": 1952
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "gondolin",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1432,
-		"time_max": 1721
+		"time_min": 1428,
+		"time_max": 1663
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "gondolin",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 2418,
-		"time_max": 2874
+		"time_min": 2550,
+		"time_max": 3001
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
 		"from": "gondolin",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1531,
-		"time_max": 1847
+		"time_min": 1527,
+		"time_max": 1789
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia j:picenia j:pmts j:pvark j:pkallos hje",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "gondolin",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2889,
-		"time_max": 3207
+		"time_min": 2885,
+		"time_max": 3149
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia j:cabaleast lord",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabaleast lord",
 		"from": "gondolin",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1519,
-		"time_max": 1824
+		"time_min": 1515,
+		"time_max": 1766
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "gondolin",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2798,
-		"time_max": 3263
+		"time_min": 2930,
+		"time_max": 3390
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "gondolin",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2875,
-		"time_max": 3348
+		"time_min": 3007,
+		"time_max": 3475
 	},
 	{
-		"dest": "gondolin genso:taozi nyasaland",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi nyasaland",
 		"from": "gondolin",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 1275,
-		"time_max": 1672
+		"time_min": 1407,
+		"time_max": 1799
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gondolin",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2877,
-		"time_max": 3353
+		"time_min": 3009,
+		"time_max": 3480
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest mta canvasblue",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest mta canvasblue",
 		"from": "gondolin",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1517,
-		"time_max": 1821
+		"time_min": 1513,
+		"time_max": 1763
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia j:picenia j:pmts ellen",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts ellen",
 		"from": "gondolin",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2899,
+		"time_min": 2930,
 		"time_max": 3676
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:nice arrelani",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:nice arrelani",
 		"from": "gondolin",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 1623,
-		"time_max": 2135
+		"time_min": 1755,
+		"time_max": 2262
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:drippy",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:drippy",
 		"from": "gondolin",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1502,
-		"time_max": 1809
+		"time_min": 1498,
+		"time_max": 1751
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "gondolin",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 2621,
-		"time_max": 3067
+		"time_min": 2753,
+		"time_max": 3194
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:atlantica",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:atlantica",
 		"from": "gondolin",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1832
+		"time_min": 1511,
+		"time_max": 1774
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
 		"from": "gondolin",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1496,
-		"time_max": 1812
+		"time_min": 1492,
+		"time_max": 1754
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "gondolin",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2818,
-		"time_max": 3289
+		"time_min": 2950,
+		"time_max": 3416
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "gondolin",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 2705,
-		"time_max": 3161
+		"time_min": 2837,
+		"time_max": 3288
 	},
 	{
-		"dest": "gondolin genso:taozi coventhia",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi coventhia",
 		"from": "gondolin",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 1667,
-		"time_max": 2195
+		"time_min": 1799,
+		"time_max": 2322
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia alpoko",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia alpoko",
 		"from": "gondolin",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1675,
-		"time_max": 1983
+		"time_min": 1671,
+		"time_max": 1925
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia it:anburon",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia it:anburon",
 		"from": "gondolin",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1536,
+		"time_min": 1567,
 		"time_max": 1854
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia varkonia",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia varkonia",
 		"from": "gondolin",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 1865,
-		"time_max": 2287
+		"time_min": 1861,
+		"time_max": 2229
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia westminster",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia westminster",
 		"from": "gondolin",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 2462,
+		"time_min": 2493,
 		"time_max": 3163
 	},
 	{
@@ -25294,60 +25294,60 @@
 		"time_max": 2156
 	},
 	{
-		"dest": "gondolin genso:taozi genso:shiranui",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi genso:shiranui",
 		"from": "gondolin",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 948,
-		"time_max": 1225
+		"time_min": 1080,
+		"time_max": 1352
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen j:knot netherfarm",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:gensig j:icegen j:knot netherfarm",
 		"from": "gondolin",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 1410,
-		"time_max": 1673
+		"time_min": 1542,
+		"time_max": 1800
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:potato",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:potato",
 		"from": "gondolin",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1520,
-		"time_max": 1822
+		"time_min": 1516,
+		"time_max": 1764
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria aurum:cactus",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria aurum:cactus",
 		"from": "gondolin",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 1287,
-		"time_max": 1703
+		"time_min": 1419,
+		"time_max": 1830
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "gondolin",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 2152,
-		"time_max": 2659
+		"time_min": 2284,
+		"time_max": 2786
 	},
 	{
-		"dest": "gondolin genso:taozi sig",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi sig",
 		"from": "gondolin",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 1086,
-		"time_max": 1429
+		"time_min": 1218,
+		"time_max": 1556
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:palex alexandria",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:palex alexandria",
 		"from": "gondolin",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 2606,
-		"time_max": 3051
+		"time_min": 2738,
+		"time_max": 3178
 	},
 	{
 		"dest": "gondolin gondolin:exit",
@@ -25358,142 +25358,142 @@
 		"time_max": 0
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria lambat",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria lambat",
 		"from": "gondolin",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1692,
-		"time_max": 2161
+		"time_min": 1824,
+		"time_max": 2288
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria aurum",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria aurum",
 		"from": "gondolin",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 1262,
-		"time_max": 1656
+		"time_min": 1394,
+		"time_max": 1783
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria new_sovia",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria new_sovia",
 		"from": "gondolin",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1885,
-		"time_max": 2336
+		"time_min": 2017,
+		"time_max": 2463
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:pp pacem",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:pp pacem",
 		"from": "gondolin",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2900,
-		"time_max": 3353
+		"time_min": 3032,
+		"time_max": 3480
 	},
 	{
-		"dest": "gondolin genso:taozi genso:farms",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi genso:farms",
 		"from": "gondolin",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1486,
-		"time_max": 1750
+		"time_min": 1618,
+		"time_max": 1877
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia kallos",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia kallos",
 		"from": "gondolin",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 2131,
-		"time_max": 2562
+		"time_min": 2127,
+		"time_max": 2504
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen j:knot wayrest",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:gensig j:icegen j:knot wayrest",
 		"from": "gondolin",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 1432,
-		"time_max": 1711
+		"time_min": 1564,
+		"time_max": 1838
 	},
 	{
-		"dest": "gondolin genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
+		"dest": "gondolin j:coe:north coe j:coe:east savion iria:jungle",
 		"from": "gondolin",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 3084,
-		"time_max": 3470
+		"time_min": 2348,
+		"time_max": 2683
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen j:knot j:pnro j:pp hjaltland",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen j:knot j:pnro j:pp hjaltland",
 		"from": "gondolin",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2969,
+		"time_min": 3000,
 		"time_max": 3345
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe bloom",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe bloom",
 		"from": "gondolin",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1326,
-		"time_max": 1643
+		"time_min": 1328,
+		"time_max": 1593
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:gntv tvtopia",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe j:gntv tvtopia",
 		"from": "gondolin",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 1190,
-		"time_max": 1536
+		"time_min": 1192,
+		"time_max": 1486
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest wnsta",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest wnsta",
 		"from": "gondolin",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1467,
-		"time_max": 1769
+		"time_min": 1463,
+		"time_max": 1711
 	},
 	{
-		"dest": "gondolin genso:taozi crowsroost",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi crowsroost",
 		"from": "gondolin",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 1182,
-		"time_max": 1556
+		"time_min": 1314,
+		"time_max": 1683
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:gntv gabon",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe j:gntv gabon",
 		"from": "gondolin",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1491,
-		"time_max": 1951
+		"time_min": 1493,
+		"time_max": 1901
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
 		"from": "gondolin",
 		"to": "mts",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2134,
+		"time_min": 2165,
 		"time_max": 2600
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia icenia:nether",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:nether",
 		"from": "gondolin",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1557,
-		"time_max": 1881
+		"time_min": 1553,
+		"time_max": 1823
 	},
 	{
-		"dest": "gondolin genso:taozi old_sanctuary",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi old_sanctuary",
 		"from": "gondolin",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1514,
-		"time_max": 1914
+		"time_min": 1646,
+		"time_max": 2041
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -25504,180 +25504,180 @@
 		"time_max": 3338
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:pp fortuna",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:pp fortuna",
 		"from": "gondolin",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 3486,
-		"time_max": 4070
+		"time_min": 3618,
+		"time_max": 4197
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe genso:centi",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe genso:roe genso:centi",
 		"from": "gondolin",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 1035,
-		"time_max": 1326
+		"time_min": 1037,
+		"time_max": 1276
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot vinland",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot vinland",
 		"from": "gondolin",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 2394,
-		"time_max": 2843
+		"time_min": 2526,
+		"time_max": 2970
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:pp forta'are",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:pp forta'are",
 		"from": "gondolin",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2859,
-		"time_max": 3315
+		"time_min": 2991,
+		"time_max": 3442
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria appomattox",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria appomattox",
 		"from": "gondolin",
 		"to": "appomattox",
 		"advisory": {},
-		"time_min": 1765,
-		"time_max": 2331
+		"time_min": 1897,
+		"time_max": 2458
 	},
 	{
-		"dest": "gondolin genso:taozi j:gensig j:icegen icenia mta",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia mta",
 		"from": "gondolin",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 2234,
+		"time_min": 2265,
 		"time_max": 2844
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "gondolin",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2862,
-		"time_max": 3337
+		"time_min": 2994,
+		"time_max": 3464
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "gondolin",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2750,
-		"time_max": 3208
+		"time_min": 2882,
+		"time_max": 3335
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend endportal",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend endportal",
 		"from": "gondolin",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 1378,
-		"time_max": 1822
+		"time_min": 1510,
+		"time_max": 1949
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj besia",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj besia",
 		"from": "gondolin",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1983,
-		"time_max": 2434
+		"time_min": 2115,
+		"time_max": 2561
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria j:pend j:nice j:ppcc cape_cocoa",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:nice j:ppcc cape_cocoa",
 		"from": "gondolin",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 1600,
-		"time_max": 2045
+		"time_min": 1732,
+		"time_max": 2172
 	},
 	{
-		"dest": "gondolin genso:taozi j:piria iria",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria iria",
 		"from": "gondolin",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 2160,
-		"time_max": 2550
+		"time_min": 2292,
+		"time_max": 2677
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its qbipfb",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its qbipfb",
 		"from": "gondolin",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1473,
-		"time_max": 1774
+		"time_min": 1469,
+		"time_max": 1716
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its versailles",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its versailles",
 		"from": "gondolin",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1463,
-		"time_max": 1757
+		"time_min": 1459,
+		"time_max": 1699
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its iceniapark",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its iceniapark",
 		"from": "gondolin",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1453,
-		"time_max": 1746
+		"time_min": 1449,
+		"time_max": 1688
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its skybunker",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its skybunker",
 		"from": "gondolin",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1465,
-		"time_max": 1761
+		"time_min": 1461,
+		"time_max": 1703
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its hji",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its hji",
 		"from": "gondolin",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1466,
-		"time_max": 1765
+		"time_min": 1462,
+		"time_max": 1707
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its adytum",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its adytum",
 		"from": "gondolin",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1499,
-		"time_max": 1805
+		"time_min": 1495,
+		"time_max": 1747
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its office",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its office",
 		"from": "gondolin",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1458,
-		"time_max": 1751
+		"time_min": 1454,
+		"time_max": 1693
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its beach",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its beach",
 		"from": "gondolin",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1459,
-		"time_max": 1754
+		"time_min": 1455,
+		"time_max": 1696
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its subway",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its subway",
 		"from": "gondolin",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1456,
-		"time_max": 1750
+		"time_min": 1452,
+		"time_max": 1692
 	},
 	{
-		"dest": "gondolin genso:taozi genso:roe j:uroe j:icegen icenia its bayloop",
+		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia its bayloop",
 		"from": "gondolin",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1458,
-		"time_max": 1752
+		"time_min": 1454,
+		"time_max": 1694
 	},
 	{
 		"dest": "lambat j:piria genso:taozi genso:taozi:exit",
@@ -25736,12 +25736,12 @@
 		"time_max": 1476
 	},
 	{
-		"dest": "lambat j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "lambat j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "lambat",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3407,
-		"time_max": 4113
+		"time_min": 2379,
+		"time_max": 2616
 	},
 	{
 		"dest": "lambat j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -25928,12 +25928,12 @@
 		"time_max": 2574
 	},
 	{
-		"dest": "lambat j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "lambat j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "lambat",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3552,
-		"time_max": 4317
+		"time_min": 2524,
+		"time_max": 2820
 	},
 	{
 		"dest": "lambat j:piria genso:taozi genso:shiranui",
@@ -25992,12 +25992,12 @@
 		"time_max": 2036
 	},
 	{
-		"dest": "lambat j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "lambat j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "lambat",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1692,
-		"time_max": 2161
+		"time_min": 1824,
+		"time_max": 2288
 	},
 	{
 		"dest": "lambat",
@@ -26378,12 +26378,12 @@
 		"time_max": 971
 	},
 	{
-		"dest": "aurum j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "aurum j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "aurum",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2977,
-		"time_max": 3608
+		"time_min": 1949,
+		"time_max": 2111
 	},
 	{
 		"dest": "aurum j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -26570,12 +26570,12 @@
 		"time_max": 2024
 	},
 	{
-		"dest": "aurum j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "aurum j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "aurum",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3122,
-		"time_max": 3812
+		"time_min": 2094,
+		"time_max": 2315
 	},
 	{
 		"dest": "aurum j:piria genso:taozi genso:shiranui",
@@ -26634,12 +26634,12 @@
 		"time_max": 1486
 	},
 	{
-		"dest": "aurum j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "aurum j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "aurum",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1262,
-		"time_max": 1656
+		"time_min": 1394,
+		"time_max": 1783
 	},
 	{
 		"dest": "aurum j:piria lambat",
@@ -27020,12 +27020,12 @@
 		"time_max": 1651
 	},
 	{
-		"dest": "new_sovia j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "new_sovia j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "new_sovia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3600,
-		"time_max": 4288
+		"time_min": 2572,
+		"time_max": 2791
 	},
 	{
 		"dest": "new_sovia j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -27212,12 +27212,12 @@
 		"time_max": 2749
 	},
 	{
-		"dest": "new_sovia j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "new_sovia j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "new_sovia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3745,
-		"time_max": 4492
+		"time_min": 2717,
+		"time_max": 2995
 	},
 	{
 		"dest": "new_sovia j:piria genso:taozi genso:shiranui",
@@ -27276,12 +27276,12 @@
 		"time_max": 2211
 	},
 	{
-		"dest": "new_sovia j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "new_sovia j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "new_sovia",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1885,
-		"time_max": 2336
+		"time_min": 2017,
+		"time_max": 2463
 	},
 	{
 		"dest": "new_sovia j:piria lambat",
@@ -27662,12 +27662,12 @@
 		"time_max": 2109
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "pacem",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4615,
-		"time_max": 5305
+		"time_min": 3587,
+		"time_max": 3808
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot j:icegen icenia icenia:exit",
@@ -27854,12 +27854,12 @@
 		"time_max": 2916
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "pacem",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4760,
-		"time_max": 5509
+		"time_min": 3732,
+		"time_max": 4012
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -28304,12 +28304,12 @@
 		"time_max": 1065
 	},
 	{
-		"dest": "genso:farms genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:farms",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3201,
-		"time_max": 3702
+		"time_min": 2173,
+		"time_max": 2205
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -28496,12 +28496,12 @@
 		"time_max": 2629
 	},
 	{
-		"dest": "genso:farms genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:farms",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3346,
-		"time_max": 3906
+		"time_min": 2318,
+		"time_max": 2409
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:shiranui",
@@ -28560,12 +28560,12 @@
 		"time_max": 2517
 	},
 	{
-		"dest": "genso:farms genso:taozi gondolin gondolin:exit",
+		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:farms",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1486,
-		"time_max": 1750
+		"time_min": 1618,
+		"time_max": 1877
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria lambat",
@@ -28946,12 +28946,12 @@
 		"time_max": 1692
 	},
 	{
-		"dest": "kallos icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "kallos icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "kallos",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3811,
-		"time_max": 4456
+		"time_min": 2783,
+		"time_max": 2959
 	},
 	{
 		"dest": "kallos icenia icenia:exit",
@@ -29138,12 +29138,12 @@
 		"time_max": 2079
 	},
 	{
-		"dest": "kallos icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "kallos icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "kallos",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3956,
-		"time_max": 4660
+		"time_min": 2928,
+		"time_max": 3163
 	},
 	{
 		"dest": "kallos icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -29588,12 +29588,12 @@
 		"time_max": 899
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "wayrest j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "wayrest",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3398,
-		"time_max": 4095
+		"time_min": 2370,
+		"time_max": 2598
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia icenia icenia:exit",
@@ -29780,12 +29780,12 @@
 		"time_max": 1706
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "wayrest j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "wayrest",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3543,
-		"time_max": 4299
+		"time_min": 2515,
+		"time_max": 2802
 	},
 	{
 		"dest": "wayrest j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -30872,12 +30872,12 @@
 		"time_max": 2533
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "hjaltland",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4935,
-		"time_max": 5729
+		"time_min": 3907,
+		"time_max": 4232
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:icegen icenia icenia:exit",
@@ -31064,12 +31064,12 @@
 		"time_max": 3340
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "hjaltland",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 5080,
-		"time_max": 5933
+		"time_min": 4052,
+		"time_max": 4436
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -31514,12 +31514,12 @@
 		"time_max": 781
 	},
 	{
-		"dest": "bloom genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "bloom genso:roe genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "bloom",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3041,
-		"time_max": 3595
+		"time_min": 2013,
+		"time_max": 2098
 	},
 	{
 		"dest": "bloom icenia icenia:exit",
@@ -31706,12 +31706,12 @@
 		"time_max": 1841
 	},
 	{
-		"dest": "bloom genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "bloom genso:roe genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "bloom",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3186,
-		"time_max": 3799
+		"time_min": 2158,
+		"time_max": 2302
 	},
 	{
 		"dest": "bloom genso:roe genso:taozi genso:shiranui",
@@ -31770,12 +31770,12 @@
 		"time_max": 1687
 	},
 	{
-		"dest": "bloom genso:roe genso:taozi gondolin gondolin:exit",
+		"dest": "bloom genso:roe genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "bloom",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1326,
-		"time_max": 1643
+		"time_min": 1458,
+		"time_max": 1770
 	},
 	{
 		"dest": "bloom genso:roe genso:taozi j:piria lambat",
@@ -32156,12 +32156,12 @@
 		"time_max": 674
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "tvtopia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2905,
-		"time_max": 3488
+		"time_min": 1877,
+		"time_max": 1991
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -32348,12 +32348,12 @@
 		"time_max": 2197
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "tvtopia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3050,
-		"time_max": 3692
+		"time_min": 2022,
+		"time_max": 2195
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe genso:taozi genso:shiranui",
@@ -32412,12 +32412,12 @@
 		"time_max": 2303
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe genso:taozi gondolin gondolin:exit",
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "tvtopia",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1190,
-		"time_max": 1536
+		"time_min": 1322,
+		"time_max": 1663
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria lambat",
@@ -32798,12 +32798,12 @@
 		"time_max": 899
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "wnsta",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3147,
-		"time_max": 3663
+		"time_min": 2119,
+		"time_max": 2166
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia icenia:exit",
@@ -32990,12 +32990,12 @@
 		"time_max": 1548
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "wnsta",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3292,
-		"time_max": 3867
+		"time_min": 2264,
+		"time_max": 2370
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -33440,12 +33440,12 @@
 		"time_max": 871
 	},
 	{
-		"dest": "crowsroost genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "crowsroost genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "crowsroost",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2897,
-		"time_max": 3508
+		"time_min": 1869,
+		"time_max": 2011
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -33632,12 +33632,12 @@
 		"time_max": 2435
 	},
 	{
-		"dest": "crowsroost genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "crowsroost genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "crowsroost",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3042,
-		"time_max": 3712
+		"time_min": 2014,
+		"time_max": 2215
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:shiranui",
@@ -33696,12 +33696,12 @@
 		"time_max": 2323
 	},
 	{
-		"dest": "crowsroost genso:taozi gondolin gondolin:exit",
+		"dest": "crowsroost genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "crowsroost",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1182,
-		"time_max": 1556
+		"time_min": 1314,
+		"time_max": 1683
 	},
 	{
 		"dest": "crowsroost genso:taozi j:piria lambat",
@@ -34082,12 +34082,12 @@
 		"time_max": 1089
 	},
 	{
-		"dest": "gabon j:gntv genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "gabon j:gntv genso:roe genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "gabon",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3206,
-		"time_max": 3903
+		"time_min": 2178,
+		"time_max": 2406
 	},
 	{
 		"dest": "gabon icenia icenia:exit",
@@ -34274,12 +34274,12 @@
 		"time_max": 2122
 	},
 	{
-		"dest": "gabon j:gntv genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "gabon j:gntv genso:roe genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "gabon",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3351,
-		"time_max": 4107
+		"time_min": 2323,
+		"time_max": 2610
 	},
 	{
 		"dest": "gabon j:gntv genso:roe genso:taozi genso:shiranui",
@@ -34338,12 +34338,12 @@
 		"time_max": 1762
 	},
 	{
-		"dest": "gabon j:gntv genso:roe genso:taozi gondolin gondolin:exit",
+		"dest": "gabon j:gntv genso:roe genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "gabon",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1491,
-		"time_max": 1951
+		"time_min": 1623,
+		"time_max": 2078
 	},
 	{
 		"dest": "gabon j:gntv genso:roe genso:taozi j:piria lambat",
@@ -34738,14 +34738,14 @@
 		"time_max": 1788
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "mts",
 		"to": "savion",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 4062,
-		"time_max": 4914
+		"time_min": 3034,
+		"time_max": 3417
 	},
 	{
 		"dest": "mts j:pmts j:picenia icenia icenia:exit",
@@ -34978,14 +34978,14 @@
 		"time_max": 897
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "mts",
 		"to": "iria:desert",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 4207,
-		"time_max": 5118
+		"time_min": 3179,
+		"time_max": 3621
 	},
 	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -35524,12 +35524,12 @@
 		"time_max": 1011
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "icenia:nether icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "icenia:nether",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3237,
-		"time_max": 3775
+		"time_min": 2209,
+		"time_max": 2278
 	},
 	{
 		"dest": "icenia:nether icenia icenia:exit",
@@ -35716,12 +35716,12 @@
 		"time_max": 1660
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "icenia:nether icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "icenia:nether",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3382,
-		"time_max": 3979
+		"time_min": 2354,
+		"time_max": 2482
 	},
 	{
 		"dest": "icenia:nether icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -36166,12 +36166,12 @@
 		"time_max": 1229
 	},
 	{
-		"dest": "old_sanctuary genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "old_sanctuary",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3229,
-		"time_max": 3866
+		"time_min": 2201,
+		"time_max": 2369
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -36358,12 +36358,12 @@
 		"time_max": 2793
 	},
 	{
-		"dest": "old_sanctuary genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "old_sanctuary",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3374,
-		"time_max": 4070
+		"time_min": 2346,
+		"time_max": 2573
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:shiranui",
@@ -36422,12 +36422,12 @@
 		"time_max": 2681
 	},
 	{
-		"dest": "old_sanctuary genso:taozi gondolin gondolin:exit",
+		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "old_sanctuary",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1514,
-		"time_max": 1914
+		"time_min": 1646,
+		"time_max": 2041
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria lambat",
@@ -36808,12 +36808,12 @@
 		"time_max": 2526
 	},
 	{
-		"dest": "spqr icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "spqr icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "spqr",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4364,
-		"time_max": 5290
+		"time_min": 3336,
+		"time_max": 3793
 	},
 	{
 		"dest": "spqr icenia icenia:exit",
@@ -37000,12 +37000,12 @@
 		"time_max": 1810
 	},
 	{
-		"dest": "spqr icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "spqr icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "spqr",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4509,
-		"time_max": 5494
+		"time_min": 3481,
+		"time_max": 3997
 	},
 	{
 		"dest": "spqr icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -37450,12 +37450,12 @@
 		"time_max": 2826
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "fortuna",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 5201,
-		"time_max": 6022
+		"time_min": 4173,
+		"time_max": 4525
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot j:icegen icenia icenia:exit",
@@ -37642,12 +37642,12 @@
 		"time_max": 3633
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "fortuna",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 5346,
-		"time_max": 6226
+		"time_min": 4318,
+		"time_max": 4729
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -38092,12 +38092,12 @@
 		"time_max": 464
 	},
 	{
-		"dest": "genso:centi genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "genso:centi genso:roe genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:centi",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2750,
-		"time_max": 3278
+		"time_min": 1722,
+		"time_max": 1781
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -38284,12 +38284,12 @@
 		"time_max": 1987
 	},
 	{
-		"dest": "genso:centi genso:roe genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "genso:centi genso:roe genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:centi",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2895,
-		"time_max": 3482
+		"time_min": 1867,
+		"time_max": 1985
 	},
 	{
 		"dest": "genso:centi genso:roe genso:taozi genso:shiranui",
@@ -38348,12 +38348,12 @@
 		"time_max": 2093
 	},
 	{
-		"dest": "genso:centi genso:roe genso:taozi gondolin gondolin:exit",
+		"dest": "genso:centi genso:roe genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:centi",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1035,
-		"time_max": 1326
+		"time_min": 1167,
+		"time_max": 1453
 	},
 	{
 		"dest": "genso:centi genso:roe genso:taozi j:piria lambat",
@@ -38734,12 +38734,12 @@
 		"time_max": 2115
 	},
 	{
-		"dest": "vinland j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "vinland j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "vinland",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4109,
-		"time_max": 4795
+		"time_min": 3081,
+		"time_max": 3298
 	},
 	{
 		"dest": "vinland icenia icenia:exit",
@@ -38926,12 +38926,12 @@
 		"time_max": 2764
 	},
 	{
-		"dest": "vinland j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "vinland j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "vinland",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4254,
-		"time_max": 4999
+		"time_min": 3226,
+		"time_max": 3502
 	},
 	{
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -39376,12 +39376,12 @@
 		"time_max": 2071
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "forta'are",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4574,
-		"time_max": 5267
+		"time_min": 3546,
+		"time_max": 3770
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot j:icegen icenia icenia:exit",
@@ -39568,12 +39568,12 @@
 		"time_max": 2878
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "forta'are",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4719,
-		"time_max": 5471
+		"time_min": 3691,
+		"time_max": 3974
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -40018,12 +40018,12 @@
 		"time_max": 1646
 	},
 	{
-		"dest": "appomattox j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "appomattox j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "appomattox",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3480,
-		"time_max": 4283
+		"time_min": 2452,
+		"time_max": 2786
 	},
 	{
 		"dest": "appomattox j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
@@ -40210,12 +40210,12 @@
 		"time_max": 2744
 	},
 	{
-		"dest": "appomattox j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "appomattox j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "appomattox",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3625,
-		"time_max": 4487
+		"time_min": 2597,
+		"time_max": 2990
 	},
 	{
 		"dest": "appomattox j:piria genso:taozi genso:shiranui",
@@ -40274,12 +40274,12 @@
 		"time_max": 2206
 	},
 	{
-		"dest": "appomattox j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "appomattox j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "appomattox",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1765,
-		"time_max": 2331
+		"time_min": 1897,
+		"time_max": 2458
 	},
 	{
 		"dest": "appomattox j:piria lambat",
@@ -40660,12 +40660,12 @@
 		"time_max": 2032
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "mta 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "mta",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4249,
-		"time_max": 5221
+		"time_min": 3221,
+		"time_max": 3724
 	},
 	{
 		"dest": "mta icenia icenia:exit",
@@ -40852,12 +40852,12 @@
 		"time_max": 589
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "mta 0,0 j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "mta",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4394,
-		"time_max": 5425
+		"time_min": 3366,
+		"time_max": 3928
 	},
 	{
 		"dest": "mta 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -41302,12 +41302,12 @@
 		"time_max": 2093
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "socalist_ruler",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4577,
-		"time_max": 5289
+		"time_min": 3549,
+		"time_max": 3792
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -41494,12 +41494,12 @@
 		"time_max": 2900
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "socalist_ruler",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4722,
-		"time_max": 5493
+		"time_min": 3694,
+		"time_max": 3996
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -41944,12 +41944,12 @@
 		"time_max": 1964
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "jevoghnya",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 4465,
-		"time_max": 5160
+		"time_min": 3437,
+		"time_max": 3663
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
@@ -42136,12 +42136,12 @@
 		"time_max": 2771
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "jevoghnya",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 4610,
-		"time_max": 5364
+		"time_min": 3582,
+		"time_max": 3867
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -42586,12 +42586,12 @@
 		"time_max": 1137
 	},
 	{
-		"dest": "endportal j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "endportal j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "endportal",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3093,
-		"time_max": 3774
+		"time_min": 2065,
+		"time_max": 2277
 	},
 	{
 		"dest": "endportal j:pend j:knot j:icegen icenia icenia:exit",
@@ -42778,12 +42778,12 @@
 		"time_max": 1869
 	},
 	{
-		"dest": "endportal j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "endportal j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "endportal",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3238,
-		"time_max": 3978
+		"time_min": 2210,
+		"time_max": 2481
 	},
 	{
 		"dest": "endportal j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -42842,12 +42842,12 @@
 		"time_max": 1331
 	},
 	{
-		"dest": "endportal j:pend j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "endportal j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "endportal",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1378,
-		"time_max": 1822
+		"time_min": 1510,
+		"time_max": 1949
 	},
 	{
 		"dest": "endportal j:pend j:piria lambat",
@@ -43228,12 +43228,12 @@
 		"time_max": 1749
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "besia",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3698,
-		"time_max": 4386
+		"time_min": 2670,
+		"time_max": 2889
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
@@ -43420,12 +43420,12 @@
 		"time_max": 2481
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "besia",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3843,
-		"time_max": 4590
+		"time_min": 2815,
+		"time_max": 3093
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -43484,12 +43484,12 @@
 		"time_max": 1943
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "besia",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1983,
-		"time_max": 2434
+		"time_min": 2115,
+		"time_max": 2561
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria lambat",
@@ -43870,12 +43870,12 @@
 		"time_max": 1360
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "cape_cocoa",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3315,
-		"time_max": 3997
+		"time_min": 2287,
+		"time_max": 2500
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
@@ -44062,12 +44062,12 @@
 		"time_max": 2092
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "cape_cocoa",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3460,
-		"time_max": 4201
+		"time_min": 2432,
+		"time_max": 2704
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -44126,12 +44126,12 @@
 		"time_max": 1554
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi gondolin gondolin:exit",
+		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "cape_cocoa",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1600,
-		"time_max": 2045
+		"time_min": 1732,
+		"time_max": 2172
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria lambat",
@@ -45154,12 +45154,12 @@
 		"time_max": 904
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:qbipfb j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:qbipfb",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3153,
-		"time_max": 3668
+		"time_min": 2125,
+		"time_max": 2171
 	},
 	{
 		"dest": "its:qbipfb j:its icenia icenia:exit",
@@ -45346,12 +45346,12 @@
 		"time_max": 1553
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:qbipfb j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:qbipfb",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3298,
-		"time_max": 3872
+		"time_min": 2270,
+		"time_max": 2375
 	},
 	{
 		"dest": "its:qbipfb j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -45796,12 +45796,12 @@
 		"time_max": 887
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:versailles j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:versailles",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3143,
-		"time_max": 3651
+		"time_min": 2115,
+		"time_max": 2154
 	},
 	{
 		"dest": "its:versailles j:its icenia icenia:exit",
@@ -45988,12 +45988,12 @@
 		"time_max": 1536
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:versailles j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:versailles",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3288,
-		"time_max": 3855
+		"time_min": 2260,
+		"time_max": 2358
 	},
 	{
 		"dest": "its:versailles j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -46438,12 +46438,12 @@
 		"time_max": 876
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:iceniapark j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:iceniapark",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3133,
-		"time_max": 3640
+		"time_min": 2105,
+		"time_max": 2143
 	},
 	{
 		"dest": "its:iceniapark j:its icenia icenia:exit",
@@ -46630,12 +46630,12 @@
 		"time_max": 1525
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:iceniapark j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:iceniapark",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3278,
-		"time_max": 3844
+		"time_min": 2250,
+		"time_max": 2347
 	},
 	{
 		"dest": "its:iceniapark j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -47080,12 +47080,12 @@
 		"time_max": 891
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:skybunker j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:skybunker",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3145,
-		"time_max": 3655
+		"time_min": 2117,
+		"time_max": 2158
 	},
 	{
 		"dest": "its:skybunker j:its icenia icenia:exit",
@@ -47272,12 +47272,12 @@
 		"time_max": 1540
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:skybunker j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:skybunker",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3290,
-		"time_max": 3859
+		"time_min": 2262,
+		"time_max": 2362
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -47722,12 +47722,12 @@
 		"time_max": 895
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:hji j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:hji",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3146,
-		"time_max": 3659
+		"time_min": 2118,
+		"time_max": 2162
 	},
 	{
 		"dest": "its:hji j:its icenia icenia:exit",
@@ -47914,12 +47914,12 @@
 		"time_max": 1544
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:hji j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:hji",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3291,
-		"time_max": 3863
+		"time_min": 2263,
+		"time_max": 2366
 	},
 	{
 		"dest": "its:hji j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -48364,12 +48364,12 @@
 		"time_max": 935
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:adytum j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:adytum",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3179,
-		"time_max": 3699
+		"time_min": 2151,
+		"time_max": 2202
 	},
 	{
 		"dest": "its:adytum j:its icenia icenia:exit",
@@ -48556,12 +48556,12 @@
 		"time_max": 1584
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:adytum j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:adytum",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3324,
-		"time_max": 3903
+		"time_min": 2296,
+		"time_max": 2406
 	},
 	{
 		"dest": "its:adytum j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -49006,12 +49006,12 @@
 		"time_max": 881
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:office j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:office",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3138,
-		"time_max": 3645
+		"time_min": 2110,
+		"time_max": 2148
 	},
 	{
 		"dest": "its:office j:its icenia icenia:exit",
@@ -49198,12 +49198,12 @@
 		"time_max": 1530
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:office j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:office",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3283,
-		"time_max": 3849
+		"time_min": 2255,
+		"time_max": 2352
 	},
 	{
 		"dest": "its:office j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -49648,12 +49648,12 @@
 		"time_max": 884
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:beach j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:beach",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3139,
-		"time_max": 3648
+		"time_min": 2111,
+		"time_max": 2151
 	},
 	{
 		"dest": "its:beach j:its icenia icenia:exit",
@@ -49840,12 +49840,12 @@
 		"time_max": 1533
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:beach j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:beach",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3284,
-		"time_max": 3852
+		"time_min": 2256,
+		"time_max": 2355
 	},
 	{
 		"dest": "its:beach j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -50290,12 +50290,12 @@
 		"time_max": 880
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:subway j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:subway",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3136,
-		"time_max": 3644
+		"time_min": 2108,
+		"time_max": 2147
 	},
 	{
 		"dest": "its:subway j:its icenia icenia:exit",
@@ -50482,12 +50482,12 @@
 		"time_max": 1529
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:subway j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:subway",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3281,
-		"time_max": 3848
+		"time_min": 2253,
+		"time_max": 2351
 	},
 	{
 		"dest": "its:subway j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -50932,12 +50932,12 @@
 		"time_max": 882
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion savion:exit",
+		"dest": "its:bayloop j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "its:bayloop",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 3138,
-		"time_max": 3646
+		"time_min": 2110,
+		"time_max": 2149
 	},
 	{
 		"dest": "its:bayloop j:its icenia icenia:exit",
@@ -51124,12 +51124,12 @@
 		"time_max": 1531
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:gensig genso:taozi gondolin j:coe:north coe j:coe:east savion iria:desert",
+		"dest": "its:bayloop j:its icenia j:icegen j:gensig genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "its:bayloop",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 3283,
-		"time_max": 3850
+		"time_min": 2255,
+		"time_max": 2353
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
