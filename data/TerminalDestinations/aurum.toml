@@ -4,4 +4,6 @@ z = -260
 
 links = [
  'j:nice',
+ 'j:piria',
+ 'aurum:cactus',
 ]

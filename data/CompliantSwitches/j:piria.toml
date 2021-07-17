@@ -5,17 +5,17 @@ Very nice intesection of 4 rails outside the city of Elwin.
 location = "Northeast of Elwin, far East Northeast of JunctionKnot."
 x = 3000
 y = 6
-z = -700
-inaccuratelocation = true
+z = -770
 
 links = [
  "j:pend",
  "iria",
  "lambat",
+ "new_sovia",
+ "appomattox",
  "genso:taozi",
+ "aurum",
+ "aurum:cactus",
 ]
 
 switch = true
-
-[BadLinks]
-"genso:taozi" = "gensokyo"
