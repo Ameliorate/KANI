@@ -6,5 +6,4 @@ station = true
 
 links = [
  'j:coe:north',
- 'genso:taozi',
 ]
