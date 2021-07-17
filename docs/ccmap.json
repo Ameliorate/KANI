@@ -143,7 +143,6 @@
 {"distance":1323,"id":"ccmap:kani/link/genso:roe/j:gntv","line":[[[406,-2849],[-746,-3501]]],"name":"Genso:Roe - J:Gntv (KANI)","type":"link"},
 {"distance":26,"id":"ccmap:kani/link/genso:roe/j:uroe","line":[[[406,-2849],[380,-2846]]],"name":"Genso:Roe - J:Uroe (KANI)","type":"link"},
 {"distance":529,"id":"ccmap:kani/link/genso:shiranui/genso:taozi","line":[[[773,-2460],[1278,-2618]]],"name":"Genso:Shiranui - Genso:Taozi (KANI)","type":"link"},
-{"distance":7056,"id":"ccmap:kani/link/genso:taozi/gondolin","line":[[[1278,-2618],[3845,-9191]]],"name":"Genso:Taozi - Gondolin (KANI)","type":"link"},
 {"distance":554,"id":"ccmap:kani/link/genso:taozi/j:coe:south","line":[[[1278,-2618],[771,-2843]]],"name":"Genso:Taozi - J:Coe:South (KANI)","type":"link"},
 {"distance":1206,"id":"ccmap:kani/link/genso:taozi/j:gensig","line":[[[1278,-2618],[1249,-1412]]],"name":"Genso:Taozi - J:Gensig (KANI)","type":"link"},
 {"distance":2525,"id":"ccmap:kani/link/genso:taozi/j:piria","line":[[[1278,-2618],[3000,-770]]],"name":"Genso:Taozi - J:Piria (KANI)","type":"link"},
@@ -243,4 +242,4 @@
 {"distance":5843,"id":"ccmap:kani/link/mir/savion","line":[[[11043,-87],[9847,-5807]]],"name":"Mir - Savion (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1626537005","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1626538027","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
