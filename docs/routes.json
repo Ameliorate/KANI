@@ -459,7 +459,9 @@
 		"dest": "genso:taozi j:piria j:pend ponsportia carson",
 		"from": "genso:taozi",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 772,
 		"time_max": 1083
 	},
@@ -1133,7 +1135,9 @@
 		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "torndal",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1767,
 		"time_max": 1915
 	},
@@ -1807,7 +1811,9 @@
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
 		"from": "imc",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1754,
 		"time_max": 2182
 	},
@@ -2481,7 +2487,9 @@
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "kro'ushro",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1838,
 		"time_max": 1986
 	},
@@ -3155,7 +3163,9 @@
 		"dest": "0,0 j:knot j:pend ponsportia carson",
 		"from": "0,0",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 617,
 		"time_max": 744
 	},
@@ -3829,7 +3839,9 @@
 		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia carson",
 		"from": "genso:roe",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 885,
 		"time_max": 1221
 	},
@@ -4503,7 +4515,9 @@
 		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
 		"from": "coe",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1206,
 		"time_max": 1540
 	},
@@ -5177,7 +5191,9 @@
 		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
 		"from": "savion",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2341,
 		"time_max": 2680
 	},
@@ -5851,7 +5867,9 @@
 		"dest": "lenin_isle ponsportia carson",
 		"from": "lenin_isle",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 205,
 		"time_max": 283
 	},
@@ -6525,7 +6543,9 @@
 		"dest": "icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1000,
 		"time_max": 1130
 	},
@@ -7199,7 +7219,9 @@
 		"dest": "ponsportia carson",
 		"from": "ponsportia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 156,
 		"time_max": 214
 	},
@@ -7873,7 +7895,9 @@
 		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
 		"from": "mir",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1263,
 		"time_max": 1352
 	},
@@ -8547,7 +8571,9 @@
 		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "ssta",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1099,
 		"time_max": 1256
 	},
@@ -9221,7 +9247,9 @@
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
 		"from": "hje",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2067,
 		"time_max": 2194
 	},
@@ -9895,7 +9923,9 @@
 		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:lord",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1087,
 		"time_max": 1233
 	},
@@ -10569,7 +10599,9 @@
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "nro'meagh",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1798,
 		"time_max": 1946
 	},
@@ -11243,7 +11275,9 @@
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "topha'nya",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1875,
 		"time_max": 2031
 	},
@@ -11917,7 +11951,9 @@
 		"dest": "nyasaland taozi j:piria j:pend ponsportia carson",
 		"from": "nyasaland",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1165,
 		"time_max": 1613
 	},
@@ -12591,7 +12627,9 @@
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "lriln'kriavnya",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1877,
 		"time_max": 2036
 	},
@@ -13265,7 +13303,9 @@
 		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "canvasblue",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1085,
 		"time_max": 1230
 	},
@@ -13939,7 +13979,9 @@
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
 		"from": "ellen",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2112,
 		"time_max": 2721
 	},
@@ -14613,7 +14655,9 @@
 		"dest": "arrelani j:parr lenin_isle ponsportia carson",
 		"from": "arrelani",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 438,
 		"time_max": 579
 	},
@@ -15287,7 +15331,9 @@
 		"dest": "icenia:drippy icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:drippy",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1070,
 		"time_max": 1218
 	},
@@ -15961,7 +16007,9 @@
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia carson",
 		"from": "hiyo'mek",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1621,
 		"time_max": 1750
 	},
@@ -16635,7 +16683,9 @@
 		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:atlantica",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1083,
 		"time_max": 1241
 	},
@@ -17309,7 +17359,9 @@
 		"dest": "icenia:westisle icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:westisle",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1064,
 		"time_max": 1221
 	},
@@ -17983,7 +18035,9 @@
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "il'olmhir",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1818,
 		"time_max": 1972
 	},
@@ -18657,7 +18711,9 @@
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia carson",
 		"from": "ozonrough",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1705,
 		"time_max": 1844
 	},
@@ -19331,7 +19387,9 @@
 		"dest": "coventhia genso:taozi j:piria j:pend ponsportia carson",
 		"from": "coventhia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1557,
 		"time_max": 2136
 	},
@@ -20005,7 +20063,9 @@
 		"dest": "alpoko icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "alpoko",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1243,
 		"time_max": 1392
 	},
@@ -20679,7 +20739,9 @@
 		"dest": "it:anburon icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "it:anburon",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1139,
 		"time_max": 1321
 	},
@@ -21353,7 +21415,9 @@
 		"dest": "varkonia icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "varkonia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1433,
 		"time_max": 1696
 	},
@@ -22027,7 +22091,9 @@
 		"dest": "westminster 0,0 j:knot j:pend ponsportia carson",
 		"from": "westminster",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1712,
 		"time_max": 2272
 	},
@@ -22701,7 +22767,9 @@
 		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
 		"from": "iria:desert",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2486,
 		"time_max": 2884
 	},
@@ -23375,7 +23443,9 @@
 		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia carson",
 		"from": "genso:shiranui",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 838,
 		"time_max": 1166
 	},
@@ -24049,7 +24119,9 @@
 		"dest": "pripyat carson",
 		"from": "pripyat",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 258,
 		"time_max": 322
 	},
@@ -24723,7 +24795,9 @@
 		"dest": "netherfarm j:knot j:pend ponsportia carson",
 		"from": "netherfarm",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 661,
 		"time_max": 788
 	},
@@ -25397,7 +25471,9 @@
 		"dest": "icenia:potato icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:potato",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1088,
 		"time_max": 1231
 	},
@@ -26071,7 +26147,9 @@
 		"dest": "aurum:cactus j:piria j:pend ponsportia carson",
 		"from": "aurum:cactus",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 545,
 		"time_max": 752
 	},
@@ -26745,7 +26823,9 @@
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
 		"from": "caledonia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 997,
 		"time_max": 1137
 	},
@@ -27419,7 +27499,9 @@
 		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia carson",
 		"from": "sig",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 987,
 		"time_max": 1121
 	},
@@ -28093,7 +28175,9 @@
 		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia carson",
 		"from": "alexandria",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1606,
 		"time_max": 1734
 	},
@@ -28767,7 +28851,9 @@
 		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
 		"from": "gondolin",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1786,
 		"time_max": 2352
 	},
@@ -29441,7 +29527,9 @@
 		"dest": "lambat j:piria j:pend ponsportia carson",
 		"from": "lambat",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 950,
 		"time_max": 1210
 	},
@@ -30115,7 +30203,9 @@
 		"dest": "aurum j:nice j:parr lenin_isle ponsportia carson",
 		"from": "aurum",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 355,
 		"time_max": 455
 	},
@@ -30789,7 +30879,9 @@
 		"dest": "new_sovia j:piria j:pend ponsportia carson",
 		"from": "new_sovia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1143,
 		"time_max": 1385
 	},
@@ -31463,7 +31555,9 @@
 		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia carson",
 		"from": "pacem",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1900,
 		"time_max": 2036
 	},
@@ -32137,7 +32231,9 @@
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia carson",
 		"from": "genso:farms",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1376,
 		"time_max": 1691
 	},
@@ -32811,7 +32907,9 @@
 		"dest": "kallos icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "kallos",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1699,
 		"time_max": 1971
 	},
@@ -33485,7 +33583,9 @@
 		"dest": "wayrest j:knot j:pend ponsportia carson",
 		"from": "wayrest",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 683,
 		"time_max": 826
 	},
@@ -34159,7 +34259,9 @@
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
 		"from": "iria:jungle",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2974,
 		"time_max": 3411
 	},
@@ -34833,7 +34935,9 @@
 		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia carson",
 		"from": "hjaltland",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2220,
 		"time_max": 2460
 	},
@@ -35507,7 +35611,9 @@
 		"dest": "bloom genso:roe genso:taozi j:piria j:pend ponsportia carson",
 		"from": "bloom",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1216,
 		"time_max": 1584
 	},
@@ -36181,7 +36287,9 @@
 		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia carson",
 		"from": "tvtopia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1080,
 		"time_max": 1477
 	},
@@ -36855,7 +36963,9 @@
 		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "wnsta",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1035,
 		"time_max": 1178
 	},
@@ -37529,7 +37639,9 @@
 		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia carson",
 		"from": "crowsroost",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1072,
 		"time_max": 1497
 	},
@@ -38203,7 +38315,9 @@
 		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia carson",
 		"from": "gabon",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1151,
 		"time_max": 1420
 	},
@@ -38421,7 +38535,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
 		"from": "carson",
 		"to": "genso:taozi",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 772,
 		"time_max": 1083
 	},
@@ -38429,7 +38545,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "carson",
 		"to": "torndal",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1767,
 		"time_max": 1915
 	},
@@ -38437,7 +38555,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "carson",
 		"to": "imc",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1754,
 		"time_max": 2182
 	},
@@ -38445,7 +38565,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "carson",
 		"to": "kro'ushro",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1838,
 		"time_max": 1986
 	},
@@ -38453,7 +38575,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 0,0:exit",
 		"from": "carson",
 		"to": "0,0",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 617,
 		"time_max": 744
 	},
@@ -38461,7 +38585,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
 		"from": "carson",
 		"to": "genso:roe",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 927,
 		"time_max": 1055
 	},
@@ -38469,7 +38595,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
 		"from": "carson",
 		"to": "coe",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1206,
 		"time_max": 1540
 	},
@@ -38477,7 +38605,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "carson",
 		"to": "savion",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2341,
 		"time_max": 2680
 	},
@@ -38485,7 +38615,9 @@
 		"dest": "carson ponsportia lenin_isle lenin_isle:exit",
 		"from": "carson",
 		"to": "lenin_isle",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 205,
 		"time_max": 283
 	},
@@ -38493,7 +38625,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "carson",
 		"to": "icenia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1000,
 		"time_max": 1130
 	},
@@ -38501,7 +38635,9 @@
 		"dest": "carson ponsportia ponsportia:exit",
 		"from": "carson",
 		"to": "ponsportia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 156,
 		"time_max": 214
 	},
@@ -38509,7 +38645,9 @@
 		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "carson",
 		"to": "mir",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1263,
 		"time_max": 1352
 	},
@@ -38517,7 +38655,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "carson",
 		"to": "ssta",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1075,
 		"time_max": 1258
 	},
@@ -38525,7 +38665,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "carson",
 		"to": "hje",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2067,
 		"time_max": 2194
 	},
@@ -38533,7 +38675,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "carson",
 		"to": "icenia:lord",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1087,
 		"time_max": 1233
 	},
@@ -38541,7 +38685,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "carson",
 		"to": "nro'meagh",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1798,
 		"time_max": 1946
 	},
@@ -38549,7 +38695,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "carson",
 		"to": "topha'nya",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1875,
 		"time_max": 2031
 	},
@@ -38557,7 +38705,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi nyasaland",
 		"from": "carson",
 		"to": "nyasaland",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1165,
 		"time_max": 1613
 	},
@@ -38565,7 +38715,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "carson",
 		"to": "lriln'kriavnya",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1877,
 		"time_max": 2036
 	},
@@ -38573,7 +38725,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "carson",
 		"to": "canvasblue",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1061,
 		"time_max": 1232
 	},
@@ -38581,7 +38735,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "carson",
 		"to": "ellen",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2112,
 		"time_max": 2721
 	},
@@ -38589,7 +38745,9 @@
 		"dest": "carson ponsportia lenin_isle j:parr arrelani",
 		"from": "carson",
 		"to": "arrelani",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 438,
 		"time_max": 579
 	},
@@ -38597,7 +38755,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "carson",
 		"to": "icenia:drippy",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1046,
 		"time_max": 1220
 	},
@@ -38605,7 +38765,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "carson",
 		"to": "hiyo'mek",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1621,
 		"time_max": 1750
 	},
@@ -38613,7 +38775,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "carson",
 		"to": "icenia:atlantica",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1083,
 		"time_max": 1241
 	},
@@ -38621,7 +38785,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
 		"from": "carson",
 		"to": "icenia:westisle",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1040,
 		"time_max": 1223
 	},
@@ -38629,7 +38795,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "carson",
 		"to": "il'olmhir",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1818,
 		"time_max": 1972
 	},
@@ -38637,7 +38805,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "carson",
 		"to": "ozonrough",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1705,
 		"time_max": 1844
 	},
@@ -38645,7 +38815,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
 		"from": "carson",
 		"to": "coventhia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1825,
 		"time_max": 2246
 	},
@@ -38653,7 +38825,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "carson",
 		"to": "alpoko",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1219,
 		"time_max": 1394
 	},
@@ -38661,7 +38835,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "carson",
 		"to": "it:anburon",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1115,
 		"time_max": 1323
 	},
@@ -38669,7 +38845,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia varkonia",
 		"from": "carson",
 		"to": "varkonia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1433,
 		"time_max": 1696
 	},
@@ -38677,7 +38855,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 westminster",
 		"from": "carson",
 		"to": "westminster",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1712,
 		"time_max": 2272
 	},
@@ -38685,7 +38865,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "carson",
 		"to": "iria:desert",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2486,
 		"time_max": 2884
 	},
@@ -38693,7 +38875,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
 		"from": "carson",
 		"to": "genso:shiranui",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1108,
 		"time_max": 1275
 	},
@@ -38701,7 +38885,9 @@
 		"dest": "carson pripyat",
 		"from": "carson",
 		"to": "pripyat",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 258,
 		"time_max": 322
 	},
@@ -38709,7 +38895,9 @@
 		"dest": "carson ponsportia j:pend j:knot netherfarm",
 		"from": "carson",
 		"to": "netherfarm",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 661,
 		"time_max": 788
 	},
@@ -38717,7 +38905,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "carson",
 		"to": "icenia:potato",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1064,
 		"time_max": 1233
 	},
@@ -38725,7 +38915,9 @@
 		"dest": "carson ponsportia j:pend j:piria aurum:cactus",
 		"from": "carson",
 		"to": "aurum:cactus",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 545,
 		"time_max": 752
 	},
@@ -38733,7 +38925,9 @@
 		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "carson",
 		"to": "caledonia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 997,
 		"time_max": 1137
 	},
@@ -38741,7 +38935,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi sig",
 		"from": "carson",
 		"to": "sig",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 976,
 		"time_max": 1370
 	},
@@ -38749,7 +38945,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex alexandria",
 		"from": "carson",
 		"to": "alexandria",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1606,
 		"time_max": 1734
 	},
@@ -38757,7 +38955,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "carson",
 		"to": "gondolin",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1786,
 		"time_max": 2352
 	},
@@ -38765,7 +38965,9 @@
 		"dest": "carson ponsportia j:pend j:piria lambat",
 		"from": "carson",
 		"to": "lambat",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 950,
 		"time_max": 1210
 	},
@@ -38773,7 +38975,9 @@
 		"dest": "carson ponsportia j:pend j:nice aurum",
 		"from": "carson",
 		"to": "aurum",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 510,
 		"time_max": 660
 	},
@@ -38781,7 +38985,9 @@
 		"dest": "carson ponsportia j:pend j:piria new_sovia",
 		"from": "carson",
 		"to": "new_sovia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1143,
 		"time_max": 1385
 	},
@@ -38789,7 +38995,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp pacem",
 		"from": "carson",
 		"to": "pacem",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1900,
 		"time_max": 2036
 	},
@@ -38797,7 +39005,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi genso:farms",
 		"from": "carson",
 		"to": "genso:farms",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1376,
 		"time_max": 1691
 	},
@@ -38805,7 +39015,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "carson",
 		"to": "kallos",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1526,
 		"time_max": 1655
 	},
@@ -38813,7 +39025,9 @@
 		"dest": "carson ponsportia j:pend j:knot wayrest",
 		"from": "carson",
 		"to": "wayrest",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 683,
 		"time_max": 826
 	},
@@ -38821,7 +39035,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "carson",
 		"to": "iria:jungle",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2974,
 		"time_max": 3411
 	},
@@ -38829,7 +39045,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "carson",
 		"to": "hjaltland",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2220,
 		"time_max": 2460
 	},
@@ -38837,7 +39055,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia bloom",
 		"from": "carson",
 		"to": "bloom",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1159,
 		"time_max": 1343
 	},
@@ -38845,7 +39065,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
 		"from": "carson",
 		"to": "tvtopia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1122,
 		"time_max": 1311
 	},
@@ -38853,7 +39075,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
 		"from": "carson",
 		"to": "wnsta",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1035,
 		"time_max": 1178
 	},
@@ -38861,7 +39085,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi crowsroost",
 		"from": "carson",
 		"to": "crowsroost",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1072,
 		"time_max": 1497
 	},
@@ -38869,7 +39095,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia gabon",
 		"from": "carson",
 		"to": "gabon",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1210,
 		"time_max": 1418
 	},
@@ -38877,7 +39105,9 @@
 		"dest": "carson",
 		"from": "carson",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 0,
 		"time_max": 0
 	},
@@ -38886,7 +39116,8 @@
 		"from": "carson",
 		"to": "mts",
 		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
 		},
 		"time_min": 1347,
 		"time_max": 1645
@@ -38895,7 +39126,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "carson",
 		"to": "icenia:nether",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1101,
 		"time_max": 1292
 	},
@@ -38903,7 +39136,9 @@
 		"dest": "carson ponsportia j:pend j:piria genso:taozi old_sanctuary",
 		"from": "carson",
 		"to": "old_sanctuary",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1404,
 		"time_max": 1855
 	},
@@ -38911,7 +39146,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia spqr",
 		"from": "carson",
 		"to": "spqr",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2252,
 		"time_max": 2805
 	},
@@ -38919,7 +39156,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp fortuna",
 		"from": "carson",
 		"to": "fortuna",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2486,
 		"time_max": 2753
 	},
@@ -38927,7 +39166,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
 		"from": "carson",
 		"to": "genso:centi",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 967,
 		"time_max": 1101
 	},
@@ -38935,7 +39176,9 @@
 		"dest": "carson ponsportia j:pend j:knot vinland",
 		"from": "carson",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1394,
 		"time_max": 1526
 	},
@@ -38943,7 +39186,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp forta'are",
 		"from": "carson",
 		"to": "forta'are",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1859,
 		"time_max": 1998
 	},
@@ -38951,7 +39196,9 @@
 		"dest": "carson ponsportia j:pend j:piria appomattox",
 		"from": "carson",
 		"to": "appomattox",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1023,
 		"time_max": 1380
 	},
@@ -38959,7 +39206,9 @@
 		"dest": "carson ponsportia j:pend j:knot 0,0 mta",
 		"from": "carson",
 		"to": "mta",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1534,
 		"time_max": 1952
 	},
@@ -38967,7 +39216,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "carson",
 		"to": "socalist_ruler",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1862,
 		"time_max": 2020
 	},
@@ -38975,7 +39226,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "carson",
 		"to": "jevoghnya",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1750,
 		"time_max": 1891
 	},
@@ -38983,7 +39236,9 @@
 		"dest": "carson ponsportia j:pend endportal",
 		"from": "carson",
 		"to": "endportal",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 378,
 		"time_max": 505
 	},
@@ -38991,7 +39246,9 @@
 		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
 		"from": "carson",
 		"to": "besia",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 828,
 		"time_max": 912
 	},
@@ -38999,7 +39256,9 @@
 		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
 		"from": "carson",
 		"to": "cape_cocoa",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 445,
 		"time_max": 523
 	},
@@ -39007,7 +39266,9 @@
 		"dest": "carson ponsportia j:pend j:piria iria",
 		"from": "carson",
 		"to": "iria",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1418,
 		"time_max": 1599
 	},
@@ -39015,7 +39276,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "carson",
 		"to": "its:qbipfb",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1041,
 		"time_max": 1183
 	},
@@ -39023,7 +39286,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its versailles",
 		"from": "carson",
 		"to": "its:versailles",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1031,
 		"time_max": 1166
 	},
@@ -39031,7 +39296,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "carson",
 		"to": "its:iceniapark",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1021,
 		"time_max": 1155
 	},
@@ -39039,7 +39306,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its skybunker",
 		"from": "carson",
 		"to": "its:skybunker",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1033,
 		"time_max": 1170
 	},
@@ -39047,7 +39316,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its hji",
 		"from": "carson",
 		"to": "its:hji",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1034,
 		"time_max": 1174
 	},
@@ -39055,7 +39326,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its adytum",
 		"from": "carson",
 		"to": "its:adytum",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1067,
 		"time_max": 1214
 	},
@@ -39063,7 +39336,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its office",
 		"from": "carson",
 		"to": "its:office",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1026,
 		"time_max": 1160
 	},
@@ -39071,7 +39346,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its beach",
 		"from": "carson",
 		"to": "its:beach",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1027,
 		"time_max": 1163
 	},
@@ -39079,7 +39356,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its subway",
 		"from": "carson",
 		"to": "its:subway",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1024,
 		"time_max": 1159
 	},
@@ -39087,7 +39366,9 @@
 		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its bayloop",
 		"from": "carson",
 		"to": "its:bayloop",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1026,
 		"time_max": 1161
 	},
@@ -39666,6 +39947,7 @@
 		"from": "mts",
 		"to": "carson",
 		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work",
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
 		"time_min": 1347,
@@ -40391,7 +40673,9 @@
 		"dest": "icenia:nether icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "icenia:nether",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1125,
 		"time_max": 1290
 	},
@@ -41065,7 +41349,9 @@
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia carson",
 		"from": "old_sanctuary",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1404,
 		"time_max": 1855
 	},
@@ -41739,7 +42025,9 @@
 		"dest": "spqr icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "spqr",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2252,
 		"time_max": 2805
 	},
@@ -42413,7 +42701,9 @@
 		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia carson",
 		"from": "fortuna",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 2486,
 		"time_max": 2753
 	},
@@ -43087,7 +43377,9 @@
 		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia carson",
 		"from": "genso:centi",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 925,
 		"time_max": 1267
 	},
@@ -43761,7 +44053,9 @@
 		"dest": "vinland j:knot j:pend ponsportia carson",
 		"from": "vinland",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1394,
 		"time_max": 1526
 	},
@@ -44435,7 +44729,9 @@
 		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia carson",
 		"from": "forta'are",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1859,
 		"time_max": 1998
 	},
@@ -45109,7 +45405,9 @@
 		"dest": "appomattox j:piria j:pend ponsportia carson",
 		"from": "appomattox",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1023,
 		"time_max": 1380
 	},
@@ -45783,7 +46081,9 @@
 		"dest": "mta 0,0 j:knot j:pend ponsportia carson",
 		"from": "mta",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1534,
 		"time_max": 1952
 	},
@@ -46457,7 +46757,9 @@
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "socalist_ruler",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1862,
 		"time_max": 2020
 	},
@@ -47131,7 +47433,9 @@
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia carson",
 		"from": "jevoghnya",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1750,
 		"time_max": 1891
 	},
@@ -47805,7 +48109,9 @@
 		"dest": "endportal j:pend ponsportia carson",
 		"from": "endportal",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 378,
 		"time_max": 505
 	},
@@ -48479,7 +48785,9 @@
 		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
 		"from": "besia",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 828,
 		"time_max": 912
 	},
@@ -49153,7 +49461,9 @@
 		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia carson",
 		"from": "cape_cocoa",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 445,
 		"time_max": 523
 	},
@@ -49827,7 +50137,9 @@
 		"dest": "iria j:piria j:pend ponsportia carson",
 		"from": "iria",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1418,
 		"time_max": 1599
 	},
@@ -50501,7 +50813,9 @@
 		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:qbipfb",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1041,
 		"time_max": 1183
 	},
@@ -51175,7 +51489,9 @@
 		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:versailles",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1031,
 		"time_max": 1166
 	},
@@ -51849,7 +52165,9 @@
 		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:iceniapark",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1021,
 		"time_max": 1155
 	},
@@ -52523,7 +52841,9 @@
 		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:skybunker",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1033,
 		"time_max": 1170
 	},
@@ -53197,7 +53517,9 @@
 		"dest": "its:hji j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:hji",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1034,
 		"time_max": 1174
 	},
@@ -53871,7 +54193,9 @@
 		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:adytum",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1067,
 		"time_max": 1214
 	},
@@ -54545,7 +54869,9 @@
 		"dest": "its:office j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:office",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1026,
 		"time_max": 1160
 	},
@@ -55219,7 +55545,9 @@
 		"dest": "its:beach j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:beach",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1027,
 		"time_max": 1163
 	},
@@ -55893,7 +56221,9 @@
 		"dest": "its:subway j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:subway",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1024,
 		"time_max": 1159
 	},
@@ -56567,7 +56897,9 @@
 		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend ponsportia carson",
 		"from": "its:bayloop",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+		},
 		"time_min": 1026,
 		"time_max": 1161
 	},
