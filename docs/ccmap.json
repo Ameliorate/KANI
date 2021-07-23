@@ -10,7 +10,7 @@
 {"description":"Active city near mir, featuring the securemall.","id":"ccmap:kani/node/caledonia","name":"Caledonia (KANI)","type":"TerminalDestinations","x":8857,"z":553},
 {"id":"ccmap:kani/node/canvasblue","name":"Canvasblue (KANI)","type":"TerminalDestinations","x":-2280,"z":-1340},
 {"id":"ccmap:kani/node/cape_cocoa","name":"Cape_Cocoa (KANI)","type":"TerminalDestinations","x":3840,"z":665},
-{"id":"ccmap:kani/node/carson","name":"Carson (KANI)","type":"TerminalDestinations","x":4200,"z":1750},
+{"advisory":"Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work","id":"ccmap:kani/node/carson","name":"Carson (KANI)","type":"TerminalDestinations","x":4200,"z":1750},
 {"description":"City of England","id":"ccmap:kani/node/coe","name":"Coe (KANI)","station":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5765},
 {"id":"ccmap:kani/node/coventhia","name":"Coventhia (KANI)","type":"TerminalDestinations","x":-4346,"z":-5420},
 {"id":"ccmap:kani/node/crowsroost","name":"Crowsroost (KANI)","type":"TerminalDestinations","x":3307,"z":-1334},
@@ -254,4 +254,4 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":3289,"id":"ccmap:kani/link/ponsportia/pripyat","line":[[[3131,1103],[6175,2350]]],"name":"Ponsportia - Pripyat (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627058653","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627058877","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
