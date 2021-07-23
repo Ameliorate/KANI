@@ -1,0 +1,11 @@
+x = 3364
+y = 11
+z = 136
+
+switch = true
+
+links = [
+ 'j:nice',
+ 'arrelani',
+ 'lenin_isle',
+]

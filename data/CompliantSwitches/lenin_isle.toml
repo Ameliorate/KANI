@@ -1,0 +1,10 @@
+x = 3365
+y = 12
+z = 784
+
+station = true
+
+links = [
+ 'ponsportia',
+ 'j:parr',
+]

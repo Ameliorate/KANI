@@ -7,6 +7,6 @@ switch = true
 links = [
  'j:pend',
  'j:ppcc',
+ 'j:parr',
  'aurum',
- 'arrelani',
 ]
