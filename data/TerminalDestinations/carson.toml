@@ -1,6 +1,8 @@
 x = 4200
 z = 1750
 
+advisory = "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+
 links = [
  'ponsportia',
  'pripyat',
