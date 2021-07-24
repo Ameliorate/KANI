@@ -144,6 +144,14 @@
 		"time_max": 530
 	},
 	{
+		"dest": "genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "genso:taozi",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1196,
+		"time_max": 1534
+	},
+	{
 		"dest": "genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:taozi",
 		"to": "lriln'kriavnya",
@@ -280,11 +288,11 @@
 		"time_max": 83
 	},
 	{
-		"dest": "genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:taozi",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1027,
+		"time_min": 1066,
 		"time_max": 1405
 	},
 	{
@@ -456,14 +464,12 @@
 		"time_max": 809
 	},
 	{
-		"dest": "genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:taozi",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 772,
-		"time_max": 1083
+		"advisory": {},
+		"time_min": 896,
+		"time_max": 1237
 	},
 	{
 		"dest": "genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -820,6 +826,14 @@
 		"time_max": 2620
 	},
 	{
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "torndal",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2191,
+		"time_max": 2366
+	},
+	{
 		"dest": "torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "torndal",
 		"to": "lriln'kriavnya",
@@ -956,11 +970,11 @@
 		"time_max": 1798
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "torndal",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2022,
+		"time_min": 2061,
 		"time_max": 2237
 	},
 	{
@@ -1132,14 +1146,12 @@
 		"time_max": 1941
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "torndal",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1767,
-		"time_max": 1915
+		"advisory": {},
+		"time_min": 1891,
+		"time_max": 2069
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -1496,6 +1508,14 @@
 		"time_max": 2887
 	},
 	{
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "imc",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2178,
+		"time_max": 2633
+	},
+	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "imc",
 		"to": "lriln'kriavnya",
@@ -1632,11 +1652,11 @@
 		"time_max": 2065
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "imc",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2009,
+		"time_min": 2048,
 		"time_max": 2504
 	},
 	{
@@ -1808,14 +1828,12 @@
 		"time_max": 1762
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "imc",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1754,
-		"time_max": 2182
+		"advisory": {},
+		"time_min": 1878,
+		"time_max": 2336
 	},
 	{
 		"dest": "imc mts",
@@ -2172,6 +2190,14 @@
 		"time_max": 2691
 	},
 	{
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "kro'ushro",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2262,
+		"time_max": 2437
+	},
+	{
 		"dest": "kro'ushro lriln'kriavnya",
 		"from": "kro'ushro",
 		"to": "lriln'kriavnya",
@@ -2308,11 +2334,11 @@
 		"time_max": 1869
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "kro'ushro",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2093,
+		"time_min": 2132,
 		"time_max": 2308
 	},
 	{
@@ -2484,14 +2510,12 @@
 		"time_max": 2012
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "kro'ushro",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1838,
-		"time_max": 1986
+		"advisory": {},
+		"time_min": 1962,
+		"time_max": 2140
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -2848,6 +2872,14 @@
 		"time_max": 1449
 	},
 	{
+		"dest": "0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "0,0",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1041,
+		"time_max": 1195
+	},
+	{
 		"dest": "0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "0,0",
 		"to": "lriln'kriavnya",
@@ -2984,11 +3016,11 @@
 		"time_max": 627
 	},
 	{
-		"dest": "0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "0,0",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 872,
+		"time_min": 911,
 		"time_max": 1066
 	},
 	{
@@ -3160,14 +3192,12 @@
 		"time_max": 676
 	},
 	{
-		"dest": "0,0 j:knot j:pend ponsportia carson",
+		"dest": "0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "0,0",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 617,
-		"time_max": 744
+		"advisory": {},
+		"time_min": 741,
+		"time_max": 898
 	},
 	{
 		"dest": "0,0 j:picenia j:pmts sept september",
@@ -3524,6 +3554,14 @@
 		"time_max": 668
 	},
 	{
+		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "genso:roe",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1309,
+		"time_max": 1672
+	},
+	{
 		"dest": "genso:roe genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:roe",
 		"to": "lriln'kriavnya",
@@ -3660,11 +3698,11 @@
 		"time_max": 221
 	},
 	{
-		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:roe",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1140,
+		"time_min": 1179,
 		"time_max": 1543
 	},
 	{
@@ -3836,14 +3874,12 @@
 		"time_max": 671
 	},
 	{
-		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:roe",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 885,
-		"time_max": 1221
+		"advisory": {},
+		"time_min": 1009,
+		"time_max": 1375
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -4200,6 +4236,14 @@
 		"time_max": 987
 	},
 	{
+		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "coe",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1630,
+		"time_max": 1991
+	},
+	{
 		"dest": "coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "coe",
 		"to": "lriln'kriavnya",
@@ -4336,11 +4380,11 @@
 		"time_max": 540
 	},
 	{
-		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "coe",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1461,
+		"time_min": 1500,
 		"time_max": 1862
 	},
 	{
@@ -4512,14 +4556,12 @@
 		"time_max": 1089
 	},
 	{
-		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "coe",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1206,
-		"time_max": 1540
+		"advisory": {},
+		"time_min": 1330,
+		"time_max": 1694
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -4876,6 +4918,14 @@
 		"time_max": 2127
 	},
 	{
+		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "savion",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2765,
+		"time_max": 3131
+	},
+	{
 		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "savion",
 		"to": "lriln'kriavnya",
@@ -5012,11 +5062,11 @@
 		"time_max": 1680
 	},
 	{
-		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "savion",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2596,
+		"time_min": 2635,
 		"time_max": 3002
 	},
 	{
@@ -5188,14 +5238,12 @@
 		"time_max": 2229
 	},
 	{
-		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "savion",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2341,
-		"time_max": 2680
+		"advisory": {},
+		"time_min": 2465,
+		"time_max": 2834
 	},
 	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -5552,6 +5600,14 @@
 		"time_max": 1389
 	},
 	{
+		"dest": "lenin_isle ponsportia j:tuff terestai",
+		"from": "lenin_isle",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 629,
+		"time_max": 734
+	},
+	{
 		"dest": "lenin_isle ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "lenin_isle",
 		"to": "lriln'kriavnya",
@@ -5688,11 +5744,11 @@
 		"time_max": 1051
 	},
 	{
-		"dest": "lenin_isle ponsportia pripyat",
+		"dest": "lenin_isle ponsportia j:tuff pripyat",
 		"from": "lenin_isle",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 460,
+		"time_min": 499,
 		"time_max": 605
 	},
 	{
@@ -5864,14 +5920,12 @@
 		"time_max": 1194
 	},
 	{
-		"dest": "lenin_isle ponsportia carson",
+		"dest": "lenin_isle ponsportia j:tuff carson",
 		"from": "lenin_isle",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 205,
-		"time_max": 283
+		"advisory": {},
+		"time_min": 329,
+		"time_max": 437
 	},
 	{
 		"dest": "lenin_isle ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -6228,6 +6282,14 @@
 		"time_max": 1051
 	},
 	{
+		"dest": "icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1400,
+		"time_max": 1583
+	},
+	{
 		"dest": "icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia",
 		"to": "lriln'kriavnya",
@@ -6364,11 +6426,11 @@
 		"time_max": 661
 	},
 	{
-		"dest": "icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1255,
+		"time_min": 1294,
 		"time_max": 1452
 	},
 	{
@@ -6540,14 +6602,12 @@
 		"time_max": 288
 	},
 	{
-		"dest": "icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1000,
-		"time_max": 1130
+		"advisory": {},
+		"time_min": 1124,
+		"time_max": 1284
 	},
 	{
 		"dest": "icenia j:picenia j:pmts sept september",
@@ -6904,6 +6964,14 @@
 		"time_max": 1399
 	},
 	{
+		"dest": "ponsportia j:tuff terestai",
+		"from": "ponsportia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 580,
+		"time_max": 665
+	},
+	{
 		"dest": "ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "ponsportia",
 		"to": "lriln'kriavnya",
@@ -7040,11 +7108,11 @@
 		"time_max": 1061
 	},
 	{
-		"dest": "ponsportia pripyat",
+		"dest": "ponsportia j:tuff pripyat",
 		"from": "ponsportia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 411,
+		"time_min": 450,
 		"time_max": 536
 	},
 	{
@@ -7216,14 +7284,12 @@
 		"time_max": 1204
 	},
 	{
-		"dest": "ponsportia carson",
+		"dest": "ponsportia j:tuff carson",
 		"from": "ponsportia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 156,
-		"time_max": 214
+		"advisory": {},
+		"time_min": 280,
+		"time_max": 368
 	},
 	{
 		"dest": "ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -7580,6 +7646,14 @@
 		"time_max": 2262
 	},
 	{
+		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "mir",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1687,
+		"time_max": 1803
+	},
+	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "mir",
 		"to": "lriln'kriavnya",
@@ -7716,11 +7790,11 @@
 		"time_max": 1924
 	},
 	{
-		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia pripyat",
+		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "mir",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1518,
+		"time_min": 1557,
 		"time_max": 1674
 	},
 	{
@@ -7892,14 +7966,12 @@
 		"time_max": 2067
 	},
 	{
-		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
+		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "mir",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1263,
-		"time_max": 1352
+		"advisory": {},
+		"time_min": 1387,
+		"time_max": 1506
 	},
 	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -8256,6 +8328,14 @@
 		"time_max": 1177
 	},
 	{
+		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "ssta",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1499,
+		"time_max": 1709
+	},
+	{
 		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "ssta",
 		"to": "lriln'kriavnya",
@@ -8392,11 +8472,11 @@
 		"time_max": 787
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "ssta",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1354,
+		"time_min": 1393,
 		"time_max": 1578
 	},
 	{
@@ -8568,14 +8648,12 @@
 		"time_max": 414
 	},
 	{
-		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "ssta j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "ssta",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1099,
-		"time_max": 1256
+		"advisory": {},
+		"time_min": 1223,
+		"time_max": 1410
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:picenia j:pmts sept september",
@@ -8932,6 +9010,14 @@
 		"time_max": 2899
 	},
 	{
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "hje",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2491,
+		"time_max": 2645
+	},
+	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "hje",
 		"to": "lriln'kriavnya",
@@ -9068,11 +9154,11 @@
 		"time_max": 2077
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "hje",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2322,
+		"time_min": 2361,
 		"time_max": 2516
 	},
 	{
@@ -9244,14 +9330,12 @@
 		"time_max": 1774
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "hje",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2067,
-		"time_max": 2194
+		"advisory": {},
+		"time_min": 2191,
+		"time_max": 2348
 	},
 	{
 		"dest": "hje j:pkallos j:pvark september",
@@ -9608,6 +9692,14 @@
 		"time_max": 1154
 	},
 	{
+		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:lord",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1487,
+		"time_max": 1686
+	},
+	{
 		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:lord",
 		"to": "lriln'kriavnya",
@@ -9744,11 +9836,11 @@
 		"time_max": 764
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:lord",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1342,
+		"time_min": 1381,
 		"time_max": 1555
 	},
 	{
@@ -9920,14 +10012,12 @@
 		"time_max": 391
 	},
 	{
-		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:lord j:cabaleast icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:lord",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1087,
-		"time_max": 1233
+		"advisory": {},
+		"time_min": 1211,
+		"time_max": 1387
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:picenia j:pmts sept september",
@@ -10284,6 +10374,14 @@
 		"time_max": 2651
 	},
 	{
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "nro'meagh",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2222,
+		"time_max": 2397
+	},
+	{
 		"dest": "nro'meagh j:nro2 kro'ushro lriln'kriavnya",
 		"from": "nro'meagh",
 		"to": "lriln'kriavnya",
@@ -10420,11 +10518,11 @@
 		"time_max": 1829
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "nro'meagh",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2053,
+		"time_min": 2092,
 		"time_max": 2268
 	},
 	{
@@ -10596,14 +10694,12 @@
 		"time_max": 1972
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "nro'meagh",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1798,
-		"time_max": 1946
+		"advisory": {},
+		"time_min": 1922,
+		"time_max": 2100
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -10960,6 +11056,14 @@
 		"time_max": 2736
 	},
 	{
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "topha'nya",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2299,
+		"time_max": 2482
+	},
+	{
 		"dest": "topha'nya kro'ushro lriln'kriavnya",
 		"from": "topha'nya",
 		"to": "lriln'kriavnya",
@@ -11096,11 +11200,11 @@
 		"time_max": 1914
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "topha'nya",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2130,
+		"time_min": 2169,
 		"time_max": 2353
 	},
 	{
@@ -11272,14 +11376,12 @@
 		"time_max": 2057
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "topha'nya",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1875,
-		"time_max": 2031
+		"advisory": {},
+		"time_min": 1999,
+		"time_max": 2185
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -11636,6 +11738,14 @@
 		"time_max": 0
 	},
 	{
+		"dest": "nyasaland taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "nyasaland",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1589,
+		"time_max": 2064
+	},
+	{
 		"dest": "nyasaland taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "nyasaland",
 		"to": "lriln'kriavnya",
@@ -11772,11 +11882,11 @@
 		"time_max": 613
 	},
 	{
-		"dest": "nyasaland taozi j:piria j:pend ponsportia pripyat",
+		"dest": "nyasaland taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "nyasaland",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1420,
+		"time_min": 1459,
 		"time_max": 1935
 	},
 	{
@@ -11948,14 +12058,12 @@
 		"time_max": 1339
 	},
 	{
-		"dest": "nyasaland taozi j:piria j:pend ponsportia carson",
+		"dest": "nyasaland taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "nyasaland",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1165,
-		"time_max": 1613
+		"advisory": {},
+		"time_min": 1289,
+		"time_max": 1767
 	},
 	{
 		"dest": "nyasaland taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -12168,6 +12276,688 @@
 		"time_max": 1140
 	},
 	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
+		"from": "terestai",
+		"to": "genso:taozi",
+		"advisory": {},
+		"time_min": 1196,
+		"time_max": 1534
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
+		"from": "terestai",
+		"to": "torndal",
+		"advisory": {},
+		"time_min": 2191,
+		"time_max": 2366
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
+		"from": "terestai",
+		"to": "imc",
+		"advisory": {},
+		"time_min": 2178,
+		"time_max": 2633
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"from": "terestai",
+		"to": "kro'ushro",
+		"advisory": {},
+		"time_min": 2262,
+		"time_max": 2437
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 0,0:exit",
+		"from": "terestai",
+		"to": "0,0",
+		"advisory": {},
+		"time_min": 1041,
+		"time_max": 1195
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
+		"from": "terestai",
+		"to": "genso:roe",
+		"advisory": {},
+		"time_min": 1351,
+		"time_max": 1506
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
+		"from": "terestai",
+		"to": "coe",
+		"advisory": {},
+		"time_min": 1630,
+		"time_max": 1991
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
+		"from": "terestai",
+		"to": "savion",
+		"advisory": {},
+		"time_min": 2765,
+		"time_max": 3131
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle lenin_isle:exit",
+		"from": "terestai",
+		"to": "lenin_isle",
+		"advisory": {},
+		"time_min": 629,
+		"time_max": 734
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
+		"from": "terestai",
+		"to": "icenia",
+		"advisory": {},
+		"time_min": 1424,
+		"time_max": 1581
+	},
+	{
+		"dest": "terestai j:tuff ponsportia ponsportia:exit",
+		"from": "terestai",
+		"to": "ponsportia",
+		"advisory": {},
+		"time_min": 580,
+		"time_max": 665
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
+		"from": "terestai",
+		"to": "mir",
+		"advisory": {},
+		"time_min": 1687,
+		"time_max": 1803
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
+		"from": "terestai",
+		"to": "ssta",
+		"advisory": {},
+		"time_min": 1499,
+		"time_max": 1709
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
+		"from": "terestai",
+		"to": "hje",
+		"advisory": {},
+		"time_min": 2491,
+		"time_max": 2645
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
+		"from": "terestai",
+		"to": "icenia:lord",
+		"advisory": {},
+		"time_min": 1511,
+		"time_max": 1684
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"from": "terestai",
+		"to": "nro'meagh",
+		"advisory": {},
+		"time_min": 2222,
+		"time_max": 2397
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"from": "terestai",
+		"to": "topha'nya",
+		"advisory": {},
+		"time_min": 2299,
+		"time_max": 2482
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi nyasaland",
+		"from": "terestai",
+		"to": "nyasaland",
+		"advisory": {},
+		"time_min": 1589,
+		"time_max": 2064
+	},
+	{
+		"dest": "terestai",
+		"from": "terestai",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 0,
+		"time_max": 0
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"from": "terestai",
+		"to": "lriln'kriavnya",
+		"advisory": {},
+		"time_min": 2301,
+		"time_max": 2487
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
+		"from": "terestai",
+		"to": "canvasblue",
+		"advisory": {},
+		"time_min": 1485,
+		"time_max": 1683
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
+		"from": "terestai",
+		"to": "ellen",
+		"advisory": {},
+		"time_min": 2536,
+		"time_max": 3172
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle j:parr arrelani",
+		"from": "terestai",
+		"to": "arrelani",
+		"advisory": {},
+		"time_min": 862,
+		"time_max": 1030
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
+		"from": "terestai",
+		"to": "icenia:drippy",
+		"advisory": {},
+		"time_min": 1470,
+		"time_max": 1671
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"from": "terestai",
+		"to": "hiyo'mek",
+		"advisory": {},
+		"time_min": 2045,
+		"time_max": 2201
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
+		"from": "terestai",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 1507,
+		"time_max": 1692
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
+		"from": "terestai",
+		"to": "icenia:westisle",
+		"advisory": {},
+		"time_min": 1464,
+		"time_max": 1674
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
+		"from": "terestai",
+		"to": "il'olmhir",
+		"advisory": {},
+		"time_min": 2242,
+		"time_max": 2423
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
+		"from": "terestai",
+		"to": "ozonrough",
+		"advisory": {},
+		"time_min": 2129,
+		"time_max": 2295
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
+		"from": "terestai",
+		"to": "coventhia",
+		"advisory": {},
+		"time_min": 2249,
+		"time_max": 2697
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
+		"from": "terestai",
+		"to": "alpoko",
+		"advisory": {},
+		"time_min": 1643,
+		"time_max": 1845
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
+		"from": "terestai",
+		"to": "it:anburon",
+		"advisory": {},
+		"time_min": 1539,
+		"time_max": 1774
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia varkonia",
+		"from": "terestai",
+		"to": "varkonia",
+		"advisory": {},
+		"time_min": 1857,
+		"time_max": 2147
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 westminster",
+		"from": "terestai",
+		"to": "westminster",
+		"advisory": {},
+		"time_min": 2136,
+		"time_max": 2723
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
+		"from": "terestai",
+		"to": "iria:desert",
+		"advisory": {},
+		"time_min": 2910,
+		"time_max": 3335
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
+		"from": "terestai",
+		"to": "genso:shiranui",
+		"advisory": {},
+		"time_min": 1532,
+		"time_max": 1726
+	},
+	{
+		"dest": "terestai j:tuff pripyat",
+		"from": "terestai",
+		"to": "pripyat",
+		"advisory": {},
+		"time_min": 618,
+		"time_max": 619
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot netherfarm",
+		"from": "terestai",
+		"to": "netherfarm",
+		"advisory": {},
+		"time_min": 1085,
+		"time_max": 1239
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
+		"from": "terestai",
+		"to": "icenia:potato",
+		"advisory": {},
+		"time_min": 1488,
+		"time_max": 1684
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria aurum:cactus",
+		"from": "terestai",
+		"to": "aurum:cactus",
+		"advisory": {},
+		"time_min": 969,
+		"time_max": 1203
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
+		"from": "terestai",
+		"to": "caledonia",
+		"advisory": {},
+		"time_min": 1421,
+		"time_max": 1588
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi sig",
+		"from": "terestai",
+		"to": "sig",
+		"advisory": {},
+		"time_min": 1400,
+		"time_max": 1821
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex alexandria",
+		"from": "terestai",
+		"to": "alexandria",
+		"advisory": {},
+		"time_min": 2030,
+		"time_max": 2185
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
+		"from": "terestai",
+		"to": "gondolin",
+		"advisory": {},
+		"time_min": 2210,
+		"time_max": 2803
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria lambat",
+		"from": "terestai",
+		"to": "lambat",
+		"advisory": {},
+		"time_min": 1374,
+		"time_max": 1661
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:nice aurum",
+		"from": "terestai",
+		"to": "aurum",
+		"advisory": {},
+		"time_min": 934,
+		"time_max": 1111
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria new_sovia",
+		"from": "terestai",
+		"to": "new_sovia",
+		"advisory": {},
+		"time_min": 1567,
+		"time_max": 1836
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp pacem",
+		"from": "terestai",
+		"to": "pacem",
+		"advisory": {},
+		"time_min": 2324,
+		"time_max": 2487
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi genso:farms",
+		"from": "terestai",
+		"to": "genso:farms",
+		"advisory": {},
+		"time_min": 1800,
+		"time_max": 2142
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
+		"from": "terestai",
+		"to": "kallos",
+		"advisory": {},
+		"time_min": 1950,
+		"time_max": 2106
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot wayrest",
+		"from": "terestai",
+		"to": "wayrest",
+		"advisory": {},
+		"time_min": 1107,
+		"time_max": 1277
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
+		"from": "terestai",
+		"to": "iria:jungle",
+		"advisory": {},
+		"time_min": 3398,
+		"time_max": 3862
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp hjaltland",
+		"from": "terestai",
+		"to": "hjaltland",
+		"advisory": {},
+		"time_min": 2644,
+		"time_max": 2911
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia bloom",
+		"from": "terestai",
+		"to": "bloom",
+		"advisory": {},
+		"time_min": 1583,
+		"time_max": 1794
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
+		"from": "terestai",
+		"to": "tvtopia",
+		"advisory": {},
+		"time_min": 1546,
+		"time_max": 1762
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
+		"from": "terestai",
+		"to": "wnsta",
+		"advisory": {},
+		"time_min": 1459,
+		"time_max": 1629
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi crowsroost",
+		"from": "terestai",
+		"to": "crowsroost",
+		"advisory": {},
+		"time_min": 1496,
+		"time_max": 1948
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia gabon",
+		"from": "terestai",
+		"to": "gabon",
+		"advisory": {},
+		"time_min": 1634,
+		"time_max": 1869
+	},
+	{
+		"dest": "terestai j:tuff carson",
+		"from": "terestai",
+		"to": "carson",
+		"advisory": {},
+		"time_min": 448,
+		"time_max": 451
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
+		"from": "terestai",
+		"to": "mts",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 1771,
+		"time_max": 2096
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
+		"from": "terestai",
+		"to": "icenia:nether",
+		"advisory": {},
+		"time_min": 1525,
+		"time_max": 1743
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi old_sanctuary",
+		"from": "terestai",
+		"to": "old_sanctuary",
+		"advisory": {},
+		"time_min": 1828,
+		"time_max": 2306
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
+		"from": "terestai",
+		"to": "spqr",
+		"advisory": {},
+		"time_min": 2676,
+		"time_max": 3256
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp fortuna",
+		"from": "terestai",
+		"to": "fortuna",
+		"advisory": {},
+		"time_min": 2910,
+		"time_max": 3204
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
+		"from": "terestai",
+		"to": "genso:centi",
+		"advisory": {},
+		"time_min": 1391,
+		"time_max": 1552
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot vinland",
+		"from": "terestai",
+		"to": "vinland",
+		"advisory": {},
+		"time_min": 1818,
+		"time_max": 1977
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp forta'are",
+		"from": "terestai",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 2283,
+		"time_max": 2449
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria appomattox",
+		"from": "terestai",
+		"to": "appomattox",
+		"advisory": {},
+		"time_min": 1447,
+		"time_max": 1831
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 mta",
+		"from": "terestai",
+		"to": "mta",
+		"advisory": {},
+		"time_min": 1958,
+		"time_max": 2403
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"from": "terestai",
+		"to": "socalist_ruler",
+		"advisory": {},
+		"time_min": 2286,
+		"time_max": 2471
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
+		"from": "terestai",
+		"to": "jevoghnya",
+		"advisory": {},
+		"time_min": 2174,
+		"time_max": 2342
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend endportal",
+		"from": "terestai",
+		"to": "endportal",
+		"advisory": {},
+		"time_min": 802,
+		"time_max": 956
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
+		"from": "terestai",
+		"to": "besia",
+		"advisory": {},
+		"time_min": 1252,
+		"time_max": 1363
+	},
+	{
+		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
+		"from": "terestai",
+		"to": "cape_cocoa",
+		"advisory": {},
+		"time_min": 869,
+		"time_max": 974
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria iria",
+		"from": "terestai",
+		"to": "iria",
+		"advisory": {},
+		"time_min": 1842,
+		"time_max": 2050
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its qbipfb",
+		"from": "terestai",
+		"to": "its:qbipfb",
+		"advisory": {},
+		"time_min": 1465,
+		"time_max": 1634
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its versailles",
+		"from": "terestai",
+		"to": "its:versailles",
+		"advisory": {},
+		"time_min": 1455,
+		"time_max": 1617
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its iceniapark",
+		"from": "terestai",
+		"to": "its:iceniapark",
+		"advisory": {},
+		"time_min": 1445,
+		"time_max": 1606
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its skybunker",
+		"from": "terestai",
+		"to": "its:skybunker",
+		"advisory": {},
+		"time_min": 1457,
+		"time_max": 1621
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its hji",
+		"from": "terestai",
+		"to": "its:hji",
+		"advisory": {},
+		"time_min": 1458,
+		"time_max": 1625
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its adytum",
+		"from": "terestai",
+		"to": "its:adytum",
+		"advisory": {},
+		"time_min": 1491,
+		"time_max": 1665
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its office",
+		"from": "terestai",
+		"to": "its:office",
+		"advisory": {},
+		"time_min": 1450,
+		"time_max": 1611
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its beach",
+		"from": "terestai",
+		"to": "its:beach",
+		"advisory": {},
+		"time_min": 1451,
+		"time_max": 1614
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its subway",
+		"from": "terestai",
+		"to": "its:subway",
+		"advisory": {},
+		"time_min": 1448,
+		"time_max": 1610
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its bayloop",
+		"from": "terestai",
+		"to": "its:bayloop",
+		"advisory": {},
+		"time_min": 1450,
+		"time_max": 1612
+	},
+	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
 		"from": "lriln'kriavnya",
 		"to": "genso:taozi",
@@ -12312,6 +13102,14 @@
 		"time_max": 2741
 	},
 	{
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "lriln'kriavnya",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2301,
+		"time_max": 2487
+	},
+	{
 		"dest": "lriln'kriavnya",
 		"from": "lriln'kriavnya",
 		"to": "lriln'kriavnya",
@@ -12448,11 +13246,11 @@
 		"time_max": 1919
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "lriln'kriavnya",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2132,
+		"time_min": 2171,
 		"time_max": 2358
 	},
 	{
@@ -12624,14 +13422,12 @@
 		"time_max": 2062
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "lriln'kriavnya",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1877,
-		"time_max": 2036
+		"advisory": {},
+		"time_min": 2001,
+		"time_max": 2190
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -12988,6 +13784,14 @@
 		"time_max": 1151
 	},
 	{
+		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "canvasblue",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1485,
+		"time_max": 1683
+	},
+	{
 		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "canvasblue",
 		"to": "lriln'kriavnya",
@@ -13124,11 +13928,11 @@
 		"time_max": 761
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "canvasblue",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1340,
+		"time_min": 1379,
 		"time_max": 1552
 	},
 	{
@@ -13300,14 +14104,12 @@
 		"time_max": 388
 	},
 	{
-		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "canvasblue j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "canvasblue",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1085,
-		"time_max": 1230
+		"advisory": {},
+		"time_min": 1209,
+		"time_max": 1384
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia j:picenia j:pmts sept september",
@@ -13664,6 +14466,14 @@
 		"time_max": 3426
 	},
 	{
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "ellen",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2536,
+		"time_max": 3172
+	},
+	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "ellen",
 		"to": "lriln'kriavnya",
@@ -13800,11 +14610,11 @@
 		"time_max": 2604
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "ellen",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2367,
+		"time_min": 2406,
 		"time_max": 3043
 	},
 	{
@@ -13976,14 +14786,12 @@
 		"time_max": 2301
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "ellen",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2112,
-		"time_max": 2721
+		"advisory": {},
+		"time_min": 2236,
+		"time_max": 2875
 	},
 	{
 		"dest": "ellen j:pmts sept september",
@@ -14340,6 +15148,14 @@
 		"time_max": 1523
 	},
 	{
+		"dest": "arrelani j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "arrelani",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 862,
+		"time_max": 1030
+	},
+	{
 		"dest": "arrelani j:parr lenin_isle ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "arrelani",
 		"to": "lriln'kriavnya",
@@ -14476,11 +15292,11 @@
 		"time_max": 1185
 	},
 	{
-		"dest": "arrelani j:parr lenin_isle ponsportia pripyat",
+		"dest": "arrelani j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "arrelani",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 693,
+		"time_min": 732,
 		"time_max": 901
 	},
 	{
@@ -14652,14 +15468,12 @@
 		"time_max": 1328
 	},
 	{
-		"dest": "arrelani j:parr lenin_isle ponsportia carson",
+		"dest": "arrelani j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "arrelani",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 438,
-		"time_max": 579
+		"advisory": {},
+		"time_min": 562,
+		"time_max": 733
 	},
 	{
 		"dest": "arrelani j:parr lenin_isle ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -15016,6 +15830,14 @@
 		"time_max": 1139
 	},
 	{
+		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:drippy",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1470,
+		"time_max": 1671
+	},
+	{
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:drippy",
 		"to": "lriln'kriavnya",
@@ -15152,11 +15974,11 @@
 		"time_max": 749
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:drippy icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:drippy",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1325,
+		"time_min": 1364,
 		"time_max": 1540
 	},
 	{
@@ -15328,14 +16150,12 @@
 		"time_max": 376
 	},
 	{
-		"dest": "icenia:drippy icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:drippy icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:drippy",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1070,
-		"time_max": 1218
+		"advisory": {},
+		"time_min": 1194,
+		"time_max": 1372
 	},
 	{
 		"dest": "icenia:drippy icenia j:picenia j:pmts sept september",
@@ -15692,6 +16512,14 @@
 		"time_max": 2455
 	},
 	{
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "hiyo'mek",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2045,
+		"time_max": 2201
+	},
+	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "hiyo'mek",
 		"to": "lriln'kriavnya",
@@ -15828,11 +16656,11 @@
 		"time_max": 1633
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "hiyo'mek",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1876,
+		"time_min": 1915,
 		"time_max": 2072
 	},
 	{
@@ -16004,14 +16832,12 @@
 		"time_max": 1776
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia carson",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "hiyo'mek",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1621,
-		"time_max": 1750
+		"advisory": {},
+		"time_min": 1745,
+		"time_max": 1904
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -16368,6 +17194,14 @@
 		"time_max": 1162
 	},
 	{
+		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:atlantica",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1483,
+		"time_max": 1694
+	},
+	{
 		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:atlantica",
 		"to": "lriln'kriavnya",
@@ -16504,11 +17338,11 @@
 		"time_max": 772
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:atlantica",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1338,
+		"time_min": 1377,
 		"time_max": 1563
 	},
 	{
@@ -16680,14 +17514,12 @@
 		"time_max": 399
 	},
 	{
-		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:atlantica icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:atlantica",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1083,
-		"time_max": 1241
+		"advisory": {},
+		"time_min": 1207,
+		"time_max": 1395
 	},
 	{
 		"dest": "icenia:atlantica icenia j:picenia j:pmts sept september",
@@ -17044,6 +17876,14 @@
 		"time_max": 1142
 	},
 	{
+		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:westisle",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1464,
+		"time_max": 1674
+	},
+	{
 		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:westisle",
 		"to": "lriln'kriavnya",
@@ -17180,11 +18020,11 @@
 		"time_max": 752
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:westisle icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:westisle",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1319,
+		"time_min": 1358,
 		"time_max": 1543
 	},
 	{
@@ -17356,14 +18196,12 @@
 		"time_max": 379
 	},
 	{
-		"dest": "icenia:westisle icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:westisle icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:westisle",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1064,
-		"time_max": 1221
+		"advisory": {},
+		"time_min": 1188,
+		"time_max": 1375
 	},
 	{
 		"dest": "icenia:westisle icenia j:picenia j:pmts sept september",
@@ -17720,6 +18558,14 @@
 		"time_max": 2677
 	},
 	{
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "il'olmhir",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2242,
+		"time_max": 2423
+	},
+	{
 		"dest": "il'olmhir torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "il'olmhir",
 		"to": "lriln'kriavnya",
@@ -17856,11 +18702,11 @@
 		"time_max": 1855
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "il'olmhir",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2073,
+		"time_min": 2112,
 		"time_max": 2294
 	},
 	{
@@ -18032,14 +18878,12 @@
 		"time_max": 1998
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "il'olmhir",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1818,
-		"time_max": 1972
+		"advisory": {},
+		"time_min": 1942,
+		"time_max": 2126
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -18396,6 +19240,14 @@
 		"time_max": 2549
 	},
 	{
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "ozonrough",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2129,
+		"time_max": 2295
+	},
+	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "ozonrough",
 		"to": "lriln'kriavnya",
@@ -18532,11 +19384,11 @@
 		"time_max": 1727
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "ozonrough",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1960,
+		"time_min": 1999,
 		"time_max": 2166
 	},
 	{
@@ -18708,14 +19560,12 @@
 		"time_max": 1870
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia carson",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "ozonrough",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1705,
-		"time_max": 1844
+		"advisory": {},
+		"time_min": 1829,
+		"time_max": 1998
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -19072,6 +19922,14 @@
 		"time_max": 1583
 	},
 	{
+		"dest": "coventhia genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "coventhia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1981,
+		"time_max": 2587
+	},
+	{
 		"dest": "coventhia genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "coventhia",
 		"to": "lriln'kriavnya",
@@ -19208,11 +20066,11 @@
 		"time_max": 1136
 	},
 	{
-		"dest": "coventhia genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "coventhia genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "coventhia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1812,
+		"time_min": 1851,
 		"time_max": 2458
 	},
 	{
@@ -19384,14 +20242,12 @@
 		"time_max": 1862
 	},
 	{
-		"dest": "coventhia genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "coventhia genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "coventhia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1557,
-		"time_max": 2136
+		"advisory": {},
+		"time_min": 1681,
+		"time_max": 2290
 	},
 	{
 		"dest": "coventhia genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -19748,6 +20604,14 @@
 		"time_max": 1313
 	},
 	{
+		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "alpoko",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1643,
+		"time_max": 1845
+	},
+	{
 		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "alpoko",
 		"to": "lriln'kriavnya",
@@ -19884,11 +20748,11 @@
 		"time_max": 923
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "alpoko icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "alpoko",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1498,
+		"time_min": 1537,
 		"time_max": 1714
 	},
 	{
@@ -20060,14 +20924,12 @@
 		"time_max": 550
 	},
 	{
-		"dest": "alpoko icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "alpoko icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "alpoko",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1243,
-		"time_max": 1392
+		"advisory": {},
+		"time_min": 1367,
+		"time_max": 1546
 	},
 	{
 		"dest": "alpoko icenia j:picenia j:pmts sept september",
@@ -20424,6 +21286,14 @@
 		"time_max": 1242
 	},
 	{
+		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "it:anburon",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1539,
+		"time_max": 1774
+	},
+	{
 		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "it:anburon",
 		"to": "lriln'kriavnya",
@@ -20560,11 +21430,11 @@
 		"time_max": 852
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "it:anburon icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "it:anburon",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1394,
+		"time_min": 1433,
 		"time_max": 1643
 	},
 	{
@@ -20736,14 +21606,12 @@
 		"time_max": 479
 	},
 	{
-		"dest": "it:anburon icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "it:anburon icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "it:anburon",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1139,
-		"time_max": 1321
+		"advisory": {},
+		"time_min": 1263,
+		"time_max": 1475
 	},
 	{
 		"dest": "it:anburon icenia j:picenia j:pmts sept september",
@@ -21100,6 +21968,14 @@
 		"time_max": 1617
 	},
 	{
+		"dest": "varkonia icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "varkonia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1833,
+		"time_max": 2149
+	},
+	{
 		"dest": "varkonia j:pvark j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "varkonia",
 		"to": "lriln'kriavnya",
@@ -21236,11 +22112,11 @@
 		"time_max": 1227
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "varkonia icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "varkonia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1688,
+		"time_min": 1727,
 		"time_max": 2018
 	},
 	{
@@ -21412,14 +22288,12 @@
 		"time_max": 854
 	},
 	{
-		"dest": "varkonia icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "varkonia icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "varkonia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1433,
-		"time_max": 1696
+		"advisory": {},
+		"time_min": 1557,
+		"time_max": 1850
 	},
 	{
 		"dest": "varkonia j:pvark september",
@@ -21776,6 +22650,14 @@
 		"time_max": 2977
 	},
 	{
+		"dest": "westminster 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "westminster",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2136,
+		"time_max": 2723
+	},
+	{
 		"dest": "westminster 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "westminster",
 		"to": "lriln'kriavnya",
@@ -21912,11 +22794,11 @@
 		"time_max": 2155
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "westminster 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "westminster",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1967,
+		"time_min": 2006,
 		"time_max": 2594
 	},
 	{
@@ -22088,14 +22970,12 @@
 		"time_max": 1788
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend ponsportia carson",
+		"dest": "westminster 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "westminster",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1712,
-		"time_max": 2272
+		"advisory": {},
+		"time_min": 1836,
+		"time_max": 2426
 	},
 	{
 		"dest": "westminster imc mts",
@@ -22452,6 +23332,14 @@
 		"time_max": 2331
 	},
 	{
+		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "iria:desert",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2910,
+		"time_max": 3335
+	},
+	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "iria:desert",
 		"to": "lriln'kriavnya",
@@ -22588,11 +23476,11 @@
 		"time_max": 1884
 	},
 	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "iria:desert",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2741,
+		"time_min": 2780,
 		"time_max": 3206
 	},
 	{
@@ -22764,14 +23652,12 @@
 		"time_max": 2433
 	},
 	{
-		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "iria:desert",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2486,
-		"time_max": 2884
+		"advisory": {},
+		"time_min": 2610,
+		"time_max": 3038
 	},
 	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -23128,6 +24014,14 @@
 		"time_max": 613
 	},
 	{
+		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "genso:shiranui",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1262,
+		"time_max": 1617
+	},
+	{
 		"dest": "genso:shiranui genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:shiranui",
 		"to": "lriln'kriavnya",
@@ -23264,11 +24158,11 @@
 		"time_max": 0
 	},
 	{
-		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:shiranui",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1093,
+		"time_min": 1132,
 		"time_max": 1488
 	},
 	{
@@ -23440,14 +24334,12 @@
 		"time_max": 892
 	},
 	{
-		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:shiranui",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 838,
-		"time_max": 1166
+		"advisory": {},
+		"time_min": 962,
+		"time_max": 1320
 	},
 	{
 		"dest": "genso:shiranui genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -23660,283 +24552,291 @@
 		"time_max": 693
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
 		"from": "pripyat",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 1027,
+		"time_min": 1066,
 		"time_max": 1405
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "pripyat",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2022,
+		"time_min": 2061,
 		"time_max": 2237
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "pripyat",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2009,
+		"time_min": 2048,
 		"time_max": 2504
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "pripyat",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2093,
+		"time_min": 2132,
 		"time_max": 2308
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 0,0:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 0,0:exit",
 		"from": "pripyat",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 872,
+		"time_min": 911,
 		"time_max": 1066
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
 		"from": "pripyat",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 1182,
+		"time_min": 1221,
 		"time_max": 1377
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
 		"from": "pripyat",
 		"to": "coe",
 		"advisory": {},
-		"time_min": 1461,
+		"time_min": 1500,
 		"time_max": 1862
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "pripyat",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2596,
+		"time_min": 2635,
 		"time_max": 3002
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle lenin_isle:exit",
+		"dest": "pripyat j:tuff ponsportia lenin_isle lenin_isle:exit",
 		"from": "pripyat",
 		"to": "lenin_isle",
 		"advisory": {},
-		"time_min": 460,
+		"time_min": 499,
 		"time_max": 605
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia icenia:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "pripyat",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1255,
+		"time_min": 1294,
 		"time_max": 1452
 	},
 	{
-		"dest": "pripyat ponsportia ponsportia:exit",
+		"dest": "pripyat j:tuff ponsportia ponsportia:exit",
 		"from": "pripyat",
 		"to": "ponsportia",
 		"advisory": {},
-		"time_min": 411,
+		"time_min": 450,
 		"time_max": 536
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
+		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "pripyat",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 1518,
+		"time_min": 1557,
 		"time_max": 1674
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "pripyat",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1330,
+		"time_min": 1369,
 		"time_max": 1580
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "pripyat",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2322,
+		"time_min": 2361,
 		"time_max": 2516
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "pripyat",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1342,
+		"time_min": 1381,
 		"time_max": 1555
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "pripyat",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2053,
+		"time_min": 2092,
 		"time_max": 2268
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "pripyat",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2130,
+		"time_min": 2169,
 		"time_max": 2353
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi nyasaland",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi nyasaland",
 		"from": "pripyat",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 1420,
+		"time_min": 1459,
 		"time_max": 1935
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"dest": "pripyat j:tuff terestai",
+		"from": "pripyat",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 618,
+		"time_max": 619
+	},
+	{
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "pripyat",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2132,
+		"time_min": 2171,
 		"time_max": 2358
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "pripyat",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1316,
+		"time_min": 1355,
 		"time_max": 1554
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "pripyat",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2367,
+		"time_min": 2406,
 		"time_max": 3043
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle j:parr arrelani",
+		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr arrelani",
 		"from": "pripyat",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 693,
+		"time_min": 732,
 		"time_max": 901
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "pripyat",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1301,
+		"time_min": 1340,
 		"time_max": 1542
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "pripyat",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 1876,
+		"time_min": 1915,
 		"time_max": 2072
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "pripyat",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1338,
+		"time_min": 1377,
 		"time_max": 1563
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
 		"from": "pripyat",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1295,
+		"time_min": 1334,
 		"time_max": 1545
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "pripyat",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2073,
+		"time_min": 2112,
 		"time_max": 2294
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "pripyat",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 1960,
+		"time_min": 1999,
 		"time_max": 2166
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
 		"from": "pripyat",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 2080,
+		"time_min": 2119,
 		"time_max": 2568
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "pripyat",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1474,
+		"time_min": 1513,
 		"time_max": 1716
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "pripyat",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1370,
+		"time_min": 1409,
 		"time_max": 1645
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia varkonia",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia varkonia",
 		"from": "pripyat",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 1688,
+		"time_min": 1727,
 		"time_max": 2018
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 westminster",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 westminster",
 		"from": "pripyat",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 1967,
+		"time_min": 2006,
 		"time_max": 2594
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "pripyat",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2741,
+		"time_min": 2780,
 		"time_max": 3206
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
 		"from": "pripyat",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 1363,
+		"time_min": 1402,
 		"time_max": 1597
 	},
 	{
@@ -23948,391 +24848,389 @@
 		"time_max": 0
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot netherfarm",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot netherfarm",
 		"from": "pripyat",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 916,
+		"time_min": 955,
 		"time_max": 1110
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "pripyat",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1319,
+		"time_min": 1358,
 		"time_max": 1555
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria aurum:cactus",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria aurum:cactus",
 		"from": "pripyat",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 800,
+		"time_min": 839,
 		"time_max": 1074
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
+		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "pripyat",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 1252,
+		"time_min": 1291,
 		"time_max": 1459
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi sig",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi sig",
 		"from": "pripyat",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 1231,
+		"time_min": 1270,
 		"time_max": 1692
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:palex alexandria",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:palex alexandria",
 		"from": "pripyat",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 1861,
+		"time_min": 1900,
 		"time_max": 2056
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "pripyat",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 2041,
+		"time_min": 2080,
 		"time_max": 2674
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria lambat",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria lambat",
 		"from": "pripyat",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1205,
+		"time_min": 1244,
 		"time_max": 1532
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:nice aurum",
+		"dest": "pripyat j:tuff ponsportia j:pend j:nice aurum",
 		"from": "pripyat",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 765,
+		"time_min": 804,
 		"time_max": 982
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria new_sovia",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria new_sovia",
 		"from": "pripyat",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1398,
+		"time_min": 1437,
 		"time_max": 1707
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:pp pacem",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:pp pacem",
 		"from": "pripyat",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2155,
+		"time_min": 2194,
 		"time_max": 2358
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi genso:farms",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi genso:farms",
 		"from": "pripyat",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1631,
+		"time_min": 1670,
 		"time_max": 2013
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "pripyat",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 1781,
+		"time_min": 1820,
 		"time_max": 1977
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot wayrest",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot wayrest",
 		"from": "pripyat",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 938,
+		"time_min": 977,
 		"time_max": 1148
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "pripyat",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 3229,
+		"time_min": 3268,
 		"time_max": 3733
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:pp hjaltland",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "pripyat",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2475,
+		"time_min": 2514,
 		"time_max": 2782
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia bloom",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia bloom",
 		"from": "pripyat",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1414,
+		"time_min": 1453,
 		"time_max": 1665
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
 		"from": "pripyat",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 1377,
+		"time_min": 1416,
 		"time_max": 1633
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
 		"from": "pripyat",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1290,
+		"time_min": 1329,
 		"time_max": 1500
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi crowsroost",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi crowsroost",
 		"from": "pripyat",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 1327,
+		"time_min": 1366,
 		"time_max": 1819
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia gabon",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia gabon",
 		"from": "pripyat",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1465,
+		"time_min": 1504,
 		"time_max": 1740
 	},
 	{
-		"dest": "pripyat carson",
+		"dest": "pripyat j:tuff carson",
 		"from": "pripyat",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 258,
+		"advisory": {},
+		"time_min": 318,
 		"time_max": 322
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
 		"from": "pripyat",
 		"to": "mts",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1602,
+		"time_min": 1641,
 		"time_max": 1967
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "pripyat",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1356,
+		"time_min": 1395,
 		"time_max": 1614
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria genso:taozi old_sanctuary",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria genso:taozi old_sanctuary",
 		"from": "pripyat",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1659,
+		"time_min": 1698,
 		"time_max": 2177
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia spqr",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
 		"from": "pripyat",
 		"to": "spqr",
 		"advisory": {},
-		"time_min": 2507,
+		"time_min": 2546,
 		"time_max": 3127
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:pp fortuna",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:pp fortuna",
 		"from": "pripyat",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 2741,
+		"time_min": 2780,
 		"time_max": 3075
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
 		"from": "pripyat",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 1222,
+		"time_min": 1261,
 		"time_max": 1423
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot vinland",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot vinland",
 		"from": "pripyat",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 1649,
+		"time_min": 1688,
 		"time_max": 1848
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:pp forta'are",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:pp forta'are",
 		"from": "pripyat",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2114,
+		"time_min": 2153,
 		"time_max": 2320
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria appomattox",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria appomattox",
 		"from": "pripyat",
 		"to": "appomattox",
 		"advisory": {},
-		"time_min": 1278,
+		"time_min": 1317,
 		"time_max": 1702
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot 0,0 mta",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 mta",
 		"from": "pripyat",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 1789,
+		"time_min": 1828,
 		"time_max": 2274
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "pripyat",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2117,
+		"time_min": 2156,
 		"time_max": 2342
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "pripyat",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2005,
+		"time_min": 2044,
 		"time_max": 2213
 	},
 	{
-		"dest": "pripyat ponsportia j:pend endportal",
+		"dest": "pripyat j:tuff ponsportia j:pend endportal",
 		"from": "pripyat",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 633,
+		"time_min": 672,
 		"time_max": 827
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
+		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
 		"from": "pripyat",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1083,
+		"time_min": 1122,
 		"time_max": 1234
 	},
 	{
-		"dest": "pripyat ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
+		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
 		"from": "pripyat",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 700,
+		"time_min": 739,
 		"time_max": 845
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:piria iria",
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria iria",
 		"from": "pripyat",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 1673,
+		"time_min": 1712,
 		"time_max": 1921
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its qbipfb",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "pripyat",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1296,
+		"time_min": 1335,
 		"time_max": 1505
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its versailles",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its versailles",
 		"from": "pripyat",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1286,
+		"time_min": 1325,
 		"time_max": 1488
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its iceniapark",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "pripyat",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1276,
+		"time_min": 1315,
 		"time_max": 1477
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its skybunker",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its skybunker",
 		"from": "pripyat",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1288,
+		"time_min": 1327,
 		"time_max": 1492
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its hji",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its hji",
 		"from": "pripyat",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1289,
+		"time_min": 1328,
 		"time_max": 1496
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its adytum",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its adytum",
 		"from": "pripyat",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1322,
+		"time_min": 1361,
 		"time_max": 1536
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its office",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its office",
 		"from": "pripyat",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1281,
+		"time_min": 1320,
 		"time_max": 1482
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its beach",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its beach",
 		"from": "pripyat",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1282,
+		"time_min": 1321,
 		"time_max": 1485
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its subway",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its subway",
 		"from": "pripyat",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1279,
+		"time_min": 1318,
 		"time_max": 1481
 	},
 	{
-		"dest": "pripyat ponsportia j:pend j:knot j:icegen icenia its bayloop",
+		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia its bayloop",
 		"from": "pripyat",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1281,
+		"time_min": 1320,
 		"time_max": 1483
 	},
 	{
@@ -24480,6 +25378,14 @@
 		"time_max": 1493
 	},
 	{
+		"dest": "netherfarm j:knot j:pend ponsportia j:tuff terestai",
+		"from": "netherfarm",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1085,
+		"time_max": 1239
+	},
+	{
 		"dest": "netherfarm j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "netherfarm",
 		"to": "lriln'kriavnya",
@@ -24616,11 +25522,11 @@
 		"time_max": 671
 	},
 	{
-		"dest": "netherfarm j:knot j:pend ponsportia pripyat",
+		"dest": "netherfarm j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "netherfarm",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 916,
+		"time_min": 955,
 		"time_max": 1110
 	},
 	{
@@ -24792,14 +25698,12 @@
 		"time_max": 814
 	},
 	{
-		"dest": "netherfarm j:knot j:pend ponsportia carson",
+		"dest": "netherfarm j:knot j:pend ponsportia j:tuff carson",
 		"from": "netherfarm",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 661,
-		"time_max": 788
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 942
 	},
 	{
 		"dest": "netherfarm j:knot 0,0 j:picenia j:pmts sept september",
@@ -25156,6 +26060,14 @@
 		"time_max": 1152
 	},
 	{
+		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:potato",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1488,
+		"time_max": 1684
+	},
+	{
 		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:potato",
 		"to": "lriln'kriavnya",
@@ -25292,11 +26204,11 @@
 		"time_max": 762
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:potato icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:potato",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1343,
+		"time_min": 1382,
 		"time_max": 1553
 	},
 	{
@@ -25468,14 +26380,12 @@
 		"time_max": 389
 	},
 	{
-		"dest": "icenia:potato icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:potato icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:potato",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1088,
-		"time_max": 1231
+		"advisory": {},
+		"time_min": 1212,
+		"time_max": 1385
 	},
 	{
 		"dest": "icenia:potato icenia j:picenia j:pmts sept september",
@@ -25832,6 +26742,14 @@
 		"time_max": 1091
 	},
 	{
+		"dest": "aurum:cactus j:piria j:pend ponsportia j:tuff terestai",
+		"from": "aurum:cactus",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 969,
+		"time_max": 1203
+	},
+	{
 		"dest": "aurum:cactus j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "aurum:cactus",
 		"to": "lriln'kriavnya",
@@ -25968,11 +26886,11 @@
 		"time_max": 644
 	},
 	{
-		"dest": "aurum:cactus j:piria j:pend ponsportia pripyat",
+		"dest": "aurum:cactus j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "aurum:cactus",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 800,
+		"time_min": 839,
 		"time_max": 1074
 	},
 	{
@@ -26144,14 +27062,12 @@
 		"time_max": 1370
 	},
 	{
-		"dest": "aurum:cactus j:piria j:pend ponsportia carson",
+		"dest": "aurum:cactus j:piria j:pend ponsportia j:tuff carson",
 		"from": "aurum:cactus",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 545,
-		"time_max": 752
+		"advisory": {},
+		"time_min": 669,
+		"time_max": 906
 	},
 	{
 		"dest": "aurum:cactus j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -26508,6 +27424,14 @@
 		"time_max": 2047
 	},
 	{
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "caledonia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1421,
+		"time_max": 1588
+	},
+	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "caledonia",
 		"to": "lriln'kriavnya",
@@ -26644,11 +27568,11 @@
 		"time_max": 1709
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia pripyat",
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "caledonia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1252,
+		"time_min": 1291,
 		"time_max": 1459
 	},
 	{
@@ -26820,14 +27744,12 @@
 		"time_max": 1852
 	},
 	{
-		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "caledonia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 997,
-		"time_max": 1137
+		"advisory": {},
+		"time_min": 1121,
+		"time_max": 1291
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -27184,6 +28106,14 @@
 		"time_max": 817
 	},
 	{
+		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia j:tuff terestai",
+		"from": "sig",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1411,
+		"time_max": 1572
+	},
+	{
 		"dest": "sig j:gensig j:icegen j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "sig",
 		"to": "lriln'kriavnya",
@@ -27320,11 +28250,11 @@
 		"time_max": 370
 	},
 	{
-		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "sig",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1242,
+		"time_min": 1281,
 		"time_max": 1443
 	},
 	{
@@ -27496,14 +28426,12 @@
 		"time_max": 1096
 	},
 	{
-		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia carson",
+		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "sig",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 987,
-		"time_max": 1121
+		"advisory": {},
+		"time_min": 1111,
+		"time_max": 1275
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -27860,6 +28788,14 @@
 		"time_max": 2439
 	},
 	{
+		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "alexandria",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2030,
+		"time_max": 2185
+	},
+	{
 		"dest": "alexandria j:palex j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "alexandria",
 		"to": "lriln'kriavnya",
@@ -27996,11 +28932,11 @@
 		"time_max": 1617
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "alexandria",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1861,
+		"time_min": 1900,
 		"time_max": 2056
 	},
 	{
@@ -28172,14 +29108,12 @@
 		"time_max": 1760
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia carson",
+		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "alexandria",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1606,
-		"time_max": 1734
+		"advisory": {},
+		"time_min": 1730,
+		"time_max": 1888
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -28536,6 +29470,14 @@
 		"time_max": 1799
 	},
 	{
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "gondolin",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2210,
+		"time_max": 2803
+	},
+	{
 		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gondolin",
 		"to": "lriln'kriavnya",
@@ -28672,11 +29614,11 @@
 		"time_max": 1352
 	},
 	{
-		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "gondolin",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2041,
+		"time_min": 2080,
 		"time_max": 2674
 	},
 	{
@@ -28848,14 +29790,12 @@
 		"time_max": 1901
 	},
 	{
-		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "gondolin",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1786,
-		"time_max": 2352
+		"advisory": {},
+		"time_min": 1910,
+		"time_max": 2506
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -29212,6 +30152,14 @@
 		"time_max": 1549
 	},
 	{
+		"dest": "lambat j:piria j:pend ponsportia j:tuff terestai",
+		"from": "lambat",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1374,
+		"time_max": 1661
+	},
+	{
 		"dest": "lambat j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "lambat",
 		"to": "lriln'kriavnya",
@@ -29348,11 +30296,11 @@
 		"time_max": 1102
 	},
 	{
-		"dest": "lambat j:piria j:pend ponsportia pripyat",
+		"dest": "lambat j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "lambat",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1205,
+		"time_min": 1244,
 		"time_max": 1532
 	},
 	{
@@ -29524,14 +30472,12 @@
 		"time_max": 1828
 	},
 	{
-		"dest": "lambat j:piria j:pend ponsportia carson",
+		"dest": "lambat j:piria j:pend ponsportia j:tuff carson",
 		"from": "lambat",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 950,
-		"time_max": 1210
+		"advisory": {},
+		"time_min": 1074,
+		"time_max": 1364
 	},
 	{
 		"dest": "lambat j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -29888,6 +30834,14 @@
 		"time_max": 1044
 	},
 	{
+		"dest": "aurum j:nice j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "aurum",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 779,
+		"time_max": 906
+	},
+	{
 		"dest": "aurum j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "aurum",
 		"to": "lriln'kriavnya",
@@ -30024,11 +30978,11 @@
 		"time_max": 597
 	},
 	{
-		"dest": "aurum j:nice j:parr lenin_isle ponsportia pripyat",
+		"dest": "aurum j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "aurum",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 610,
+		"time_min": 649,
 		"time_max": 777
 	},
 	{
@@ -30200,14 +31154,12 @@
 		"time_max": 1323
 	},
 	{
-		"dest": "aurum j:nice j:parr lenin_isle ponsportia carson",
+		"dest": "aurum j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "aurum",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 355,
-		"time_max": 455
+		"advisory": {},
+		"time_min": 479,
+		"time_max": 609
 	},
 	{
 		"dest": "aurum j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -30564,6 +31516,14 @@
 		"time_max": 1724
 	},
 	{
+		"dest": "new_sovia j:piria j:pend ponsportia j:tuff terestai",
+		"from": "new_sovia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1567,
+		"time_max": 1836
+	},
+	{
 		"dest": "new_sovia j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "new_sovia",
 		"to": "lriln'kriavnya",
@@ -30700,11 +31660,11 @@
 		"time_max": 1277
 	},
 	{
-		"dest": "new_sovia j:piria j:pend ponsportia pripyat",
+		"dest": "new_sovia j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "new_sovia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1398,
+		"time_min": 1437,
 		"time_max": 1707
 	},
 	{
@@ -30876,14 +31836,12 @@
 		"time_max": 2003
 	},
 	{
-		"dest": "new_sovia j:piria j:pend ponsportia carson",
+		"dest": "new_sovia j:piria j:pend ponsportia j:tuff carson",
 		"from": "new_sovia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1143,
-		"time_max": 1385
+		"advisory": {},
+		"time_min": 1267,
+		"time_max": 1539
 	},
 	{
 		"dest": "new_sovia j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -31240,6 +32198,14 @@
 		"time_max": 2741
 	},
 	{
+		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "pacem",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2324,
+		"time_max": 2487
+	},
+	{
 		"dest": "pacem j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "pacem",
 		"to": "lriln'kriavnya",
@@ -31376,11 +32342,11 @@
 		"time_max": 1919
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "pacem",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2155,
+		"time_min": 2194,
 		"time_max": 2358
 	},
 	{
@@ -31552,14 +32518,12 @@
 		"time_max": 2062
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia carson",
+		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "pacem",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1900,
-		"time_max": 2036
+		"advisory": {},
+		"time_min": 2024,
+		"time_max": 2190
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -31916,6 +32880,14 @@
 		"time_max": 1138
 	},
 	{
+		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "genso:farms",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1800,
+		"time_max": 2142
+	},
+	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:farms",
 		"to": "lriln'kriavnya",
@@ -32052,11 +33024,11 @@
 		"time_max": 691
 	},
 	{
-		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:farms",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1631,
+		"time_min": 1670,
 		"time_max": 2013
 	},
 	{
@@ -32228,14 +33200,12 @@
 		"time_max": 1417
 	},
 	{
-		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:farms",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1376,
-		"time_max": 1691
+		"advisory": {},
+		"time_min": 1500,
+		"time_max": 1845
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -32592,6 +33562,14 @@
 		"time_max": 1892
 	},
 	{
+		"dest": "kallos icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "kallos",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2099,
+		"time_max": 2424
+	},
+	{
 		"dest": "kallos icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "kallos",
 		"to": "lriln'kriavnya",
@@ -32728,11 +33706,11 @@
 		"time_max": 1502
 	},
 	{
-		"dest": "kallos icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "kallos icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "kallos",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1954,
+		"time_min": 1993,
 		"time_max": 2293
 	},
 	{
@@ -32904,14 +33882,12 @@
 		"time_max": 1129
 	},
 	{
-		"dest": "kallos icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "kallos icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "kallos",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1699,
-		"time_max": 1971
+		"advisory": {},
+		"time_min": 1823,
+		"time_max": 2125
 	},
 	{
 		"dest": "kallos j:pkallos j:pvark september",
@@ -33268,6 +34244,14 @@
 		"time_max": 1531
 	},
 	{
+		"dest": "wayrest j:knot j:pend ponsportia j:tuff terestai",
+		"from": "wayrest",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1107,
+		"time_max": 1277
+	},
+	{
 		"dest": "wayrest j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "wayrest",
 		"to": "lriln'kriavnya",
@@ -33404,11 +34388,11 @@
 		"time_max": 709
 	},
 	{
-		"dest": "wayrest j:knot j:pend ponsportia pripyat",
+		"dest": "wayrest j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "wayrest",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 938,
+		"time_min": 977,
 		"time_max": 1148
 	},
 	{
@@ -33580,14 +34564,12 @@
 		"time_max": 854
 	},
 	{
-		"dest": "wayrest j:knot j:pend ponsportia carson",
+		"dest": "wayrest j:knot j:pend ponsportia j:tuff carson",
 		"from": "wayrest",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 683,
-		"time_max": 826
+		"advisory": {},
+		"time_min": 807,
+		"time_max": 980
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia j:pmts sept september",
@@ -33944,6 +34926,14 @@
 		"time_max": 2858
 	},
 	{
+		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "iria:jungle",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 3398,
+		"time_max": 3862
+	},
+	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "iria:jungle",
 		"to": "lriln'kriavnya",
@@ -34080,11 +35070,11 @@
 		"time_max": 2411
 	},
 	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "iria:jungle",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 3229,
+		"time_min": 3268,
 		"time_max": 3733
 	},
 	{
@@ -34256,14 +35246,12 @@
 		"time_max": 2960
 	},
 	{
-		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "iria:jungle",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2974,
-		"time_max": 3411
+		"advisory": {},
+		"time_min": 3098,
+		"time_max": 3565
 	},
 	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -34620,6 +35608,14 @@
 		"time_max": 3165
 	},
 	{
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "hjaltland",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2644,
+		"time_max": 2911
+	},
+	{
 		"dest": "hjaltland j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "hjaltland",
 		"to": "lriln'kriavnya",
@@ -34756,11 +35752,11 @@
 		"time_max": 2343
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "hjaltland",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2475,
+		"time_min": 2514,
 		"time_max": 2782
 	},
 	{
@@ -34932,14 +35928,12 @@
 		"time_max": 2486
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia carson",
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "hjaltland",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2220,
-		"time_max": 2460
+		"advisory": {},
+		"time_min": 2344,
+		"time_max": 2614
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -35296,6 +36290,14 @@
 		"time_max": 1031
 	},
 	{
+		"dest": "bloom icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "bloom",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1559,
+		"time_max": 1796
+	},
+	{
 		"dest": "bloom imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "bloom",
 		"to": "lriln'kriavnya",
@@ -35432,11 +36434,11 @@
 		"time_max": 584
 	},
 	{
-		"dest": "bloom genso:roe genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "bloom genso:roe genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "bloom",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1471,
+		"time_min": 1510,
 		"time_max": 1906
 	},
 	{
@@ -35608,14 +36610,12 @@
 		"time_max": 501
 	},
 	{
-		"dest": "bloom genso:roe genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "bloom genso:roe genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "bloom",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1216,
-		"time_max": 1584
+		"advisory": {},
+		"time_min": 1340,
+		"time_max": 1738
 	},
 	{
 		"dest": "bloom imc mts",
@@ -35972,6 +36972,14 @@
 		"time_max": 924
 	},
 	{
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "tvtopia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1504,
+		"time_max": 1928
+	},
+	{
 		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "tvtopia",
 		"to": "lriln'kriavnya",
@@ -36108,11 +37116,11 @@
 		"time_max": 477
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "tvtopia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1335,
+		"time_min": 1374,
 		"time_max": 1799
 	},
 	{
@@ -36284,14 +37292,12 @@
 		"time_max": 475
 	},
 	{
-		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "tvtopia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1080,
-		"time_max": 1477
+		"advisory": {},
+		"time_min": 1204,
+		"time_max": 1631
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -36648,6 +37654,14 @@
 		"time_max": 1099
 	},
 	{
+		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "wnsta",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1435,
+		"time_max": 1631
+	},
+	{
 		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "wnsta",
 		"to": "lriln'kriavnya",
@@ -36784,11 +37798,11 @@
 		"time_max": 709
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "wnsta",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1290,
+		"time_min": 1329,
 		"time_max": 1500
 	},
 	{
@@ -36960,14 +37974,12 @@
 		"time_max": 336
 	},
 	{
-		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "wnsta j:cabalwest icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "wnsta",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1035,
-		"time_max": 1178
+		"advisory": {},
+		"time_min": 1159,
+		"time_max": 1332
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia j:picenia j:pmts sept september",
@@ -37324,6 +38336,14 @@
 		"time_max": 944
 	},
 	{
+		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "crowsroost",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1496,
+		"time_max": 1948
+	},
+	{
 		"dest": "crowsroost genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "crowsroost",
 		"to": "lriln'kriavnya",
@@ -37460,11 +38480,11 @@
 		"time_max": 497
 	},
 	{
-		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "crowsroost",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1327,
+		"time_min": 1366,
 		"time_max": 1819
 	},
 	{
@@ -37636,14 +38656,12 @@
 		"time_max": 1223
 	},
 	{
-		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "crowsroost",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1072,
-		"time_max": 1497
+		"advisory": {},
+		"time_min": 1196,
+		"time_max": 1651
 	},
 	{
 		"dest": "crowsroost genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -38000,6 +39018,14 @@
 		"time_max": 1339
 	},
 	{
+		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "gabon",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1575,
+		"time_max": 1871
+	},
+	{
 		"dest": "gabon j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "gabon",
 		"to": "lriln'kriavnya",
@@ -38136,11 +39162,11 @@
 		"time_max": 892
 	},
 	{
-		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "gabon",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1406,
+		"time_min": 1445,
 		"time_max": 1742
 	},
 	{
@@ -38312,14 +39338,12 @@
 		"time_max": 0
 	},
 	{
-		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia carson",
+		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "gabon",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1151,
-		"time_max": 1420
+		"advisory": {},
+		"time_min": 1275,
+		"time_max": 1574
 	},
 	{
 		"dest": "gabon j:picenia j:pmts sept september",
@@ -38532,845 +39556,686 @@
 		"time_max": 319
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
 		"from": "carson",
 		"to": "genso:taozi",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 772,
-		"time_max": 1083
+		"advisory": {},
+		"time_min": 896,
+		"time_max": 1237
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "carson",
 		"to": "torndal",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1767,
-		"time_max": 1915
+		"advisory": {},
+		"time_min": 1891,
+		"time_max": 2069
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "carson",
 		"to": "imc",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1754,
-		"time_max": 2182
+		"advisory": {},
+		"time_min": 1878,
+		"time_max": 2336
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "carson",
 		"to": "kro'ushro",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1838,
-		"time_max": 1986
+		"advisory": {},
+		"time_min": 1962,
+		"time_max": 2140
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 0,0:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 0,0:exit",
 		"from": "carson",
 		"to": "0,0",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 617,
-		"time_max": 744
+		"advisory": {},
+		"time_min": 741,
+		"time_max": 898
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
 		"from": "carson",
 		"to": "genso:roe",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 927,
-		"time_max": 1055
+		"advisory": {},
+		"time_min": 1051,
+		"time_max": 1209
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
 		"from": "carson",
 		"to": "coe",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1206,
-		"time_max": 1540
+		"advisory": {},
+		"time_min": 1330,
+		"time_max": 1694
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "carson",
 		"to": "savion",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2341,
-		"time_max": 2680
+		"advisory": {},
+		"time_min": 2465,
+		"time_max": 2834
 	},
 	{
-		"dest": "carson ponsportia lenin_isle lenin_isle:exit",
+		"dest": "carson j:tuff ponsportia lenin_isle lenin_isle:exit",
 		"from": "carson",
 		"to": "lenin_isle",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 205,
-		"time_max": 283
+		"advisory": {},
+		"time_min": 329,
+		"time_max": 437
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia icenia:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "carson",
 		"to": "icenia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1000,
-		"time_max": 1130
+		"advisory": {},
+		"time_min": 1124,
+		"time_max": 1284
 	},
 	{
-		"dest": "carson ponsportia ponsportia:exit",
+		"dest": "carson j:tuff ponsportia ponsportia:exit",
 		"from": "carson",
 		"to": "ponsportia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 156,
-		"time_max": 214
+		"advisory": {},
+		"time_min": 280,
+		"time_max": 368
 	},
 	{
-		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
+		"dest": "carson j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "carson",
 		"to": "mir",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1263,
-		"time_max": 1352
+		"advisory": {},
+		"time_min": 1387,
+		"time_max": 1506
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "carson",
 		"to": "ssta",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1075,
-		"time_max": 1258
+		"advisory": {},
+		"time_min": 1199,
+		"time_max": 1412
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "carson",
 		"to": "hje",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2067,
-		"time_max": 2194
+		"advisory": {},
+		"time_min": 2191,
+		"time_max": 2348
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "carson",
 		"to": "icenia:lord",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1087,
-		"time_max": 1233
+		"advisory": {},
+		"time_min": 1211,
+		"time_max": 1387
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "carson",
 		"to": "nro'meagh",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1798,
-		"time_max": 1946
+		"advisory": {},
+		"time_min": 1922,
+		"time_max": 2100
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "carson",
 		"to": "topha'nya",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1875,
-		"time_max": 2031
+		"advisory": {},
+		"time_min": 1999,
+		"time_max": 2185
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi nyasaland",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi nyasaland",
 		"from": "carson",
 		"to": "nyasaland",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1165,
-		"time_max": 1613
+		"advisory": {},
+		"time_min": 1289,
+		"time_max": 1767
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"dest": "carson j:tuff terestai",
+		"from": "carson",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 448,
+		"time_max": 451
+	},
+	{
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "carson",
 		"to": "lriln'kriavnya",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1877,
-		"time_max": 2036
+		"advisory": {},
+		"time_min": 2001,
+		"time_max": 2190
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "carson",
 		"to": "canvasblue",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1061,
-		"time_max": 1232
+		"advisory": {},
+		"time_min": 1185,
+		"time_max": 1386
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "carson",
 		"to": "ellen",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2112,
-		"time_max": 2721
+		"advisory": {},
+		"time_min": 2236,
+		"time_max": 2875
 	},
 	{
-		"dest": "carson ponsportia lenin_isle j:parr arrelani",
+		"dest": "carson j:tuff ponsportia lenin_isle j:parr arrelani",
 		"from": "carson",
 		"to": "arrelani",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 438,
-		"time_max": 579
+		"advisory": {},
+		"time_min": 562,
+		"time_max": 733
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "carson",
 		"to": "icenia:drippy",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1046,
-		"time_max": 1220
+		"advisory": {},
+		"time_min": 1170,
+		"time_max": 1374
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "carson",
 		"to": "hiyo'mek",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1621,
-		"time_max": 1750
+		"advisory": {},
+		"time_min": 1745,
+		"time_max": 1904
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "carson",
 		"to": "icenia:atlantica",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1083,
-		"time_max": 1241
+		"advisory": {},
+		"time_min": 1207,
+		"time_max": 1395
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
 		"from": "carson",
 		"to": "icenia:westisle",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1040,
-		"time_max": 1223
+		"advisory": {},
+		"time_min": 1164,
+		"time_max": 1377
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "carson",
 		"to": "il'olmhir",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1818,
-		"time_max": 1972
+		"advisory": {},
+		"time_min": 1942,
+		"time_max": 2126
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "carson",
 		"to": "ozonrough",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1705,
-		"time_max": 1844
+		"advisory": {},
+		"time_min": 1829,
+		"time_max": 1998
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
 		"from": "carson",
 		"to": "coventhia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1825,
-		"time_max": 2246
+		"advisory": {},
+		"time_min": 1949,
+		"time_max": 2400
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "carson",
 		"to": "alpoko",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1219,
-		"time_max": 1394
+		"advisory": {},
+		"time_min": 1343,
+		"time_max": 1548
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "carson",
 		"to": "it:anburon",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1115,
-		"time_max": 1323
+		"advisory": {},
+		"time_min": 1239,
+		"time_max": 1477
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia varkonia",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia varkonia",
 		"from": "carson",
 		"to": "varkonia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1433,
-		"time_max": 1696
+		"advisory": {},
+		"time_min": 1557,
+		"time_max": 1850
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 westminster",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 westminster",
 		"from": "carson",
 		"to": "westminster",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1712,
-		"time_max": 2272
+		"advisory": {},
+		"time_min": 1836,
+		"time_max": 2426
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "carson",
 		"to": "iria:desert",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2486,
-		"time_max": 2884
+		"advisory": {},
+		"time_min": 2610,
+		"time_max": 3038
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
 		"from": "carson",
 		"to": "genso:shiranui",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1108,
-		"time_max": 1275
+		"advisory": {},
+		"time_min": 1232,
+		"time_max": 1429
 	},
 	{
-		"dest": "carson pripyat",
+		"dest": "carson j:tuff pripyat",
 		"from": "carson",
 		"to": "pripyat",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 258,
+		"advisory": {},
+		"time_min": 318,
 		"time_max": 322
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot netherfarm",
+		"dest": "carson j:tuff ponsportia j:pend j:knot netherfarm",
 		"from": "carson",
 		"to": "netherfarm",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 661,
-		"time_max": 788
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 942
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "carson",
 		"to": "icenia:potato",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1064,
-		"time_max": 1233
+		"advisory": {},
+		"time_min": 1188,
+		"time_max": 1387
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria aurum:cactus",
+		"dest": "carson j:tuff ponsportia j:pend j:piria aurum:cactus",
 		"from": "carson",
 		"to": "aurum:cactus",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 545,
-		"time_max": 752
+		"advisory": {},
+		"time_min": 669,
+		"time_max": 906
 	},
 	{
-		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
+		"dest": "carson j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "carson",
 		"to": "caledonia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 997,
-		"time_max": 1137
+		"advisory": {},
+		"time_min": 1121,
+		"time_max": 1291
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi sig",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi sig",
 		"from": "carson",
 		"to": "sig",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 976,
-		"time_max": 1370
+		"advisory": {},
+		"time_min": 1100,
+		"time_max": 1524
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:palex alexandria",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:palex alexandria",
 		"from": "carson",
 		"to": "alexandria",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1606,
-		"time_max": 1734
+		"advisory": {},
+		"time_min": 1730,
+		"time_max": 1888
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "carson",
 		"to": "gondolin",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1786,
-		"time_max": 2352
+		"advisory": {},
+		"time_min": 1910,
+		"time_max": 2506
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria lambat",
+		"dest": "carson j:tuff ponsportia j:pend j:piria lambat",
 		"from": "carson",
 		"to": "lambat",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 950,
-		"time_max": 1210
+		"advisory": {},
+		"time_min": 1074,
+		"time_max": 1364
 	},
 	{
-		"dest": "carson ponsportia j:pend j:nice aurum",
+		"dest": "carson j:tuff ponsportia j:pend j:nice aurum",
 		"from": "carson",
 		"to": "aurum",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 510,
-		"time_max": 660
+		"advisory": {},
+		"time_min": 634,
+		"time_max": 814
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria new_sovia",
+		"dest": "carson j:tuff ponsportia j:pend j:piria new_sovia",
 		"from": "carson",
 		"to": "new_sovia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1143,
-		"time_max": 1385
+		"advisory": {},
+		"time_min": 1267,
+		"time_max": 1539
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp pacem",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:pp pacem",
 		"from": "carson",
 		"to": "pacem",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1900,
-		"time_max": 2036
+		"advisory": {},
+		"time_min": 2024,
+		"time_max": 2190
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi genso:farms",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi genso:farms",
 		"from": "carson",
 		"to": "genso:farms",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1376,
-		"time_max": 1691
+		"advisory": {},
+		"time_min": 1500,
+		"time_max": 1845
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "carson",
 		"to": "kallos",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1526,
-		"time_max": 1655
+		"advisory": {},
+		"time_min": 1650,
+		"time_max": 1809
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot wayrest",
+		"dest": "carson j:tuff ponsportia j:pend j:knot wayrest",
 		"from": "carson",
 		"to": "wayrest",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 683,
-		"time_max": 826
+		"advisory": {},
+		"time_min": 807,
+		"time_max": 980
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "carson",
 		"to": "iria:jungle",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2974,
-		"time_max": 3411
+		"advisory": {},
+		"time_min": 3098,
+		"time_max": 3565
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp hjaltland",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "carson",
 		"to": "hjaltland",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2220,
-		"time_max": 2460
+		"advisory": {},
+		"time_min": 2344,
+		"time_max": 2614
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia bloom",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia bloom",
 		"from": "carson",
 		"to": "bloom",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1159,
-		"time_max": 1343
-	},
-	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
-		"from": "carson",
-		"to": "tvtopia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1122,
-		"time_max": 1311
-	},
-	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
-		"from": "carson",
-		"to": "wnsta",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1035,
-		"time_max": 1178
-	},
-	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi crowsroost",
-		"from": "carson",
-		"to": "crowsroost",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1072,
+		"advisory": {},
+		"time_min": 1283,
 		"time_max": 1497
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia gabon",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
+		"from": "carson",
+		"to": "tvtopia",
+		"advisory": {},
+		"time_min": 1246,
+		"time_max": 1465
+	},
+	{
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
+		"from": "carson",
+		"to": "wnsta",
+		"advisory": {},
+		"time_min": 1159,
+		"time_max": 1332
+	},
+	{
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi crowsroost",
+		"from": "carson",
+		"to": "crowsroost",
+		"advisory": {},
+		"time_min": 1196,
+		"time_max": 1651
+	},
+	{
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia gabon",
 		"from": "carson",
 		"to": "gabon",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1210,
-		"time_max": 1418
+		"advisory": {},
+		"time_min": 1334,
+		"time_max": 1572
 	},
 	{
 		"dest": "carson",
 		"from": "carson",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
+		"advisory": {},
 		"time_min": 0,
 		"time_max": 0
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts sept september",
 		"from": "carson",
 		"to": "mts",
 		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1347,
-		"time_max": 1645
+		"time_min": 1471,
+		"time_max": 1799
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "carson",
 		"to": "icenia:nether",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1101,
-		"time_max": 1292
+		"advisory": {},
+		"time_min": 1225,
+		"time_max": 1446
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria genso:taozi old_sanctuary",
+		"dest": "carson j:tuff ponsportia j:pend j:piria genso:taozi old_sanctuary",
 		"from": "carson",
 		"to": "old_sanctuary",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1404,
-		"time_max": 1855
+		"advisory": {},
+		"time_min": 1528,
+		"time_max": 2009
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia spqr",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
 		"from": "carson",
 		"to": "spqr",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2252,
-		"time_max": 2805
+		"advisory": {},
+		"time_min": 2376,
+		"time_max": 2959
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp fortuna",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:pp fortuna",
 		"from": "carson",
 		"to": "fortuna",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2486,
-		"time_max": 2753
+		"advisory": {},
+		"time_min": 2610,
+		"time_max": 2907
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
 		"from": "carson",
 		"to": "genso:centi",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 967,
-		"time_max": 1101
+		"advisory": {},
+		"time_min": 1091,
+		"time_max": 1255
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot vinland",
+		"dest": "carson j:tuff ponsportia j:pend j:knot vinland",
 		"from": "carson",
 		"to": "vinland",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1394,
-		"time_max": 1526
+		"advisory": {},
+		"time_min": 1518,
+		"time_max": 1680
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:pp forta'are",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:pp forta'are",
 		"from": "carson",
 		"to": "forta'are",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1859,
-		"time_max": 1998
+		"advisory": {},
+		"time_min": 1983,
+		"time_max": 2152
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria appomattox",
+		"dest": "carson j:tuff ponsportia j:pend j:piria appomattox",
 		"from": "carson",
 		"to": "appomattox",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1023,
-		"time_max": 1380
+		"advisory": {},
+		"time_min": 1147,
+		"time_max": 1534
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot 0,0 mta",
+		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 mta",
 		"from": "carson",
 		"to": "mta",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1534,
-		"time_max": 1952
+		"advisory": {},
+		"time_min": 1658,
+		"time_max": 2106
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "carson",
 		"to": "socalist_ruler",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1862,
-		"time_max": 2020
+		"advisory": {},
+		"time_min": 1986,
+		"time_max": 2174
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "carson",
 		"to": "jevoghnya",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1750,
-		"time_max": 1891
+		"advisory": {},
+		"time_min": 1874,
+		"time_max": 2045
 	},
 	{
-		"dest": "carson ponsportia j:pend endportal",
+		"dest": "carson j:tuff ponsportia j:pend endportal",
 		"from": "carson",
 		"to": "endportal",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 378,
-		"time_max": 505
+		"advisory": {},
+		"time_min": 502,
+		"time_max": 659
 	},
 	{
-		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
+		"dest": "carson j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
 		"from": "carson",
 		"to": "besia",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 828,
-		"time_max": 912
+		"advisory": {},
+		"time_min": 952,
+		"time_max": 1066
 	},
 	{
-		"dest": "carson ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
+		"dest": "carson j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
 		"from": "carson",
 		"to": "cape_cocoa",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 445,
-		"time_max": 523
+		"advisory": {},
+		"time_min": 569,
+		"time_max": 677
 	},
 	{
-		"dest": "carson ponsportia j:pend j:piria iria",
+		"dest": "carson j:tuff ponsportia j:pend j:piria iria",
 		"from": "carson",
 		"to": "iria",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1418,
-		"time_max": 1599
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1753
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its qbipfb",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "carson",
 		"to": "its:qbipfb",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1041,
-		"time_max": 1183
+		"advisory": {},
+		"time_min": 1165,
+		"time_max": 1337
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its versailles",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its versailles",
 		"from": "carson",
 		"to": "its:versailles",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1031,
-		"time_max": 1166
+		"advisory": {},
+		"time_min": 1155,
+		"time_max": 1320
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its iceniapark",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "carson",
 		"to": "its:iceniapark",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1021,
-		"time_max": 1155
+		"advisory": {},
+		"time_min": 1145,
+		"time_max": 1309
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its skybunker",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its skybunker",
 		"from": "carson",
 		"to": "its:skybunker",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1033,
-		"time_max": 1170
+		"advisory": {},
+		"time_min": 1157,
+		"time_max": 1324
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its hji",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its hji",
 		"from": "carson",
 		"to": "its:hji",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1034,
-		"time_max": 1174
+		"advisory": {},
+		"time_min": 1158,
+		"time_max": 1328
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its adytum",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its adytum",
 		"from": "carson",
 		"to": "its:adytum",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1067,
-		"time_max": 1214
+		"advisory": {},
+		"time_min": 1191,
+		"time_max": 1368
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its office",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its office",
 		"from": "carson",
 		"to": "its:office",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1026,
-		"time_max": 1160
+		"advisory": {},
+		"time_min": 1150,
+		"time_max": 1314
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its beach",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its beach",
 		"from": "carson",
 		"to": "its:beach",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1027,
-		"time_max": 1163
+		"advisory": {},
+		"time_min": 1151,
+		"time_max": 1317
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its subway",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its subway",
 		"from": "carson",
 		"to": "its:subway",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1024,
-		"time_max": 1159
+		"advisory": {},
+		"time_min": 1148,
+		"time_max": 1313
 	},
 	{
-		"dest": "carson ponsportia j:pend j:knot j:icegen icenia its bayloop",
+		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia its bayloop",
 		"from": "carson",
 		"to": "its:bayloop",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1026,
-		"time_max": 1161
+		"advisory": {},
+		"time_min": 1150,
+		"time_max": 1315
 	},
 	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
@@ -39553,6 +40418,16 @@
 		"time_max": 2350
 	},
 	{
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "mts",
+		"to": "terestai",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 1771,
+		"time_max": 2096
+	},
+	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "mts",
 		"to": "lriln'kriavnya",
@@ -39723,13 +40598,13 @@
 		"time_max": 1528
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "mts",
 		"to": "pripyat",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1602,
+		"time_min": 1641,
 		"time_max": 1967
 	},
 	{
@@ -39943,15 +40818,14 @@
 		"time_max": 1225
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend ponsportia carson",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "mts",
 		"to": "carson",
 		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work",
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1347,
-		"time_max": 1645
+		"time_min": 1471,
+		"time_max": 1799
 	},
 	{
 		"dest": "mts",
@@ -40358,6 +41232,14 @@
 		"time_max": 1211
 	},
 	{
+		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "icenia:nether",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1525,
+		"time_max": 1743
+	},
+	{
 		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "icenia:nether",
 		"to": "lriln'kriavnya",
@@ -40494,11 +41376,11 @@
 		"time_max": 821
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "icenia:nether icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "icenia:nether",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1380,
+		"time_min": 1419,
 		"time_max": 1612
 	},
 	{
@@ -40670,14 +41552,12 @@
 		"time_max": 448
 	},
 	{
-		"dest": "icenia:nether icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "icenia:nether icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "icenia:nether",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1125,
-		"time_max": 1290
+		"advisory": {},
+		"time_min": 1249,
+		"time_max": 1444
 	},
 	{
 		"dest": "icenia:nether icenia j:picenia j:pmts sept september",
@@ -41034,6 +41914,14 @@
 		"time_max": 1302
 	},
 	{
+		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "old_sanctuary",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1828,
+		"time_max": 2306
+	},
+	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "old_sanctuary",
 		"to": "lriln'kriavnya",
@@ -41170,11 +42058,11 @@
 		"time_max": 855
 	},
 	{
-		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "old_sanctuary",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1659,
+		"time_min": 1698,
 		"time_max": 2177
 	},
 	{
@@ -41346,14 +42234,12 @@
 		"time_max": 1581
 	},
 	{
-		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "old_sanctuary",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1404,
-		"time_max": 1855
+		"advisory": {},
+		"time_min": 1528,
+		"time_max": 2009
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -41710,6 +42596,14 @@
 		"time_max": 2726
 	},
 	{
+		"dest": "spqr icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "spqr",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2652,
+		"time_max": 3258
+	},
+	{
 		"dest": "spqr imc j:pmts j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "spqr",
 		"to": "lriln'kriavnya",
@@ -41846,11 +42740,11 @@
 		"time_max": 2336
 	},
 	{
-		"dest": "spqr icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "spqr icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "spqr",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2507,
+		"time_min": 2546,
 		"time_max": 3127
 	},
 	{
@@ -42022,14 +42916,12 @@
 		"time_max": 1963
 	},
 	{
-		"dest": "spqr icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "spqr icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "spqr",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2252,
-		"time_max": 2805
+		"advisory": {},
+		"time_min": 2376,
+		"time_max": 2959
 	},
 	{
 		"dest": "spqr imc mts",
@@ -42386,6 +43278,14 @@
 		"time_max": 3458
 	},
 	{
+		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "fortuna",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2910,
+		"time_max": 3204
+	},
+	{
 		"dest": "fortuna j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "fortuna",
 		"to": "lriln'kriavnya",
@@ -42522,11 +43422,11 @@
 		"time_max": 2636
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "fortuna",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2741,
+		"time_min": 2780,
 		"time_max": 3075
 	},
 	{
@@ -42698,14 +43598,12 @@
 		"time_max": 2779
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia carson",
+		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "fortuna",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 2486,
-		"time_max": 2753
+		"advisory": {},
+		"time_min": 2610,
+		"time_max": 2907
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -43062,6 +43960,14 @@
 		"time_max": 714
 	},
 	{
+		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
+		"from": "genso:centi",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1349,
+		"time_max": 1718
+	},
+	{
 		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:centi",
 		"to": "lriln'kriavnya",
@@ -43198,11 +44104,11 @@
 		"time_max": 267
 	},
 	{
-		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia pripyat",
+		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:centi",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1180,
+		"time_min": 1219,
 		"time_max": 1589
 	},
 	{
@@ -43374,14 +44280,12 @@
 		"time_max": 717
 	},
 	{
-		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia carson",
+		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:centi",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 925,
-		"time_max": 1267
+		"advisory": {},
+		"time_min": 1049,
+		"time_max": 1421
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia j:picenia j:pmts sept september",
@@ -43738,6 +44642,14 @@
 		"time_max": 2231
 	},
 	{
+		"dest": "vinland j:knot j:pend ponsportia j:tuff terestai",
+		"from": "vinland",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1818,
+		"time_max": 1977
+	},
+	{
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "vinland",
 		"to": "lriln'kriavnya",
@@ -43874,11 +44786,11 @@
 		"time_max": 1409
 	},
 	{
-		"dest": "vinland j:knot j:pend ponsportia pripyat",
+		"dest": "vinland j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "vinland",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1649,
+		"time_min": 1688,
 		"time_max": 1848
 	},
 	{
@@ -44050,14 +44962,12 @@
 		"time_max": 1552
 	},
 	{
-		"dest": "vinland j:knot j:pend ponsportia carson",
+		"dest": "vinland j:knot j:pend ponsportia j:tuff carson",
 		"from": "vinland",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1394,
-		"time_max": 1526
+		"advisory": {},
+		"time_min": 1518,
+		"time_max": 1680
 	},
 	{
 		"dest": "vinland icenia j:picenia j:pmts sept september",
@@ -44414,6 +45324,14 @@
 		"time_max": 2703
 	},
 	{
+		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "forta'are",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2283,
+		"time_max": 2449
+	},
+	{
 		"dest": "forta'are j:pp j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "forta'are",
 		"to": "lriln'kriavnya",
@@ -44550,11 +45468,11 @@
 		"time_max": 1881
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "forta'are",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2114,
+		"time_min": 2153,
 		"time_max": 2320
 	},
 	{
@@ -44726,14 +45644,12 @@
 		"time_max": 2024
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia carson",
+		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "forta'are",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1859,
-		"time_max": 1998
+		"advisory": {},
+		"time_min": 1983,
+		"time_max": 2152
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -45090,6 +46006,14 @@
 		"time_max": 1719
 	},
 	{
+		"dest": "appomattox j:piria j:pend ponsportia j:tuff terestai",
+		"from": "appomattox",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1447,
+		"time_max": 1831
+	},
+	{
 		"dest": "appomattox j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "appomattox",
 		"to": "lriln'kriavnya",
@@ -45226,11 +46150,11 @@
 		"time_max": 1272
 	},
 	{
-		"dest": "appomattox j:piria j:pend ponsportia pripyat",
+		"dest": "appomattox j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "appomattox",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1278,
+		"time_min": 1317,
 		"time_max": 1702
 	},
 	{
@@ -45402,14 +46326,12 @@
 		"time_max": 1998
 	},
 	{
-		"dest": "appomattox j:piria j:pend ponsportia carson",
+		"dest": "appomattox j:piria j:pend ponsportia j:tuff carson",
 		"from": "appomattox",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1023,
-		"time_max": 1380
+		"advisory": {},
+		"time_min": 1147,
+		"time_max": 1534
 	},
 	{
 		"dest": "appomattox j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -45766,6 +46688,14 @@
 		"time_max": 2657
 	},
 	{
+		"dest": "mta 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "mta",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1958,
+		"time_max": 2403
+	},
+	{
 		"dest": "mta 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "mta",
 		"to": "lriln'kriavnya",
@@ -45902,11 +46832,11 @@
 		"time_max": 1835
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend ponsportia pripyat",
+		"dest": "mta 0,0 j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "mta",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1789,
+		"time_min": 1828,
 		"time_max": 2274
 	},
 	{
@@ -46078,14 +47008,12 @@
 		"time_max": 1469
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend ponsportia carson",
+		"dest": "mta 0,0 j:knot j:pend ponsportia j:tuff carson",
 		"from": "mta",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1534,
-		"time_max": 1952
+		"advisory": {},
+		"time_min": 1658,
+		"time_max": 2106
 	},
 	{
 		"dest": "mta j:pvark september",
@@ -46442,6 +47370,14 @@
 		"time_max": 2725
 	},
 	{
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "socalist_ruler",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2286,
+		"time_max": 2471
+	},
+	{
 		"dest": "socalist_ruler kro'ushro lriln'kriavnya",
 		"from": "socalist_ruler",
 		"to": "lriln'kriavnya",
@@ -46578,11 +47514,11 @@
 		"time_max": 1903
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "socalist_ruler",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2117,
+		"time_min": 2156,
 		"time_max": 2342
 	},
 	{
@@ -46754,14 +47690,12 @@
 		"time_max": 2046
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "socalist_ruler",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1862,
-		"time_max": 2020
+		"advisory": {},
+		"time_min": 1986,
+		"time_max": 2174
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -47118,6 +48052,14 @@
 		"time_max": 2596
 	},
 	{
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
+		"from": "jevoghnya",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 2174,
+		"time_max": 2342
+	},
+	{
 		"dest": "jevoghnya j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "jevoghnya",
 		"to": "lriln'kriavnya",
@@ -47254,11 +48196,11 @@
 		"time_max": 1774
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia pripyat",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "jevoghnya",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 2005,
+		"time_min": 2044,
 		"time_max": 2213
 	},
 	{
@@ -47430,14 +48372,12 @@
 		"time_max": 1917
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia carson",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia j:tuff carson",
 		"from": "jevoghnya",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1750,
-		"time_max": 1891
+		"advisory": {},
+		"time_min": 1874,
+		"time_max": 2045
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts sept september",
@@ -47794,6 +48734,14 @@
 		"time_max": 1210
 	},
 	{
+		"dest": "endportal j:pend ponsportia j:tuff terestai",
+		"from": "endportal",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 802,
+		"time_max": 956
+	},
+	{
 		"dest": "endportal j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "endportal",
 		"to": "lriln'kriavnya",
@@ -47930,11 +48878,11 @@
 		"time_max": 872
 	},
 	{
-		"dest": "endportal j:pend ponsportia pripyat",
+		"dest": "endportal j:pend ponsportia j:tuff pripyat",
 		"from": "endportal",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 633,
+		"time_min": 672,
 		"time_max": 827
 	},
 	{
@@ -48106,14 +49054,12 @@
 		"time_max": 1015
 	},
 	{
-		"dest": "endportal j:pend ponsportia carson",
+		"dest": "endportal j:pend ponsportia j:tuff carson",
 		"from": "endportal",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 378,
-		"time_max": 505
+		"advisory": {},
+		"time_min": 502,
+		"time_max": 659
 	},
 	{
 		"dest": "endportal j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -48470,6 +49416,14 @@
 		"time_max": 1822
 	},
 	{
+		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "besia",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1252,
+		"time_max": 1363
+	},
+	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "besia",
 		"to": "lriln'kriavnya",
@@ -48606,11 +49560,11 @@
 		"time_max": 1484
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia pripyat",
+		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "besia",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1083,
+		"time_min": 1122,
 		"time_max": 1234
 	},
 	{
@@ -48782,14 +49736,12 @@
 		"time_max": 1627
 	},
 	{
-		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia carson",
+		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "besia",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 828,
-		"time_max": 912
+		"advisory": {},
+		"time_min": 952,
+		"time_max": 1066
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -49146,6 +50098,14 @@
 		"time_max": 1433
 	},
 	{
+		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
+		"from": "cape_cocoa",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 869,
+		"time_max": 974
+	},
+	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "cape_cocoa",
 		"to": "lriln'kriavnya",
@@ -49282,11 +50242,11 @@
 		"time_max": 1095
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia pripyat",
+		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "cape_cocoa",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 700,
+		"time_min": 739,
 		"time_max": 845
 	},
 	{
@@ -49458,14 +50418,12 @@
 		"time_max": 1238
 	},
 	{
-		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia carson",
+		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "cape_cocoa",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 445,
-		"time_max": 523
+		"advisory": {},
+		"time_min": 569,
+		"time_max": 677
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -49822,6 +50780,14 @@
 		"time_max": 1938
 	},
 	{
+		"dest": "iria j:piria j:pend ponsportia j:tuff terestai",
+		"from": "iria",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1842,
+		"time_max": 2050
+	},
+	{
 		"dest": "iria j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "iria",
 		"to": "lriln'kriavnya",
@@ -49958,11 +50924,11 @@
 		"time_max": 1491
 	},
 	{
-		"dest": "iria j:piria j:pend ponsportia pripyat",
+		"dest": "iria j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "iria",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1673,
+		"time_min": 1712,
 		"time_max": 1921
 	},
 	{
@@ -50134,14 +51100,12 @@
 		"time_max": 2217
 	},
 	{
-		"dest": "iria j:piria j:pend ponsportia carson",
+		"dest": "iria j:piria j:pend ponsportia j:tuff carson",
 		"from": "iria",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1418,
-		"time_max": 1599
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1753
 	},
 	{
 		"dest": "iria j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -50498,6 +51462,14 @@
 		"time_max": 1104
 	},
 	{
+		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:qbipfb",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1441,
+		"time_max": 1636
+	},
+	{
 		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:qbipfb",
 		"to": "lriln'kriavnya",
@@ -50634,11 +51606,11 @@
 		"time_max": 714
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:qbipfb",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1296,
+		"time_min": 1335,
 		"time_max": 1505
 	},
 	{
@@ -50810,14 +51782,12 @@
 		"time_max": 341
 	},
 	{
-		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:qbipfb j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:qbipfb",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1041,
-		"time_max": 1183
+		"advisory": {},
+		"time_min": 1165,
+		"time_max": 1337
 	},
 	{
 		"dest": "its:qbipfb j:its icenia j:picenia j:pmts sept september",
@@ -51174,6 +52144,14 @@
 		"time_max": 1087
 	},
 	{
+		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:versailles",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1431,
+		"time_max": 1619
+	},
+	{
 		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:versailles",
 		"to": "lriln'kriavnya",
@@ -51310,11 +52288,11 @@
 		"time_max": 697
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:versailles",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1286,
+		"time_min": 1325,
 		"time_max": 1488
 	},
 	{
@@ -51486,14 +52464,12 @@
 		"time_max": 324
 	},
 	{
-		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:versailles j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:versailles",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1031,
-		"time_max": 1166
+		"advisory": {},
+		"time_min": 1155,
+		"time_max": 1320
 	},
 	{
 		"dest": "its:versailles j:its icenia j:picenia j:pmts sept september",
@@ -51850,6 +52826,14 @@
 		"time_max": 1076
 	},
 	{
+		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:iceniapark",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1421,
+		"time_max": 1608
+	},
+	{
 		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:iceniapark",
 		"to": "lriln'kriavnya",
@@ -51986,11 +52970,11 @@
 		"time_max": 686
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:iceniapark",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1276,
+		"time_min": 1315,
 		"time_max": 1477
 	},
 	{
@@ -52162,14 +53146,12 @@
 		"time_max": 313
 	},
 	{
-		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:iceniapark j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:iceniapark",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1021,
-		"time_max": 1155
+		"advisory": {},
+		"time_min": 1145,
+		"time_max": 1309
 	},
 	{
 		"dest": "its:iceniapark j:its icenia j:picenia j:pmts sept september",
@@ -52526,6 +53508,14 @@
 		"time_max": 1091
 	},
 	{
+		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:skybunker",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1433,
+		"time_max": 1623
+	},
+	{
 		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:skybunker",
 		"to": "lriln'kriavnya",
@@ -52662,11 +53652,11 @@
 		"time_max": 701
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:skybunker",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1288,
+		"time_min": 1327,
 		"time_max": 1492
 	},
 	{
@@ -52838,14 +53828,12 @@
 		"time_max": 328
 	},
 	{
-		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:skybunker j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:skybunker",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1033,
-		"time_max": 1170
+		"advisory": {},
+		"time_min": 1157,
+		"time_max": 1324
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:picenia j:pmts sept september",
@@ -53202,6 +54190,14 @@
 		"time_max": 1095
 	},
 	{
+		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:hji",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1434,
+		"time_max": 1627
+	},
+	{
 		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:hji",
 		"to": "lriln'kriavnya",
@@ -53338,11 +54334,11 @@
 		"time_max": 705
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:hji j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:hji",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1289,
+		"time_min": 1328,
 		"time_max": 1496
 	},
 	{
@@ -53514,14 +54510,12 @@
 		"time_max": 332
 	},
 	{
-		"dest": "its:hji j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:hji j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:hji",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1034,
-		"time_max": 1174
+		"advisory": {},
+		"time_min": 1158,
+		"time_max": 1328
 	},
 	{
 		"dest": "its:hji j:its icenia j:picenia j:pmts sept september",
@@ -53878,6 +54872,14 @@
 		"time_max": 1135
 	},
 	{
+		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:adytum",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1467,
+		"time_max": 1667
+	},
+	{
 		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:adytum",
 		"to": "lriln'kriavnya",
@@ -54014,11 +55016,11 @@
 		"time_max": 745
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:adytum",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1322,
+		"time_min": 1361,
 		"time_max": 1536
 	},
 	{
@@ -54190,14 +55192,12 @@
 		"time_max": 372
 	},
 	{
-		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:adytum j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:adytum",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1067,
-		"time_max": 1214
+		"advisory": {},
+		"time_min": 1191,
+		"time_max": 1368
 	},
 	{
 		"dest": "its:adytum j:its icenia j:picenia j:pmts sept september",
@@ -54554,6 +55554,14 @@
 		"time_max": 1081
 	},
 	{
+		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:office",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1426,
+		"time_max": 1613
+	},
+	{
 		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:office",
 		"to": "lriln'kriavnya",
@@ -54690,11 +55698,11 @@
 		"time_max": 691
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:office j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:office",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1281,
+		"time_min": 1320,
 		"time_max": 1482
 	},
 	{
@@ -54866,14 +55874,12 @@
 		"time_max": 318
 	},
 	{
-		"dest": "its:office j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:office j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:office",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1026,
-		"time_max": 1160
+		"advisory": {},
+		"time_min": 1150,
+		"time_max": 1314
 	},
 	{
 		"dest": "its:office j:its icenia j:picenia j:pmts sept september",
@@ -55230,6 +56236,14 @@
 		"time_max": 1084
 	},
 	{
+		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:beach",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1427,
+		"time_max": 1616
+	},
+	{
 		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:beach",
 		"to": "lriln'kriavnya",
@@ -55366,11 +56380,11 @@
 		"time_max": 694
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:beach j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:beach",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1282,
+		"time_min": 1321,
 		"time_max": 1485
 	},
 	{
@@ -55542,14 +56556,12 @@
 		"time_max": 321
 	},
 	{
-		"dest": "its:beach j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:beach j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:beach",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1027,
-		"time_max": 1163
+		"advisory": {},
+		"time_min": 1151,
+		"time_max": 1317
 	},
 	{
 		"dest": "its:beach j:its icenia j:picenia j:pmts sept september",
@@ -55906,6 +56918,14 @@
 		"time_max": 1080
 	},
 	{
+		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:subway",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1424,
+		"time_max": 1612
+	},
+	{
 		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:subway",
 		"to": "lriln'kriavnya",
@@ -56042,11 +57062,11 @@
 		"time_max": 690
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:subway j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:subway",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1279,
+		"time_min": 1318,
 		"time_max": 1481
 	},
 	{
@@ -56218,14 +57238,12 @@
 		"time_max": 317
 	},
 	{
-		"dest": "its:subway j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:subway j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:subway",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1024,
-		"time_max": 1159
+		"advisory": {},
+		"time_min": 1148,
+		"time_max": 1313
 	},
 	{
 		"dest": "its:subway j:its icenia j:picenia j:pmts sept september",
@@ -56582,6 +57600,14 @@
 		"time_max": 1082
 	},
 	{
+		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
+		"from": "its:bayloop",
+		"to": "terestai",
+		"advisory": {},
+		"time_min": 1426,
+		"time_max": 1614
+	},
+	{
 		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "its:bayloop",
 		"to": "lriln'kriavnya",
@@ -56718,11 +57744,11 @@
 		"time_max": 692
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend ponsportia pripyat",
+		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "its:bayloop",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1281,
+		"time_min": 1320,
 		"time_max": 1483
 	},
 	{
@@ -56894,14 +57920,12 @@
 		"time_max": 319
 	},
 	{
-		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend ponsportia carson",
+		"dest": "its:bayloop j:its icenia j:icegen j:knot j:pend ponsportia j:tuff carson",
 		"from": "its:bayloop",
 		"to": "carson",
-		"advisory": {
-			"carson": "Going to carson should work fine, however departing from carson may be difficult. Pripyat is a destination verified to work"
-		},
-		"time_min": 1026,
-		"time_max": 1161
+		"advisory": {},
+		"time_min": 1150,
+		"time_max": 1315
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:picenia j:pmts sept september",
