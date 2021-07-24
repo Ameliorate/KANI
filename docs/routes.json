@@ -147,7 +147,9 @@
 		"dest": "genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "genso:taozi",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1196,
 		"time_max": 1534
 	},
@@ -494,8 +496,8 @@
 		"from": "genso:taozi",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 632,
-		"time_max": 772
+		"time_min": 168,
+		"time_max": 206
 	},
 	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -829,7 +831,9 @@
 		"dest": "torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "torndal",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2191,
 		"time_max": 2366
 	},
@@ -1176,8 +1180,8 @@
 		"from": "torndal",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2517,
-		"time_max": 2862
+		"time_min": 2053,
+		"time_max": 2296
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -1511,7 +1515,9 @@
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "imc",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2178,
 		"time_max": 2633
 	},
@@ -1858,8 +1864,8 @@
 		"from": "imc",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2504,
-		"time_max": 3129
+		"time_min": 2040,
+		"time_max": 2563
 	},
 	{
 		"dest": "imc spqr",
@@ -2193,7 +2199,9 @@
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "kro'ushro",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2262,
 		"time_max": 2437
 	},
@@ -2540,8 +2548,8 @@
 		"from": "kro'ushro",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2588,
-		"time_max": 2933
+		"time_min": 2124,
+		"time_max": 2367
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -2875,7 +2883,9 @@
 		"dest": "0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "0,0",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1041,
 		"time_max": 1195
 	},
@@ -3222,8 +3232,8 @@
 		"from": "0,0",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1367,
-		"time_max": 1691
+		"time_min": 903,
+		"time_max": 1125
 	},
 	{
 		"dest": "0,0 j:picenia icenia spqr",
@@ -3557,7 +3567,9 @@
 		"dest": "genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "genso:roe",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1309,
 		"time_max": 1672
 	},
@@ -3904,8 +3916,8 @@
 		"from": "genso:roe",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 745,
-		"time_max": 910
+		"time_min": 281,
+		"time_max": 344
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia spqr",
@@ -4239,7 +4251,9 @@
 		"dest": "coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "coe",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1630,
 		"time_max": 1991
 	},
@@ -4586,8 +4600,8 @@
 		"from": "coe",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1066,
-		"time_max": 1229
+		"time_min": 602,
+		"time_max": 663
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -4921,7 +4935,9 @@
 		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "savion",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2765,
 		"time_max": 3131
 	},
@@ -5268,8 +5284,8 @@
 		"from": "savion",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2201,
-		"time_max": 2369
+		"time_min": 1737,
+		"time_max": 1803
 	},
 	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -5603,7 +5619,9 @@
 		"dest": "lenin_isle ponsportia j:tuff terestai",
 		"from": "lenin_isle",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 629,
 		"time_max": 734
 	},
@@ -5946,12 +5964,12 @@
 		"time_max": 1147
 	},
 	{
-		"dest": "lenin_isle ponsportia j:pend j:piria genso:taozi old_sanctuary",
+		"dest": "lenin_isle j:parr j:nice j:pend j:piria genso:taozi old_sanctuary",
 		"from": "lenin_isle",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1297,
-		"time_max": 1710
+		"time_min": 842,
+		"time_max": 1065
 	},
 	{
 		"dest": "lenin_isle j:parr j:nice j:pend j:knot j:icegen icenia spqr",
@@ -6285,7 +6303,9 @@
 		"dest": "icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1400,
 		"time_max": 1583
 	},
@@ -6632,8 +6652,8 @@
 		"from": "icenia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1147,
-		"time_max": 1293
+		"time_min": 683,
+		"time_max": 727
 	},
 	{
 		"dest": "icenia spqr",
@@ -6967,7 +6987,9 @@
 		"dest": "ponsportia j:tuff terestai",
 		"from": "ponsportia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 580,
 		"time_max": 665
 	},
@@ -7314,8 +7336,8 @@
 		"from": "ponsportia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1248,
-		"time_max": 1641
+		"time_min": 784,
+		"time_max": 1075
 	},
 	{
 		"dest": "ponsportia j:pend j:knot j:icegen icenia spqr",
@@ -7649,7 +7671,9 @@
 		"dest": "mir j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "mir",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1687,
 		"time_max": 1803
 	},
@@ -7996,8 +8020,8 @@
 		"from": "mir",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2168,
-		"time_max": 2504
+		"time_min": 1704,
+		"time_max": 1938
 	},
 	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia spqr",
@@ -8331,7 +8355,9 @@
 		"dest": "ssta j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "ssta",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1499,
 		"time_max": 1709
 	},
@@ -8678,8 +8704,8 @@
 		"from": "ssta",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1246,
-		"time_max": 1419
+		"time_min": 782,
+		"time_max": 853
 	},
 	{
 		"dest": "ssta j:cabalwest icenia spqr",
@@ -9013,7 +9039,9 @@
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "hje",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2491,
 		"time_max": 2645
 	},
@@ -9360,8 +9388,8 @@
 		"from": "hje",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2817,
-		"time_max": 3141
+		"time_min": 2353,
+		"time_max": 2575
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts imc spqr",
@@ -9695,7 +9723,9 @@
 		"dest": "icenia:lord j:cabaleast icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:lord",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1487,
 		"time_max": 1686
 	},
@@ -10042,8 +10072,8 @@
 		"from": "icenia:lord",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1234,
-		"time_max": 1396
+		"time_min": 770,
+		"time_max": 830
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia spqr",
@@ -10377,7 +10407,9 @@
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "nro'meagh",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2222,
 		"time_max": 2397
 	},
@@ -10724,8 +10756,8 @@
 		"from": "nro'meagh",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2548,
-		"time_max": 2893
+		"time_min": 2084,
+		"time_max": 2327
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -11059,7 +11091,9 @@
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "topha'nya",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2299,
 		"time_max": 2482
 	},
@@ -11406,8 +11440,8 @@
 		"from": "topha'nya",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2625,
-		"time_max": 2978
+		"time_min": 2161,
+		"time_max": 2412
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -11741,7 +11775,9 @@
 		"dest": "nyasaland taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "nyasaland",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1589,
 		"time_max": 2064
 	},
@@ -12088,8 +12124,8 @@
 		"from": "nyasaland",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1025,
-		"time_max": 1302
+		"time_min": 561,
+		"time_max": 736
 	},
 	{
 		"dest": "nyasaland taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -12279,7 +12315,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi genso:taozi:exit",
 		"from": "terestai",
 		"to": "genso:taozi",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1196,
 		"time_max": 1534
 	},
@@ -12287,7 +12325,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "terestai",
 		"to": "torndal",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2191,
 		"time_max": 2366
 	},
@@ -12295,7 +12335,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "terestai",
 		"to": "imc",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2178,
 		"time_max": 2633
 	},
@@ -12303,7 +12345,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "terestai",
 		"to": "kro'ushro",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2262,
 		"time_max": 2437
 	},
@@ -12311,7 +12355,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 0,0:exit",
 		"from": "terestai",
 		"to": "0,0",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1041,
 		"time_max": 1195
 	},
@@ -12319,7 +12365,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
 		"from": "terestai",
 		"to": "genso:roe",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1351,
 		"time_max": 1506
 	},
@@ -12327,7 +12375,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe coe:exit",
 		"from": "terestai",
 		"to": "coe",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1630,
 		"time_max": 1991
 	},
@@ -12335,7 +12385,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "terestai",
 		"to": "savion",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2765,
 		"time_max": 3131
 	},
@@ -12343,7 +12395,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle lenin_isle:exit",
 		"from": "terestai",
 		"to": "lenin_isle",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 629,
 		"time_max": 734
 	},
@@ -12351,7 +12405,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "terestai",
 		"to": "icenia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1424,
 		"time_max": 1581
 	},
@@ -12359,7 +12415,9 @@
 		"dest": "terestai j:tuff ponsportia ponsportia:exit",
 		"from": "terestai",
 		"to": "ponsportia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 580,
 		"time_max": 665
 	},
@@ -12367,7 +12425,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "terestai",
 		"to": "mir",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1687,
 		"time_max": 1803
 	},
@@ -12375,7 +12435,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "terestai",
 		"to": "ssta",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1499,
 		"time_max": 1709
 	},
@@ -12383,7 +12445,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "terestai",
 		"to": "hje",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2491,
 		"time_max": 2645
 	},
@@ -12391,7 +12455,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "terestai",
 		"to": "icenia:lord",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1511,
 		"time_max": 1684
 	},
@@ -12399,7 +12465,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "terestai",
 		"to": "nro'meagh",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2222,
 		"time_max": 2397
 	},
@@ -12407,7 +12475,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "terestai",
 		"to": "topha'nya",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2299,
 		"time_max": 2482
 	},
@@ -12415,7 +12485,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi nyasaland",
 		"from": "terestai",
 		"to": "nyasaland",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1589,
 		"time_max": 2064
 	},
@@ -12423,7 +12495,9 @@
 		"dest": "terestai",
 		"from": "terestai",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 0,
 		"time_max": 0
 	},
@@ -12431,7 +12505,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "terestai",
 		"to": "lriln'kriavnya",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2301,
 		"time_max": 2487
 	},
@@ -12439,7 +12515,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "terestai",
 		"to": "canvasblue",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1485,
 		"time_max": 1683
 	},
@@ -12447,7 +12525,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "terestai",
 		"to": "ellen",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2536,
 		"time_max": 3172
 	},
@@ -12455,7 +12535,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr arrelani",
 		"from": "terestai",
 		"to": "arrelani",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 862,
 		"time_max": 1030
 	},
@@ -12463,7 +12545,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "terestai",
 		"to": "icenia:drippy",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1470,
 		"time_max": 1671
 	},
@@ -12471,7 +12555,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "terestai",
 		"to": "hiyo'mek",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2045,
 		"time_max": 2201
 	},
@@ -12479,7 +12565,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "terestai",
 		"to": "icenia:atlantica",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1507,
 		"time_max": 1692
 	},
@@ -12487,7 +12575,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
 		"from": "terestai",
 		"to": "icenia:westisle",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1464,
 		"time_max": 1674
 	},
@@ -12495,7 +12585,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "terestai",
 		"to": "il'olmhir",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2242,
 		"time_max": 2423
 	},
@@ -12503,7 +12595,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "terestai",
 		"to": "ozonrough",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2129,
 		"time_max": 2295
 	},
@@ -12511,7 +12605,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
 		"from": "terestai",
 		"to": "coventhia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2249,
 		"time_max": 2697
 	},
@@ -12519,7 +12615,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "terestai",
 		"to": "alpoko",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1643,
 		"time_max": 1845
 	},
@@ -12527,7 +12625,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "terestai",
 		"to": "it:anburon",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1539,
 		"time_max": 1774
 	},
@@ -12535,7 +12635,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia varkonia",
 		"from": "terestai",
 		"to": "varkonia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1857,
 		"time_max": 2147
 	},
@@ -12543,7 +12645,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 westminster",
 		"from": "terestai",
 		"to": "westminster",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2136,
 		"time_max": 2723
 	},
@@ -12551,7 +12655,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "terestai",
 		"to": "iria:desert",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2910,
 		"time_max": 3335
 	},
@@ -12559,7 +12665,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
 		"from": "terestai",
 		"to": "genso:shiranui",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1532,
 		"time_max": 1726
 	},
@@ -12567,7 +12675,9 @@
 		"dest": "terestai j:tuff pripyat",
 		"from": "terestai",
 		"to": "pripyat",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 618,
 		"time_max": 619
 	},
@@ -12575,7 +12685,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot netherfarm",
 		"from": "terestai",
 		"to": "netherfarm",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1085,
 		"time_max": 1239
 	},
@@ -12583,7 +12695,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "terestai",
 		"to": "icenia:potato",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1488,
 		"time_max": 1684
 	},
@@ -12591,7 +12705,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria aurum:cactus",
 		"from": "terestai",
 		"to": "aurum:cactus",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 969,
 		"time_max": 1203
 	},
@@ -12599,7 +12715,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "terestai",
 		"to": "caledonia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1421,
 		"time_max": 1588
 	},
@@ -12607,7 +12725,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi sig",
 		"from": "terestai",
 		"to": "sig",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1400,
 		"time_max": 1821
 	},
@@ -12615,7 +12735,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:palex alexandria",
 		"from": "terestai",
 		"to": "alexandria",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2030,
 		"time_max": 2185
 	},
@@ -12623,7 +12745,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "terestai",
 		"to": "gondolin",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2210,
 		"time_max": 2803
 	},
@@ -12631,7 +12755,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria lambat",
 		"from": "terestai",
 		"to": "lambat",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1374,
 		"time_max": 1661
 	},
@@ -12639,7 +12765,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:nice aurum",
 		"from": "terestai",
 		"to": "aurum",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 934,
 		"time_max": 1111
 	},
@@ -12647,7 +12775,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria new_sovia",
 		"from": "terestai",
 		"to": "new_sovia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1567,
 		"time_max": 1836
 	},
@@ -12655,7 +12785,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp pacem",
 		"from": "terestai",
 		"to": "pacem",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2324,
 		"time_max": 2487
 	},
@@ -12663,7 +12795,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi genso:farms",
 		"from": "terestai",
 		"to": "genso:farms",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1800,
 		"time_max": 2142
 	},
@@ -12671,7 +12805,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "terestai",
 		"to": "kallos",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1950,
 		"time_max": 2106
 	},
@@ -12679,7 +12815,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot wayrest",
 		"from": "terestai",
 		"to": "wayrest",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1107,
 		"time_max": 1277
 	},
@@ -12687,7 +12825,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "terestai",
 		"to": "iria:jungle",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 3398,
 		"time_max": 3862
 	},
@@ -12695,7 +12835,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "terestai",
 		"to": "hjaltland",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2644,
 		"time_max": 2911
 	},
@@ -12703,7 +12845,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia bloom",
 		"from": "terestai",
 		"to": "bloom",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1583,
 		"time_max": 1794
 	},
@@ -12711,7 +12855,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
 		"from": "terestai",
 		"to": "tvtopia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1546,
 		"time_max": 1762
 	},
@@ -12719,7 +12865,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia j:cabalwest wnsta",
 		"from": "terestai",
 		"to": "wnsta",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1459,
 		"time_max": 1629
 	},
@@ -12727,7 +12875,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi crowsroost",
 		"from": "terestai",
 		"to": "crowsroost",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1496,
 		"time_max": 1948
 	},
@@ -12735,7 +12885,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia gabon",
 		"from": "terestai",
 		"to": "gabon",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1634,
 		"time_max": 1869
 	},
@@ -12743,7 +12895,9 @@
 		"dest": "terestai j:tuff carson",
 		"from": "terestai",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 448,
 		"time_max": 451
 	},
@@ -12752,7 +12906,8 @@
 		"from": "terestai",
 		"to": "mts",
 		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
 		},
 		"time_min": 1771,
 		"time_max": 2096
@@ -12761,7 +12916,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "terestai",
 		"to": "icenia:nether",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1525,
 		"time_max": 1743
 	},
@@ -12769,15 +12926,19 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria genso:taozi old_sanctuary",
 		"from": "terestai",
 		"to": "old_sanctuary",
-		"advisory": {},
-		"time_min": 1828,
-		"time_max": 2306
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
+		"time_min": 1364,
+		"time_max": 1740
 	},
 	{
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
 		"from": "terestai",
 		"to": "spqr",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2676,
 		"time_max": 3256
 	},
@@ -12785,7 +12946,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp fortuna",
 		"from": "terestai",
 		"to": "fortuna",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2910,
 		"time_max": 3204
 	},
@@ -12793,7 +12956,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
 		"from": "terestai",
 		"to": "genso:centi",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1391,
 		"time_max": 1552
 	},
@@ -12801,7 +12966,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot vinland",
 		"from": "terestai",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1818,
 		"time_max": 1977
 	},
@@ -12809,7 +12976,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:pp forta'are",
 		"from": "terestai",
 		"to": "forta'are",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2283,
 		"time_max": 2449
 	},
@@ -12817,7 +12986,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria appomattox",
 		"from": "terestai",
 		"to": "appomattox",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1447,
 		"time_max": 1831
 	},
@@ -12825,7 +12996,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 mta",
 		"from": "terestai",
 		"to": "mta",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1958,
 		"time_max": 2403
 	},
@@ -12833,7 +13006,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "terestai",
 		"to": "socalist_ruler",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2286,
 		"time_max": 2471
 	},
@@ -12841,7 +13016,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "terestai",
 		"to": "jevoghnya",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2174,
 		"time_max": 2342
 	},
@@ -12849,7 +13026,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend endportal",
 		"from": "terestai",
 		"to": "endportal",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 802,
 		"time_max": 956
 	},
@@ -12857,7 +13036,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:pbnj besia",
 		"from": "terestai",
 		"to": "besia",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1252,
 		"time_max": 1363
 	},
@@ -12865,7 +13046,9 @@
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc cape_cocoa",
 		"from": "terestai",
 		"to": "cape_cocoa",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 869,
 		"time_max": 974
 	},
@@ -12873,7 +13056,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:piria iria",
 		"from": "terestai",
 		"to": "iria",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1842,
 		"time_max": 2050
 	},
@@ -12881,7 +13066,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "terestai",
 		"to": "its:qbipfb",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1465,
 		"time_max": 1634
 	},
@@ -12889,7 +13076,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its versailles",
 		"from": "terestai",
 		"to": "its:versailles",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1455,
 		"time_max": 1617
 	},
@@ -12897,7 +13086,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "terestai",
 		"to": "its:iceniapark",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1445,
 		"time_max": 1606
 	},
@@ -12905,7 +13096,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its skybunker",
 		"from": "terestai",
 		"to": "its:skybunker",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1457,
 		"time_max": 1621
 	},
@@ -12913,7 +13106,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its hji",
 		"from": "terestai",
 		"to": "its:hji",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1458,
 		"time_max": 1625
 	},
@@ -12921,7 +13116,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its adytum",
 		"from": "terestai",
 		"to": "its:adytum",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1491,
 		"time_max": 1665
 	},
@@ -12929,7 +13126,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its office",
 		"from": "terestai",
 		"to": "its:office",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1450,
 		"time_max": 1611
 	},
@@ -12937,7 +13136,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its beach",
 		"from": "terestai",
 		"to": "its:beach",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1451,
 		"time_max": 1614
 	},
@@ -12945,7 +13146,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its subway",
 		"from": "terestai",
 		"to": "its:subway",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1448,
 		"time_max": 1610
 	},
@@ -12953,7 +13156,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia its bayloop",
 		"from": "terestai",
 		"to": "its:bayloop",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1450,
 		"time_max": 1612
 	},
@@ -13105,7 +13310,9 @@
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "lriln'kriavnya",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2301,
 		"time_max": 2487
 	},
@@ -13452,8 +13659,8 @@
 		"from": "lriln'kriavnya",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2627,
-		"time_max": 2983
+		"time_min": 2163,
+		"time_max": 2417
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -13787,7 +13994,9 @@
 		"dest": "canvasblue j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "canvasblue",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1485,
 		"time_max": 1683
 	},
@@ -14134,8 +14343,8 @@
 		"from": "canvasblue",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1232,
-		"time_max": 1393
+		"time_min": 768,
+		"time_max": 827
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia spqr",
@@ -14469,7 +14678,9 @@
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "ellen",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2536,
 		"time_max": 3172
 	},
@@ -14816,8 +15027,8 @@
 		"from": "ellen",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2862,
-		"time_max": 3668
+		"time_min": 2398,
+		"time_max": 3102
 	},
 	{
 		"dest": "ellen imc spqr",
@@ -15151,7 +15362,9 @@
 		"dest": "arrelani j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "arrelani",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 862,
 		"time_max": 1030
 	},
@@ -15494,12 +15707,12 @@
 		"time_max": 1202
 	},
 	{
-		"dest": "arrelani j:parr lenin_isle ponsportia j:pend j:piria genso:taozi old_sanctuary",
+		"dest": "arrelani j:parr j:nice j:pend j:piria genso:taozi old_sanctuary",
 		"from": "arrelani",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1530,
-		"time_max": 2006
+		"time_min": 913,
+		"time_max": 1199
 	},
 	{
 		"dest": "arrelani j:parr j:nice j:pend j:knot j:icegen icenia spqr",
@@ -15833,7 +16046,9 @@
 		"dest": "icenia:drippy icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:drippy",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1470,
 		"time_max": 1671
 	},
@@ -16180,8 +16395,8 @@
 		"from": "icenia:drippy",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1217,
-		"time_max": 1381
+		"time_min": 753,
+		"time_max": 815
 	},
 	{
 		"dest": "icenia:drippy icenia spqr",
@@ -16515,7 +16730,9 @@
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "hiyo'mek",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2045,
 		"time_max": 2201
 	},
@@ -16862,8 +17079,8 @@
 		"from": "hiyo'mek",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2371,
-		"time_max": 2697
+		"time_min": 1907,
+		"time_max": 2131
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen icenia spqr",
@@ -17197,7 +17414,9 @@
 		"dest": "icenia:atlantica icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:atlantica",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1483,
 		"time_max": 1694
 	},
@@ -17544,8 +17763,8 @@
 		"from": "icenia:atlantica",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1230,
-		"time_max": 1404
+		"time_min": 766,
+		"time_max": 838
 	},
 	{
 		"dest": "icenia:atlantica icenia spqr",
@@ -17879,7 +18098,9 @@
 		"dest": "icenia:westisle icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:westisle",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1464,
 		"time_max": 1674
 	},
@@ -18226,8 +18447,8 @@
 		"from": "icenia:westisle",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1211,
-		"time_max": 1384
+		"time_min": 747,
+		"time_max": 818
 	},
 	{
 		"dest": "icenia:westisle icenia spqr",
@@ -18561,7 +18782,9 @@
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "il'olmhir",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2242,
 		"time_max": 2423
 	},
@@ -18908,8 +19131,8 @@
 		"from": "il'olmhir",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2568,
-		"time_max": 2919
+		"time_min": 2104,
+		"time_max": 2353
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -19243,7 +19466,9 @@
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "ozonrough",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2129,
 		"time_max": 2295
 	},
@@ -19590,8 +19815,8 @@
 		"from": "ozonrough",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2455,
-		"time_max": 2791
+		"time_min": 1991,
+		"time_max": 2225
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen icenia spqr",
@@ -19925,7 +20150,9 @@
 		"dest": "coventhia genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "coventhia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1981,
 		"time_max": 2587
 	},
@@ -20272,8 +20499,8 @@
 		"from": "coventhia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1417,
-		"time_max": 1825
+		"time_min": 953,
+		"time_max": 1259
 	},
 	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -20607,7 +20834,9 @@
 		"dest": "alpoko icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "alpoko",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1643,
 		"time_max": 1845
 	},
@@ -20954,8 +21183,8 @@
 		"from": "alpoko",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1390,
-		"time_max": 1555
+		"time_min": 926,
+		"time_max": 989
 	},
 	{
 		"dest": "alpoko icenia spqr",
@@ -21289,7 +21518,9 @@
 		"dest": "it:anburon icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "it:anburon",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1539,
 		"time_max": 1774
 	},
@@ -21636,8 +21867,8 @@
 		"from": "it:anburon",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1286,
-		"time_max": 1484
+		"time_min": 822,
+		"time_max": 918
 	},
 	{
 		"dest": "it:anburon icenia spqr",
@@ -21971,7 +22202,9 @@
 		"dest": "varkonia icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "varkonia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1833,
 		"time_max": 2149
 	},
@@ -22318,8 +22551,8 @@
 		"from": "varkonia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1580,
-		"time_max": 1859
+		"time_min": 1116,
+		"time_max": 1293
 	},
 	{
 		"dest": "varkonia spqr",
@@ -22653,7 +22886,9 @@
 		"dest": "westminster 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "westminster",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2136,
 		"time_max": 2723
 	},
@@ -23000,8 +23235,8 @@
 		"from": "westminster",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2462,
-		"time_max": 3219
+		"time_min": 1998,
+		"time_max": 2653
 	},
 	{
 		"dest": "westminster imc spqr",
@@ -23335,7 +23570,9 @@
 		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "iria:desert",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2910,
 		"time_max": 3335
 	},
@@ -23682,8 +23919,8 @@
 		"from": "iria:desert",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2346,
-		"time_max": 2573
+		"time_min": 1882,
+		"time_max": 2007
 	},
 	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -24017,7 +24254,9 @@
 		"dest": "genso:shiranui genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "genso:shiranui",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1262,
 		"time_max": 1617
 	},
@@ -24364,8 +24603,8 @@
 		"from": "genso:shiranui",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 698,
-		"time_max": 855
+		"time_min": 234,
+		"time_max": 289
 	},
 	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -24699,7 +24938,9 @@
 		"dest": "pripyat j:tuff terestai",
 		"from": "pripyat",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 618,
 		"time_max": 619
 	},
@@ -25046,8 +25287,8 @@
 		"from": "pripyat",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1698,
-		"time_max": 2177
+		"time_min": 1234,
+		"time_max": 1611
 	},
 	{
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
@@ -25381,7 +25622,9 @@
 		"dest": "netherfarm j:knot j:pend ponsportia j:tuff terestai",
 		"from": "netherfarm",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1085,
 		"time_max": 1239
 	},
@@ -25728,8 +25971,8 @@
 		"from": "netherfarm",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1411,
-		"time_max": 1735
+		"time_min": 947,
+		"time_max": 1169
 	},
 	{
 		"dest": "netherfarm j:knot j:icegen icenia spqr",
@@ -26063,7 +26306,9 @@
 		"dest": "icenia:potato icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:potato",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1488,
 		"time_max": 1684
 	},
@@ -26410,8 +26655,8 @@
 		"from": "icenia:potato",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1235,
-		"time_max": 1394
+		"time_min": 771,
+		"time_max": 828
 	},
 	{
 		"dest": "icenia:potato icenia spqr",
@@ -26745,7 +26990,9 @@
 		"dest": "aurum:cactus j:piria j:pend ponsportia j:tuff terestai",
 		"from": "aurum:cactus",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 969,
 		"time_max": 1203
 	},
@@ -27092,8 +27339,8 @@
 		"from": "aurum:cactus",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1037,
-		"time_max": 1333
+		"time_min": 573,
+		"time_max": 767
 	},
 	{
 		"dest": "aurum:cactus j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -27427,7 +27674,9 @@
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "caledonia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1421,
 		"time_max": 1588
 	},
@@ -27774,8 +28023,8 @@
 		"from": "caledonia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1902,
-		"time_max": 2289
+		"time_min": 1438,
+		"time_max": 1723
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia spqr",
@@ -28109,7 +28358,9 @@
 		"dest": "sig j:gensig j:icegen j:knot j:pend ponsportia j:tuff terestai",
 		"from": "sig",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1411,
 		"time_max": 1572
 	},
@@ -28456,8 +28707,8 @@
 		"from": "sig",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 836,
-		"time_max": 1059
+		"time_min": 372,
+		"time_max": 493
 	},
 	{
 		"dest": "sig genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -28791,7 +29042,9 @@
 		"dest": "alexandria j:palex j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "alexandria",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2030,
 		"time_max": 2185
 	},
@@ -29138,8 +29391,8 @@
 		"from": "alexandria",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2356,
-		"time_max": 2681
+		"time_min": 1892,
+		"time_max": 2115
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot j:icegen icenia spqr",
@@ -29473,7 +29726,9 @@
 		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "gondolin",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2210,
 		"time_max": 2803
 	},
@@ -29820,8 +30075,8 @@
 		"from": "gondolin",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1646,
-		"time_max": 2041
+		"time_min": 1182,
+		"time_max": 1475
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -30155,7 +30410,9 @@
 		"dest": "lambat j:piria j:pend ponsportia j:tuff terestai",
 		"from": "lambat",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1374,
 		"time_max": 1661
 	},
@@ -30502,8 +30759,8 @@
 		"from": "lambat",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1442,
-		"time_max": 1791
+		"time_min": 978,
+		"time_max": 1225
 	},
 	{
 		"dest": "lambat j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -30837,7 +31094,9 @@
 		"dest": "aurum j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "aurum",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 779,
 		"time_max": 906
 	},
@@ -31184,8 +31443,8 @@
 		"from": "aurum",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1012,
-		"time_max": 1286
+		"time_min": 548,
+		"time_max": 720
 	},
 	{
 		"dest": "aurum j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -31519,7 +31778,9 @@
 		"dest": "new_sovia j:piria j:pend ponsportia j:tuff terestai",
 		"from": "new_sovia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1567,
 		"time_max": 1836
 	},
@@ -31866,8 +32127,8 @@
 		"from": "new_sovia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1635,
-		"time_max": 1966
+		"time_min": 1171,
+		"time_max": 1400
 	},
 	{
 		"dest": "new_sovia j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -32201,7 +32462,9 @@
 		"dest": "pacem j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "pacem",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2324,
 		"time_max": 2487
 	},
@@ -32548,8 +32811,8 @@
 		"from": "pacem",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2650,
-		"time_max": 2983
+		"time_min": 2186,
+		"time_max": 2417
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot j:icegen icenia spqr",
@@ -32883,7 +33146,9 @@
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "genso:farms",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1800,
 		"time_max": 2142
 	},
@@ -33230,8 +33495,8 @@
 		"from": "genso:farms",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1236,
-		"time_max": 1380
+		"time_min": 772,
+		"time_max": 814
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -33565,7 +33830,9 @@
 		"dest": "kallos icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "kallos",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2099,
 		"time_max": 2424
 	},
@@ -33912,8 +34179,8 @@
 		"from": "kallos",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1846,
-		"time_max": 2134
+		"time_min": 1382,
+		"time_max": 1568
 	},
 	{
 		"dest": "kallos spqr",
@@ -34247,7 +34514,9 @@
 		"dest": "wayrest j:knot j:pend ponsportia j:tuff terestai",
 		"from": "wayrest",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1107,
 		"time_max": 1277
 	},
@@ -34594,8 +34863,8 @@
 		"from": "wayrest",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1433,
-		"time_max": 1773
+		"time_min": 969,
+		"time_max": 1207
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia icenia spqr",
@@ -34929,7 +35198,9 @@
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "iria:jungle",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 3398,
 		"time_max": 3862
 	},
@@ -35276,8 +35547,8 @@
 		"from": "iria:jungle",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2834,
-		"time_max": 3100
+		"time_min": 2370,
+		"time_max": 2534
 	},
 	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen icenia spqr",
@@ -35611,7 +35882,9 @@
 		"dest": "hjaltland j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "hjaltland",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2644,
 		"time_max": 2911
 	},
@@ -35958,8 +36231,8 @@
 		"from": "hjaltland",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2970,
-		"time_max": 3407
+		"time_min": 2506,
+		"time_max": 2841
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:icegen icenia spqr",
@@ -36293,7 +36566,9 @@
 		"dest": "bloom icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "bloom",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1559,
 		"time_max": 1796
 	},
@@ -36640,8 +36915,8 @@
 		"from": "bloom",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1076,
-		"time_max": 1273
+		"time_min": 612,
+		"time_max": 707
 	},
 	{
 		"dest": "bloom imc spqr",
@@ -36975,7 +37250,9 @@
 		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "tvtopia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1504,
 		"time_max": 1928
 	},
@@ -37322,8 +37599,8 @@
 		"from": "tvtopia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 940,
-		"time_max": 1166
+		"time_min": 476,
+		"time_max": 600
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia spqr",
@@ -37657,7 +37934,9 @@
 		"dest": "wnsta j:cabalwest icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "wnsta",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1435,
 		"time_max": 1631
 	},
@@ -38004,8 +38283,8 @@
 		"from": "wnsta",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1182,
-		"time_max": 1341
+		"time_min": 718,
+		"time_max": 775
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia spqr",
@@ -38339,7 +38618,9 @@
 		"dest": "crowsroost genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "crowsroost",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1496,
 		"time_max": 1948
 	},
@@ -38686,8 +38967,8 @@
 		"from": "crowsroost",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 932,
-		"time_max": 1186
+		"time_min": 468,
+		"time_max": 620
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -39021,7 +39302,9 @@
 		"dest": "gabon j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "gabon",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1575,
 		"time_max": 1871
 	},
@@ -39364,12 +39647,12 @@
 		"time_max": 448
 	},
 	{
-		"dest": "gabon j:picenia 0,0 j:knot j:pend j:piria genso:taozi old_sanctuary",
+		"dest": "gabon j:gntv genso:roe genso:taozi old_sanctuary",
 		"from": "gabon",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1901,
-		"time_max": 2367
+		"time_min": 777,
+		"time_max": 1015
 	},
 	{
 		"dest": "gabon icenia spqr",
@@ -39703,7 +39986,9 @@
 		"dest": "carson j:tuff terestai",
 		"from": "carson",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 448,
 		"time_max": 451
 	},
@@ -40050,8 +40335,8 @@
 		"from": "carson",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1528,
-		"time_max": 2009
+		"time_min": 1064,
+		"time_max": 1443
 	},
 	{
 		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia spqr",
@@ -40422,6 +40707,7 @@
 		"from": "mts",
 		"to": "terestai",
 		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat",
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
 		"time_min": 1771,
@@ -40854,8 +41140,8 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2097,
-		"time_max": 2592
+		"time_min": 1633,
+		"time_max": 2026
 	},
 	{
 		"dest": "mts imc spqr",
@@ -41235,7 +41521,9 @@
 		"dest": "icenia:nether icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "icenia:nether",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1525,
 		"time_max": 1743
 	},
@@ -41582,8 +41870,8 @@
 		"from": "icenia:nether",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1272,
-		"time_max": 1453
+		"time_min": 808,
+		"time_max": 887
 	},
 	{
 		"dest": "icenia:nether icenia spqr",
@@ -41774,472 +42062,474 @@
 		"from": "old_sanctuary",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 632,
-		"time_max": 772
+		"time_min": 168,
+		"time_max": 206
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "old_sanctuary",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2517,
-		"time_max": 2862
+		"time_min": 2053,
+		"time_max": 2296
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia j:picenia j:pmts imc imc:exit",
 		"from": "old_sanctuary",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2291,
-		"time_max": 2767
+		"time_min": 1827,
+		"time_max": 2201
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "old_sanctuary",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2588,
-		"time_max": 2933
+		"time_min": 2124,
+		"time_max": 2367
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen j:knot 0,0 0,0:exit",
 		"from": "old_sanctuary",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 1116,
-		"time_max": 1259
+		"time_min": 652,
+		"time_max": 693
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe genso:roe:exit",
 		"from": "old_sanctuary",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 745,
-		"time_max": 910
+		"time_min": 281,
+		"time_max": 344
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:coe:south coe coe:exit",
 		"from": "old_sanctuary",
 		"to": "coe",
 		"advisory": {},
-		"time_min": 1066,
-		"time_max": 1229
+		"time_min": 602,
+		"time_max": 663
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "old_sanctuary",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2201,
-		"time_max": 2369
+		"time_min": 1737,
+		"time_max": 1803
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia lenin_isle lenin_isle:exit",
 		"from": "old_sanctuary",
 		"to": "lenin_isle",
 		"advisory": {},
-		"time_min": 1297,
-		"time_max": 1710
+		"time_min": 833,
+		"time_max": 1144
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "old_sanctuary",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1182,
-		"time_max": 1351
+		"time_min": 718,
+		"time_max": 785
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia ponsportia:exit",
 		"from": "old_sanctuary",
 		"to": "ponsportia",
 		"advisory": {},
-		"time_min": 1248,
-		"time_max": 1641
+		"time_min": 784,
+		"time_max": 1075
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "old_sanctuary",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 2168,
-		"time_max": 2504
+		"time_min": 1704,
+		"time_max": 1938
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
 		"from": "old_sanctuary",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1281,
-		"time_max": 1477
+		"time_min": 817,
+		"time_max": 911
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "old_sanctuary",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2639,
-		"time_max": 2837
+		"time_min": 2175,
+		"time_max": 2271
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:cabaleast lord",
 		"from": "old_sanctuary",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1269,
-		"time_max": 1454
+		"time_min": 805,
+		"time_max": 888
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "old_sanctuary",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2548,
-		"time_max": 2893
+		"time_min": 2084,
+		"time_max": 2327
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "old_sanctuary",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2625,
-		"time_max": 2978
+		"time_min": 2161,
+		"time_max": 2412
 	},
 	{
 		"dest": "old_sanctuary genso:taozi nyasaland",
 		"from": "old_sanctuary",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 1025,
-		"time_max": 1302
+		"time_min": 561,
+		"time_max": 736
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "old_sanctuary",
 		"to": "terestai",
-		"advisory": {},
-		"time_min": 1828,
-		"time_max": 2306
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
+		"time_min": 1364,
+		"time_max": 1740
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "old_sanctuary",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2627,
-		"time_max": 2983
+		"time_min": 2163,
+		"time_max": 2417
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest mta canvasblue",
 		"from": "old_sanctuary",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1267,
-		"time_max": 1451
+		"time_min": 803,
+		"time_max": 885
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia j:picenia j:pmts ellen",
 		"from": "old_sanctuary",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2649,
-		"time_max": 3306
+		"time_min": 2185,
+		"time_max": 2740
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia lenin_isle j:parr arrelani",
 		"from": "old_sanctuary",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 1530,
-		"time_max": 2006
+		"time_min": 1066,
+		"time_max": 1440
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:drippy",
 		"from": "old_sanctuary",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1252,
-		"time_max": 1439
+		"time_min": 788,
+		"time_max": 873
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "old_sanctuary",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 2371,
-		"time_max": 2697
+		"time_min": 1907,
+		"time_max": 2131
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:atlantica",
 		"from": "old_sanctuary",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1265,
-		"time_max": 1462
+		"time_min": 801,
+		"time_max": 896
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
 		"from": "old_sanctuary",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1246,
-		"time_max": 1442
+		"time_min": 782,
+		"time_max": 876
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "old_sanctuary",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2568,
-		"time_max": 2919
+		"time_min": 2104,
+		"time_max": 2353
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "old_sanctuary",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 2455,
-		"time_max": 2791
+		"time_min": 1991,
+		"time_max": 2225
 	},
 	{
 		"dest": "old_sanctuary genso:taozi coventhia",
 		"from": "old_sanctuary",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 1417,
-		"time_max": 1825
+		"time_min": 953,
+		"time_max": 1259
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia alpoko",
 		"from": "old_sanctuary",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1425,
-		"time_max": 1613
+		"time_min": 961,
+		"time_max": 1047
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia it:anburon",
 		"from": "old_sanctuary",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1286,
-		"time_max": 1484
+		"time_min": 822,
+		"time_max": 918
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia varkonia",
 		"from": "old_sanctuary",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 1615,
-		"time_max": 1917
+		"time_min": 1151,
+		"time_max": 1351
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia westminster",
 		"from": "old_sanctuary",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 2212,
-		"time_max": 2793
+		"time_min": 1748,
+		"time_max": 2227
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "old_sanctuary",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2346,
-		"time_max": 2573
+		"time_min": 1882,
+		"time_max": 2007
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:shiranui",
 		"from": "old_sanctuary",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 698,
-		"time_max": 855
+		"time_min": 234,
+		"time_max": 289
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "old_sanctuary",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1698,
-		"time_max": 2177
+		"time_min": 1234,
+		"time_max": 1611
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen j:knot netherfarm",
 		"from": "old_sanctuary",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 1160,
-		"time_max": 1303
+		"time_min": 696,
+		"time_max": 737
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:potato",
 		"from": "old_sanctuary",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1270,
-		"time_max": 1452
+		"time_min": 806,
+		"time_max": 886
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria aurum:cactus",
 		"from": "old_sanctuary",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 1037,
-		"time_max": 1333
+		"time_min": 573,
+		"time_max": 767
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "old_sanctuary",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 1902,
-		"time_max": 2289
+		"time_min": 1438,
+		"time_max": 1723
 	},
 	{
 		"dest": "old_sanctuary genso:taozi sig",
 		"from": "old_sanctuary",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 836,
-		"time_max": 1059
+		"time_min": 372,
+		"time_max": 493
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:palex alexandria",
 		"from": "old_sanctuary",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 2356,
-		"time_max": 2681
+		"time_min": 1892,
+		"time_max": 2115
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "old_sanctuary",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1646,
-		"time_max": 2041
+		"time_min": 1182,
+		"time_max": 1475
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria lambat",
 		"from": "old_sanctuary",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1442,
-		"time_max": 1791
+		"time_min": 978,
+		"time_max": 1225
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria aurum",
 		"from": "old_sanctuary",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 1012,
-		"time_max": 1286
+		"time_min": 548,
+		"time_max": 720
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria new_sovia",
 		"from": "old_sanctuary",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1635,
-		"time_max": 1966
+		"time_min": 1171,
+		"time_max": 1400
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:pp pacem",
 		"from": "old_sanctuary",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2650,
-		"time_max": 2983
+		"time_min": 2186,
+		"time_max": 2417
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:farms",
 		"from": "old_sanctuary",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1236,
-		"time_max": 1380
+		"time_min": 772,
+		"time_max": 814
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia kallos",
 		"from": "old_sanctuary",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 1881,
-		"time_max": 2192
+		"time_min": 1417,
+		"time_max": 1626
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen j:knot wayrest",
 		"from": "old_sanctuary",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 1182,
-		"time_max": 1341
+		"time_min": 718,
+		"time_max": 775
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "old_sanctuary",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 2834,
-		"time_max": 3100
+		"time_min": 2370,
+		"time_max": 2534
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen j:knot j:pnro j:pp hjaltland",
 		"from": "old_sanctuary",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2719,
-		"time_max": 2975
+		"time_min": 2255,
+		"time_max": 2409
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe bloom",
 		"from": "old_sanctuary",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1076,
-		"time_max": 1273
+		"time_min": 612,
+		"time_max": 707
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:gntv tvtopia",
 		"from": "old_sanctuary",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 940,
-		"time_max": 1166
+		"time_min": 476,
+		"time_max": 600
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest wnsta",
 		"from": "old_sanctuary",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1217,
-		"time_max": 1399
+		"time_min": 753,
+		"time_max": 833
 	},
 	{
 		"dest": "old_sanctuary genso:taozi crowsroost",
 		"from": "old_sanctuary",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 932,
-		"time_max": 1186
+		"time_min": 468,
+		"time_max": 620
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:gntv gabon",
 		"from": "old_sanctuary",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1241,
-		"time_max": 1581
+		"time_min": 777,
+		"time_max": 1015
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "old_sanctuary",
 		"to": "carson",
 		"advisory": {},
-		"time_min": 1528,
-		"time_max": 2009
+		"time_min": 1064,
+		"time_max": 1443
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -42248,16 +42538,16 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1884,
-		"time_max": 2230
+		"time_min": 1420,
+		"time_max": 1664
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:nether",
 		"from": "old_sanctuary",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1307,
-		"time_max": 1511
+		"time_min": 843,
+		"time_max": 945
 	},
 	{
 		"dest": "old_sanctuary",
@@ -42272,184 +42562,184 @@
 		"from": "old_sanctuary",
 		"to": "spqr",
 		"advisory": {},
-		"time_min": 2434,
-		"time_max": 3026
+		"time_min": 1970,
+		"time_max": 2460
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:pp fortuna",
 		"from": "old_sanctuary",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 3236,
-		"time_max": 3700
+		"time_min": 2772,
+		"time_max": 3134
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe genso:centi",
 		"from": "old_sanctuary",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 785,
-		"time_max": 956
+		"time_min": 321,
+		"time_max": 390
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot vinland",
 		"from": "old_sanctuary",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 2144,
-		"time_max": 2473
+		"time_min": 1680,
+		"time_max": 1907
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:pp forta'are",
 		"from": "old_sanctuary",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2609,
-		"time_max": 2945
+		"time_min": 2145,
+		"time_max": 2379
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria appomattox",
 		"from": "old_sanctuary",
 		"to": "appomattox",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1961
+		"time_min": 1051,
+		"time_max": 1395
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:gensig j:icegen icenia mta",
 		"from": "old_sanctuary",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 1984,
-		"time_max": 2474
+		"time_min": 1520,
+		"time_max": 1908
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "old_sanctuary",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2612,
-		"time_max": 2967
+		"time_min": 2148,
+		"time_max": 2401
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "old_sanctuary",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2500,
-		"time_max": 2838
+		"time_min": 2036,
+		"time_max": 2272
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend endportal",
 		"from": "old_sanctuary",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 1128,
-		"time_max": 1452
+		"time_min": 664,
+		"time_max": 886
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj besia",
 		"from": "old_sanctuary",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1733,
-		"time_max": 2064
+		"time_min": 1269,
+		"time_max": 1498
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria j:pend j:nice j:ppcc cape_cocoa",
 		"from": "old_sanctuary",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 1350,
-		"time_max": 1675
+		"time_min": 886,
+		"time_max": 1109
 	},
 	{
 		"dest": "old_sanctuary genso:taozi j:piria iria",
 		"from": "old_sanctuary",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 1910,
-		"time_max": 2180
+		"time_min": 1446,
+		"time_max": 1614
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its qbipfb",
 		"from": "old_sanctuary",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1223,
-		"time_max": 1404
+		"time_min": 759,
+		"time_max": 838
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its versailles",
 		"from": "old_sanctuary",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1213,
-		"time_max": 1387
+		"time_min": 749,
+		"time_max": 821
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its iceniapark",
 		"from": "old_sanctuary",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1203,
-		"time_max": 1376
+		"time_min": 739,
+		"time_max": 810
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its skybunker",
 		"from": "old_sanctuary",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1215,
-		"time_max": 1391
+		"time_min": 751,
+		"time_max": 825
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its hji",
 		"from": "old_sanctuary",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1216,
-		"time_max": 1395
+		"time_min": 752,
+		"time_max": 829
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its adytum",
 		"from": "old_sanctuary",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1249,
-		"time_max": 1435
+		"time_min": 785,
+		"time_max": 869
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its office",
 		"from": "old_sanctuary",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1208,
-		"time_max": 1381
+		"time_min": 744,
+		"time_max": 815
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its beach",
 		"from": "old_sanctuary",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1209,
-		"time_max": 1384
+		"time_min": 745,
+		"time_max": 818
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its subway",
 		"from": "old_sanctuary",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1206,
-		"time_max": 1380
+		"time_min": 742,
+		"time_max": 814
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia its bayloop",
 		"from": "old_sanctuary",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1208,
-		"time_max": 1382
+		"time_min": 744,
+		"time_max": 816
 	},
 	{
 		"dest": "spqr icenia j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
@@ -42599,7 +42889,9 @@
 		"dest": "spqr icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "spqr",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2652,
 		"time_max": 3258
 	},
@@ -42946,8 +43238,8 @@
 		"from": "spqr",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2399,
-		"time_max": 2968
+		"time_min": 1935,
+		"time_max": 2402
 	},
 	{
 		"dest": "spqr",
@@ -43281,7 +43573,9 @@
 		"dest": "fortuna j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "fortuna",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2910,
 		"time_max": 3204
 	},
@@ -43628,8 +43922,8 @@
 		"from": "fortuna",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 3236,
-		"time_max": 3700
+		"time_min": 2772,
+		"time_max": 3134
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot j:icegen icenia spqr",
@@ -43963,7 +44257,9 @@
 		"dest": "genso:centi genso:roe genso:taozi j:piria j:pend ponsportia j:tuff terestai",
 		"from": "genso:centi",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1349,
 		"time_max": 1718
 	},
@@ -44310,8 +44606,8 @@
 		"from": "genso:centi",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 785,
-		"time_max": 956
+		"time_min": 321,
+		"time_max": 390
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia spqr",
@@ -44645,7 +44941,9 @@
 		"dest": "vinland j:knot j:pend ponsportia j:tuff terestai",
 		"from": "vinland",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1818,
 		"time_max": 1977
 	},
@@ -44992,8 +45290,8 @@
 		"from": "vinland",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2144,
-		"time_max": 2473
+		"time_min": 1680,
+		"time_max": 1907
 	},
 	{
 		"dest": "vinland icenia spqr",
@@ -45327,7 +45625,9 @@
 		"dest": "forta'are j:pp j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "forta'are",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2283,
 		"time_max": 2449
 	},
@@ -45674,8 +45974,8 @@
 		"from": "forta'are",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2609,
-		"time_max": 2945
+		"time_min": 2145,
+		"time_max": 2379
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot j:icegen icenia spqr",
@@ -46009,7 +46309,9 @@
 		"dest": "appomattox j:piria j:pend ponsportia j:tuff terestai",
 		"from": "appomattox",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1447,
 		"time_max": 1831
 	},
@@ -46356,8 +46658,8 @@
 		"from": "appomattox",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1961
+		"time_min": 1051,
+		"time_max": 1395
 	},
 	{
 		"dest": "appomattox j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -46691,7 +46993,9 @@
 		"dest": "mta 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "mta",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1958,
 		"time_max": 2403
 	},
@@ -47038,8 +47342,8 @@
 		"from": "mta",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2284,
-		"time_max": 2899
+		"time_min": 1820,
+		"time_max": 2333
 	},
 	{
 		"dest": "mta spqr",
@@ -47373,7 +47677,9 @@
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "socalist_ruler",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2286,
 		"time_max": 2471
 	},
@@ -47720,8 +48026,8 @@
 		"from": "socalist_ruler",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2612,
-		"time_max": 2967
+		"time_min": 2148,
+		"time_max": 2401
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -48055,7 +48361,9 @@
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend ponsportia j:tuff terestai",
 		"from": "jevoghnya",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 2174,
 		"time_max": 2342
 	},
@@ -48402,8 +48710,8 @@
 		"from": "jevoghnya",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 2500,
-		"time_max": 2838
+		"time_min": 2036,
+		"time_max": 2272
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen icenia spqr",
@@ -48737,7 +49045,9 @@
 		"dest": "endportal j:pend ponsportia j:tuff terestai",
 		"from": "endportal",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 802,
 		"time_max": 956
 	},
@@ -49084,8 +49394,8 @@
 		"from": "endportal",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1128,
-		"time_max": 1452
+		"time_min": 664,
+		"time_max": 886
 	},
 	{
 		"dest": "endportal j:pend j:knot j:icegen icenia spqr",
@@ -49419,7 +49729,9 @@
 		"dest": "besia j:pbnj j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "besia",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1252,
 		"time_max": 1363
 	},
@@ -49766,8 +50078,8 @@
 		"from": "besia",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1733,
-		"time_max": 2064
+		"time_min": 1269,
+		"time_max": 1498
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia spqr",
@@ -50101,7 +50413,9 @@
 		"dest": "cape_cocoa j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "cape_cocoa",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 869,
 		"time_max": 974
 	},
@@ -50448,8 +50762,8 @@
 		"from": "cape_cocoa",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1350,
-		"time_max": 1675
+		"time_min": 886,
+		"time_max": 1109
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen icenia spqr",
@@ -50783,7 +51097,9 @@
 		"dest": "iria j:piria j:pend ponsportia j:tuff terestai",
 		"from": "iria",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1842,
 		"time_max": 2050
 	},
@@ -51130,8 +51446,8 @@
 		"from": "iria",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1910,
-		"time_max": 2180
+		"time_min": 1446,
+		"time_max": 1614
 	},
 	{
 		"dest": "iria j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
@@ -51465,7 +51781,9 @@
 		"dest": "its:qbipfb j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:qbipfb",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1441,
 		"time_max": 1636
 	},
@@ -51812,8 +52130,8 @@
 		"from": "its:qbipfb",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1188,
-		"time_max": 1346
+		"time_min": 724,
+		"time_max": 780
 	},
 	{
 		"dest": "its:qbipfb j:its icenia spqr",
@@ -52147,7 +52465,9 @@
 		"dest": "its:versailles j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:versailles",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1431,
 		"time_max": 1619
 	},
@@ -52494,8 +52814,8 @@
 		"from": "its:versailles",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1178,
-		"time_max": 1329
+		"time_min": 714,
+		"time_max": 763
 	},
 	{
 		"dest": "its:versailles j:its icenia spqr",
@@ -52829,7 +53149,9 @@
 		"dest": "its:iceniapark j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:iceniapark",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1421,
 		"time_max": 1608
 	},
@@ -53176,8 +53498,8 @@
 		"from": "its:iceniapark",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1168,
-		"time_max": 1318
+		"time_min": 704,
+		"time_max": 752
 	},
 	{
 		"dest": "its:iceniapark j:its icenia spqr",
@@ -53511,7 +53833,9 @@
 		"dest": "its:skybunker j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:skybunker",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1433,
 		"time_max": 1623
 	},
@@ -53858,8 +54182,8 @@
 		"from": "its:skybunker",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1180,
-		"time_max": 1333
+		"time_min": 716,
+		"time_max": 767
 	},
 	{
 		"dest": "its:skybunker j:its icenia spqr",
@@ -54193,7 +54517,9 @@
 		"dest": "its:hji j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:hji",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1434,
 		"time_max": 1627
 	},
@@ -54540,8 +54866,8 @@
 		"from": "its:hji",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1181,
-		"time_max": 1337
+		"time_min": 717,
+		"time_max": 771
 	},
 	{
 		"dest": "its:hji j:its icenia spqr",
@@ -54875,7 +55201,9 @@
 		"dest": "its:adytum j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:adytum",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1467,
 		"time_max": 1667
 	},
@@ -55222,8 +55550,8 @@
 		"from": "its:adytum",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1214,
-		"time_max": 1377
+		"time_min": 750,
+		"time_max": 811
 	},
 	{
 		"dest": "its:adytum j:its icenia spqr",
@@ -55557,7 +55885,9 @@
 		"dest": "its:office j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:office",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1426,
 		"time_max": 1613
 	},
@@ -55904,8 +56234,8 @@
 		"from": "its:office",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1173,
-		"time_max": 1323
+		"time_min": 709,
+		"time_max": 757
 	},
 	{
 		"dest": "its:office j:its icenia spqr",
@@ -56239,7 +56569,9 @@
 		"dest": "its:beach j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:beach",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1427,
 		"time_max": 1616
 	},
@@ -56586,8 +56918,8 @@
 		"from": "its:beach",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1174,
-		"time_max": 1326
+		"time_min": 710,
+		"time_max": 760
 	},
 	{
 		"dest": "its:beach j:its icenia spqr",
@@ -56921,7 +57253,9 @@
 		"dest": "its:subway j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:subway",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1424,
 		"time_max": 1612
 	},
@@ -57268,8 +57602,8 @@
 		"from": "its:subway",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1171,
-		"time_max": 1322
+		"time_min": 707,
+		"time_max": 756
 	},
 	{
 		"dest": "its:subway j:its icenia spqr",
@@ -57603,7 +57937,9 @@
 		"dest": "its:bayloop j:its icenia j:picenia 0,0 j:knot j:pend ponsportia j:tuff terestai",
 		"from": "its:bayloop",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
 		"time_min": 1426,
 		"time_max": 1614
 	},
@@ -57950,8 +58286,8 @@
 		"from": "its:bayloop",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 1173,
-		"time_max": 1324
+		"time_min": 709,
+		"time_max": 758
 	},
 	{
 		"dest": "its:bayloop j:its icenia spqr",
