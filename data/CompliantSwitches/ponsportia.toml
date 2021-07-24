@@ -6,7 +6,6 @@ station = true
 
 links = [
  'j:pend',
+ 'j:tuff',
  'lenin_isle',
- 'carson',
- 'pripyat',
 ]

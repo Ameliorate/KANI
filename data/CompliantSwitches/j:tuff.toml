@@ -1,0 +1,13 @@
+x = 4224
+y = 12
+z = 2340
+
+switch = true
+
+links = [
+ 'ponsportia',
+ 'carson',
+ 'pripyat',
+ 'terestai',
+]
+ 
