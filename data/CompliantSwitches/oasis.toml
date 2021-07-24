@@ -1,0 +1,15 @@
+x = 7009
+y = 64
+z = -715
+
+station = true
+
+links = [
+ 'j:piria',
+ 'iria',
+ 'lambat',
+ 'appomattox',
+ 'new_sovia',
+#'pripyat',   # These are disabled because the rail has some weird switches, and places that need more switches installed.
+#'threepton',
+]
