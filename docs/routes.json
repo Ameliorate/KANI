@@ -80,6 +80,14 @@
 		"time_max": 938
 	},
 	{
+		"dest": "genso:taozi j:piria axiom axiom:exit",
+		"from": "genso:taozi",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 351,
+		"time_max": 481
+	},
+	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "genso:taozi",
 		"to": "icenia",
@@ -398,8 +406,8 @@
 		"from": "genso:taozi",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 604,
-		"time_max": 608
+		"time_min": 51,
+		"time_max": 55
 	},
 	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -772,6 +780,14 @@
 		"time_max": 1770
 	},
 	{
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "torndal",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1604,
+		"time_max": 1679
+	},
+	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "torndal",
 		"to": "icenia",
@@ -1086,12 +1102,12 @@
 		"time_max": 507
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "torndal",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2489,
-		"time_max": 2698
+		"time_min": 1685,
+		"time_max": 1713
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -1464,6 +1480,14 @@
 		"time_max": 2037
 	},
 	{
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "imc",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1591,
+		"time_max": 1946
+	},
+	{
 		"dest": "imc j:pmts j:picenia icenia icenia:exit",
 		"from": "imc",
 		"to": "icenia",
@@ -1778,12 +1802,12 @@
 		"time_max": 2826
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "imc",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2476,
-		"time_max": 2965
+		"time_min": 1672,
+		"time_max": 1980
 	},
 	{
 		"dest": "imc j:pmts j:pvark j:pkallos kallos",
@@ -2156,6 +2180,14 @@
 		"time_max": 1841
 	},
 	{
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "kro'ushro",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1675,
+		"time_max": 1750
+	},
+	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "kro'ushro",
 		"to": "icenia",
@@ -2470,12 +2502,12 @@
 		"time_max": 578
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "kro'ushro",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2560,
-		"time_max": 2769
+		"time_min": 1756,
+		"time_max": 1784
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -2848,6 +2880,14 @@
 		"time_max": 599
 	},
 	{
+		"dest": "0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "0,0",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 454,
+		"time_max": 508
+	},
+	{
 		"dest": "0,0 j:picenia icenia icenia:exit",
 		"from": "0,0",
 		"to": "icenia",
@@ -3162,12 +3202,12 @@
 		"time_max": 1388
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "0,0",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1339,
-		"time_max": 1527
+		"time_min": 535,
+		"time_max": 542
 	},
 	{
 		"dest": "0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -3540,6 +3580,14 @@
 		"time_max": 1076
 	},
 	{
+		"dest": "genso:roe genso:taozi j:piria axiom axiom:exit",
+		"from": "genso:roe",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 464,
+		"time_max": 619
+	},
+	{
 		"dest": "genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "genso:roe",
 		"to": "icenia",
@@ -3858,8 +3906,8 @@
 		"from": "genso:roe",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 717,
-		"time_max": 746
+		"time_min": 164,
+		"time_max": 193
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia kallos",
@@ -4232,6 +4280,14 @@
 		"time_max": 1395
 	},
 	{
+		"dest": "coe j:coe:south genso:taozi j:piria axiom axiom:exit",
+		"from": "coe",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 938
+	},
+	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "coe",
 		"to": "icenia",
@@ -4550,8 +4606,8 @@
 		"from": "coe",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1038,
-		"time_max": 1065
+		"time_min": 485,
+		"time_max": 512
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia kallos",
@@ -4924,6 +4980,14 @@
 		"time_max": 1000
 	},
 	{
+		"dest": "oasis j:piria axiom axiom:exit",
+		"from": "oasis",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 536,
+		"time_max": 543
+	},
+	{
 		"dest": "oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "oasis",
 		"to": "icenia",
@@ -5242,8 +5306,8 @@
 		"from": "oasis",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1421,
-		"time_max": 1562
+		"time_min": 868,
+		"time_max": 1009
 	},
 	{
 		"dest": "oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -5616,6 +5680,14 @@
 		"time_max": 2535
 	},
 	{
+		"dest": "savion j:coe:east coe j:coe:south genso:taozi j:piria axiom axiom:exit",
+		"from": "savion",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1920,
+		"time_max": 2078
+	},
+	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "savion",
 		"to": "icenia",
@@ -5934,8 +6006,8 @@
 		"from": "savion",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2173,
-		"time_max": 2205
+		"time_min": 1620,
+		"time_max": 1652
 	},
 	{
 		"dest": "savion j:coe:east coe j:coe:south j:uroe j:icegen icenia kallos",
@@ -6308,6 +6380,14 @@
 		"time_max": 0
 	},
 	{
+		"dest": "lenin_isle j:parr j:nice j:pend j:piria axiom axiom:exit",
+		"from": "lenin_isle",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 393,
+		"time_max": 448
+	},
+	{
 		"dest": "lenin_isle j:parr j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "lenin_isle",
 		"to": "icenia",
@@ -6622,12 +6702,12 @@
 		"time_max": 1891
 	},
 	{
-		"dest": "lenin_isle ponsportia j:pend j:piria genso:taozi genso:farms",
+		"dest": "lenin_isle j:parr j:nice j:pend j:piria genso:taozi genso:farms",
 		"from": "lenin_isle",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1269,
-		"time_max": 1546
+		"time_min": 725,
+		"time_max": 914
 	},
 	{
 		"dest": "lenin_isle ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -6920,6 +7000,706 @@
 		"time_max": 937
 	},
 	{
+		"dest": "axiom j:piria genso:taozi genso:taozi:exit",
+		"from": "axiom",
+		"to": "genso:taozi",
+		"advisory": {},
+		"time_min": 351,
+		"time_max": 481
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
+		"from": "axiom",
+		"to": "torndal",
+		"advisory": {},
+		"time_min": 1604,
+		"time_max": 1679
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
+		"from": "axiom",
+		"to": "imc",
+		"advisory": {},
+		"time_min": 1591,
+		"time_max": 1946
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
+		"from": "axiom",
+		"to": "kro'ushro",
+		"advisory": {},
+		"time_min": 1675,
+		"time_max": 1750
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 0,0:exit",
+		"from": "axiom",
+		"to": "0,0",
+		"advisory": {},
+		"time_min": 454,
+		"time_max": 508
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe genso:roe:exit",
+		"from": "axiom",
+		"to": "genso:roe",
+		"advisory": {},
+		"time_min": 464,
+		"time_max": 619
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:coe:south coe coe:exit",
+		"from": "axiom",
+		"to": "coe",
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 938
+	},
+	{
+		"dest": "axiom j:piria oasis oasis:exit",
+		"from": "axiom",
+		"to": "oasis",
+		"advisory": {},
+		"time_min": 536,
+		"time_max": 543
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:coe:south coe j:coe:east savion savion:exit",
+		"from": "axiom",
+		"to": "savion",
+		"advisory": {},
+		"time_min": 1920,
+		"time_max": 2078
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia lenin_isle lenin_isle:exit",
+		"from": "axiom",
+		"to": "lenin_isle",
+		"advisory": {},
+		"time_min": 384,
+		"time_max": 527
+	},
+	{
+		"dest": "axiom axiom:exit",
+		"from": "axiom",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 0,
+		"time_max": 0
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
+		"from": "axiom",
+		"to": "icenia",
+		"advisory": {},
+		"time_min": 901,
+		"time_max": 1060
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia ponsportia:exit",
+		"from": "axiom",
+		"to": "ponsportia",
+		"advisory": {},
+		"time_min": 335,
+		"time_max": 458
+	},
+	{
+		"dest": "axiom j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
+		"from": "axiom",
+		"to": "mir",
+		"advisory": {},
+		"time_min": 1255,
+		"time_max": 1321
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
+		"from": "axiom",
+		"to": "ssta",
+		"advisory": {},
+		"time_min": 1000,
+		"time_max": 1186
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia j:picenia j:pmts j:pvark j:pkallos hje",
+		"from": "axiom",
+		"to": "hje",
+		"advisory": {},
+		"time_min": 2358,
+		"time_max": 2546
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia j:cabaleast lord",
+		"from": "axiom",
+		"to": "icenia:lord",
+		"advisory": {},
+		"time_min": 988,
+		"time_max": 1163
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
+		"from": "axiom",
+		"to": "nro'meagh",
+		"advisory": {},
+		"time_min": 1635,
+		"time_max": 1710
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
+		"from": "axiom",
+		"to": "topha'nya",
+		"advisory": {},
+		"time_min": 1712,
+		"time_max": 1795
+	},
+	{
+		"dest": "axiom j:piria genso:taozi nyasaland",
+		"from": "axiom",
+		"to": "nyasaland",
+		"advisory": {},
+		"time_min": 744,
+		"time_max": 1011
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia j:tuff terestai",
+		"from": "axiom",
+		"to": "terestai",
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
+		"time_min": 915,
+		"time_max": 1123
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
+		"from": "axiom",
+		"to": "lriln'kriavnya",
+		"advisory": {},
+		"time_min": 1714,
+		"time_max": 1800
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest mta canvasblue",
+		"from": "axiom",
+		"to": "canvasblue",
+		"advisory": {},
+		"time_min": 986,
+		"time_max": 1160
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 j:picenia j:pmts ellen",
+		"from": "axiom",
+		"to": "ellen",
+		"advisory": {},
+		"time_min": 1949,
+		"time_max": 2485
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia lenin_isle j:parr arrelani",
+		"from": "axiom",
+		"to": "arrelani",
+		"advisory": {},
+		"time_min": 617,
+		"time_max": 823
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:drippy",
+		"from": "axiom",
+		"to": "icenia:drippy",
+		"advisory": {},
+		"time_min": 971,
+		"time_max": 1148
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
+		"from": "axiom",
+		"to": "hiyo'mek",
+		"advisory": {},
+		"time_min": 1458,
+		"time_max": 1514
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:atlantica",
+		"from": "axiom",
+		"to": "icenia:atlantica",
+		"advisory": {},
+		"time_min": 984,
+		"time_max": 1171
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
+		"from": "axiom",
+		"to": "icenia:westisle",
+		"advisory": {},
+		"time_min": 965,
+		"time_max": 1151
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
+		"from": "axiom",
+		"to": "il'olmhir",
+		"advisory": {},
+		"time_min": 1655,
+		"time_max": 1736
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
+		"from": "axiom",
+		"to": "ozonrough",
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1608
+	},
+	{
+		"dest": "axiom j:piria genso:taozi coventhia",
+		"from": "axiom",
+		"to": "coventhia",
+		"advisory": {},
+		"time_min": 1136,
+		"time_max": 1534
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia alpoko",
+		"from": "axiom",
+		"to": "alpoko",
+		"advisory": {},
+		"time_min": 1144,
+		"time_max": 1322
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:gensig j:icegen icenia it:anburon",
+		"from": "axiom",
+		"to": "it:anburon",
+		"advisory": {},
+		"time_min": 1005,
+		"time_max": 1193
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia varkonia",
+		"from": "axiom",
+		"to": "varkonia",
+		"advisory": {},
+		"time_min": 1334,
+		"time_max": 1626
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 westminster",
+		"from": "axiom",
+		"to": "westminster",
+		"advisory": {},
+		"time_min": 1549,
+		"time_max": 2036
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:coe:south coe j:coe:east savion iria:desert",
+		"from": "axiom",
+		"to": "iria:desert",
+		"advisory": {},
+		"time_min": 2065,
+		"time_max": 2282
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:shiranui",
+		"from": "axiom",
+		"to": "genso:shiranui",
+		"advisory": {},
+		"time_min": 417,
+		"time_max": 564
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia j:tuff pripyat",
+		"from": "axiom",
+		"to": "pripyat",
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 994
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot netherfarm",
+		"from": "axiom",
+		"to": "netherfarm",
+		"advisory": {},
+		"time_min": 498,
+		"time_max": 552
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:potato",
+		"from": "axiom",
+		"to": "icenia:potato",
+		"advisory": {},
+		"time_min": 989,
+		"time_max": 1161
+	},
+	{
+		"dest": "axiom j:piria aurum:cactus",
+		"from": "axiom",
+		"to": "aurum:cactus",
+		"advisory": {},
+		"time_min": 124,
+		"time_max": 150
+	},
+	{
+		"dest": "axiom j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
+		"from": "axiom",
+		"to": "caledonia",
+		"advisory": {},
+		"time_min": 989,
+		"time_max": 1106
+	},
+	{
+		"dest": "axiom j:piria genso:taozi sig",
+		"from": "axiom",
+		"to": "sig",
+		"advisory": {},
+		"time_min": 555,
+		"time_max": 768
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:palex alexandria",
+		"from": "axiom",
+		"to": "alexandria",
+		"advisory": {},
+		"time_min": 1443,
+		"time_max": 1498
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
+		"from": "axiom",
+		"to": "gondolin",
+		"advisory": {},
+		"time_min": 1365,
+		"time_max": 1750
+	},
+	{
+		"dest": "axiom j:piria oasis lambat",
+		"from": "axiom",
+		"to": "lambat",
+		"advisory": {},
+		"time_min": 630,
+		"time_max": 651
+	},
+	{
+		"dest": "axiom j:piria aurum",
+		"from": "axiom",
+		"to": "aurum",
+		"advisory": {},
+		"time_min": 99,
+		"time_max": 103
+	},
+	{
+		"dest": "axiom j:piria oasis new_sovia",
+		"from": "axiom",
+		"to": "new_sovia",
+		"advisory": {},
+		"time_min": 732,
+		"time_max": 797
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:pp pacem",
+		"from": "axiom",
+		"to": "pacem",
+		"advisory": {},
+		"time_min": 1737,
+		"time_max": 1800
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:farms",
+		"from": "axiom",
+		"to": "genso:farms",
+		"advisory": {},
+		"time_min": 402,
+		"time_max": 536
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
+		"from": "axiom",
+		"to": "kallos",
+		"advisory": {},
+		"time_min": 1600,
+		"time_max": 1901
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot wayrest",
+		"from": "axiom",
+		"to": "wayrest",
+		"advisory": {},
+		"time_min": 520,
+		"time_max": 590
+	},
+	{
+		"dest": "axiom j:piria genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
+		"from": "axiom",
+		"to": "iria:jungle",
+		"advisory": {},
+		"time_min": 2553,
+		"time_max": 2809
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:pp hjaltland",
+		"from": "axiom",
+		"to": "hjaltland",
+		"advisory": {},
+		"time_min": 2057,
+		"time_max": 2224
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe bloom",
+		"from": "axiom",
+		"to": "bloom",
+		"advisory": {},
+		"time_min": 795,
+		"time_max": 982
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:gntv tvtopia",
+		"from": "axiom",
+		"to": "tvtopia",
+		"advisory": {},
+		"time_min": 659,
+		"time_max": 875
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest wnsta",
+		"from": "axiom",
+		"to": "wnsta",
+		"advisory": {},
+		"time_min": 936,
+		"time_max": 1108
+	},
+	{
+		"dest": "axiom j:piria genso:taozi crowsroost",
+		"from": "axiom",
+		"to": "crowsroost",
+		"advisory": {},
+		"time_min": 651,
+		"time_max": 895
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:gntv gabon",
+		"from": "axiom",
+		"to": "gabon",
+		"advisory": {},
+		"time_min": 960,
+		"time_max": 1290
+	},
+	{
+		"dest": "axiom j:piria j:pend ponsportia j:tuff carson",
+		"from": "axiom",
+		"to": "carson",
+		"advisory": {},
+		"time_min": 615,
+		"time_max": 826
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 j:picenia j:pmts sept september",
+		"from": "axiom",
+		"to": "mts",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 1184,
+		"time_max": 1409
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:nether",
+		"from": "axiom",
+		"to": "icenia:nether",
+		"advisory": {},
+		"time_min": 1026,
+		"time_max": 1220
+	},
+	{
+		"dest": "axiom j:piria genso:taozi old_sanctuary",
+		"from": "axiom",
+		"to": "old_sanctuary",
+		"advisory": {},
+		"time_min": 519,
+		"time_max": 687
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia spqr",
+		"from": "axiom",
+		"to": "spqr",
+		"advisory": {},
+		"time_min": 2153,
+		"time_max": 2735
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:pp fortuna",
+		"from": "axiom",
+		"to": "fortuna",
+		"advisory": {},
+		"time_min": 2323,
+		"time_max": 2517
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe genso:centi",
+		"from": "axiom",
+		"to": "genso:centi",
+		"advisory": {},
+		"time_min": 504,
+		"time_max": 665
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot vinland",
+		"from": "axiom",
+		"to": "vinland",
+		"advisory": {},
+		"time_min": 1231,
+		"time_max": 1290
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:pp forta'are",
+		"from": "axiom",
+		"to": "forta'are",
+		"advisory": {},
+		"time_min": 1696,
+		"time_max": 1762
+	},
+	{
+		"dest": "axiom j:piria oasis appomattox",
+		"from": "axiom",
+		"to": "appomattox",
+		"advisory": {},
+		"time_min": 764,
+		"time_max": 792
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot 0,0 mta",
+		"from": "axiom",
+		"to": "mta",
+		"advisory": {},
+		"time_min": 1371,
+		"time_max": 1716
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
+		"from": "axiom",
+		"to": "socalist_ruler",
+		"advisory": {},
+		"time_min": 1699,
+		"time_max": 1784
+	},
+	{
+		"dest": "axiom j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
+		"from": "axiom",
+		"to": "jevoghnya",
+		"advisory": {},
+		"time_min": 1587,
+		"time_max": 1655
+	},
+	{
+		"dest": "axiom j:piria j:pend endportal",
+		"from": "axiom",
+		"to": "endportal",
+		"advisory": {},
+		"time_min": 215,
+		"time_max": 269
+	},
+	{
+		"dest": "axiom j:piria j:pend j:nice j:ppcc j:pbnj besia",
+		"from": "axiom",
+		"to": "besia",
+		"advisory": {},
+		"time_min": 820,
+		"time_max": 881
+	},
+	{
+		"dest": "axiom j:piria j:pend j:nice j:ppcc cape_cocoa",
+		"from": "axiom",
+		"to": "cape_cocoa",
+		"advisory": {},
+		"time_min": 437,
+		"time_max": 492
+	},
+	{
+		"dest": "axiom j:piria oasis iria",
+		"from": "axiom",
+		"to": "iria",
+		"advisory": {},
+		"time_min": 997,
+		"time_max": 1011
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its qbipfb",
+		"from": "axiom",
+		"to": "its:qbipfb",
+		"advisory": {},
+		"time_min": 942,
+		"time_max": 1113
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its versailles",
+		"from": "axiom",
+		"to": "its:versailles",
+		"advisory": {},
+		"time_min": 932,
+		"time_max": 1096
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its iceniapark",
+		"from": "axiom",
+		"to": "its:iceniapark",
+		"advisory": {},
+		"time_min": 922,
+		"time_max": 1085
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its skybunker",
+		"from": "axiom",
+		"to": "its:skybunker",
+		"advisory": {},
+		"time_min": 934,
+		"time_max": 1100
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its hji",
+		"from": "axiom",
+		"to": "its:hji",
+		"advisory": {},
+		"time_min": 935,
+		"time_max": 1104
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its adytum",
+		"from": "axiom",
+		"to": "its:adytum",
+		"advisory": {},
+		"time_min": 968,
+		"time_max": 1144
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its office",
+		"from": "axiom",
+		"to": "its:office",
+		"advisory": {},
+		"time_min": 927,
+		"time_max": 1090
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its beach",
+		"from": "axiom",
+		"to": "its:beach",
+		"advisory": {},
+		"time_min": 928,
+		"time_max": 1093
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its subway",
+		"from": "axiom",
+		"to": "its:subway",
+		"advisory": {},
+		"time_min": 925,
+		"time_max": 1089
+	},
+	{
+		"dest": "axiom j:piria genso:taozi genso:roe j:uroe j:icegen icenia its bayloop",
+		"from": "axiom",
+		"to": "its:bayloop",
+		"advisory": {},
+		"time_min": 927,
+		"time_max": 1091
+	},
+	{
 		"dest": "icenia j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
 		"from": "icenia",
 		"to": "genso:taozi",
@@ -6998,6 +7778,14 @@
 		"advisory": {},
 		"time_min": 893,
 		"time_max": 985
+	},
+	{
+		"dest": "icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 866,
+		"time_max": 1002
 	},
 	{
 		"dest": "icenia icenia:exit",
@@ -7318,8 +8106,8 @@
 		"from": "icenia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1119,
-		"time_max": 1129
+		"time_min": 566,
+		"time_max": 576
 	},
 	{
 		"dest": "icenia kallos",
@@ -7692,6 +8480,14 @@
 		"time_max": 69
 	},
 	{
+		"dest": "ponsportia j:pend j:piria axiom axiom:exit",
+		"from": "ponsportia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 335,
+		"time_max": 458
+	},
+	{
 		"dest": "ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "ponsportia",
 		"to": "icenia",
@@ -8010,8 +8806,8 @@
 		"from": "ponsportia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1220,
-		"time_max": 1477
+		"time_min": 667,
+		"time_max": 924
 	},
 	{
 		"dest": "ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -8384,6 +9180,14 @@
 		"time_max": 1069
 	},
 	{
+		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:piria axiom axiom:exit",
+		"from": "mir",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1255,
+		"time_max": 1321
+	},
+	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "mir",
 		"to": "icenia",
@@ -8702,8 +9506,8 @@
 		"from": "mir",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2140,
-		"time_max": 2340
+		"time_min": 1587,
+		"time_max": 1787
 	},
 	{
 		"dest": "mir j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -9076,6 +9880,14 @@
 		"time_max": 1111
 	},
 	{
+		"dest": "ssta j:cabalwest icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "ssta",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 965,
+		"time_max": 1128
+	},
+	{
 		"dest": "ssta j:cabalwest icenia icenia:exit",
 		"from": "ssta",
 		"to": "icenia",
@@ -9394,8 +10206,8 @@
 		"from": "ssta",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1218,
-		"time_max": 1255
+		"time_min": 665,
+		"time_max": 702
 	},
 	{
 		"dest": "ssta j:cabalwest icenia kallos",
@@ -9768,6 +10580,14 @@
 		"time_max": 2049
 	},
 	{
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "hje",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1904,
+		"time_max": 1958
+	},
+	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia icenia:exit",
 		"from": "hje",
 		"to": "icenia",
@@ -10082,12 +10902,12 @@
 		"time_max": 2838
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "hje",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2789,
-		"time_max": 2977
+		"time_min": 1985,
+		"time_max": 1992
 	},
 	{
 		"dest": "hje j:pkallos kallos",
@@ -10460,6 +11280,14 @@
 		"time_max": 1088
 	},
 	{
+		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:lord",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 953,
+		"time_max": 1105
+	},
+	{
 		"dest": "icenia:lord j:cabaleast icenia icenia:exit",
 		"from": "icenia:lord",
 		"to": "icenia",
@@ -10778,8 +11606,8 @@
 		"from": "icenia:lord",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1206,
-		"time_max": 1232
+		"time_min": 653,
+		"time_max": 679
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia kallos",
@@ -11152,6 +11980,14 @@
 		"time_max": 1801
 	},
 	{
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "nro'meagh",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1635,
+		"time_max": 1710
+	},
+	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "nro'meagh",
 		"to": "icenia",
@@ -11466,12 +12302,12 @@
 		"time_max": 538
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "nro'meagh",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2520,
-		"time_max": 2729
+		"time_min": 1716,
+		"time_max": 1744
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -11844,6 +12680,14 @@
 		"time_max": 1886
 	},
 	{
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "topha'nya",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1712,
+		"time_max": 1795
+	},
+	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "topha'nya",
 		"to": "icenia",
@@ -12158,12 +13002,12 @@
 		"time_max": 623
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "topha'nya",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2597,
-		"time_max": 2814
+		"time_min": 1793,
+		"time_max": 1829
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -12536,6 +13380,14 @@
 		"time_max": 1468
 	},
 	{
+		"dest": "nyasaland taozi j:piria axiom axiom:exit",
+		"from": "nyasaland",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 744,
+		"time_max": 1011
+	},
+	{
 		"dest": "nyasaland taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "nyasaland",
 		"to": "icenia",
@@ -12854,8 +13706,8 @@
 		"from": "nyasaland",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 997,
-		"time_max": 1138
+		"time_min": 444,
+		"time_max": 585
 	},
 	{
 		"dest": "nyasaland taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -13246,6 +14098,16 @@
 		},
 		"time_min": 629,
 		"time_max": 734
+	},
+	{
+		"dest": "terestai j:tuff ponsportia j:pend j:piria axiom axiom:exit",
+		"from": "terestai",
+		"to": "axiom",
+		"advisory": {
+			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
+		},
+		"time_min": 915,
+		"time_max": 1123
 	},
 	{
 		"dest": "terestai j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
@@ -13644,8 +14506,8 @@
 		"advisory": {
 			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
 		},
-		"time_min": 1800,
-		"time_max": 2142
+		"time_min": 1247,
+		"time_max": 1589
 	},
 	{
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -14089,6 +14951,14 @@
 		"time_max": 1891
 	},
 	{
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "lriln'kriavnya",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1714,
+		"time_max": 1800
+	},
+	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "lriln'kriavnya",
 		"to": "icenia",
@@ -14403,12 +15273,12 @@
 		"time_max": 628
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "lriln'kriavnya",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2599,
-		"time_max": 2819
+		"time_min": 1795,
+		"time_max": 1834
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -14781,6 +15651,14 @@
 		"time_max": 1085
 	},
 	{
+		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "canvasblue",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 951,
+		"time_max": 1102
+	},
+	{
 		"dest": "canvasblue j:cabalwest icenia icenia:exit",
 		"from": "canvasblue",
 		"to": "icenia",
@@ -15099,8 +15977,8 @@
 		"from": "canvasblue",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1204,
-		"time_max": 1229
+		"time_min": 651,
+		"time_max": 676
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia kallos",
@@ -15473,6 +16351,14 @@
 		"time_max": 2576
 	},
 	{
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "ellen",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1949,
+		"time_max": 2485
+	},
+	{
 		"dest": "ellen j:pmts j:picenia icenia icenia:exit",
 		"from": "ellen",
 		"to": "icenia",
@@ -15787,12 +16673,12 @@
 		"time_max": 3365
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "ellen",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2834,
-		"time_max": 3504
+		"time_min": 2030,
+		"time_max": 2519
 	},
 	{
 		"dest": "ellen j:pmts j:pvark j:pkallos kallos",
@@ -16165,6 +17051,14 @@
 		"time_max": 296
 	},
 	{
+		"dest": "arrelani j:parr j:nice j:pend j:piria axiom axiom:exit",
+		"from": "arrelani",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 464,
+		"time_max": 582
+	},
+	{
 		"dest": "arrelani j:parr j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "arrelani",
 		"to": "icenia",
@@ -16479,12 +17373,12 @@
 		"time_max": 2187
 	},
 	{
-		"dest": "arrelani j:parr lenin_isle ponsportia j:pend j:piria genso:taozi genso:farms",
+		"dest": "arrelani j:parr j:nice j:pend j:piria genso:taozi genso:farms",
 		"from": "arrelani",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1502,
-		"time_max": 1842
+		"time_min": 796,
+		"time_max": 1048
 	},
 	{
 		"dest": "arrelani j:parr j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -16857,6 +17751,14 @@
 		"time_max": 1073
 	},
 	{
+		"dest": "icenia:drippy icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:drippy",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 936,
+		"time_max": 1090
+	},
+	{
 		"dest": "icenia:drippy icenia icenia:exit",
 		"from": "icenia:drippy",
 		"to": "icenia",
@@ -17175,8 +18077,8 @@
 		"from": "icenia:drippy",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1189,
-		"time_max": 1217
+		"time_min": 636,
+		"time_max": 664
 	},
 	{
 		"dest": "icenia:drippy icenia kallos",
@@ -17549,6 +18451,14 @@
 		"time_max": 1605
 	},
 	{
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "hiyo'mek",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1458,
+		"time_max": 1514
+	},
+	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "hiyo'mek",
 		"to": "icenia",
@@ -17863,12 +18773,12 @@
 		"time_max": 342
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "hiyo'mek",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2343,
-		"time_max": 2533
+		"time_min": 1539,
+		"time_max": 1548
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -18241,6 +19151,14 @@
 		"time_max": 1096
 	},
 	{
+		"dest": "icenia:atlantica icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:atlantica",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 949,
+		"time_max": 1113
+	},
+	{
 		"dest": "icenia:atlantica icenia icenia:exit",
 		"from": "icenia:atlantica",
 		"to": "icenia",
@@ -18559,8 +19477,8 @@
 		"from": "icenia:atlantica",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1202,
-		"time_max": 1240
+		"time_min": 649,
+		"time_max": 687
 	},
 	{
 		"dest": "icenia:atlantica icenia kallos",
@@ -18933,6 +19851,14 @@
 		"time_max": 1076
 	},
 	{
+		"dest": "icenia:westisle icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:westisle",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 930,
+		"time_max": 1093
+	},
+	{
 		"dest": "icenia:westisle icenia icenia:exit",
 		"from": "icenia:westisle",
 		"to": "icenia",
@@ -19251,8 +20177,8 @@
 		"from": "icenia:westisle",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1183,
-		"time_max": 1220
+		"time_min": 630,
+		"time_max": 667
 	},
 	{
 		"dest": "icenia:westisle icenia kallos",
@@ -19625,6 +20551,14 @@
 		"time_max": 1827
 	},
 	{
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "il'olmhir",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1655,
+		"time_max": 1736
+	},
+	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "il'olmhir",
 		"to": "icenia",
@@ -19939,12 +20873,12 @@
 		"time_max": 564
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "il'olmhir",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2540,
-		"time_max": 2755
+		"time_min": 1736,
+		"time_max": 1770
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -20317,6 +21251,14 @@
 		"time_max": 1699
 	},
 	{
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "ozonrough",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1542,
+		"time_max": 1608
+	},
+	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "ozonrough",
 		"to": "icenia",
@@ -20631,12 +21573,12 @@
 		"time_max": 436
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "ozonrough",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2427,
-		"time_max": 2627
+		"time_min": 1623,
+		"time_max": 1642
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -21009,6 +21951,14 @@
 		"time_max": 1991
 	},
 	{
+		"dest": "coventhia genso:taozi j:piria axiom axiom:exit",
+		"from": "coventhia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1136,
+		"time_max": 1534
+	},
+	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "coventhia",
 		"to": "icenia",
@@ -21327,8 +22277,8 @@
 		"from": "coventhia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1389,
-		"time_max": 1661
+		"time_min": 836,
+		"time_max": 1108
 	},
 	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -21701,6 +22651,14 @@
 		"time_max": 1247
 	},
 	{
+		"dest": "alpoko icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "alpoko",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1109,
+		"time_max": 1264
+	},
+	{
 		"dest": "alpoko icenia icenia:exit",
 		"from": "alpoko",
 		"to": "icenia",
@@ -22019,8 +22977,8 @@
 		"from": "alpoko",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1362,
-		"time_max": 1391
+		"time_min": 809,
+		"time_max": 838
 	},
 	{
 		"dest": "alpoko icenia kallos",
@@ -22393,6 +23351,14 @@
 		"time_max": 1176
 	},
 	{
+		"dest": "it:anburon icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "it:anburon",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1005,
+		"time_max": 1193
+	},
+	{
 		"dest": "it:anburon icenia icenia:exit",
 		"from": "it:anburon",
 		"to": "icenia",
@@ -22711,8 +23677,8 @@
 		"from": "it:anburon",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1258,
-		"time_max": 1320
+		"time_min": 705,
+		"time_max": 767
 	},
 	{
 		"dest": "it:anburon icenia kallos",
@@ -23085,6 +24051,14 @@
 		"time_max": 1551
 	},
 	{
+		"dest": "varkonia icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "varkonia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1299,
+		"time_max": 1568
+	},
+	{
 		"dest": "varkonia icenia icenia:exit",
 		"from": "varkonia",
 		"to": "icenia",
@@ -23403,8 +24377,8 @@
 		"from": "varkonia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1552,
-		"time_max": 1695
+		"time_min": 999,
+		"time_max": 1142
 	},
 	{
 		"dest": "varkonia j:pvark j:pkallos kallos",
@@ -23777,6 +24751,14 @@
 		"time_max": 2127
 	},
 	{
+		"dest": "westminster 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "westminster",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1549,
+		"time_max": 2036
+	},
+	{
 		"dest": "westminster icenia icenia:exit",
 		"from": "westminster",
 		"to": "icenia",
@@ -24091,12 +25073,12 @@
 		"time_max": 2916
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "westminster 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "westminster",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2434,
-		"time_max": 3055
+		"time_min": 1630,
+		"time_max": 2070
 	},
 	{
 		"dest": "westminster imc j:pmts j:pvark j:pkallos kallos",
@@ -24469,6 +25451,14 @@
 		"time_max": 2739
 	},
 	{
+		"dest": "iria:desert savion j:coe:east coe j:coe:south genso:taozi j:piria axiom axiom:exit",
+		"from": "iria:desert",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 2065,
+		"time_max": 2282
+	},
+	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "iria:desert",
 		"to": "icenia",
@@ -24787,8 +25777,8 @@
 		"from": "iria:desert",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2318,
-		"time_max": 2409
+		"time_min": 1765,
+		"time_max": 1856
 	},
 	{
 		"dest": "iria:desert savion j:coe:east coe j:coe:south j:uroe j:icegen icenia kallos",
@@ -25161,6 +26151,14 @@
 		"time_max": 1021
 	},
 	{
+		"dest": "genso:shiranui genso:taozi j:piria axiom axiom:exit",
+		"from": "genso:shiranui",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 417,
+		"time_max": 564
+	},
+	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "genso:shiranui",
 		"to": "icenia",
@@ -25479,8 +26477,8 @@
 		"from": "genso:shiranui",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 670,
-		"time_max": 691
+		"time_min": 117,
+		"time_max": 138
 	},
 	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -25853,6 +26851,14 @@
 		"time_max": 605
 	},
 	{
+		"dest": "pripyat j:tuff ponsportia j:pend j:piria axiom axiom:exit",
+		"from": "pripyat",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 785,
+		"time_max": 994
+	},
+	{
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "pripyat",
 		"to": "icenia",
@@ -26171,8 +27177,8 @@
 		"from": "pripyat",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1670,
-		"time_max": 2013
+		"time_min": 1117,
+		"time_max": 1460
 	},
 	{
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -26545,6 +27551,14 @@
 		"time_max": 643
 	},
 	{
+		"dest": "netherfarm j:knot j:pend j:piria axiom axiom:exit",
+		"from": "netherfarm",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 498,
+		"time_max": 552
+	},
+	{
 		"dest": "netherfarm j:knot j:icegen icenia icenia:exit",
 		"from": "netherfarm",
 		"to": "icenia",
@@ -26859,12 +27873,12 @@
 		"time_max": 1432
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "netherfarm j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "netherfarm",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1383,
-		"time_max": 1571
+		"time_min": 579,
+		"time_max": 586
 	},
 	{
 		"dest": "netherfarm j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -27237,6 +28251,14 @@
 		"time_max": 1086
 	},
 	{
+		"dest": "icenia:potato icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:potato",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 954,
+		"time_max": 1103
+	},
+	{
 		"dest": "icenia:potato icenia icenia:exit",
 		"from": "icenia:potato",
 		"to": "icenia",
@@ -27555,8 +28577,8 @@
 		"from": "icenia:potato",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1207,
-		"time_max": 1230
+		"time_min": 654,
+		"time_max": 677
 	},
 	{
 		"dest": "icenia:potato icenia kallos",
@@ -27929,6 +28951,14 @@
 		"time_max": 607
 	},
 	{
+		"dest": "aurum:cactus j:piria axiom axiom:exit",
+		"from": "aurum:cactus",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 124,
+		"time_max": 150
+	},
+	{
 		"dest": "aurum:cactus j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "aurum:cactus",
 		"to": "icenia",
@@ -28247,8 +29277,8 @@
 		"from": "aurum:cactus",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1009,
-		"time_max": 1169
+		"time_min": 456,
+		"time_max": 616
 	},
 	{
 		"dest": "aurum:cactus j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -28621,6 +29651,14 @@
 		"time_max": 854
 	},
 	{
+		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:piria axiom axiom:exit",
+		"from": "caledonia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 989,
+		"time_max": 1106
+	},
+	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "caledonia",
 		"to": "icenia",
@@ -28939,8 +29977,8 @@
 		"from": "caledonia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1874,
-		"time_max": 2125
+		"time_min": 1321,
+		"time_max": 1572
 	},
 	{
 		"dest": "caledonia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -29313,6 +30351,14 @@
 		"time_max": 976
 	},
 	{
+		"dest": "sig genso:taozi j:piria axiom axiom:exit",
+		"from": "sig",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 555,
+		"time_max": 768
+	},
+	{
 		"dest": "sig j:gensig j:icegen icenia icenia:exit",
 		"from": "sig",
 		"to": "icenia",
@@ -29631,8 +30677,8 @@
 		"from": "sig",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 808,
-		"time_max": 895
+		"time_min": 255,
+		"time_max": 342
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia kallos",
@@ -30005,6 +31051,14 @@
 		"time_max": 1589
 	},
 	{
+		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "alexandria",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1443,
+		"time_max": 1498
+	},
+	{
 		"dest": "alexandria j:palex j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "alexandria",
 		"to": "icenia",
@@ -30319,12 +31373,12 @@
 		"time_max": 326
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "alexandria j:palex j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "alexandria",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2328,
-		"time_max": 2517
+		"time_min": 1524,
+		"time_max": 1532
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -30697,6 +31751,14 @@
 		"time_max": 2207
 	},
 	{
+		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:piria axiom axiom:exit",
+		"from": "gondolin",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1365,
+		"time_max": 1750
+	},
+	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "gondolin",
 		"to": "icenia",
@@ -31015,8 +32077,8 @@
 		"from": "gondolin",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1618,
-		"time_max": 1877
+		"time_min": 1065,
+		"time_max": 1324
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia kallos",
@@ -31389,6 +32451,14 @@
 		"time_max": 1108
 	},
 	{
+		"dest": "lambat oasis j:piria axiom axiom:exit",
+		"from": "lambat",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 630,
+		"time_max": 651
+	},
+	{
 		"dest": "lambat oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "lambat",
 		"to": "icenia",
@@ -31707,8 +32777,8 @@
 		"from": "lambat",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1670
+		"time_min": 962,
+		"time_max": 1117
 	},
 	{
 		"dest": "lambat oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -32081,6 +33151,14 @@
 		"time_max": 172
 	},
 	{
+		"dest": "aurum j:piria axiom axiom:exit",
+		"from": "aurum",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 99,
+		"time_max": 103
+	},
+	{
 		"dest": "aurum j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "aurum",
 		"to": "icenia",
@@ -32399,8 +33477,8 @@
 		"from": "aurum",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 984,
-		"time_max": 1122
+		"time_min": 431,
+		"time_max": 569
 	},
 	{
 		"dest": "aurum j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -32773,6 +33851,14 @@
 		"time_max": 1254
 	},
 	{
+		"dest": "new_sovia oasis j:piria axiom axiom:exit",
+		"from": "new_sovia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 732,
+		"time_max": 797
+	},
+	{
 		"dest": "new_sovia oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "new_sovia",
 		"to": "icenia",
@@ -33091,8 +34177,8 @@
 		"from": "new_sovia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1617,
-		"time_max": 1816
+		"time_min": 1064,
+		"time_max": 1263
 	},
 	{
 		"dest": "new_sovia oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -33465,6 +34551,14 @@
 		"time_max": 1891
 	},
 	{
+		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "pacem",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1737,
+		"time_max": 1800
+	},
+	{
 		"dest": "pacem j:pp j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "pacem",
 		"to": "icenia",
@@ -33779,12 +34873,12 @@
 		"time_max": 0
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "pacem j:pp j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "pacem",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2622,
-		"time_max": 2819
+		"time_min": 1818,
+		"time_max": 1834
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -34081,152 +35175,160 @@
 		"from": "genso:farms",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 604,
-		"time_max": 608
+		"time_min": 51,
+		"time_max": 55
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "genso:farms",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2489,
-		"time_max": 2698
+		"time_min": 1936,
+		"time_max": 2145
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia j:picenia j:pmts imc imc:exit",
 		"from": "genso:farms",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2263,
-		"time_max": 2603
+		"time_min": 1710,
+		"time_max": 2050
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "genso:farms",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2560,
-		"time_max": 2769
+		"time_min": 2007,
+		"time_max": 2216
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen j:knot 0,0 0,0:exit",
 		"from": "genso:farms",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 1088,
-		"time_max": 1095
+		"time_min": 535,
+		"time_max": 542
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe genso:roe:exit",
 		"from": "genso:farms",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 717,
-		"time_max": 746
+		"time_min": 164,
+		"time_max": 193
 	},
 	{
 		"dest": "genso:farms genso:taozi j:coe:south coe coe:exit",
 		"from": "genso:farms",
 		"to": "coe",
 		"advisory": {},
-		"time_min": 1038,
-		"time_max": 1065
+		"time_min": 485,
+		"time_max": 512
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria oasis oasis:exit",
 		"from": "genso:farms",
 		"to": "oasis",
 		"advisory": {},
-		"time_min": 1421,
-		"time_max": 1562
+		"time_min": 868,
+		"time_max": 1009
 	},
 	{
 		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:east savion savion:exit",
 		"from": "genso:farms",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 2173,
-		"time_max": 2205
+		"time_min": 1620,
+		"time_max": 1652
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia lenin_isle lenin_isle:exit",
 		"from": "genso:farms",
 		"to": "lenin_isle",
 		"advisory": {},
-		"time_min": 1269,
-		"time_max": 1546
+		"time_min": 716,
+		"time_max": 993
+	},
+	{
+		"dest": "genso:farms genso:taozi j:piria axiom axiom:exit",
+		"from": "genso:farms",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 402,
+		"time_max": 536
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "genso:farms",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1154,
-		"time_max": 1187
+		"time_min": 601,
+		"time_max": 634
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia ponsportia:exit",
 		"from": "genso:farms",
 		"to": "ponsportia",
 		"advisory": {},
-		"time_min": 1220,
-		"time_max": 1477
+		"time_min": 667,
+		"time_max": 924
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east mir",
 		"from": "genso:farms",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 2140,
-		"time_max": 2340
+		"time_min": 1587,
+		"time_max": 1787
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
 		"from": "genso:farms",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1253,
-		"time_max": 1313
+		"time_min": 700,
+		"time_max": 760
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "genso:farms",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2611,
-		"time_max": 2673
+		"time_min": 2058,
+		"time_max": 2120
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:cabaleast lord",
 		"from": "genso:farms",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1241,
-		"time_max": 1290
+		"time_min": 688,
+		"time_max": 737
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "genso:farms",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2520,
-		"time_max": 2729
+		"time_min": 1967,
+		"time_max": 2176
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "genso:farms",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2597,
-		"time_max": 2814
+		"time_min": 2044,
+		"time_max": 2261
 	},
 	{
 		"dest": "genso:farms genso:taozi nyasaland",
 		"from": "genso:farms",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 997,
-		"time_max": 1138
+		"time_min": 444,
+		"time_max": 585
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff terestai",
@@ -34235,240 +35337,240 @@
 		"advisory": {
 			"terestai": "Interactions between KANI and AURA cause issues if departing from pripyat"
 		},
-		"time_min": 1800,
-		"time_max": 2142
+		"time_min": 1247,
+		"time_max": 1589
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "genso:farms",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2599,
-		"time_max": 2819
+		"time_min": 2046,
+		"time_max": 2266
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest mta canvasblue",
 		"from": "genso:farms",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1239,
-		"time_max": 1287
+		"time_min": 686,
+		"time_max": 734
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia j:picenia j:pmts ellen",
 		"from": "genso:farms",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2621,
-		"time_max": 3142
+		"time_min": 2068,
+		"time_max": 2589
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia lenin_isle j:parr arrelani",
 		"from": "genso:farms",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 1502,
-		"time_max": 1842
+		"time_min": 949,
+		"time_max": 1289
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:drippy",
 		"from": "genso:farms",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1224,
-		"time_max": 1275
+		"time_min": 671,
+		"time_max": 722
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "genso:farms",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 2343,
-		"time_max": 2533
+		"time_min": 1790,
+		"time_max": 1980
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:atlantica",
 		"from": "genso:farms",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1237,
-		"time_max": 1298
+		"time_min": 684,
+		"time_max": 745
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
 		"from": "genso:farms",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1218,
-		"time_max": 1278
+		"time_min": 665,
+		"time_max": 725
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "genso:farms",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2540,
-		"time_max": 2755
+		"time_min": 1987,
+		"time_max": 2202
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "genso:farms",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 2427,
-		"time_max": 2627
+		"time_min": 1874,
+		"time_max": 2074
 	},
 	{
 		"dest": "genso:farms genso:taozi coventhia",
 		"from": "genso:farms",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 1389,
-		"time_max": 1661
+		"time_min": 836,
+		"time_max": 1108
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia alpoko",
 		"from": "genso:farms",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1397,
-		"time_max": 1449
+		"time_min": 844,
+		"time_max": 896
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia it:anburon",
 		"from": "genso:farms",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1258,
-		"time_max": 1320
+		"time_min": 705,
+		"time_max": 767
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia varkonia",
 		"from": "genso:farms",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 1587,
-		"time_max": 1753
+		"time_min": 1034,
+		"time_max": 1200
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia westminster",
 		"from": "genso:farms",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 2184,
-		"time_max": 2629
+		"time_min": 1631,
+		"time_max": 2076
 	},
 	{
 		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:east savion iria:desert",
 		"from": "genso:farms",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 2318,
-		"time_max": 2409
+		"time_min": 1765,
+		"time_max": 1856
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:shiranui",
 		"from": "genso:farms",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 670,
-		"time_max": 691
+		"time_min": 117,
+		"time_max": 138
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff pripyat",
 		"from": "genso:farms",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1670,
-		"time_max": 2013
+		"time_min": 1117,
+		"time_max": 1460
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen j:knot netherfarm",
 		"from": "genso:farms",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 1132,
-		"time_max": 1139
+		"time_min": 579,
+		"time_max": 586
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:potato",
 		"from": "genso:farms",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1242,
-		"time_max": 1288
+		"time_min": 689,
+		"time_max": 735
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria aurum:cactus",
 		"from": "genso:farms",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 1009,
-		"time_max": 1169
+		"time_min": 456,
+		"time_max": 616
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj pbnj:east caledonia",
 		"from": "genso:farms",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 1874,
-		"time_max": 2125
+		"time_min": 1321,
+		"time_max": 1572
 	},
 	{
 		"dest": "genso:farms genso:taozi sig",
 		"from": "genso:farms",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 808,
-		"time_max": 895
+		"time_min": 255,
+		"time_max": 342
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:palex alexandria",
 		"from": "genso:farms",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 2328,
-		"time_max": 2517
+		"time_min": 1775,
+		"time_max": 1964
 	},
 	{
 		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:north gondolin gondolin:exit",
 		"from": "genso:farms",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 1618,
-		"time_max": 1877
+		"time_min": 1065,
+		"time_max": 1324
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria oasis lambat",
 		"from": "genso:farms",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1670
+		"time_min": 962,
+		"time_max": 1117
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria aurum",
 		"from": "genso:farms",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 984,
-		"time_max": 1122
+		"time_min": 431,
+		"time_max": 569
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria oasis new_sovia",
 		"from": "genso:farms",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1617,
-		"time_max": 1816
+		"time_min": 1064,
+		"time_max": 1263
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:pp pacem",
 		"from": "genso:farms",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2622,
-		"time_max": 2819
+		"time_min": 2069,
+		"time_max": 2266
 	},
 	{
 		"dest": "genso:farms",
@@ -34483,80 +35585,80 @@
 		"from": "genso:farms",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 1853,
-		"time_max": 2028
+		"time_min": 1300,
+		"time_max": 1475
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen j:knot wayrest",
 		"from": "genso:farms",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 1154,
-		"time_max": 1177
+		"time_min": 601,
+		"time_max": 624
 	},
 	{
 		"dest": "genso:farms genso:taozi j:coe:south coe j:coe:east savion iria:jungle",
 		"from": "genso:farms",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 2806,
-		"time_max": 2936
+		"time_min": 2253,
+		"time_max": 2383
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen j:knot j:pnro j:pp hjaltland",
 		"from": "genso:farms",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2691,
-		"time_max": 2811
+		"time_min": 2138,
+		"time_max": 2258
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe bloom",
 		"from": "genso:farms",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1048,
-		"time_max": 1109
+		"time_min": 495,
+		"time_max": 556
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:gntv tvtopia",
 		"from": "genso:farms",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 912,
-		"time_max": 1002
+		"time_min": 359,
+		"time_max": 449
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest wnsta",
 		"from": "genso:farms",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1189,
-		"time_max": 1235
+		"time_min": 636,
+		"time_max": 682
 	},
 	{
 		"dest": "genso:farms genso:taozi crowsroost",
 		"from": "genso:farms",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 904,
-		"time_max": 1022
+		"time_min": 351,
+		"time_max": 469
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:gntv gabon",
 		"from": "genso:farms",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1213,
-		"time_max": 1417
+		"time_min": 660,
+		"time_max": 864
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend ponsportia j:tuff carson",
 		"from": "genso:farms",
 		"to": "carson",
 		"advisory": {},
-		"time_min": 1500,
-		"time_max": 1845
+		"time_min": 947,
+		"time_max": 1292
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia j:picenia j:pmts sept september",
@@ -34565,208 +35667,208 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1856,
-		"time_max": 2066
+		"time_min": 1303,
+		"time_max": 1513
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:nether",
 		"from": "genso:farms",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1279,
-		"time_max": 1347
+		"time_min": 726,
+		"time_max": 794
 	},
 	{
 		"dest": "genso:farms genso:taozi old_sanctuary",
 		"from": "genso:farms",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 772,
-		"time_max": 814
+		"time_min": 219,
+		"time_max": 261
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia spqr",
 		"from": "genso:farms",
 		"to": "spqr",
 		"advisory": {},
-		"time_min": 2406,
-		"time_max": 2862
+		"time_min": 1853,
+		"time_max": 2309
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:pp fortuna",
 		"from": "genso:farms",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 3208,
-		"time_max": 3536
+		"time_min": 2655,
+		"time_max": 2983
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe genso:centi",
 		"from": "genso:farms",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 757,
-		"time_max": 792
+		"time_min": 204,
+		"time_max": 239
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot vinland",
 		"from": "genso:farms",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 2116,
-		"time_max": 2309
+		"time_min": 1563,
+		"time_max": 1756
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:pp forta'are",
 		"from": "genso:farms",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2581,
-		"time_max": 2781
+		"time_min": 2028,
+		"time_max": 2228
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria oasis appomattox",
 		"from": "genso:farms",
 		"to": "appomattox",
 		"advisory": {},
-		"time_min": 1649,
-		"time_max": 1811
+		"time_min": 1096,
+		"time_max": 1258
 	},
 	{
 		"dest": "genso:farms genso:taozi j:gensig j:icegen icenia mta",
 		"from": "genso:farms",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 1956,
-		"time_max": 2310
+		"time_min": 1403,
+		"time_max": 1757
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "genso:farms",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2584,
-		"time_max": 2803
+		"time_min": 2031,
+		"time_max": 2250
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "genso:farms",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2472,
-		"time_max": 2674
+		"time_min": 1919,
+		"time_max": 2121
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend endportal",
 		"from": "genso:farms",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 1100,
-		"time_max": 1288
+		"time_min": 547,
+		"time_max": 735
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:nice j:ppcc j:pbnj besia",
 		"from": "genso:farms",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1705,
-		"time_max": 1900
+		"time_min": 1152,
+		"time_max": 1347
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria j:pend j:nice j:ppcc cape_cocoa",
 		"from": "genso:farms",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 1322,
-		"time_max": 1511
+		"time_min": 769,
+		"time_max": 958
 	},
 	{
 		"dest": "genso:farms genso:taozi j:piria oasis iria",
 		"from": "genso:farms",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 1882,
-		"time_max": 2030
+		"time_min": 1329,
+		"time_max": 1477
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its qbipfb",
 		"from": "genso:farms",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1195,
-		"time_max": 1240
+		"time_min": 642,
+		"time_max": 687
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its versailles",
 		"from": "genso:farms",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1185,
-		"time_max": 1223
+		"time_min": 632,
+		"time_max": 670
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its iceniapark",
 		"from": "genso:farms",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1175,
-		"time_max": 1212
+		"time_min": 622,
+		"time_max": 659
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its skybunker",
 		"from": "genso:farms",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1187,
-		"time_max": 1227
+		"time_min": 634,
+		"time_max": 674
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its hji",
 		"from": "genso:farms",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1188,
-		"time_max": 1231
+		"time_min": 635,
+		"time_max": 678
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its adytum",
 		"from": "genso:farms",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1221,
-		"time_max": 1271
+		"time_min": 668,
+		"time_max": 718
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its office",
 		"from": "genso:farms",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1180,
-		"time_max": 1217
+		"time_min": 627,
+		"time_max": 664
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its beach",
 		"from": "genso:farms",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1181,
-		"time_max": 1220
+		"time_min": 628,
+		"time_max": 667
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its subway",
 		"from": "genso:farms",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1178,
-		"time_max": 1216
+		"time_min": 625,
+		"time_max": 663
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia its bayloop",
 		"from": "genso:farms",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1180,
-		"time_max": 1218
+		"time_min": 627,
+		"time_max": 665
 	},
 	{
 		"dest": "kallos icenia j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
@@ -34847,6 +35949,14 @@
 		"advisory": {},
 		"time_min": 1592,
 		"time_max": 1826
+	},
+	{
+		"dest": "kallos icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "kallos",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1565,
+		"time_max": 1843
 	},
 	{
 		"dest": "kallos icenia icenia:exit",
@@ -35167,8 +36277,8 @@
 		"from": "kallos",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1818,
-		"time_max": 1970
+		"time_min": 1265,
+		"time_max": 1417
 	},
 	{
 		"dest": "kallos",
@@ -35541,6 +36651,14 @@
 		"time_max": 681
 	},
 	{
+		"dest": "wayrest j:knot j:pend j:piria axiom axiom:exit",
+		"from": "wayrest",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 520,
+		"time_max": 590
+	},
+	{
 		"dest": "wayrest 0,0 j:picenia icenia icenia:exit",
 		"from": "wayrest",
 		"to": "icenia",
@@ -35855,12 +36973,12 @@
 		"time_max": 1470
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "wayrest j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "wayrest",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1405,
-		"time_max": 1609
+		"time_min": 601,
+		"time_max": 624
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -36233,6 +37351,14 @@
 		"time_max": 3266
 	},
 	{
+		"dest": "iria:jungle savion j:coe:east coe j:coe:south genso:taozi j:piria axiom axiom:exit",
+		"from": "iria:jungle",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 2553,
+		"time_max": 2809
+	},
+	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:exit",
 		"from": "iria:jungle",
 		"to": "icenia",
@@ -36551,8 +37677,8 @@
 		"from": "iria:jungle",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2806,
-		"time_max": 2936
+		"time_min": 2253,
+		"time_max": 2383
 	},
 	{
 		"dest": "iria:jungle savion j:coe:east coe j:coe:south j:uroe j:icegen icenia kallos",
@@ -36925,6 +38051,14 @@
 		"time_max": 2315
 	},
 	{
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "hjaltland",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 2057,
+		"time_max": 2224
+	},
+	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "hjaltland",
 		"to": "icenia",
@@ -37239,12 +38373,12 @@
 		"time_max": 674
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "hjaltland j:pp j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "hjaltland",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2942,
-		"time_max": 3243
+		"time_min": 2138,
+		"time_max": 2258
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -37617,6 +38751,14 @@
 		"time_max": 1439
 	},
 	{
+		"dest": "bloom genso:roe genso:taozi j:piria axiom axiom:exit",
+		"from": "bloom",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 795,
+		"time_max": 982
+	},
+	{
 		"dest": "bloom icenia icenia:exit",
 		"from": "bloom",
 		"to": "icenia",
@@ -37931,12 +39073,12 @@
 		"time_max": 4307
 	},
 	{
-		"dest": "bloom icenia j:icegen j:gensig genso:taozi genso:farms",
+		"dest": "bloom genso:roe genso:taozi genso:farms",
 		"from": "bloom",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1278,
-		"time_max": 1342
+		"time_min": 495,
+		"time_max": 556
 	},
 	{
 		"dest": "bloom imc j:pmts j:pvark j:pkallos kallos",
@@ -38309,6 +39451,14 @@
 		"time_max": 1332
 	},
 	{
+		"dest": "tvtopia j:gntv genso:roe genso:taozi j:piria axiom axiom:exit",
+		"from": "tvtopia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 659,
+		"time_max": 875
+	},
+	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "tvtopia",
 		"to": "icenia",
@@ -38627,8 +39777,8 @@
 		"from": "tvtopia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 912,
-		"time_max": 1002
+		"time_min": 359,
+		"time_max": 449
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia kallos",
@@ -39001,6 +40151,14 @@
 		"time_max": 1033
 	},
 	{
+		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "wnsta",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 901,
+		"time_max": 1050
+	},
+	{
 		"dest": "wnsta j:cabalwest icenia icenia:exit",
 		"from": "wnsta",
 		"to": "icenia",
@@ -39319,8 +40477,8 @@
 		"from": "wnsta",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1154,
-		"time_max": 1177
+		"time_min": 601,
+		"time_max": 624
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia kallos",
@@ -39693,6 +40851,14 @@
 		"time_max": 1352
 	},
 	{
+		"dest": "crowsroost genso:taozi j:piria axiom axiom:exit",
+		"from": "crowsroost",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 651,
+		"time_max": 895
+	},
+	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "crowsroost",
 		"to": "icenia",
@@ -40011,8 +41177,8 @@
 		"from": "crowsroost",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 904,
-		"time_max": 1022
+		"time_min": 351,
+		"time_max": 469
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -40385,6 +41551,14 @@
 		"time_max": 1275
 	},
 	{
+		"dest": "gabon j:gntv genso:roe genso:taozi j:piria axiom axiom:exit",
+		"from": "gabon",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 960,
+		"time_max": 1290
+	},
+	{
 		"dest": "gabon icenia icenia:exit",
 		"from": "gabon",
 		"to": "icenia",
@@ -40699,12 +41873,12 @@
 		"time_max": 2064
 	},
 	{
-		"dest": "gabon j:picenia 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "gabon j:gntv genso:roe genso:taozi genso:farms",
 		"from": "gabon",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1873,
-		"time_max": 2203
+		"time_min": 660,
+		"time_max": 864
 	},
 	{
 		"dest": "gabon icenia kallos",
@@ -41077,6 +42251,14 @@
 		"time_max": 437
 	},
 	{
+		"dest": "carson j:tuff ponsportia j:pend j:piria axiom axiom:exit",
+		"from": "carson",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 615,
+		"time_max": 826
+	},
+	{
 		"dest": "carson j:tuff ponsportia j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "carson",
 		"to": "icenia",
@@ -41395,8 +42577,8 @@
 		"from": "carson",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1500,
-		"time_max": 1845
+		"time_min": 947,
+		"time_max": 1292
 	},
 	{
 		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -41787,6 +42969,16 @@
 		},
 		"time_min": 1240,
 		"time_max": 1500
+	},
+	{
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "mts",
+		"to": "axiom",
+		"advisory": {
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+		},
+		"time_min": 1184,
+		"time_max": 1409
 	},
 	{
 		"dest": "mts j:pmts j:picenia icenia icenia:exit",
@@ -42180,14 +43372,14 @@
 		"time_max": 2289
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "mts",
 		"to": "genso:farms",
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2069,
-		"time_max": 2428
+		"time_min": 1265,
+		"time_max": 1443
 	},
 	{
 		"dest": "mts j:pvark j:pkallos kallos",
@@ -42630,6 +43822,14 @@
 		"time_max": 1145
 	},
 	{
+		"dest": "icenia:nether icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "icenia:nether",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 991,
+		"time_max": 1162
+	},
+	{
 		"dest": "icenia:nether icenia icenia:exit",
 		"from": "icenia:nether",
 		"to": "icenia",
@@ -42948,8 +44148,8 @@
 		"from": "icenia:nether",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1244,
-		"time_max": 1289
+		"time_min": 691,
+		"time_max": 736
 	},
 	{
 		"dest": "icenia:nether icenia kallos",
@@ -43322,6 +44522,14 @@
 		"time_max": 1144
 	},
 	{
+		"dest": "old_sanctuary genso:taozi j:piria axiom axiom:exit",
+		"from": "old_sanctuary",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 519,
+		"time_max": 687
+	},
+	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "old_sanctuary",
 		"to": "icenia",
@@ -43640,8 +44848,8 @@
 		"from": "old_sanctuary",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 772,
-		"time_max": 814
+		"time_min": 219,
+		"time_max": 261
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -44014,6 +45222,14 @@
 		"time_max": 2660
 	},
 	{
+		"dest": "spqr icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "spqr",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 2118,
+		"time_max": 2677
+	},
+	{
 		"dest": "spqr icenia icenia:exit",
 		"from": "spqr",
 		"to": "icenia",
@@ -44332,8 +45548,8 @@
 		"from": "spqr",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2371,
-		"time_max": 2804
+		"time_min": 1818,
+		"time_max": 2251
 	},
 	{
 		"dest": "spqr kallos",
@@ -44706,6 +45922,14 @@
 		"time_max": 2608
 	},
 	{
+		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "fortuna",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 2323,
+		"time_max": 2517
+	},
+	{
 		"dest": "fortuna j:pp j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "fortuna",
 		"to": "icenia",
@@ -45020,12 +46244,12 @@
 		"time_max": 967
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "fortuna j:pp j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "fortuna",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 3208,
-		"time_max": 3536
+		"time_min": 2404,
+		"time_max": 2551
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -45398,6 +46622,14 @@
 		"time_max": 1122
 	},
 	{
+		"dest": "genso:centi genso:roe genso:taozi j:piria axiom axiom:exit",
+		"from": "genso:centi",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 504,
+		"time_max": 665
+	},
+	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "genso:centi",
 		"to": "icenia",
@@ -45716,8 +46948,8 @@
 		"from": "genso:centi",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 757,
-		"time_max": 792
+		"time_min": 204,
+		"time_max": 239
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia kallos",
@@ -46090,6 +47322,14 @@
 		"time_max": 1381
 	},
 	{
+		"dest": "vinland j:knot j:pend j:piria axiom axiom:exit",
+		"from": "vinland",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1231,
+		"time_max": 1290
+	},
+	{
 		"dest": "vinland icenia icenia:exit",
 		"from": "vinland",
 		"to": "icenia",
@@ -46404,12 +47644,12 @@
 		"time_max": 2170
 	},
 	{
-		"dest": "vinland j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "vinland j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "vinland",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2116,
-		"time_max": 2309
+		"time_min": 1312,
+		"time_max": 1324
 	},
 	{
 		"dest": "vinland icenia kallos",
@@ -46782,6 +48022,14 @@
 		"time_max": 1853
 	},
 	{
+		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "forta'are",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1696,
+		"time_max": 1762
+	},
+	{
 		"dest": "forta'are j:pp j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "forta'are",
 		"to": "icenia",
@@ -47096,12 +48344,12 @@
 		"time_max": 212
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "forta'are j:pp j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "forta'are",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2581,
-		"time_max": 2781
+		"time_min": 1777,
+		"time_max": 1796
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -47474,6 +48722,14 @@
 		"time_max": 1249
 	},
 	{
+		"dest": "appomattox oasis j:piria axiom axiom:exit",
+		"from": "appomattox",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 764,
+		"time_max": 792
+	},
+	{
 		"dest": "appomattox oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "appomattox",
 		"to": "icenia",
@@ -47792,8 +49048,8 @@
 		"from": "appomattox",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1649,
-		"time_max": 1811
+		"time_min": 1096,
+		"time_max": 1258
 	},
 	{
 		"dest": "appomattox oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -48166,6 +49422,14 @@
 		"time_max": 1807
 	},
 	{
+		"dest": "mta 0,0 j:knot j:pend j:piria axiom axiom:exit",
+		"from": "mta",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1371,
+		"time_max": 1716
+	},
+	{
 		"dest": "mta icenia icenia:exit",
 		"from": "mta",
 		"to": "icenia",
@@ -48480,12 +49744,12 @@
 		"time_max": 2596
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "mta 0,0 j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "mta",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2256,
-		"time_max": 2735
+		"time_min": 1452,
+		"time_max": 1750
 	},
 	{
 		"dest": "mta kallos",
@@ -48858,6 +50122,14 @@
 		"time_max": 1875
 	},
 	{
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "socalist_ruler",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1699,
+		"time_max": 1784
+	},
+	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "socalist_ruler",
 		"to": "icenia",
@@ -49172,12 +50444,12 @@
 		"time_max": 612
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "socalist_ruler",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2584,
-		"time_max": 2803
+		"time_min": 1780,
+		"time_max": 1818
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -49550,6 +50822,14 @@
 		"time_max": 1746
 	},
 	{
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria axiom axiom:exit",
+		"from": "jevoghnya",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 1587,
+		"time_max": 1655
+	},
+	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen icenia icenia:exit",
 		"from": "jevoghnya",
 		"to": "icenia",
@@ -49864,12 +51144,12 @@
 		"time_max": 483
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria genso:taozi genso:farms",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "jevoghnya",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 2472,
-		"time_max": 2674
+		"time_min": 1668,
+		"time_max": 1689
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -50242,6 +51522,14 @@
 		"time_max": 360
 	},
 	{
+		"dest": "endportal j:pend j:piria axiom axiom:exit",
+		"from": "endportal",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 215,
+		"time_max": 269
+	},
+	{
 		"dest": "endportal j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "endportal",
 		"to": "icenia",
@@ -50560,8 +51848,8 @@
 		"from": "endportal",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1100,
-		"time_max": 1288
+		"time_min": 547,
+		"time_max": 735
 	},
 	{
 		"dest": "endportal j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -50934,6 +52222,14 @@
 		"time_max": 629
 	},
 	{
+		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:piria axiom axiom:exit",
+		"from": "besia",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 820,
+		"time_max": 881
+	},
+	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "besia",
 		"to": "icenia",
@@ -51252,8 +52548,8 @@
 		"from": "besia",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1705,
-		"time_max": 1900
+		"time_min": 1152,
+		"time_max": 1347
 	},
 	{
 		"dest": "besia j:pbnj j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -51626,6 +52922,14 @@
 		"time_max": 240
 	},
 	{
+		"dest": "cape_cocoa j:ppcc j:nice j:pend j:piria axiom axiom:exit",
+		"from": "cape_cocoa",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 437,
+		"time_max": 492
+	},
+	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "cape_cocoa",
 		"to": "icenia",
@@ -51944,8 +53248,8 @@
 		"from": "cape_cocoa",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1322,
-		"time_max": 1511
+		"time_min": 769,
+		"time_max": 958
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -52318,6 +53622,14 @@
 		"time_max": 1468
 	},
 	{
+		"dest": "iria oasis j:piria axiom axiom:exit",
+		"from": "iria",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 997,
+		"time_max": 1011
+	},
+	{
 		"dest": "iria oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia icenia:exit",
 		"from": "iria",
 		"to": "icenia",
@@ -52636,8 +53948,8 @@
 		"from": "iria",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1882,
-		"time_max": 2030
+		"time_min": 1329,
+		"time_max": 1477
 	},
 	{
 		"dest": "iria oasis j:piria genso:taozi genso:roe j:uroe j:icegen icenia kallos",
@@ -53010,6 +54322,14 @@
 		"time_max": 1038
 	},
 	{
+		"dest": "its:qbipfb j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:qbipfb",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 907,
+		"time_max": 1055
+	},
+	{
 		"dest": "its:qbipfb j:its icenia icenia:exit",
 		"from": "its:qbipfb",
 		"to": "icenia",
@@ -53328,8 +54648,8 @@
 		"from": "its:qbipfb",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1160,
-		"time_max": 1182
+		"time_min": 607,
+		"time_max": 629
 	},
 	{
 		"dest": "its:qbipfb j:its icenia kallos",
@@ -53702,6 +55022,14 @@
 		"time_max": 1021
 	},
 	{
+		"dest": "its:versailles j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:versailles",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 897,
+		"time_max": 1038
+	},
+	{
 		"dest": "its:versailles j:its icenia icenia:exit",
 		"from": "its:versailles",
 		"to": "icenia",
@@ -54020,8 +55348,8 @@
 		"from": "its:versailles",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1150,
-		"time_max": 1165
+		"time_min": 597,
+		"time_max": 612
 	},
 	{
 		"dest": "its:versailles j:its icenia kallos",
@@ -54394,6 +55722,14 @@
 		"time_max": 1010
 	},
 	{
+		"dest": "its:iceniapark j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:iceniapark",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 887,
+		"time_max": 1027
+	},
+	{
 		"dest": "its:iceniapark j:its icenia icenia:exit",
 		"from": "its:iceniapark",
 		"to": "icenia",
@@ -54712,8 +56048,8 @@
 		"from": "its:iceniapark",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1140,
-		"time_max": 1154
+		"time_min": 587,
+		"time_max": 601
 	},
 	{
 		"dest": "its:iceniapark j:its icenia kallos",
@@ -55086,6 +56422,14 @@
 		"time_max": 1025
 	},
 	{
+		"dest": "its:skybunker j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:skybunker",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 899,
+		"time_max": 1042
+	},
+	{
 		"dest": "its:skybunker j:its icenia icenia:exit",
 		"from": "its:skybunker",
 		"to": "icenia",
@@ -55404,8 +56748,8 @@
 		"from": "its:skybunker",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1152,
-		"time_max": 1169
+		"time_min": 599,
+		"time_max": 616
 	},
 	{
 		"dest": "its:skybunker j:its icenia kallos",
@@ -55778,6 +57122,14 @@
 		"time_max": 1029
 	},
 	{
+		"dest": "its:hji j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:hji",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 900,
+		"time_max": 1046
+	},
+	{
 		"dest": "its:hji j:its icenia icenia:exit",
 		"from": "its:hji",
 		"to": "icenia",
@@ -56096,8 +57448,8 @@
 		"from": "its:hji",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1153,
-		"time_max": 1173
+		"time_min": 600,
+		"time_max": 620
 	},
 	{
 		"dest": "its:hji j:its icenia kallos",
@@ -56470,6 +57822,14 @@
 		"time_max": 1069
 	},
 	{
+		"dest": "its:adytum j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:adytum",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 933,
+		"time_max": 1086
+	},
+	{
 		"dest": "its:adytum j:its icenia icenia:exit",
 		"from": "its:adytum",
 		"to": "icenia",
@@ -56788,8 +58148,8 @@
 		"from": "its:adytum",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1186,
-		"time_max": 1213
+		"time_min": 633,
+		"time_max": 660
 	},
 	{
 		"dest": "its:adytum j:its icenia kallos",
@@ -57162,6 +58522,14 @@
 		"time_max": 1015
 	},
 	{
+		"dest": "its:office j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:office",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 892,
+		"time_max": 1032
+	},
+	{
 		"dest": "its:office j:its icenia icenia:exit",
 		"from": "its:office",
 		"to": "icenia",
@@ -57480,8 +58848,8 @@
 		"from": "its:office",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1145,
-		"time_max": 1159
+		"time_min": 592,
+		"time_max": 606
 	},
 	{
 		"dest": "its:office j:its icenia kallos",
@@ -57854,6 +59222,14 @@
 		"time_max": 1018
 	},
 	{
+		"dest": "its:beach j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:beach",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 893,
+		"time_max": 1035
+	},
+	{
 		"dest": "its:beach j:its icenia icenia:exit",
 		"from": "its:beach",
 		"to": "icenia",
@@ -58172,8 +59548,8 @@
 		"from": "its:beach",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1146,
-		"time_max": 1162
+		"time_min": 593,
+		"time_max": 609
 	},
 	{
 		"dest": "its:beach j:its icenia kallos",
@@ -58546,6 +59922,14 @@
 		"time_max": 1014
 	},
 	{
+		"dest": "its:subway j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:subway",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 890,
+		"time_max": 1031
+	},
+	{
 		"dest": "its:subway j:its icenia icenia:exit",
 		"from": "its:subway",
 		"to": "icenia",
@@ -58864,8 +60248,8 @@
 		"from": "its:subway",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1143,
-		"time_max": 1158
+		"time_min": 590,
+		"time_max": 605
 	},
 	{
 		"dest": "its:subway j:its icenia kallos",
@@ -59238,6 +60622,14 @@
 		"time_max": 1016
 	},
 	{
+		"dest": "its:bayloop j:its icenia j:icegen j:gensig genso:taozi j:piria axiom axiom:exit",
+		"from": "its:bayloop",
+		"to": "axiom",
+		"advisory": {},
+		"time_min": 892,
+		"time_max": 1033
+	},
+	{
 		"dest": "its:bayloop j:its icenia icenia:exit",
 		"from": "its:bayloop",
 		"to": "icenia",
@@ -59556,8 +60948,8 @@
 		"from": "its:bayloop",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 1145,
-		"time_max": 1160
+		"time_min": 592,
+		"time_max": 607
 	},
 	{
 		"dest": "its:bayloop j:its icenia kallos",
