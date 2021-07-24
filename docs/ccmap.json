@@ -92,7 +92,7 @@
 {"description":"City of New Sovia, home of LSD members such as Pirater and iwaki.","id":"ccmap:kani/node/new_sovia","name":"New_Sovia (KANI)","type":"TerminalDestinations","x":8475,"z":-1278},
 {"id":"ccmap:kani/node/nro'meagh","name":"Nro'Meagh (KANI)","type":"TerminalDestinations","x":-348,"y":122,"z":8364},
 {"BadLinks":"genso:taozi: taozi, ","id":"ccmap:kani/node/nyasaland","name":"Nyasaland (KANI)","type":"TerminalDestinations","x":4061,"y":25,"z":-4074},
-{"id":"ccmap:kani/node/old_sanctuary","name":"Old_Sanctuary (KANI)","type":"TerminalDestinations","x":2572,"y":9,"z":2266},
+{"id":"ccmap:kani/node/old_sanctuary","name":"Old_Sanctuary (KANI)","type":"TerminalDestinations","x":2572,"y":9,"z":-2266},
 {"id":"ccmap:kani/node/ozonrough","name":"Ozonrough (KANI)","type":"TerminalDestinations","x":1140,"y":11,"z":8423},
 {"id":"ccmap:kani/node/pacem","name":"Pacem (KANI)","type":"TerminalDestinations","x":-540,"z":9800},
 {"id":"ccmap:kani/node/ponsportia","name":"Ponsportia (KANI)","station":true,"type":"CompliantSwitches","x":3131,"y":1,"z":1103},
@@ -102,7 +102,7 @@
 {"id":"ccmap:kani/node/socalist_ruler","name":"Socalist_Ruler (KANI)","type":"TerminalDestinations","x":-529,"y":118,"z":8588},
 {"description":"City of roma","id":"ccmap:kani/node/spqr","name":"Spqr (KANI)","type":"TerminalDestinations","x":-10650,"y":9,"z":-5850},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/ssta","name":"Ssta (KANI)","type":"TerminalDestinations","x":-1957,"y":2,"z":-731},
-{"id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
+{"advisory":"Interactions between KANI and AURA cause issues if departing from pripyat","id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
 {"id":"ccmap:kani/node/topha'nya","name":"Topha'Nya (KANI)","type":"TerminalDestinations","x":-696,"y":115,"z":8667},
 {"id":"ccmap:kani/node/torndal","name":"Torndal (KANI)","station":true,"type":"CompliantSwitches","x":-403,"y":122,"z":8166},
 {"id":"ccmap:kani/node/tvtopia","name":"Tvtopia (KANI)","type":"TerminalDestinations","x":-504,"y":11,"z":-3500},
@@ -155,7 +155,7 @@
 {"distance":1206,"id":"ccmap:kani/link/genso:taozi/j:gensig","line":[[[1278,-2618],[1249,-1412]]],"name":"Genso:Taozi - J:Gensig (KANI)","type":"link"},
 {"distance":2525,"id":"ccmap:kani/link/genso:taozi/j:piria","line":[[[1278,-2618],[3000,-770]]],"name":"Genso:Taozi - J:Piria (KANI)","type":"link"},
 {"distance":3140,"id":"ccmap:kani/link/genso:taozi/nyasaland","line":[[[1278,-2618],[4061,-4074]]],"name":"Genso:Taozi - Nyasaland (KANI)","type":"link"},
-{"distance":5052,"id":"ccmap:kani/link/genso:taozi/old_sanctuary","line":[[[1278,-2618],[2572,2266]]],"name":"Genso:Taozi - Old_Sanctuary (KANI)","type":"link"},
+{"distance":1341,"id":"ccmap:kani/link/genso:taozi/old_sanctuary","line":[[[1278,-2618],[2572,-2266]]],"name":"Genso:Taozi - Old_Sanctuary (KANI)","type":"link"},
 {"distance":1630,"id":"ccmap:kani/link/genso:taozi/sig","line":[[[1278,-2618],[2315,-1360]]],"name":"Genso:Taozi - Sig (KANI)","type":"link"},
 {"distance":4490,"id":"ccmap:kani/link/gondolin/j:coe:north","line":[[[3845,-9191],[770,-5919]]],"name":"Gondolin - J:Coe:North (KANI)","type":"link"},
 {"distance":24,"id":"ccmap:kani/link/hiyo'mek/j:pniyo","line":[[[447,8360],[449,8336]]],"name":"Hiyo'Mek - J:Pniyo (KANI)","type":"link"},
@@ -257,4 +257,4 @@
 {"distance":5843,"id":"ccmap:kani/link/mir/savion","line":[[[11043,-87],[9847,-5807]]],"name":"Mir - Savion (KANI)","type":"link"},
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627086385","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627089165","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
