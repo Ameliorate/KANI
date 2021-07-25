@@ -1,0 +1,12 @@
+x = 7000
+y = 12
+z = 0
+
+switch = true
+
+links = [
+ 'j:pbnj',
+ 'oasis',
+ 'caledonia',
+ 'mir',
+]

@@ -6,10 +6,9 @@ station = true
 
 links = [
  'j:piria',
+ 'j:po',
  'iria',
  'lambat',
  'appomattox',
  'new_sovia',
-#'pripyat',   # These are disabled because the rail has some weird switches, and places that need more switches installed.
-#'threepton',
 ]

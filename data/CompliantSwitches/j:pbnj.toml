@@ -6,11 +6,6 @@ switch = true
 
 links = [
  'j:ppcc',
+ 'j:po',
  'besia',
- 'mir',
- 'caledonia',
 ]
-
-[BadLinks]
-'mir' = 'pbnj:east mir'
-'caledonia' = 'pbnj:east caledonia'
