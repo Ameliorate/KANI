@@ -1,0 +1,10 @@
+x = 2120
+y = 5
+z = -10828
+
+switch = true
+
+links = [
+ 'stallman',
+ 'j:coe:north',
+]

@@ -1,0 +1,10 @@
+x = 2439
+y = 5
+z = -10848
+
+station = true
+
+links = [
+ 'j:stallman:west',
+ 'acadia',
+]
