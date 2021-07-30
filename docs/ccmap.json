@@ -16,6 +16,7 @@
 {"description":"City of England","id":"ccmap:kani/node/coe","name":"Coe (KANI)","station":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5765},
 {"id":"ccmap:kani/node/coventhia","name":"Coventhia (KANI)","type":"TerminalDestinations","x":-4346,"z":-5420},
 {"id":"ccmap:kani/node/crowsroost","name":"Crowsroost (KANI)","type":"TerminalDestinations","x":3307,"z":-1334},
+{"id":"ccmap:kani/node/dulaman","name":"Dulaman (KANI)","station":true,"type":"CompliantSwitches","x":2120,"y":10,"z":-12189},
 {"id":"ccmap:kani/node/ellen","name":"Ellen (KANI)","type":"TerminalDestinations","x":-9768,"z":6046},
 {"description":"An end portal renovated by darthorangejuice near wayrest.\n\nMore info: https://old.reddit.com/r/civclassics/comments/jpcs9p/peters_castle_end_portal/\n","id":"ccmap:kani/node/endportal","name":"Endportal (KANI)","type":"TerminalDestinations","x":2314,"y":31,"z":414},
 {"id":"ccmap:kani/node/forta'are","name":"Forta'Are (KANI)","type":"TerminalDestinations","x":274,"y":20,"z":9130},
@@ -145,6 +146,7 @@
 {"distance":2922,"id":"ccmap:kani/link/coe/j:coe:south","line":[[[770,-5765],[771,-2843]]],"name":"Coe - J:Coe:South (KANI)","type":"link"},
 {"distance":6283,"id":"ccmap:kani/link/coventhia/genso:taozi","line":[[[-4346,-5420],[1278,-2618]]],"name":"Coventhia - Genso:Taozi (KANI)","type":"link"},
 {"distance":2401,"id":"ccmap:kani/link/crowsroost/genso:taozi","line":[[[3307,-1334],[1278,-2618]]],"name":"Crowsroost - Genso:Taozi (KANI)","type":"link"},
+{"distance":1361,"id":"ccmap:kani/link/dulaman/j:stallman:west","line":[[[2120,-12189],[2120,-10828]]],"name":"Dulaman - J:Stallman:West (KANI)","type":"link"},
 {"distance":3162,"id":"ccmap:kani/link/ellen/imc","line":[[[-9768,6046],[-8200,3300]]],"name":"Ellen - Imc (KANI)","type":"link"},
 {"distance":9441,"id":"ccmap:kani/link/ellen/j:pmts","line":[[[-9768,6046],[-2516,0]]],"name":"Ellen - J:Pmts (KANI)","type":"link"},
 {"distance":410,"id":"ccmap:kani/link/endportal/j:pend","line":[[[2314,414],[2313,4]]],"name":"Endportal - J:Pend (KANI)","type":"link"},
@@ -270,4 +272,4 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627344209","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627606931","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
