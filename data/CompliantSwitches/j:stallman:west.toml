@@ -7,4 +7,5 @@ switch = true
 links = [
  'stallman',
  'j:coe:north',
+ 'dulaman',
 ]

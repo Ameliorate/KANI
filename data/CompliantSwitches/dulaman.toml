@@ -1,0 +1,9 @@
+x = 2120
+y = 10
+z = -12189
+
+station = true
+
+links = [
+ 'j:stallman:west',
+]
