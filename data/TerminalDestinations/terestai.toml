@@ -1,8 +1,6 @@
 x = 4223
 z = 5333
 
-advisory = 'Interactions between KANI and AURA cause issues if departing from pripyat'
-
 links = [
  'j:tuff',
 ]
