@@ -1,0 +1,10 @@
+x = 7004
+y = 13
+z = -8851
+
+station = true
+
+links = [
+ 'ch1prempire',
+ 'magnasoria',
+]

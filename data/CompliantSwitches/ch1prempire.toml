@@ -1,0 +1,10 @@
+x = 7183
+y = 1
+z = -2533
+
+station = true
+
+links = [
+ "oasis",
+ "pinegarden",
+]
