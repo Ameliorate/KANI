@@ -111,7 +111,7 @@
 {"description":"City of roma","id":"ccmap:kani/node/spqr","name":"Spqr (KANI)","type":"TerminalDestinations","x":-10650,"y":9,"z":-5850},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/ssta","name":"Ssta (KANI)","type":"TerminalDestinations","x":-1957,"y":2,"z":-731},
 {"id":"ccmap:kani/node/stallman","name":"Stallman (KANI)","station":true,"type":"CompliantSwitches","x":2439,"y":5,"z":-10848},
-{"advisory":"Interactions between KANI and AURA cause issues if departing from pripyat","id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
+{"id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
 {"id":"ccmap:kani/node/topha'nya","name":"Topha'Nya (KANI)","type":"TerminalDestinations","x":-696,"y":115,"z":8667},
 {"id":"ccmap:kani/node/torndal","name":"Torndal (KANI)","station":true,"type":"CompliantSwitches","x":-403,"y":122,"z":8166},
 {"id":"ccmap:kani/node/tvtopia","name":"Tvtopia (KANI)","type":"TerminalDestinations","x":-504,"y":11,"z":-3500},
@@ -276,4 +276,4 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627612547","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627685436","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
