@@ -5,6 +5,6 @@ z = -8851
 station = true
 
 links = [
- 'ch1prempire',
+ 'j:coesav',
  'magnasoria',
 ]

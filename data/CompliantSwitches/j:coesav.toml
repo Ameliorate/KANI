@@ -1,0 +1,11 @@
+x = 7084
+z = -5796
+
+switch = true
+
+links = [
+ 'j:coe:east',
+ 'ch1prempire',
+ 'pinegarden',
+ 'savion',
+]

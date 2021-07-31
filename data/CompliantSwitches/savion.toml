@@ -5,7 +5,7 @@ z = -5807
 station = true
 
 links = [
- 'j:coe:east',
+ 'j:coesav',
  'iria',
  'iria:jungle',
  'iria:desert',

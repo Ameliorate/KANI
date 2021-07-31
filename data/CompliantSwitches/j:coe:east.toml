@@ -6,5 +6,5 @@ switch = true
 
 links = [
  'coe',
- 'savion',
+ 'j:coesav',
 ]
