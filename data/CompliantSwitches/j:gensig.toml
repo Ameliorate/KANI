@@ -10,6 +10,7 @@ links = [
  'j:icegen',
  'genso:taozi',
  'sig',
+ 'j:piria',
 ]
 
 switch = true

@@ -10,7 +10,7 @@ z = -770
 links = [
  "j:pend",
  "oasis",
- "genso:taozi",
+ "j:gensig",
  "axiom",
  "aurum",
  "aurum:cactus",
