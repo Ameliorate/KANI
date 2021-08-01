@@ -1,0 +1,12 @@
+x = 3851
+y = 5
+z = -5796
+
+switch = true
+
+links = [
+ 'j:coe:east',
+ 'j:coesav',
+ 'nyasaland',
+ 'j:gonem'
+]
