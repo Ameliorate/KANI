@@ -7,6 +7,6 @@ switch = true
 links = [
  'j:coe:east',
  'j:coesav',
- 'nyasaland',
+#'nyasaland',
  'j:gonem'
 ]
