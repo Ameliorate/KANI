@@ -167,7 +167,6 @@
 {"distance":529,"id":"ccmap:kani/link/genso:shiranui/genso:taozi","line":[[[773,-2460],[1278,-2618]]],"name":"Genso:Shiranui - Genso:Taozi (KANI)","type":"link"},
 {"distance":554,"id":"ccmap:kani/link/genso:taozi/j:coe:south","line":[[[1278,-2618],[771,-2843]]],"name":"Genso:Taozi - J:Coe:South (KANI)","type":"link"},
 {"distance":1206,"id":"ccmap:kani/link/genso:taozi/j:gensig","line":[[[1278,-2618],[1249,-1412]]],"name":"Genso:Taozi - J:Gensig (KANI)","type":"link"},
-{"distance":2525,"id":"ccmap:kani/link/genso:taozi/j:piria","line":[[[1278,-2618],[3000,-770]]],"name":"Genso:Taozi - J:Piria (KANI)","type":"link"},
 {"distance":3140,"id":"ccmap:kani/link/genso:taozi/nyasaland","line":[[[1278,-2618],[4061,-4074]]],"name":"Genso:Taozi - Nyasaland (KANI)","type":"link"},
 {"distance":1341,"id":"ccmap:kani/link/genso:taozi/old_sanctuary","line":[[[1278,-2618],[2572,-2266]]],"name":"Genso:Taozi - Old_Sanctuary (KANI)","type":"link"},
 {"distance":1630,"id":"ccmap:kani/link/genso:taozi/sig","line":[[[1278,-2618],[2315,-1360]]],"name":"Genso:Taozi - Sig (KANI)","type":"link"},
@@ -224,6 +223,7 @@
 {"distance":3086,"id":"ccmap:kani/link/j:coesav/pinegarden","line":[[[7000,-5765],[7004,-8851]]],"name":"J:Coesav - Pinegarden (KANI)","type":"link"},
 {"distance":2847,"id":"ccmap:kani/link/j:coesav/savion","line":[[[7000,-5765],[9847,-5807]]],"name":"J:Coesav - Savion (KANI)","type":"link"},
 {"distance":869,"id":"ccmap:kani/link/j:gensig/j:icegen","line":[[[1249,-1412],[380,-1412]]],"name":"J:Gensig - J:Icegen (KANI)","type":"link"},
+{"distance":1864,"id":"ccmap:kani/link/j:gensig/j:piria","line":[[[1249,-1412],[3000,-770]]],"name":"J:Gensig - J:Piria (KANI)","type":"link"},
 {"distance":1067,"id":"ccmap:kani/link/j:gensig/sig","line":[[[1249,-1412],[2315,-1360]]],"name":"J:Gensig - Sig (KANI)","type":"link"},
 {"distance":242,"id":"ccmap:kani/link/j:gntv/tvtopia","line":[[[-746,-3501],[-504,-3500]]],"name":"J:Gntv - Tvtopia (KANI)","type":"link"},
 {"distance":1412,"id":"ccmap:kani/link/j:icegen/j:knot","line":[[[380,-1412],[380,0]]],"name":"J:Icegen - J:Knot (KANI)","type":"link"},
@@ -279,4 +279,4 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627751098","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627838760","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
