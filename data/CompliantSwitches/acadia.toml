@@ -1,0 +1,12 @@
+description = "Acadia"
+
+x = 3846
+y = 1
+z = -10273
+
+station = true
+
+links = [
+ 'stallman',
+ 'gondolin'
+]
