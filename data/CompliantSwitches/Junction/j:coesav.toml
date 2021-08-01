@@ -5,7 +5,7 @@ z = -5765
 switch = true
 
 links = [
- 'j:coe:east',
+ 'j:coegon',
  'ch1prempire',
  'pinegarden',
  'savion',
