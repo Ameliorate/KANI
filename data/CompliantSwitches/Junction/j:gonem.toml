@@ -1,0 +1,11 @@
+x = 3851
+y = 11
+z = -6900
+
+switch = true
+
+links = [
+ 'em',
+ 'gondolin',
+ 'j:coegon'
+]
