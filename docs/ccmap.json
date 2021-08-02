@@ -123,7 +123,7 @@
 {"description":"City of roma","id":"ccmap:kani/node/spqr","name":"Spqr (KANI)","type":"TerminalDestinations","x":-10650,"y":9,"z":-5850},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/ssta","name":"Ssta (KANI)","type":"TerminalDestinations","x":-1957,"y":2,"z":-731},
 {"id":"ccmap:kani/node/stallman","name":"Stallman (KANI)","station":true,"type":"CompliantSwitches","x":2439,"y":5,"z":-10848},
-{"advisory":"This station's embarking track will teleport you upwards if you're not careful.","id":"ccmap:kani/node/tabatia","name":"Tabatia (KANI)","type":"TerminalDestinations","x":6552,"y":40,"z":2414},
+{"advisory":"This station's embarking track will teleport you upwards if you're not careful.","id":"ccmap:kani/node/tabatia","name":"Tabatia (KANI)","type":"TerminalDestinations","x":6552,"y":40,"z":-2414},
 {"id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
 {"id":"ccmap:kani/node/topha'nya","name":"Topha'Nya (KANI)","type":"TerminalDestinations","x":-696,"y":115,"z":8667},
 {"id":"ccmap:kani/node/torndal","name":"Torndal (KANI)","station":true,"type":"CompliantSwitches","x":-403,"y":122,"z":8166},
@@ -147,7 +147,7 @@
 {"distance":1537,"id":"ccmap:kani/link/arstotzka/j:low","line":[[[6818,-1717],[5293,-1521]]],"name":"Arstotzka - J:Low (KANI)","type":"link"},
 {"distance":221,"id":"ccmap:kani/link/arstotzka/j:tree","line":[[[6818,-1717],[6654,-1568]]],"name":"Arstotzka - J:Tree (KANI)","type":"link"},
 {"distance":266,"id":"ccmap:kani/link/arstotzka/lambat","line":[[[6818,-1717],[6893,-1461]]],"name":"Arstotzka - Lambat (KANI)","type":"link"},
-{"distance":4139,"id":"ccmap:kani/link/arstotzka/tabatia","line":[[[6818,-1717],[6552,2414]]],"name":"Arstotzka - Tabatia (KANI)","type":"link"},
+{"distance":746,"id":"ccmap:kani/link/arstotzka/tabatia","line":[[[6818,-1717],[6552,-2414]]],"name":"Arstotzka - Tabatia (KANI)","type":"link"},
 {"distance":271,"id":"ccmap:kani/link/aurum/aurum:cactus","line":[[[3036,-260],[3259,-106]]],"name":"Aurum - Aurum:Cactus (KANI)","type":"link"},
 {"distance":418,"id":"ccmap:kani/link/aurum/j:nice","line":[[[3036,-260],[3364,0]]],"name":"Aurum - J:Nice (KANI)","type":"link"},
 {"distance":511,"id":"ccmap:kani/link/aurum/j:piria","line":[[[3036,-260],[3000,-770]]],"name":"Aurum - J:Piria (KANI)","type":"link"},
@@ -309,4 +309,4 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627877470","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627877608","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
