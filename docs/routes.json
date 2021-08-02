@@ -262,8 +262,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3385,
-		"time_max": 3704
+		"time_min": 2961,
+		"time_max": 3274
 	},
 	{
 		"dest": "dulaman j:stallman:west j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -1066,8 +1066,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2260,
-		"time_max": 2377
+		"time_min": 1836,
+		"time_max": 1947
 	},
 	{
 		"dest": "pinegarden j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -1870,8 +1870,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2230,
-		"time_max": 2352
+		"time_min": 1806,
+		"time_max": 1922
 	},
 	{
 		"dest": "savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -2674,8 +2674,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1270,
-		"time_max": 1363
+		"time_min": 846,
+		"time_max": 933
 	},
 	{
 		"dest": "ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -3478,8 +3478,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1469,
-		"time_max": 1564
+		"time_min": 1045,
+		"time_max": 1134
 	},
 	{
 		"dest": "ch1prempire oasis j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -4282,8 +4282,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2692,
-		"time_max": 2814
+		"time_min": 2268,
+		"time_max": 2384
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -5086,8 +5086,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2239,
-		"time_max": 2414
+		"time_min": 1815,
+		"time_max": 1984
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -5884,14 +5884,14 @@
 		"time_max": 1755
 	},
 	{
-		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "torndal",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2694,
-		"time_max": 2789
+		"time_min": 2887,
+		"time_max": 3037
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -6694,8 +6694,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1241,
-		"time_max": 1315
+		"time_min": 817,
+		"time_max": 885
 	},
 	{
 		"dest": "oasis j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -7498,8 +7498,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1777,
-		"time_max": 1858
+		"time_min": 1353,
+		"time_max": 1428
 	},
 	{
 		"dest": "axiom j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -8302,8 +8302,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2560,
-		"time_max": 2733
+		"time_min": 2136,
+		"time_max": 2303
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -9100,14 +9100,14 @@
 		"time_max": 488
 	},
 	{
-		"dest": "0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "0,0",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1544,
-		"time_max": 1618
+		"time_min": 1737,
+		"time_max": 1866
 	},
 	{
 		"dest": "0,0 j:picenia icenia j:cabalwest ssta",
@@ -9904,14 +9904,14 @@
 		"time_max": 1826
 	},
 	{
-		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "kro'ushro",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2765,
-		"time_max": 2860
+		"time_min": 2958,
+		"time_max": 3108
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -10714,8 +10714,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2339,
-		"time_max": 2489
+		"time_min": 1915,
+		"time_max": 2059
 	},
 	{
 		"dest": "icenia j:cabalwest ssta",
@@ -11518,8 +11518,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 517,
-		"time_max": 550
+		"time_min": 93,
+		"time_max": 120
 	},
 	{
 		"dest": "arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -12322,8 +12322,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2827,
-		"time_max": 2949
+		"time_min": 2403,
+		"time_max": 2519
 	},
 	{
 		"dest": "acadia gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -13126,8 +13126,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1221,
-		"time_max": 1294
+		"time_min": 797,
+		"time_max": 864
 	},
 	{
 		"dest": "lenin_isle j:parr j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -13924,14 +13924,14 @@
 		"time_max": 1574
 	},
 	{
-		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "imc",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2681,
-		"time_max": 3056
+		"time_min": 2874,
+		"time_max": 3304
 	},
 	{
 		"dest": "imc j:pmts j:picenia icenia j:cabalwest ssta",
@@ -14734,8 +14734,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3017,
-		"time_max": 3197
+		"time_min": 2593,
+		"time_max": 2767
 	},
 	{
 		"dest": "stallman j:stallman:west j:coe:north coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -15538,8 +15538,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2126,
-		"time_max": 2276
+		"time_min": 1702,
+		"time_max": 1846
 	},
 	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -16342,8 +16342,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 745,
-		"time_max": 816
+		"time_min": 321,
+		"time_max": 386
 	},
 	{
 		"dest": "islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -17140,14 +17140,14 @@
 		"time_max": 1876
 	},
 	{
-		"dest": "pacem j:pp j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "pacem",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2827,
-		"time_max": 2910
+		"time_min": 3020,
+		"time_max": 3158
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -17950,8 +17950,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 784,
-		"time_max": 840
+		"time_min": 360,
+		"time_max": 410
 	},
 	{
 		"dest": "purazi j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -18754,8 +18754,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2409,
-		"time_max": 2577
+		"time_min": 1985,
+		"time_max": 2147
 	},
 	{
 		"dest": "icenia:drippy j:cabalwest ssta",
@@ -19558,8 +19558,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2294,
-		"time_max": 2482
+		"time_min": 1870,
+		"time_max": 2052
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -20356,14 +20356,14 @@
 		"time_max": 1684
 	},
 	{
-		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "ozonrough",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2632,
-		"time_max": 2718
+		"time_min": 2825,
+		"time_max": 2966
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -21160,14 +21160,14 @@
 		"time_max": 1364
 	},
 	{
-		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "vinland j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "vinland",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2321,
-		"time_max": 2400
+		"time_min": 2514,
+		"time_max": 2648
 	},
 	{
 		"dest": "vinland icenia j:cabalwest ssta",
@@ -21970,8 +21970,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 708,
-		"time_max": 757
+		"time_min": 284,
+		"time_max": 327
 	},
 	{
 		"dest": "vacari j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -22774,8 +22774,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2863,
-		"time_max": 3083
+		"time_min": 2439,
+		"time_max": 2653
 	},
 	{
 		"dest": "iria:jungle savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -23572,14 +23572,14 @@
 		"time_max": 1876
 	},
 	{
-		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "lriln'kriavnya",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2804,
-		"time_max": 2910
+		"time_min": 2997,
+		"time_max": 3158
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -24382,8 +24382,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1394,
-		"time_max": 1526
+		"time_min": 970,
+		"time_max": 1096
 	},
 	{
 		"dest": "caledonia j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -25186,8 +25186,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2424,
-		"time_max": 2589
+		"time_min": 2000,
+		"time_max": 2159
 	},
 	{
 		"dest": "canvasblue j:cabalwest ssta",
@@ -25734,8 +25734,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3026,
-		"time_max": 3392
+		"time_min": 2602,
+		"time_max": 2962
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire j:coesav pinegarden pinegarden:exit",
@@ -25744,8 +25744,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2260,
-		"time_max": 2377
+		"time_min": 1836,
+		"time_max": 1947
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire j:coesav savion savion:exit",
@@ -25754,8 +25754,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2230,
-		"time_max": 2352
+		"time_min": 1806,
+		"time_max": 1922
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr lenin_isle ponsportia ponsportia:exit",
@@ -25764,8 +25764,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1270,
-		"time_max": 1363
+		"time_min": 846,
+		"time_max": 933
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire ch1prempire:exit",
@@ -25774,8 +25774,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1469,
-		"time_max": 1564
+		"time_min": 1045,
+		"time_max": 1134
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi j:coe:south coe j:coe:east j:coegon j:gonem gondolin gondolin:exit",
@@ -25784,8 +25784,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3010,
-		"time_max": 3235
+		"time_min": 2586,
+		"time_max": 2805
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen j:uroe genso:roe genso:roe:exit",
@@ -25794,8 +25794,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1854,
-		"time_max": 1929
+		"time_min": 1430,
+		"time_max": 1499
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
@@ -25804,8 +25804,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2694,
-		"time_max": 2789
+		"time_min": 2270,
+		"time_max": 2359
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis oasis:exit",
@@ -25814,8 +25814,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1241,
-		"time_max": 1315
+		"time_min": 817,
+		"time_max": 885
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria axiom axiom:exit",
@@ -25824,8 +25824,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1418,
-		"time_max": 1546
+		"time_min": 994,
+		"time_max": 1116
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi j:coe:south coe coe:exit",
@@ -25834,8 +25834,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2201,
-		"time_max": 2421
+		"time_min": 1777,
+		"time_max": 1991
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 0,0:exit",
@@ -25844,8 +25844,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1544,
-		"time_max": 1618
+		"time_min": 1120,
+		"time_max": 1188
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
@@ -25854,8 +25854,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2765,
-		"time_max": 2860
+		"time_min": 2341,
+		"time_max": 2430
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
@@ -25864,8 +25864,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1927,
-		"time_max": 2004
+		"time_min": 1503,
+		"time_max": 1574
 	},
 	{
 		"dest": "tabatia arstotzka arstotzka:exit",
@@ -25874,8 +25874,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 517,
-		"time_max": 550
+		"time_min": 93,
+		"time_max": 120
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi j:coe:south coe j:coe:east j:coegon j:gonem gondolin acadia acadia:exit",
@@ -25884,8 +25884,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3145,
-		"time_max": 3370
+		"time_min": 2721,
+		"time_max": 2940
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr lenin_isle lenin_isle:exit",
@@ -25894,8 +25894,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1221,
-		"time_max": 1294
+		"time_min": 797,
+		"time_max": 864
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
@@ -25904,8 +25904,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2681,
-		"time_max": 3056
+		"time_min": 2257,
+		"time_max": 2626
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi j:coe:south coe j:coe:north j:stallman:west stallman stallman:exit",
@@ -25914,8 +25914,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2896,
-		"time_max": 3264
+		"time_min": 2472,
+		"time_max": 2834
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi genso:taozi:exit",
@@ -25924,8 +25924,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1767,
-		"time_max": 1964
+		"time_min": 1343,
+		"time_max": 1534
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental islaoccidental:exit",
@@ -25934,8 +25934,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 745,
-		"time_max": 816
+		"time_min": 321,
+		"time_max": 386
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:pp pacem",
@@ -25944,8 +25944,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2827,
-		"time_max": 2910
+		"time_min": 2403,
+		"time_max": 2480
 	},
 	{
 		"dest": "tabatia arstotzka j:low purazi",
@@ -25954,8 +25954,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 784,
-		"time_max": 840
+		"time_min": 360,
+		"time_max": 410
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
@@ -25964,8 +25964,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1973,
-		"time_max": 2094
+		"time_min": 1549,
+		"time_max": 1664
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi old_sanctuary",
@@ -25974,8 +25974,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1935,
-		"time_max": 2170
+		"time_min": 1511,
+		"time_max": 1740
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
@@ -25984,8 +25984,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2632,
-		"time_max": 2718
+		"time_min": 2208,
+		"time_max": 2288
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
@@ -25994,8 +25994,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2321,
-		"time_max": 2400
+		"time_min": 1897,
+		"time_max": 1970
 	},
 	{
 		"dest": "tabatia arstotzka j:tree vacari",
@@ -26004,8 +26004,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 708,
-		"time_max": 757
+		"time_min": 284,
+		"time_max": 327
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire j:coesav savion iria:jungle",
@@ -26014,8 +26014,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2863,
-		"time_max": 3083
+		"time_min": 2439,
+		"time_max": 2653
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
@@ -26024,8 +26024,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2804,
-		"time_max": 2910
+		"time_min": 2380,
+		"time_max": 2480
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po caledonia",
@@ -26034,8 +26034,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1394,
-		"time_max": 1526
+		"time_min": 970,
+		"time_max": 1096
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
@@ -26044,8 +26044,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1988,
-		"time_max": 2106
+		"time_min": 1564,
+		"time_max": 1676
 	},
 	{
 		"dest": "tabatia",
@@ -26064,8 +26064,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2002,
-		"time_max": 2132
+		"time_min": 1578,
+		"time_max": 1702
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
@@ -26074,8 +26074,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2786,
-		"time_max": 2872
+		"time_min": 2362,
+		"time_max": 2442
 	},
 	{
 		"dest": "tabatia arstotzka j:tree lambat:treefarms",
@@ -26084,8 +26084,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 546,
-		"time_max": 590
+		"time_min": 122,
+		"time_max": 160
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 westminster",
@@ -26094,8 +26094,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2639,
-		"time_max": 3146
+		"time_min": 2215,
+		"time_max": 2716
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po mir",
@@ -26104,8 +26104,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1657,
-		"time_max": 1741
+		"time_min": 1233,
+		"time_max": 1311
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast lord",
@@ -26114,8 +26114,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2014,
-		"time_max": 2107
+		"time_min": 1590,
+		"time_max": 1677
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire j:coesav savion iria:desert",
@@ -26124,8 +26124,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2375,
-		"time_max": 2556
+		"time_min": 1951,
+		"time_max": 2126
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen j:uroe genso:roe genso:taozi coventhia",
@@ -26134,8 +26134,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2752,
-		"time_max": 3120
+		"time_min": 2328,
+		"time_max": 2690
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice aurum",
@@ -26144,8 +26144,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1175,
-		"time_max": 1270
+		"time_min": 751,
+		"time_max": 840
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 mta",
@@ -26154,8 +26154,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2461,
-		"time_max": 2826
+		"time_min": 2037,
+		"time_max": 2396
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi j:coe:south coe j:coe:east j:coegon j:gonem em",
@@ -26164,8 +26164,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2813,
-		"time_max": 3038
+		"time_min": 2389,
+		"time_max": 2608
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:pp fortuna",
@@ -26174,8 +26174,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3413,
-		"time_max": 3627
+		"time_min": 2989,
+		"time_max": 3197
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
@@ -26184,8 +26184,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2994,
-		"time_max": 3068
+		"time_min": 2570,
+		"time_max": 2638
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj besia",
@@ -26194,8 +26194,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1222,
-		"time_max": 1301
+		"time_min": 798,
+		"time_max": 871
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi genso:farms",
@@ -26204,8 +26204,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1818,
-		"time_max": 2019
+		"time_min": 1394,
+		"time_max": 1589
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabalwest wnsta",
@@ -26214,8 +26214,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1962,
-		"time_max": 2052
+		"time_min": 1538,
+		"time_max": 1622
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
@@ -26224,8 +26224,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2035,
-		"time_max": 2149
+		"time_min": 1611,
+		"time_max": 1719
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
@@ -26234,8 +26234,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1850,
-		"time_max": 2028
+		"time_min": 1426,
+		"time_max": 1598
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:pp hjaltland",
@@ -26244,8 +26244,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3147,
-		"time_max": 3334
+		"time_min": 2723,
+		"time_max": 2904
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -26254,8 +26254,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1967,
-		"time_max": 2097
+		"time_min": 1543,
+		"time_max": 1667
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis iria",
@@ -26264,8 +26264,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1702,
-		"time_max": 1783
+		"time_min": 1278,
+		"time_max": 1353
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
@@ -26274,8 +26274,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2137,
-		"time_max": 2292
+		"time_min": 1713,
+		"time_max": 1862
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen j:uroe genso:roe genso:centi",
@@ -26284,8 +26284,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1894,
-		"time_max": 1975
+		"time_min": 1470,
+		"time_max": 1545
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
@@ -26294,8 +26294,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1550,
-		"time_max": 1731
+		"time_min": 1126,
+		"time_max": 1301
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
@@ -26304,8 +26304,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1720,
-		"time_max": 1899
+		"time_min": 1296,
+		"time_max": 1469
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia it:anburon",
@@ -26314,8 +26314,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2042,
-		"time_max": 2197
+		"time_min": 1618,
+		"time_max": 1767
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend endportal",
@@ -26324,8 +26324,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1305,
-		"time_max": 1379
+		"time_min": 881,
+		"time_max": 949
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis new_sovia",
@@ -26334,8 +26334,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1437,
-		"time_max": 1569
+		"time_min": 1013,
+		"time_max": 1139
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -26345,8 +26345,8 @@
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2274,
-		"time_max": 2519
+		"time_min": 1850,
+		"time_max": 2089
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen j:uroe genso:roe j:gntv tvtopia",
@@ -26355,8 +26355,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2049,
-		"time_max": 2185
+		"time_min": 1625,
+		"time_max": 1755
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:palex alexandria",
@@ -26365,8 +26365,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2533,
-		"time_max": 2608
+		"time_min": 2109,
+		"time_max": 2178
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:nether",
@@ -26375,8 +26375,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2028,
-		"time_max": 2166
+		"time_min": 1604,
+		"time_max": 1736
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:atlantica",
@@ -26385,8 +26385,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2010,
-		"time_max": 2115
+		"time_min": 1586,
+		"time_max": 1685
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria aurum:cactus",
@@ -26395,8 +26395,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1472,
-		"time_max": 1626
+		"time_min": 1048,
+		"time_max": 1196
 	},
 	{
 		"dest": "tabatia arstotzka lambat",
@@ -26405,8 +26405,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 550,
-		"time_max": 591
+		"time_min": 126,
+		"time_max": 161
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
@@ -26415,8 +26415,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2802,
-		"time_max": 2905
+		"time_min": 2378,
+		"time_max": 2475
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot wayrest",
@@ -26425,8 +26425,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1610,
-		"time_max": 1700
+		"time_min": 1186,
+		"time_max": 1270
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
@@ -26435,8 +26435,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2548,
-		"time_max": 2624
+		"time_min": 2124,
+		"time_max": 2194
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
@@ -26445,8 +26445,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2453,
-		"time_max": 2529
+		"time_min": 2029,
+		"time_max": 2099
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:parr arrelani",
@@ -26455,8 +26455,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1292,
-		"time_max": 1428
+		"time_min": 868,
+		"time_max": 998
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts ellen",
@@ -26465,8 +26465,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3039,
-		"time_max": 3595
+		"time_min": 2615,
+		"time_max": 3165
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:pbnj j:po oasis ch1prempire j:coesav pinegarden magnasoria",
@@ -26475,8 +26475,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2316,
-		"time_max": 2439
+		"time_min": 1892,
+		"time_max": 2009
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia alpoko",
@@ -26485,8 +26485,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2146,
-		"time_max": 2268
+		"time_min": 1722,
+		"time_max": 1838
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot netherfarm",
@@ -26495,8 +26495,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1588,
-		"time_max": 1662
+		"time_min": 1164,
+		"time_max": 1232
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia varkonia",
@@ -26505,8 +26505,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2360,
-		"time_max": 2570
+		"time_min": 1936,
+		"time_max": 2140
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
@@ -26515,8 +26515,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2789,
-		"time_max": 2894
+		"time_min": 2365,
+		"time_max": 2464
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
@@ -26525,8 +26525,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2725,
-		"time_max": 2820
+		"time_min": 2301,
+		"time_max": 2390
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig sig",
@@ -26535,8 +26535,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1749,
-		"time_max": 1950
+		"time_min": 1325,
+		"time_max": 1520
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc cape_cocoa",
@@ -26545,8 +26545,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1147,
-		"time_max": 1220
+		"time_min": 723,
+		"time_max": 790
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 jevoghnya",
@@ -26555,8 +26555,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2677,
-		"time_max": 2765
+		"time_min": 2253,
+		"time_max": 2335
 	},
 	{
 		"dest": "tabatia arstotzka j:tree lendiforma:mesa",
@@ -26565,8 +26565,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 565,
-		"time_max": 609
+		"time_min": 141,
+		"time_max": 179
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia spqr",
@@ -26575,8 +26575,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3179,
-		"time_max": 3679
+		"time_min": 2755,
+		"time_max": 3249
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
@@ -26585,8 +26585,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2745,
-		"time_max": 2846
+		"time_min": 2321,
+		"time_max": 2416
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:piria j:gensig genso:taozi nyasaland",
@@ -26595,8 +26595,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2160,
-		"time_max": 2494
+		"time_min": 1736,
+		"time_max": 2064
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia bloom",
@@ -26605,8 +26605,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2086,
-		"time_max": 2217
+		"time_min": 1662,
+		"time_max": 1787
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental crowsroost",
@@ -26615,8 +26615,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 967,
-		"time_max": 1040
+		"time_min": 543,
+		"time_max": 610
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:potato",
@@ -26625,8 +26625,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1991,
-		"time_max": 2107
+		"time_min": 1567,
+		"time_max": 1677
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its qbipfb",
@@ -26635,8 +26635,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1968,
-		"time_max": 2057
+		"time_min": 1544,
+		"time_max": 1627
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its beach",
@@ -26645,8 +26645,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1954,
-		"time_max": 2037
+		"time_min": 1530,
+		"time_max": 1607
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its adytum",
@@ -26655,8 +26655,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1994,
-		"time_max": 2088
+		"time_min": 1570,
+		"time_max": 1658
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its skybunker",
@@ -26665,8 +26665,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1960,
-		"time_max": 2044
+		"time_min": 1536,
+		"time_max": 1614
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its hji",
@@ -26675,8 +26675,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1961,
-		"time_max": 2048
+		"time_min": 1537,
+		"time_max": 1618
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its subway",
@@ -26685,8 +26685,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1951,
-		"time_max": 2033
+		"time_min": 1527,
+		"time_max": 1603
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its office",
@@ -26695,8 +26695,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1953,
-		"time_max": 2034
+		"time_min": 1529,
+		"time_max": 1604
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its iceniapark",
@@ -26705,8 +26705,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1948,
-		"time_max": 2029
+		"time_min": 1524,
+		"time_max": 1599
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its versailles",
@@ -26715,8 +26715,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1958,
-		"time_max": 2040
+		"time_min": 1534,
+		"time_max": 1610
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot j:icegen icenia its bayloop",
@@ -26725,8 +26725,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1953,
-		"time_max": 2035
+		"time_min": 1529,
+		"time_max": 1605
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:icegen j:uroe j:coe:south coe j:coe:north j:stallman:west dulaman dulaman:exit",
@@ -26991,8 +26991,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2438,
-		"time_max": 2615
+		"time_min": 2014,
+		"time_max": 2185
 	},
 	{
 		"dest": "ssta",
@@ -27789,14 +27789,14 @@
 		"time_max": 1838
 	},
 	{
-		"dest": "forta'are j:pp j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "forta'are",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2786,
-		"time_max": 2872
+		"time_min": 2979,
+		"time_max": 3120
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -28599,8 +28599,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 546,
-		"time_max": 590
+		"time_min": 122,
+		"time_max": 160
 	},
 	{
 		"dest": "lambat:treefarms j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -29397,14 +29397,14 @@
 		"time_max": 1600
 	},
 	{
-		"dest": "westminster 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "westminster 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "westminster",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2639,
-		"time_max": 3146
+		"time_min": 2832,
+		"time_max": 3394
 	},
 	{
 		"dest": "westminster icenia j:cabalwest ssta",
@@ -30207,8 +30207,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1657,
-		"time_max": 1741
+		"time_min": 1233,
+		"time_max": 1311
 	},
 	{
 		"dest": "mir j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -31011,8 +31011,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2426,
-		"time_max": 2592
+		"time_min": 2002,
+		"time_max": 2162
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:cabalwest ssta",
@@ -31815,8 +31815,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2375,
-		"time_max": 2556
+		"time_min": 1951,
+		"time_max": 2126
 	},
 	{
 		"dest": "iria:desert savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -32619,8 +32619,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2911,
-		"time_max": 3329
+		"time_min": 2487,
+		"time_max": 2899
 	},
 	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -33417,14 +33417,14 @@
 		"time_max": 834
 	},
 	{
-		"dest": "aurum j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "aurum j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "aurum",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1175,
-		"time_max": 1270
+		"time_min": 1382,
+		"time_max": 1461
 	},
 	{
 		"dest": "aurum j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -34221,14 +34221,14 @@
 		"time_max": 1281
 	},
 	{
-		"dest": "mta 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "mta 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "mta",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2461,
-		"time_max": 2826
+		"time_min": 2654,
+		"time_max": 3074
 	},
 	{
 		"dest": "mta icenia j:cabalwest ssta",
@@ -35031,8 +35031,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2495,
-		"time_max": 2617
+		"time_min": 2071,
+		"time_max": 2187
 	},
 	{
 		"dest": "em j:gonem j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -35829,14 +35829,14 @@
 		"time_max": 2593
 	},
 	{
-		"dest": "fortuna j:pp j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "fortuna",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3413,
-		"time_max": 3627
+		"time_min": 3606,
+		"time_max": 3875
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -36633,14 +36633,14 @@
 		"time_max": 1586
 	},
 	{
-		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "hje",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2994,
-		"time_max": 3068
+		"time_min": 3187,
+		"time_max": 3316
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia j:cabalwest ssta",
@@ -37443,8 +37443,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1222,
-		"time_max": 1301
+		"time_min": 798,
+		"time_max": 871
 	},
 	{
 		"dest": "besia j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -38247,8 +38247,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2177,
-		"time_max": 2331
+		"time_min": 1753,
+		"time_max": 1901
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -39051,8 +39051,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2374,
-		"time_max": 2537
+		"time_min": 1950,
+		"time_max": 2107
 	},
 	{
 		"dest": "wnsta j:cabalwest ssta",
@@ -39855,8 +39855,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2192,
-		"time_max": 2359
+		"time_min": 1768,
+		"time_max": 1929
 	},
 	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -40659,8 +40659,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1850,
-		"time_max": 2028
+		"time_min": 1426,
+		"time_max": 1598
 	},
 	{
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -41457,14 +41457,14 @@
 		"time_max": 2300
 	},
 	{
-		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "hjaltland",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3147,
-		"time_max": 3334
+		"time_min": 3340,
+		"time_max": 3582
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -42267,8 +42267,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2403,
-		"time_max": 2580
+		"time_min": 1979,
+		"time_max": 2150
 	},
 	{
 		"dest": "icenia:westisle j:cabalwest ssta",
@@ -43071,8 +43071,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1702,
-		"time_max": 1783
+		"time_min": 1278,
+		"time_max": 1353
 	},
 	{
 		"dest": "iria oasis j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -43869,14 +43869,14 @@
 		"time_max": 388
 	},
 	{
-		"dest": "gabon j:picenia 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "gabon j:gntv genso:roe genso:taozi j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "gabon",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2078,
-		"time_max": 2294
+		"time_min": 2311,
+		"time_max": 2655
 	},
 	{
 		"dest": "gabon icenia j:cabalwest ssta",
@@ -44679,8 +44679,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2279,
-		"time_max": 2460
+		"time_min": 1855,
+		"time_max": 2030
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -45483,8 +45483,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1550,
-		"time_max": 1731
+		"time_min": 1126,
+		"time_max": 1301
 	},
 	{
 		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -46287,8 +46287,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1720,
-		"time_max": 1899
+		"time_min": 1296,
+		"time_max": 1469
 	},
 	{
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -47091,8 +47091,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2478,
-		"time_max": 2680
+		"time_min": 2054,
+		"time_max": 2250
 	},
 	{
 		"dest": "it:anburon icenia j:cabalwest ssta",
@@ -47889,14 +47889,14 @@
 		"time_max": 829
 	},
 	{
-		"dest": "endportal j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "endportal j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "endportal",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1305,
-		"time_max": 1379
+		"time_min": 1498,
+		"time_max": 1627
 	},
 	{
 		"dest": "endportal j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -48699,8 +48699,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1437,
-		"time_max": 1569
+		"time_min": 1013,
+		"time_max": 1139
 	},
 	{
 		"dest": "new_sovia oasis j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -49561,15 +49561,15 @@
 		"time_max": 1037
 	},
 	{
-		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "mts",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful.",
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2274,
-		"time_max": 2519
+		"time_min": 2467,
+		"time_max": 2767
 	},
 	{
 		"dest": "mts j:pmts j:picenia icenia j:cabalwest ssta",
@@ -50504,8 +50504,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2434,
-		"time_max": 2670
+		"time_min": 2010,
+		"time_max": 2240
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -51302,14 +51302,14 @@
 		"time_max": 1574
 	},
 	{
-		"dest": "alexandria j:palex j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "alexandria",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2533,
-		"time_max": 2608
+		"time_min": 2726,
+		"time_max": 2856
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -52112,8 +52112,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2464,
-		"time_max": 2649
+		"time_min": 2040,
+		"time_max": 2219
 	},
 	{
 		"dest": "icenia:nether j:cabalwest ssta",
@@ -52916,8 +52916,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2422,
-		"time_max": 2600
+		"time_min": 1998,
+		"time_max": 2170
 	},
 	{
 		"dest": "icenia:atlantica icenia j:cabalwest ssta",
@@ -53720,8 +53720,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1831,
-		"time_max": 1938
+		"time_min": 1407,
+		"time_max": 1508
 	},
 	{
 		"dest": "aurum:cactus j:piria j:gensig j:icegen icenia j:cabalwest ssta",
@@ -54524,8 +54524,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 550,
-		"time_max": 591
+		"time_min": 126,
+		"time_max": 161
 	},
 	{
 		"dest": "lambat arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -55322,14 +55322,14 @@
 		"time_max": 1871
 	},
 	{
-		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "topha'nya",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2802,
-		"time_max": 2905
+		"time_min": 2995,
+		"time_max": 3153
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -56126,14 +56126,14 @@
 		"time_max": 666
 	},
 	{
-		"dest": "wayrest j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "wayrest j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "wayrest",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1610,
-		"time_max": 1700
+		"time_min": 1803,
+		"time_max": 1948
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia icenia j:cabalwest ssta",
@@ -56930,14 +56930,14 @@
 		"time_max": 1590
 	},
 	{
-		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "hiyo'mek",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2548,
-		"time_max": 2624
+		"time_min": 2741,
+		"time_max": 2872
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -57740,8 +57740,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3038,
-		"time_max": 3330
+		"time_min": 2614,
+		"time_max": 2900
 	},
 	{
 		"dest": "kallos icenia j:cabalwest ssta",
@@ -58544,8 +58544,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1292,
-		"time_max": 1428
+		"time_min": 868,
+		"time_max": 998
 	},
 	{
 		"dest": "arrelani j:parr j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -59342,14 +59342,14 @@
 		"time_max": 2113
 	},
 	{
-		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "ellen",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3039,
-		"time_max": 3595
+		"time_min": 3232,
+		"time_max": 3843
 	},
 	{
 		"dest": "ellen j:pmts j:picenia icenia j:cabalwest ssta",
@@ -60152,8 +60152,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2316,
-		"time_max": 2439
+		"time_min": 1892,
+		"time_max": 2009
 	},
 	{
 		"dest": "magnasoria pinegarden j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia j:cabalwest ssta",
@@ -60956,8 +60956,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2582,
-		"time_max": 2751
+		"time_min": 2158,
+		"time_max": 2321
 	},
 	{
 		"dest": "alpoko icenia j:cabalwest ssta",
@@ -61754,14 +61754,14 @@
 		"time_max": 628
 	},
 	{
-		"dest": "netherfarm j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "netherfarm j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "netherfarm",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1588,
-		"time_max": 1662
+		"time_min": 1781,
+		"time_max": 1910
 	},
 	{
 		"dest": "netherfarm j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -62564,8 +62564,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2772,
-		"time_max": 3055
+		"time_min": 2348,
+		"time_max": 2625
 	},
 	{
 		"dest": "varkonia icenia j:cabalwest ssta",
@@ -63362,14 +63362,14 @@
 		"time_max": 1860
 	},
 	{
-		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "socalist_ruler",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2789,
-		"time_max": 2894
+		"time_min": 2982,
+		"time_max": 3142
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -64166,14 +64166,14 @@
 		"time_max": 1786
 	},
 	{
-		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "nro'meagh",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2725,
-		"time_max": 2820
+		"time_min": 2918,
+		"time_max": 3068
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -64976,8 +64976,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2108,
-		"time_max": 2262
+		"time_min": 1684,
+		"time_max": 1832
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia j:cabalwest ssta",
@@ -65780,8 +65780,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1147,
-		"time_max": 1220
+		"time_min": 723,
+		"time_max": 790
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -66578,14 +66578,14 @@
 		"time_max": 1731
 	},
 	{
-		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "jevoghnya",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2677,
-		"time_max": 2765
+		"time_min": 2870,
+		"time_max": 3013
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -67388,8 +67388,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 565,
-		"time_max": 609
+		"time_min": 141,
+		"time_max": 179
 	},
 	{
 		"dest": "lendiforma:mesa j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -68192,8 +68192,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 3591,
-		"time_max": 4164
+		"time_min": 3167,
+		"time_max": 3734
 	},
 	{
 		"dest": "spqr icenia j:cabalwest ssta",
@@ -68990,14 +68990,14 @@
 		"time_max": 1812
 	},
 	{
-		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
+		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
 		"from": "il'olmhir",
 		"to": "tabatia",
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2745,
-		"time_max": 2846
+		"time_min": 2938,
+		"time_max": 3094
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia j:cabalwest ssta",
@@ -69800,8 +69800,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2519,
-		"time_max": 2806
+		"time_min": 2095,
+		"time_max": 2376
 	},
 	{
 		"dest": "nyasaland taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -70604,8 +70604,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2570,
-		"time_max": 2777
+		"time_min": 2146,
+		"time_max": 2347
 	},
 	{
 		"dest": "bloom icenia j:cabalwest ssta",
@@ -71408,8 +71408,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 967,
-		"time_max": 1040
+		"time_min": 543,
+		"time_max": 610
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia j:cabalwest ssta",
@@ -72212,8 +72212,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2427,
-		"time_max": 2590
+		"time_min": 2003,
+		"time_max": 2160
 	},
 	{
 		"dest": "icenia:potato icenia j:cabalwest ssta",
@@ -73016,8 +73016,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2380,
-		"time_max": 2542
+		"time_min": 1956,
+		"time_max": 2112
 	},
 	{
 		"dest": "its:qbipfb j:its icenia j:cabalwest ssta",
@@ -73820,8 +73820,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2366,
-		"time_max": 2522
+		"time_min": 1942,
+		"time_max": 2092
 	},
 	{
 		"dest": "its:beach j:its icenia j:cabalwest ssta",
@@ -74624,8 +74624,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2406,
-		"time_max": 2573
+		"time_min": 1982,
+		"time_max": 2143
 	},
 	{
 		"dest": "its:adytum j:its icenia j:cabalwest ssta",
@@ -75428,8 +75428,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2372,
-		"time_max": 2529
+		"time_min": 1948,
+		"time_max": 2099
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:cabalwest ssta",
@@ -76232,8 +76232,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2373,
-		"time_max": 2533
+		"time_min": 1949,
+		"time_max": 2103
 	},
 	{
 		"dest": "its:hji j:its icenia j:cabalwest ssta",
@@ -77036,8 +77036,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2363,
-		"time_max": 2518
+		"time_min": 1939,
+		"time_max": 2088
 	},
 	{
 		"dest": "its:subway j:its icenia j:cabalwest ssta",
@@ -77840,8 +77840,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2365,
-		"time_max": 2519
+		"time_min": 1941,
+		"time_max": 2089
 	},
 	{
 		"dest": "its:office j:its icenia j:cabalwest ssta",
@@ -78644,8 +78644,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2360,
-		"time_max": 2514
+		"time_min": 1936,
+		"time_max": 2084
 	},
 	{
 		"dest": "its:iceniapark j:its icenia j:cabalwest ssta",
@@ -79448,8 +79448,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2370,
-		"time_max": 2525
+		"time_min": 1946,
+		"time_max": 2095
 	},
 	{
 		"dest": "its:versailles j:its icenia j:cabalwest ssta",
@@ -80252,8 +80252,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 2365,
-		"time_max": 2520
+		"time_min": 1941,
+		"time_max": 2090
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:cabalwest ssta",
