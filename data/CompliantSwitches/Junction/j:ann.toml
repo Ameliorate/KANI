@@ -1,0 +1,13 @@
+x = 3853
+y = 6
+z = -3730
+
+switch = true
+
+links = [
+ 'j:nyaann',
+ 'j:ppcc',
+#'coe' # Awaiting connection to be made into the switch
+ 'annwyn:cactus',
+#'ch1prempire', #Need to check
+]

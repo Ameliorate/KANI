@@ -1,0 +1,13 @@
+x = 4061
+y = 25
+z = -4074
+
+station = true
+
+links = [
+ 'j:gntv',
+ 'j:nyaann',
+ 'genso:taozi',
+ 'lutrelia',
+ 'purazi',
+]

@@ -8,7 +8,6 @@ links = [
  'genso:roe',
  'tvtopia',
  'gabon',
-#'nyasaland', # Can't get to gntv from nyasaland
-#'em', # These two rails are not varified to work correctly.
-#'gondolin',
+ 'valyria',
+ 'nyasaland',
 ]

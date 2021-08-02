@@ -1,0 +1,12 @@
+x = 3861
+y = 1
+z = -3908
+
+switch = true
+
+links = [
+ 'nyasaland',
+ 'j:coegon',
+ 'j:ann',
+ 'threelakes',
+]
