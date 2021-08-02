@@ -446,8 +446,8 @@
 		"from": "dulaman",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1344,
-		"time_max": 1549
+		"time_min": 1315,
+		"time_max": 1494
 	},
 	{
 		"dest": "dulaman j:stallman:west j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -1282,8 +1282,8 @@
 		"from": "pinegarden",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 914,
-		"time_max": 973
+		"time_min": 885,
+		"time_max": 918
 	},
 	{
 		"dest": "pinegarden j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -2118,8 +2118,8 @@
 		"from": "savion",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 884,
-		"time_max": 948
+		"time_min": 855,
+		"time_max": 893
 	},
 	{
 		"dest": "savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -2954,8 +2954,8 @@
 		"from": "ponsportia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1450,
-		"time_max": 1879
+		"time_min": 1334,
+		"time_max": 1754
 	},
 	{
 		"dest": "ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -3790,8 +3790,8 @@
 		"from": "ch1prempire",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 933,
-		"time_max": 1014
+		"time_min": 904,
+		"time_max": 959
 	},
 	{
 		"dest": "ch1prempire oasis j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -4626,8 +4626,8 @@
 		"from": "gondolin",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 558,
-		"time_max": 614
+		"time_min": 529,
+		"time_max": 559
 	},
 	{
 		"dest": "gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -5462,8 +5462,8 @@
 		"from": "genso:roe",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 879,
-		"time_max": 1141
+		"time_min": 763,
+		"time_max": 1016
 	},
 	{
 		"dest": "genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -6298,8 +6298,8 @@
 		"from": "torndal",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2486,
-		"time_max": 2566
+		"time_min": 2457,
+		"time_max": 2511
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -7130,12 +7130,12 @@
 		"time_max": 2697
 	},
 	{
-		"dest": "oasis ch1prempire j:coesav j:coegon threelakes",
+		"dest": "oasis j:piria j:gensig genso:taozi nyasaland j:nyaann threelakes",
 		"from": "oasis",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1161,
-		"time_max": 1263
+		"time_min": 1535,
+		"time_max": 1839
 	},
 	{
 		"dest": "oasis j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -7970,8 +7970,8 @@
 		"from": "axiom",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1185,
-		"time_max": 1491
+		"time_min": 1069,
+		"time_max": 1366
 	},
 	{
 		"dest": "axiom j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -8806,8 +8806,8 @@
 		"from": "coe",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 519,
-		"time_max": 578
+		"time_min": 490,
+		"time_max": 523
 	},
 	{
 		"dest": "coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -9642,8 +9642,8 @@
 		"from": "0,0",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1336,
-		"time_max": 1395
+		"time_min": 1307,
+		"time_max": 1340
 	},
 	{
 		"dest": "0,0 j:picenia icenia icenia:westisle",
@@ -10478,8 +10478,8 @@
 		"from": "kro'ushro",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2557,
-		"time_max": 2637
+		"time_min": 2528,
+		"time_max": 2582
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -11314,8 +11314,8 @@
 		"from": "icenia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1367,
-		"time_max": 1429
+		"time_min": 1338,
+		"time_max": 1374
 	},
 	{
 		"dest": "icenia icenia:westisle",
@@ -12150,8 +12150,8 @@
 		"from": "arstotzka",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1376,
-		"time_max": 1505
+		"time_min": 1260,
+		"time_max": 1380
 	},
 	{
 		"dest": "arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -12986,8 +12986,8 @@
 		"from": "acadia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 693,
-		"time_max": 749
+		"time_min": 664,
+		"time_max": 694
 	},
 	{
 		"dest": "acadia gondolin j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -13822,8 +13822,8 @@
 		"from": "lenin_isle",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1508,
-		"time_max": 1869
+		"time_min": 1392,
+		"time_max": 1744
 	},
 	{
 		"dest": "lenin_isle j:parr j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -14658,8 +14658,8 @@
 		"from": "imc",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2511,
-		"time_max": 2903
+		"time_min": 2482,
+		"time_max": 2848
 	},
 	{
 		"dest": "imc j:pmts j:picenia icenia icenia:westisle",
@@ -15494,8 +15494,8 @@
 		"from": "stallman",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 883,
-		"time_max": 997
+		"time_min": 854,
+		"time_max": 942
 	},
 	{
 		"dest": "stallman j:stallman:west j:coe:north coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -16330,8 +16330,8 @@
 		"from": "genso:taozi",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 766,
-		"time_max": 1003
+		"time_min": 650,
+		"time_max": 878
 	},
 	{
 		"dest": "genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -17166,8 +17166,8 @@
 		"from": "nyasaland",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 373,
-		"time_max": 473
+		"time_min": 257,
+		"time_max": 348
 	},
 	{
 		"dest": "nyasaland j:gntv genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -18002,8 +18002,8 @@
 		"from": "islaoccidental",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1148,
-		"time_max": 1239
+		"time_min": 1032,
+		"time_max": 1114
 	},
 	{
 		"dest": "islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -18838,8 +18838,8 @@
 		"from": "valyria",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1633,
-		"time_max": 1992
+		"time_min": 1517,
+		"time_max": 1867
 	},
 	{
 		"dest": "valyria j:gntv genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -19674,8 +19674,8 @@
 		"from": "pacem",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2619,
-		"time_max": 2687
+		"time_min": 2590,
+		"time_max": 2632
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -20510,8 +20510,8 @@
 		"from": "purazi",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 702,
-		"time_max": 871
+		"time_min": 586,
+		"time_max": 746
 	},
 	{
 		"dest": "purazi nyasaland j:gntv genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -21346,8 +21346,8 @@
 		"from": "icenia:drippy",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1437,
-		"time_max": 1517
+		"time_min": 1408,
+		"time_max": 1462
 	},
 	{
 		"dest": "icenia:drippy j:cabalwest westisle",
@@ -22182,8 +22182,8 @@
 		"from": "old_sanctuary",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 934,
-		"time_max": 1209
+		"time_min": 818,
+		"time_max": 1084
 	},
 	{
 		"dest": "old_sanctuary genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -23018,8 +23018,8 @@
 		"from": "ozonrough",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2424,
-		"time_max": 2495
+		"time_min": 2395,
+		"time_max": 2440
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -23850,12 +23850,12 @@
 		"time_max": 2594
 	},
 	{
-		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe j:coe:east j:coegon threelakes",
+		"dest": "vinland j:knot j:icegen j:uroe j:coe:south coe j:coe:east j:coegon threelakes",
 		"from": "vinland",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2405,
-		"time_max": 2693
+		"time_min": 2084,
+		"time_max": 2122
 	},
 	{
 		"dest": "vinland icenia icenia:westisle",
@@ -24690,8 +24690,8 @@
 		"from": "vacari",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1567,
-		"time_max": 1712
+		"time_min": 1451,
+		"time_max": 1587
 	},
 	{
 		"dest": "vacari j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -25526,8 +25526,8 @@
 		"from": "iria:jungle",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1517,
-		"time_max": 1679
+		"time_min": 1488,
+		"time_max": 1624
 	},
 	{
 		"dest": "iria:jungle savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -26362,8 +26362,8 @@
 		"from": "lriln'kriavnya",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2596,
-		"time_max": 2687
+		"time_min": 2567,
+		"time_max": 2632
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -27194,12 +27194,12 @@
 		"time_max": 2894
 	},
 	{
-		"dest": "caledonia j:po oasis ch1prempire j:coesav j:coegon threelakes",
+		"dest": "caledonia j:po oasis j:piria j:gensig genso:taozi nyasaland j:nyaann threelakes",
 		"from": "caledonia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1492,
-		"time_max": 1654
+		"time_min": 1866,
+		"time_max": 2230
 	},
 	{
 		"dest": "caledonia j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -28034,8 +28034,8 @@
 		"from": "canvasblue",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1452,
-		"time_max": 1529
+		"time_min": 1423,
+		"time_max": 1474
 	},
 	{
 		"dest": "canvasblue j:cabalwest westisle",
@@ -28870,8 +28870,8 @@
 		"from": "annwyn:cactus",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 448,
-		"time_max": 555
+		"time_min": 332,
+		"time_max": 430
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -29816,8 +29816,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1469,
-		"time_max": 1625
+		"time_min": 1353,
+		"time_max": 1500
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -30747,8 +30747,8 @@
 		"from": "ssta",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1466,
-		"time_max": 1555
+		"time_min": 1437,
+		"time_max": 1500
 	},
 	{
 		"dest": "ssta j:cabalwest westisle",
@@ -31583,8 +31583,8 @@
 		"from": "forta'are",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2578,
-		"time_max": 2649
+		"time_min": 2549,
+		"time_max": 2594
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -32419,8 +32419,8 @@
 		"from": "lambat:treefarms",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1405,
-		"time_max": 1545
+		"time_min": 1289,
+		"time_max": 1420
 	},
 	{
 		"dest": "lambat:treefarms j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -33255,8 +33255,8 @@
 		"from": "westminster",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2432,
-		"time_max": 2929
+		"time_min": 2403,
+		"time_max": 2874
 	},
 	{
 		"dest": "westminster icenia icenia:westisle",
@@ -34087,12 +34087,12 @@
 		"time_max": 3109
 	},
 	{
-		"dest": "mir savion j:coesav j:coegon threelakes",
+		"dest": "mir j:po oasis j:piria j:gensig genso:taozi nyasaland j:nyaann threelakes",
 		"from": "mir",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1614,
-		"time_max": 1812
+		"time_min": 2129,
+		"time_max": 2445
 	},
 	{
 		"dest": "mir j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -34927,8 +34927,8 @@
 		"from": "icenia:lord",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1454,
-		"time_max": 1532
+		"time_min": 1425,
+		"time_max": 1477
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia icenia:westisle",
@@ -35763,8 +35763,8 @@
 		"from": "iria:desert",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1029,
-		"time_max": 1152
+		"time_min": 1000,
+		"time_max": 1097
 	},
 	{
 		"dest": "iria:desert savion j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -36599,8 +36599,8 @@
 		"from": "coventhia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1551,
-		"time_max": 2056
+		"time_min": 1435,
+		"time_max": 1931
 	},
 	{
 		"dest": "coventhia genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -37435,8 +37435,8 @@
 		"from": "aurum",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1214,
-		"time_max": 1524
+		"time_min": 1098,
+		"time_max": 1399
 	},
 	{
 		"dest": "aurum j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -38271,8 +38271,8 @@
 		"from": "mta",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2204,
-		"time_max": 2610
+		"time_min": 2175,
+		"time_max": 2555
 	},
 	{
 		"dest": "mta icenia icenia:westisle",
@@ -39107,8 +39107,8 @@
 		"from": "em",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 361,
-		"time_max": 417
+		"time_min": 332,
+		"time_max": 362
 	},
 	{
 		"dest": "em j:gonem j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -39943,8 +39943,8 @@
 		"from": "fortuna",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 3205,
-		"time_max": 3404
+		"time_min": 3176,
+		"time_max": 3349
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -40779,8 +40779,8 @@
 		"from": "hje",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2824,
-		"time_max": 2915
+		"time_min": 2795,
+		"time_max": 2860
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia icenia icenia:westisle",
@@ -41615,8 +41615,8 @@
 		"from": "besia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1295,
-		"time_max": 1390
+		"time_min": 1179,
+		"time_max": 1265
 	},
 	{
 		"dest": "besia j:pbnj j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -42451,8 +42451,8 @@
 		"from": "genso:farms",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 817,
-		"time_max": 1058
+		"time_min": 701,
+		"time_max": 933
 	},
 	{
 		"dest": "genso:farms genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -43287,8 +43287,8 @@
 		"from": "wnsta",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1477
+		"time_min": 1373,
+		"time_max": 1422
 	},
 	{
 		"dest": "wnsta j:cabalwest westisle",
@@ -44123,8 +44123,8 @@
 		"from": "genso:shiranui",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 832,
-		"time_max": 1086
+		"time_min": 716,
+		"time_max": 961
 	},
 	{
 		"dest": "genso:shiranui genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -44959,8 +44959,8 @@
 		"from": "terestai",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2030,
-		"time_max": 2544
+		"time_min": 1914,
+		"time_max": 2419
 	},
 	{
 		"dest": "terestai j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -45795,8 +45795,8 @@
 		"from": "hjaltland",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2939,
-		"time_max": 3111
+		"time_min": 2910,
+		"time_max": 3056
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -46189,280 +46189,280 @@
 		"from": "threelakes",
 		"to": "dulaman",
 		"advisory": {},
-		"time_min": 1093,
-		"time_max": 1209
+		"time_min": 1064,
+		"time_max": 1154
 	},
 	{
 		"dest": "threelakes j:coegon j:coesav pinegarden pinegarden:exit",
 		"from": "threelakes",
 		"to": "pinegarden",
 		"advisory": {},
-		"time_min": 914,
-		"time_max": 973
+		"time_min": 885,
+		"time_max": 918
 	},
 	{
 		"dest": "threelakes j:coegon j:coesav savion savion:exit",
 		"from": "threelakes",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 884,
-		"time_max": 948
+		"time_min": 855,
+		"time_max": 893
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr lenin_isle ponsportia ponsportia:exit",
 		"from": "threelakes",
 		"to": "ponsportia",
 		"advisory": {},
-		"time_min": 1035,
-		"time_max": 1144
+		"time_min": 919,
+		"time_max": 1019
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis ch1prempire ch1prempire:exit",
 		"from": "threelakes",
 		"to": "ch1prempire",
 		"advisory": {},
-		"time_min": 1542,
-		"time_max": 1653
+		"time_min": 1426,
+		"time_max": 1528
 	},
 	{
 		"dest": "threelakes j:coegon j:gonem gondolin gondolin:exit",
 		"from": "threelakes",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 558,
-		"time_max": 614
+		"time_min": 529,
+		"time_max": 559
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland genso:taozi genso:roe genso:roe:exit",
 		"from": "threelakes",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 879,
-		"time_max": 1141
+		"time_min": 763,
+		"time_max": 1016
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "threelakes",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2459,
-		"time_max": 2570
+		"time_min": 2343,
+		"time_max": 2445
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis oasis:exit",
 		"from": "threelakes",
 		"to": "oasis",
 		"advisory": {},
-		"time_min": 1314,
-		"time_max": 1404
+		"time_min": 1198,
+		"time_max": 1279
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:piria axiom axiom:exit",
 		"from": "threelakes",
 		"to": "axiom",
 		"advisory": {},
-		"time_min": 1183,
-		"time_max": 1327
+		"time_min": 1067,
+		"time_max": 1202
 	},
 	{
 		"dest": "threelakes j:coegon j:coe:east coe coe:exit",
 		"from": "threelakes",
 		"to": "coe",
 		"advisory": {},
-		"time_min": 519,
-		"time_max": 578
+		"time_min": 490,
+		"time_max": 523
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 0,0:exit",
 		"from": "threelakes",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 1309,
-		"time_max": 1399
+		"time_min": 1193,
+		"time_max": 1274
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "threelakes",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2530,
-		"time_max": 2641
+		"time_min": 2414,
+		"time_max": 2516
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "threelakes",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1692,
-		"time_max": 1785
+		"time_min": 1576,
+		"time_max": 1660
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka arstotzka:exit",
 		"from": "threelakes",
 		"to": "arstotzka",
 		"advisory": {},
-		"time_min": 1376,
-		"time_max": 1505
+		"time_min": 1260,
+		"time_max": 1380
 	},
 	{
 		"dest": "threelakes j:coegon j:gonem gondolin acadia acadia:exit",
 		"from": "threelakes",
 		"to": "acadia",
 		"advisory": {},
-		"time_min": 693,
-		"time_max": 749
+		"time_min": 664,
+		"time_max": 694
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr lenin_isle lenin_isle:exit",
 		"from": "threelakes",
 		"to": "lenin_isle",
 		"advisory": {},
-		"time_min": 986,
-		"time_max": 1075
+		"time_min": 870,
+		"time_max": 950
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "threelakes",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2446,
-		"time_max": 2837
+		"time_min": 2330,
+		"time_max": 2712
 	},
 	{
 		"dest": "threelakes j:coegon j:gonem gondolin acadia stallman stallman:exit",
 		"from": "threelakes",
 		"to": "stallman",
 		"advisory": {},
-		"time_min": 883,
-		"time_max": 997
+		"time_min": 854,
+		"time_max": 942
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland genso:taozi genso:taozi:exit",
 		"from": "threelakes",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 766,
-		"time_max": 1003
+		"time_min": 650,
+		"time_max": 878
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland nyasaland:exit",
 		"from": "threelakes",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 373,
-		"time_max": 473
+		"time_min": 257,
+		"time_max": 348
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental islaoccidental:exit",
 		"from": "threelakes",
 		"to": "islaoccidental",
 		"advisory": {},
-		"time_min": 1148,
-		"time_max": 1239
+		"time_min": 1032,
+		"time_max": 1114
 	},
 	{
 		"dest": "threelakes j:coegon j:coe:east coe j:coe:south j:uroe genso:roe j:gntv valyria",
 		"from": "threelakes",
 		"to": "valyria",
 		"advisory": {},
-		"time_min": 1756,
-		"time_max": 2069
+		"time_min": 1727,
+		"time_max": 2014
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp pacem",
 		"from": "threelakes",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2592,
-		"time_max": 2691
+		"time_min": 2476,
+		"time_max": 2566
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low purazi",
 		"from": "threelakes",
 		"to": "purazi",
 		"advisory": {},
-		"time_min": 1259,
-		"time_max": 1365
+		"time_min": 1143,
+		"time_max": 1240
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "threelakes",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1738,
-		"time_max": 1875
+		"time_min": 1622,
+		"time_max": 1750
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland genso:taozi old_sanctuary",
 		"from": "threelakes",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 934,
-		"time_max": 1209
+		"time_min": 818,
+		"time_max": 1084
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "threelakes",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 2397,
-		"time_max": 2499
+		"time_min": 2281,
+		"time_max": 2374
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot vinland",
 		"from": "threelakes",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 2086,
-		"time_max": 2181
+		"time_min": 1970,
+		"time_max": 2056
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree vacari",
 		"from": "threelakes",
 		"to": "vacari",
 		"advisory": {},
-		"time_min": 1567,
-		"time_max": 1712
+		"time_min": 1451,
+		"time_max": 1587
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis ch1prempire j:coesav savion iria:jungle",
 		"from": "threelakes",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 2936,
-		"time_max": 3172
+		"time_min": 2820,
+		"time_max": 3047
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "threelakes",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2569,
-		"time_max": 2691
+		"time_min": 2453,
+		"time_max": 2566
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po caledonia",
 		"from": "threelakes",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 1467,
-		"time_max": 1615
+		"time_min": 1351,
+		"time_max": 1490
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "threelakes",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1753,
-		"time_max": 1887
+		"time_min": 1637,
+		"time_max": 1762
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann annwyn:cactus",
 		"from": "threelakes",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 448,
-		"time_max": 555
+		"time_min": 332,
+		"time_max": 430
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -46471,160 +46471,160 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1469,
-		"time_max": 1625
+		"time_min": 1353,
+		"time_max": 1500
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "threelakes",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1767,
-		"time_max": 1913
+		"time_min": 1651,
+		"time_max": 1788
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "threelakes",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2551,
-		"time_max": 2653
+		"time_min": 2435,
+		"time_max": 2528
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree lambat:treefarms",
 		"from": "threelakes",
 		"to": "lambat:treefarms",
 		"advisory": {},
-		"time_min": 1405,
-		"time_max": 1545
+		"time_min": 1289,
+		"time_max": 1420
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 westminster",
 		"from": "threelakes",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 2404,
-		"time_max": 2927
+		"time_min": 2288,
+		"time_max": 2802
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po mir",
 		"from": "threelakes",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 1730,
-		"time_max": 1830
+		"time_min": 1614,
+		"time_max": 1705
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "threelakes",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1779,
-		"time_max": 1888
+		"time_min": 1663,
+		"time_max": 1763
 	},
 	{
 		"dest": "threelakes j:coegon j:coesav savion iria:desert",
 		"from": "threelakes",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 1029,
-		"time_max": 1152
+		"time_min": 1000,
+		"time_max": 1097
 	},
 	{
 		"dest": "threelakes j:coegon j:coe:east coe j:coe:south genso:taozi coventhia",
 		"from": "threelakes",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 1738,
-		"time_max": 2088
+		"time_min": 1709,
+		"time_max": 2033
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice aurum",
 		"from": "threelakes",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 940,
-		"time_max": 1051
+		"time_min": 824,
+		"time_max": 926
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 mta",
 		"from": "threelakes",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 2226,
-		"time_max": 2607
+		"time_min": 2110,
+		"time_max": 2482
 	},
 	{
 		"dest": "threelakes j:coegon j:gonem em",
 		"from": "threelakes",
 		"to": "em",
 		"advisory": {},
-		"time_min": 361,
-		"time_max": 417
+		"time_min": 332,
+		"time_max": 362
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp fortuna",
 		"from": "threelakes",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 3178,
-		"time_max": 3408
+		"time_min": 3062,
+		"time_max": 3283
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "threelakes",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2759,
-		"time_max": 2849
+		"time_min": 2643,
+		"time_max": 2724
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj besia",
 		"from": "threelakes",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1295,
-		"time_max": 1390
+		"time_min": 1179,
+		"time_max": 1265
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland genso:taozi genso:farms",
 		"from": "threelakes",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 817,
-		"time_max": 1058
+		"time_min": 701,
+		"time_max": 933
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabalwest wnsta",
 		"from": "threelakes",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1727,
-		"time_max": 1833
+		"time_min": 1611,
+		"time_max": 1708
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland genso:taozi genso:shiranui",
 		"from": "threelakes",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 832,
-		"time_max": 1086
+		"time_min": 716,
+		"time_max": 961
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "threelakes",
 		"to": "terestai",
 		"advisory": {},
-		"time_min": 1615,
-		"time_max": 1809
+		"time_min": 1499,
+		"time_max": 1684
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "threelakes",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2912,
-		"time_max": 3115
+		"time_min": 2796,
+		"time_max": 2990
 	},
 	{
 		"dest": "threelakes",
@@ -46639,72 +46639,72 @@
 		"from": "threelakes",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1732,
-		"time_max": 1878
+		"time_min": 1616,
+		"time_max": 1753
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis iria",
 		"from": "threelakes",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 1775,
-		"time_max": 1872
+		"time_min": 1659,
+		"time_max": 1747
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "threelakes",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1902,
-		"time_max": 2073
+		"time_min": 1786,
+		"time_max": 1948
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland j:gntv genso:roe genso:centi",
 		"from": "threelakes",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 1183,
-		"time_max": 1417
+		"time_min": 1067,
+		"time_max": 1292
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "threelakes",
 		"to": "carson",
 		"advisory": {},
-		"time_min": 1315,
-		"time_max": 1512
+		"time_min": 1199,
+		"time_max": 1387
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "threelakes",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1485,
-		"time_max": 1680
+		"time_min": 1369,
+		"time_max": 1555
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "threelakes",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1807,
-		"time_max": 1978
+		"time_min": 1691,
+		"time_max": 1853
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend endportal",
 		"from": "threelakes",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 1070,
-		"time_max": 1160
+		"time_min": 954,
+		"time_max": 1035
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis new_sovia",
 		"from": "threelakes",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1510,
-		"time_max": 1658
+		"time_min": 1394,
+		"time_max": 1533
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -46713,312 +46713,312 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2039,
-		"time_max": 2300
+		"time_min": 1923,
+		"time_max": 2175
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland lutrelia",
 		"from": "threelakes",
 		"to": "lutrelia",
 		"advisory": {},
-		"time_min": 567,
-		"time_max": 717
+		"time_min": 451,
+		"time_max": 592
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland j:gntv tvtopia",
 		"from": "threelakes",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 1008,
-		"time_max": 1175
+		"time_min": 892,
+		"time_max": 1050
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex alexandria",
 		"from": "threelakes",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 2298,
-		"time_max": 2389
+		"time_min": 2182,
+		"time_max": 2264
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "threelakes",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1793,
-		"time_max": 1947
+		"time_min": 1677,
+		"time_max": 1822
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "threelakes",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1775,
-		"time_max": 1896
+		"time_min": 1659,
+		"time_max": 1771
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:piria aurum:cactus",
 		"from": "threelakes",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 1237,
-		"time_max": 1407
+		"time_min": 1121,
+		"time_max": 1282
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o j:pbnj j:po oasis lambat",
 		"from": "threelakes",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1408,
-		"time_max": 1512
+		"time_min": 1292,
+		"time_max": 1387
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "threelakes",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2567,
-		"time_max": 2686
+		"time_min": 2451,
+		"time_max": 2561
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot wayrest",
 		"from": "threelakes",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 1375,
-		"time_max": 1481
+		"time_min": 1259,
+		"time_max": 1356
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "threelakes",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 2313,
-		"time_max": 2405
+		"time_min": 2197,
+		"time_max": 2280
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "threelakes",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 2218,
-		"time_max": 2310
+		"time_min": 2102,
+		"time_max": 2185
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:parr arrelani",
 		"from": "threelakes",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 1057,
-		"time_max": 1209
+		"time_min": 941,
+		"time_max": 1084
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "threelakes",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2804,
-		"time_max": 3376
+		"time_min": 2688,
+		"time_max": 3251
 	},
 	{
 		"dest": "threelakes j:coegon j:coesav pinegarden magnasoria",
 		"from": "threelakes",
 		"to": "magnasoria",
 		"advisory": {},
-		"time_min": 970,
-		"time_max": 1035
+		"time_min": 941,
+		"time_max": 980
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "threelakes",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1911,
-		"time_max": 2049
+		"time_min": 1795,
+		"time_max": 1924
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot netherfarm",
 		"from": "threelakes",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 1353,
-		"time_max": 1443
+		"time_min": 1237,
+		"time_max": 1318
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland j:gntv genso:roe j:uroe j:icegen icenia varkonia",
 		"from": "threelakes",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 2013,
-		"time_max": 2378
+		"time_min": 1897,
+		"time_max": 2253
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "threelakes",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2554,
-		"time_max": 2675
+		"time_min": 2438,
+		"time_max": 2550
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "threelakes",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2490,
-		"time_max": 2601
+		"time_min": 2374,
+		"time_max": 2476
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:piria j:gensig sig",
 		"from": "threelakes",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 1514,
-		"time_max": 1731
+		"time_min": 1398,
+		"time_max": 1606
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc cape_cocoa",
 		"from": "threelakes",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 912,
-		"time_max": 1001
+		"time_min": 796,
+		"time_max": 876
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "threelakes",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2442,
-		"time_max": 2546
+		"time_min": 2326,
+		"time_max": 2421
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree lendiforma:mesa",
 		"from": "threelakes",
 		"to": "lendiforma:mesa",
 		"advisory": {},
-		"time_min": 1424,
-		"time_max": 1564
+		"time_min": 1308,
+		"time_max": 1439
 	},
 	{
 		"dest": "threelakes j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia spqr",
 		"from": "threelakes",
 		"to": "spqr",
 		"advisory": {},
-		"time_min": 2619,
-		"time_max": 3104
+		"time_min": 2590,
+		"time_max": 3049
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "threelakes",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2510,
-		"time_max": 2627
+		"time_min": 2394,
+		"time_max": 2502
 	},
 	{
 		"dest": "threelakes j:nyaann nyasaland j:gntv genso:roe bloom",
 		"from": "threelakes",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1474,
-		"time_max": 1734
+		"time_min": 1358,
+		"time_max": 1609
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental crowsroost",
 		"from": "threelakes",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 1370,
-		"time_max": 1463
+		"time_min": 1254,
+		"time_max": 1338
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "threelakes",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1756,
-		"time_max": 1888
+		"time_min": 1640,
+		"time_max": 1763
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "threelakes",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1733,
-		"time_max": 1838
+		"time_min": 1617,
+		"time_max": 1713
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its beach",
 		"from": "threelakes",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1719,
-		"time_max": 1818
+		"time_min": 1603,
+		"time_max": 1693
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its adytum",
 		"from": "threelakes",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1759,
-		"time_max": 1869
+		"time_min": 1643,
+		"time_max": 1744
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its skybunker",
 		"from": "threelakes",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1725,
-		"time_max": 1825
+		"time_min": 1609,
+		"time_max": 1700
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its hji",
 		"from": "threelakes",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1726,
-		"time_max": 1829
+		"time_min": 1610,
+		"time_max": 1704
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its subway",
 		"from": "threelakes",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1716,
-		"time_max": 1814
+		"time_min": 1600,
+		"time_max": 1689
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its office",
 		"from": "threelakes",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1718,
-		"time_max": 1815
+		"time_min": 1602,
+		"time_max": 1690
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "threelakes",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1713,
-		"time_max": 1810
+		"time_min": 1597,
+		"time_max": 1685
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its versailles",
 		"from": "threelakes",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1723,
-		"time_max": 1821
+		"time_min": 1607,
+		"time_max": 1696
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its bayloop",
 		"from": "threelakes",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1718,
-		"time_max": 1816
+		"time_min": 1602,
+		"time_max": 1691
 	},
 	{
 		"dest": "icenia:westisle icenia j:icegen j:uroe j:coe:south coe j:coe:north j:stallman:west dulaman dulaman:exit",
@@ -47467,8 +47467,8 @@
 		"from": "icenia:westisle",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1431,
-		"time_max": 1520
+		"time_min": 1402,
+		"time_max": 1465
 	},
 	{
 		"dest": "icenia:westisle",
@@ -48299,12 +48299,12 @@
 		"time_max": 3165
 	},
 	{
-		"dest": "iria savion j:coesav j:coegon threelakes",
+		"dest": "iria oasis j:piria j:gensig genso:taozi nyasaland j:nyaann threelakes",
 		"from": "iria",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1523,
-		"time_max": 1684
+		"time_min": 1996,
+		"time_max": 2307
 	},
 	{
 		"dest": "iria oasis j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -49139,8 +49139,8 @@
 		"from": "gabon",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1309,
-		"time_max": 1590
+		"time_min": 1193,
+		"time_max": 1465
 	},
 	{
 		"dest": "gabon icenia icenia:westisle",
@@ -49975,8 +49975,8 @@
 		"from": "genso:centi",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 919,
-		"time_max": 1187
+		"time_min": 803,
+		"time_max": 1062
 	},
 	{
 		"dest": "genso:centi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -50811,8 +50811,8 @@
 		"from": "carson",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1730,
-		"time_max": 2247
+		"time_min": 1614,
+		"time_max": 2122
 	},
 	{
 		"dest": "carson j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -51647,8 +51647,8 @@
 		"from": "pripyat",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1900,
-		"time_max": 2415
+		"time_min": 1784,
+		"time_max": 2290
 	},
 	{
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -52483,8 +52483,8 @@
 		"from": "it:anburon",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1506,
-		"time_max": 1620
+		"time_min": 1477,
+		"time_max": 1565
 	},
 	{
 		"dest": "it:anburon icenia icenia:westisle",
@@ -53319,8 +53319,8 @@
 		"from": "endportal",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1330,
-		"time_max": 1690
+		"time_min": 1214,
+		"time_max": 1565
 	},
 	{
 		"dest": "endportal j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -54151,12 +54151,12 @@
 		"time_max": 2951
 	},
 	{
-		"dest": "new_sovia oasis ch1prempire j:coesav j:coegon threelakes",
+		"dest": "new_sovia oasis j:piria j:gensig genso:taozi nyasaland j:nyaann threelakes",
 		"from": "new_sovia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1357,
-		"time_max": 1517
+		"time_min": 1731,
+		"time_max": 2093
 	},
 	{
 		"dest": "new_sovia oasis j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -55102,8 +55102,8 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 2104,
-		"time_max": 2366
+		"time_min": 2075,
+		"time_max": 2311
 	},
 	{
 		"dest": "mts j:pmts j:picenia icenia icenia:westisle",
@@ -56032,8 +56032,8 @@
 		"from": "lutrelia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 567,
-		"time_max": 717
+		"time_min": 451,
+		"time_max": 592
 	},
 	{
 		"dest": "lutrelia nyasaland j:gntv genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -56868,8 +56868,8 @@
 		"from": "tvtopia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1008,
-		"time_max": 1175
+		"time_min": 892,
+		"time_max": 1050
 	},
 	{
 		"dest": "tvtopia j:gntv genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -57704,8 +57704,8 @@
 		"from": "alexandria",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2325,
-		"time_max": 2385
+		"time_min": 2296,
+		"time_max": 2330
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -58540,8 +58540,8 @@
 		"from": "icenia:nether",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1492,
-		"time_max": 1589
+		"time_min": 1463,
+		"time_max": 1534
 	},
 	{
 		"dest": "icenia:nether j:cabalwest westisle",
@@ -59376,8 +59376,8 @@
 		"from": "icenia:atlantica",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1450,
-		"time_max": 1540
+		"time_min": 1421,
+		"time_max": 1485
 	},
 	{
 		"dest": "icenia:atlantica icenia icenia:westisle",
@@ -60212,8 +60212,8 @@
 		"from": "aurum:cactus",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1239,
-		"time_max": 1571
+		"time_min": 1123,
+		"time_max": 1446
 	},
 	{
 		"dest": "aurum:cactus j:piria j:gensig j:icegen icenia icenia:westisle",
@@ -61048,8 +61048,8 @@
 		"from": "lambat",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1409,
-		"time_max": 1546
+		"time_min": 1293,
+		"time_max": 1421
 	},
 	{
 		"dest": "lambat arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -61884,8 +61884,8 @@
 		"from": "topha'nya",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2594,
-		"time_max": 2682
+		"time_min": 2565,
+		"time_max": 2627
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -62720,8 +62720,8 @@
 		"from": "wayrest",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1402,
-		"time_max": 1477
+		"time_min": 1373,
+		"time_max": 1422
 	},
 	{
 		"dest": "wayrest 0,0 j:picenia icenia icenia:westisle",
@@ -63556,8 +63556,8 @@
 		"from": "hiyo'mek",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2340,
-		"time_max": 2401
+		"time_min": 2311,
+		"time_max": 2346
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -64392,8 +64392,8 @@
 		"from": "kallos",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2066,
-		"time_max": 2270
+		"time_min": 2037,
+		"time_max": 2215
 	},
 	{
 		"dest": "kallos icenia icenia:westisle",
@@ -65228,8 +65228,8 @@
 		"from": "arrelani",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1579,
-		"time_max": 2003
+		"time_min": 1463,
+		"time_max": 1878
 	},
 	{
 		"dest": "arrelani j:parr j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -66064,8 +66064,8 @@
 		"from": "ellen",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2869,
-		"time_max": 3442
+		"time_min": 2840,
+		"time_max": 3387
 	},
 	{
 		"dest": "ellen j:pmts j:picenia icenia icenia:westisle",
@@ -66900,8 +66900,8 @@
 		"from": "magnasoria",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 970,
-		"time_max": 1035
+		"time_min": 941,
+		"time_max": 980
 	},
 	{
 		"dest": "magnasoria pinegarden j:coesav j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia icenia:westisle",
@@ -67736,8 +67736,8 @@
 		"from": "alpoko",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1610,
-		"time_max": 1691
+		"time_min": 1581,
+		"time_max": 1636
 	},
 	{
 		"dest": "alpoko icenia icenia:westisle",
@@ -68572,8 +68572,8 @@
 		"from": "netherfarm",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1380,
-		"time_max": 1439
+		"time_min": 1351,
+		"time_max": 1384
 	},
 	{
 		"dest": "netherfarm j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -69408,8 +69408,8 @@
 		"from": "varkonia",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1800,
-		"time_max": 1995
+		"time_min": 1771,
+		"time_max": 1940
 	},
 	{
 		"dest": "varkonia icenia icenia:westisle",
@@ -70244,8 +70244,8 @@
 		"from": "socalist_ruler",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2581,
-		"time_max": 2671
+		"time_min": 2552,
+		"time_max": 2616
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -71080,8 +71080,8 @@
 		"from": "nro'meagh",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2517,
-		"time_max": 2597
+		"time_min": 2488,
+		"time_max": 2542
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -71916,8 +71916,8 @@
 		"from": "sig",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 970,
-		"time_max": 1290
+		"time_min": 854,
+		"time_max": 1165
 	},
 	{
 		"dest": "sig j:gensig j:icegen icenia icenia:westisle",
@@ -72752,8 +72752,8 @@
 		"from": "cape_cocoa",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 912,
-		"time_max": 1001
+		"time_min": 796,
+		"time_max": 876
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -73588,8 +73588,8 @@
 		"from": "jevoghnya",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2469,
-		"time_max": 2542
+		"time_min": 2440,
+		"time_max": 2487
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -74424,8 +74424,8 @@
 		"from": "lendiforma:mesa",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1424,
-		"time_max": 1564
+		"time_min": 1308,
+		"time_max": 1439
 	},
 	{
 		"dest": "lendiforma:mesa j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -75260,8 +75260,8 @@
 		"from": "spqr",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2619,
-		"time_max": 3104
+		"time_min": 2590,
+		"time_max": 3049
 	},
 	{
 		"dest": "spqr icenia icenia:westisle",
@@ -76096,8 +76096,8 @@
 		"from": "il'olmhir",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 2537,
-		"time_max": 2623
+		"time_min": 2508,
+		"time_max": 2568
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot 0,0 j:picenia icenia icenia:westisle",
@@ -76932,8 +76932,8 @@
 		"from": "bloom",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1210,
-		"time_max": 1504
+		"time_min": 1094,
+		"time_max": 1379
 	},
 	{
 		"dest": "bloom icenia icenia:westisle",
@@ -77768,8 +77768,8 @@
 		"from": "crowsroost",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1066,
-		"time_max": 1417
+		"time_min": 950,
+		"time_max": 1292
 	},
 	{
 		"dest": "crowsroost genso:taozi genso:roe j:uroe j:icegen icenia icenia:westisle",
@@ -78604,8 +78604,8 @@
 		"from": "icenia:potato",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1455,
-		"time_max": 1530
+		"time_min": 1426,
+		"time_max": 1475
 	},
 	{
 		"dest": "icenia:potato icenia icenia:westisle",
@@ -79440,8 +79440,8 @@
 		"from": "its:qbipfb",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1408,
-		"time_max": 1482
+		"time_min": 1379,
+		"time_max": 1427
 	},
 	{
 		"dest": "its:qbipfb j:its icenia icenia:westisle",
@@ -80276,8 +80276,8 @@
 		"from": "its:beach",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1394,
-		"time_max": 1462
+		"time_min": 1365,
+		"time_max": 1407
 	},
 	{
 		"dest": "its:beach j:its icenia icenia:westisle",
@@ -81112,8 +81112,8 @@
 		"from": "its:adytum",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1434,
-		"time_max": 1513
+		"time_min": 1405,
+		"time_max": 1458
 	},
 	{
 		"dest": "its:adytum j:its icenia icenia:westisle",
@@ -81948,8 +81948,8 @@
 		"from": "its:skybunker",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1400,
-		"time_max": 1469
+		"time_min": 1371,
+		"time_max": 1414
 	},
 	{
 		"dest": "its:skybunker j:its icenia icenia:westisle",
@@ -82784,8 +82784,8 @@
 		"from": "its:hji",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1401,
-		"time_max": 1473
+		"time_min": 1372,
+		"time_max": 1418
 	},
 	{
 		"dest": "its:hji j:its icenia icenia:westisle",
@@ -83620,8 +83620,8 @@
 		"from": "its:subway",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1391,
-		"time_max": 1458
+		"time_min": 1362,
+		"time_max": 1403
 	},
 	{
 		"dest": "its:subway j:its icenia icenia:westisle",
@@ -84456,8 +84456,8 @@
 		"from": "its:office",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1459
+		"time_min": 1364,
+		"time_max": 1404
 	},
 	{
 		"dest": "its:office j:its icenia icenia:westisle",
@@ -85292,8 +85292,8 @@
 		"from": "its:iceniapark",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1388,
-		"time_max": 1454
+		"time_min": 1359,
+		"time_max": 1399
 	},
 	{
 		"dest": "its:iceniapark j:its icenia icenia:westisle",
@@ -86128,8 +86128,8 @@
 		"from": "its:versailles",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1398,
-		"time_max": 1465
+		"time_min": 1369,
+		"time_max": 1410
 	},
 	{
 		"dest": "its:versailles j:its icenia icenia:westisle",
@@ -86964,8 +86964,8 @@
 		"from": "its:bayloop",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 1393,
-		"time_max": 1460
+		"time_min": 1364,
+		"time_max": 1405
 	},
 	{
 		"dest": "its:bayloop j:its icenia icenia:westisle",
