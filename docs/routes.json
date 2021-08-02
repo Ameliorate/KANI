@@ -276,8 +276,8 @@
 		"from": "dulaman",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1791,
-		"time_max": 2132
+		"time_min": 1824,
+		"time_max": 2194
 	},
 	{
 		"dest": "dulaman j:stallman:west j:coe:north coe j:coe:south genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -1112,8 +1112,8 @@
 		"from": "pinegarden",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1123,
-		"time_max": 1149
+		"time_min": 1156,
+		"time_max": 1211
 	},
 	{
 		"dest": "pinegarden j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -1948,8 +1948,8 @@
 		"from": "savion",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1093,
-		"time_max": 1124
+		"time_min": 1126,
+		"time_max": 1186
 	},
 	{
 		"dest": "savion j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -2784,8 +2784,8 @@
 		"from": "ponsportia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 912,
-		"time_max": 1004
+		"time_min": 945,
+		"time_max": 1066
 	},
 	{
 		"dest": "ponsportia lenin_isle j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -3616,12 +3616,12 @@
 		"time_max": 1523
 	},
 	{
-		"dest": "ch1prempire oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "ch1prempire",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1645,
-		"time_max": 1914
+		"time_min": 1175,
+		"time_max": 1252
 	},
 	{
 		"dest": "ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -4456,8 +4456,8 @@
 		"from": "gondolin",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 767,
-		"time_max": 790
+		"time_min": 800,
+		"time_max": 852
 	},
 	{
 		"dest": "gondolin j:gonem j:coegon j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -5292,8 +5292,8 @@
 		"from": "genso:roe",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 645,
-		"time_max": 842
+		"time_min": 678,
+		"time_max": 904
 	},
 	{
 		"dest": "genso:roe genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -6128,8 +6128,8 @@
 		"from": "torndal",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2181,
-		"time_max": 2225
+		"time_min": 2214,
+		"time_max": 2287
 	},
 	{
 		"dest": "torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -6960,12 +6960,12 @@
 		"time_max": 1274
 	},
 	{
-		"dest": "oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "oasis ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "oasis",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1417,
-		"time_max": 1665
+		"time_min": 1403,
+		"time_max": 1501
 	},
 	{
 		"dest": "oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -7796,12 +7796,12 @@
 		"time_max": 801
 	},
 	{
-		"dest": "axiom j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "axiom j:piria oasis ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "axiom",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 951,
-		"time_max": 1192
+		"time_min": 1939,
+		"time_max": 2044
 	},
 	{
 		"dest": "axiom j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -8636,8 +8636,8 @@
 		"from": "coe",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 966,
-		"time_max": 1161
+		"time_min": 999,
+		"time_max": 1223
 	},
 	{
 		"dest": "coe j:coe:south genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -9472,8 +9472,8 @@
 		"from": "0,0",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1031,
-		"time_max": 1054
+		"time_min": 1064,
+		"time_max": 1116
 	},
 	{
 		"dest": "0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -10308,8 +10308,8 @@
 		"from": "kro'ushro",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2252,
-		"time_max": 2296
+		"time_min": 2285,
+		"time_max": 2358
 	},
 	{
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -11144,8 +11144,8 @@
 		"from": "icenia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1047,
-		"time_max": 1225
+		"time_min": 1080,
+		"time_max": 1287
 	},
 	{
 		"dest": "icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -11980,8 +11980,8 @@
 		"from": "arstotzka",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1098,
-		"time_max": 1160
+		"time_min": 1131,
+		"time_max": 1222
 	},
 	{
 		"dest": "arstotzka tabatia",
@@ -12816,8 +12816,8 @@
 		"from": "acadia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 902,
-		"time_max": 925
+		"time_min": 935,
+		"time_max": 987
 	},
 	{
 		"dest": "acadia gondolin j:gonem j:coegon j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -13652,8 +13652,8 @@
 		"from": "lenin_isle",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 708,
-		"time_max": 730
+		"time_min": 741,
+		"time_max": 792
 	},
 	{
 		"dest": "lenin_isle j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -14488,8 +14488,8 @@
 		"from": "imc",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2168,
-		"time_max": 2492
+		"time_min": 2201,
+		"time_max": 2554
 	},
 	{
 		"dest": "imc j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -15324,8 +15324,8 @@
 		"from": "stallman",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1092,
-		"time_max": 1173
+		"time_min": 1125,
+		"time_max": 1235
 	},
 	{
 		"dest": "stallman acadia gondolin j:gonem j:coegon j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -16160,8 +16160,8 @@
 		"from": "genso:taozi",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 532,
-		"time_max": 704
+		"time_min": 565,
+		"time_max": 766
 	},
 	{
 		"dest": "genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -16996,8 +16996,8 @@
 		"from": "nyasaland",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 139,
-		"time_max": 174
+		"time_min": 172,
+		"time_max": 236
 	},
 	{
 		"dest": "nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -17832,8 +17832,8 @@
 		"from": "islaoccidental",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 870,
-		"time_max": 894
+		"time_min": 903,
+		"time_max": 956
 	},
 	{
 		"dest": "islaoccidental j:low arstotzka tabatia",
@@ -18668,8 +18668,8 @@
 		"from": "valyria",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1399,
-		"time_max": 1693
+		"time_min": 1432,
+		"time_max": 1755
 	},
 	{
 		"dest": "valyria j:gntv nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -19504,8 +19504,8 @@
 		"from": "pacem",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2314,
-		"time_max": 2346
+		"time_min": 2347,
+		"time_max": 2408
 	},
 	{
 		"dest": "pacem j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -20340,8 +20340,8 @@
 		"from": "purazi",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 468,
-		"time_max": 572
+		"time_min": 501,
+		"time_max": 634
 	},
 	{
 		"dest": "purazi j:low arstotzka tabatia",
@@ -21176,8 +21176,8 @@
 		"from": "icenia:drippy",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1117,
-		"time_max": 1313
+		"time_min": 1150,
+		"time_max": 1375
 	},
 	{
 		"dest": "icenia:drippy icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -22012,8 +22012,8 @@
 		"from": "old_sanctuary",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 700,
-		"time_max": 910
+		"time_min": 733,
+		"time_max": 972
 	},
 	{
 		"dest": "old_sanctuary genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -22848,8 +22848,8 @@
 		"from": "ozonrough",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2119,
-		"time_max": 2154
+		"time_min": 2152,
+		"time_max": 2216
 	},
 	{
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -23684,8 +23684,8 @@
 		"from": "vinland",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1808,
-		"time_max": 1836
+		"time_min": 1841,
+		"time_max": 1898
 	},
 	{
 		"dest": "vinland j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -24520,8 +24520,8 @@
 		"from": "vacari",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1289,
-		"time_max": 1367
+		"time_min": 1322,
+		"time_max": 1429
 	},
 	{
 		"dest": "vacari j:tree arstotzka tabatia",
@@ -25356,8 +25356,8 @@
 		"from": "iria:jungle",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1726,
-		"time_max": 1855
+		"time_min": 1759,
+		"time_max": 1917
 	},
 	{
 		"dest": "iria:jungle savion j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -26192,8 +26192,8 @@
 		"from": "lriln'kriavnya",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2291,
-		"time_max": 2346
+		"time_min": 2324,
+		"time_max": 2408
 	},
 	{
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -27024,12 +27024,12 @@
 		"time_max": 1666
 	},
 	{
-		"dest": "caledonia j:po oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "caledonia j:po j:pbnj j:o j:ppcc j:ann annwyn:cactus",
 		"from": "caledonia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1748,
-		"time_max": 2056
+		"time_min": 1222,
+		"time_max": 1332
 	},
 	{
 		"dest": "caledonia j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -27864,8 +27864,8 @@
 		"from": "canvasblue",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1132,
-		"time_max": 1325
+		"time_min": 1165,
+		"time_max": 1387
 	},
 	{
 		"dest": "canvasblue j:cabalwest icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -28428,272 +28428,272 @@
 		"from": "annwyn:cactus",
 		"to": "dulaman",
 		"advisory": {},
-		"time_min": 1302,
-		"time_max": 1385
+		"time_min": 1335,
+		"time_max": 1447
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coesav pinegarden pinegarden:exit",
 		"from": "annwyn:cactus",
 		"to": "pinegarden",
 		"advisory": {},
-		"time_min": 1123,
-		"time_max": 1149
+		"time_min": 1156,
+		"time_max": 1211
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coesav savion savion:exit",
 		"from": "annwyn:cactus",
 		"to": "savion",
 		"advisory": {},
-		"time_min": 1093,
-		"time_max": 1124
+		"time_min": 1126,
+		"time_max": 1186
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr lenin_isle ponsportia ponsportia:exit",
 		"from": "annwyn:cactus",
 		"to": "ponsportia",
 		"advisory": {},
-		"time_min": 757,
-		"time_max": 799
+		"time_min": 790,
+		"time_max": 861
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis ch1prempire ch1prempire:exit",
 		"from": "annwyn:cactus",
 		"to": "ch1prempire",
 		"advisory": {},
-		"time_min": 1264,
-		"time_max": 1308
+		"time_min": 1297,
+		"time_max": 1370
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:gonem gondolin gondolin:exit",
 		"from": "annwyn:cactus",
 		"to": "gondolin",
 		"advisory": {},
-		"time_min": 767,
-		"time_max": 790
+		"time_min": 800,
+		"time_max": 852
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland genso:taozi genso:roe genso:roe:exit",
 		"from": "annwyn:cactus",
 		"to": "genso:roe",
 		"advisory": {},
-		"time_min": 645,
-		"time_max": 842
+		"time_min": 678,
+		"time_max": 904
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "annwyn:cactus",
 		"to": "torndal",
 		"advisory": {},
-		"time_min": 2181,
-		"time_max": 2225
+		"time_min": 2214,
+		"time_max": 2287
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis oasis:exit",
 		"from": "annwyn:cactus",
 		"to": "oasis",
 		"advisory": {},
-		"time_min": 1036,
-		"time_max": 1059
+		"time_min": 1069,
+		"time_max": 1121
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:piria axiom axiom:exit",
 		"from": "annwyn:cactus",
 		"to": "axiom",
 		"advisory": {},
-		"time_min": 905,
-		"time_max": 982
+		"time_min": 938,
+		"time_max": 1044
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coe:east coe coe:exit",
 		"from": "annwyn:cactus",
 		"to": "coe",
 		"advisory": {},
-		"time_min": 728,
-		"time_max": 754
+		"time_min": 761,
+		"time_max": 816
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 0,0:exit",
 		"from": "annwyn:cactus",
 		"to": "0,0",
 		"advisory": {},
-		"time_min": 1031,
-		"time_max": 1054
+		"time_min": 1064,
+		"time_max": 1116
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "annwyn:cactus",
 		"to": "kro'ushro",
 		"advisory": {},
-		"time_min": 2252,
-		"time_max": 2296
+		"time_min": 2285,
+		"time_max": 2358
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:exit",
 		"from": "annwyn:cactus",
 		"to": "icenia",
 		"advisory": {},
-		"time_min": 1414,
-		"time_max": 1440
+		"time_min": 1447,
+		"time_max": 1502
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental j:low arstotzka arstotzka:exit",
 		"from": "annwyn:cactus",
 		"to": "arstotzka",
 		"advisory": {},
-		"time_min": 1098,
-		"time_max": 1160
+		"time_min": 1131,
+		"time_max": 1222
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:gonem gondolin acadia acadia:exit",
 		"from": "annwyn:cactus",
 		"to": "acadia",
 		"advisory": {},
-		"time_min": 902,
-		"time_max": 925
+		"time_min": 935,
+		"time_max": 987
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr lenin_isle lenin_isle:exit",
 		"from": "annwyn:cactus",
 		"to": "lenin_isle",
 		"advisory": {},
-		"time_min": 708,
-		"time_max": 730
+		"time_min": 741,
+		"time_max": 792
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts imc imc:exit",
 		"from": "annwyn:cactus",
 		"to": "imc",
 		"advisory": {},
-		"time_min": 2168,
-		"time_max": 2492
+		"time_min": 2201,
+		"time_max": 2554
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:gonem gondolin acadia stallman stallman:exit",
 		"from": "annwyn:cactus",
 		"to": "stallman",
 		"advisory": {},
-		"time_min": 1092,
-		"time_max": 1173
+		"time_min": 1125,
+		"time_max": 1235
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland genso:taozi genso:taozi:exit",
 		"from": "annwyn:cactus",
 		"to": "genso:taozi",
 		"advisory": {},
-		"time_min": 532,
-		"time_max": 704
+		"time_min": 565,
+		"time_max": 766
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland nyasaland:exit",
 		"from": "annwyn:cactus",
 		"to": "nyasaland",
 		"advisory": {},
-		"time_min": 139,
-		"time_max": 174
+		"time_min": 172,
+		"time_max": 236
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental islaoccidental:exit",
 		"from": "annwyn:cactus",
 		"to": "islaoccidental",
 		"advisory": {},
-		"time_min": 870,
-		"time_max": 894
+		"time_min": 903,
+		"time_max": 956
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coe:east coe j:coe:south j:uroe genso:roe j:gntv valyria",
 		"from": "annwyn:cactus",
 		"to": "valyria",
 		"advisory": {},
-		"time_min": 1965,
-		"time_max": 2245
+		"time_min": 1998,
+		"time_max": 2307
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp pacem",
 		"from": "annwyn:cactus",
 		"to": "pacem",
 		"advisory": {},
-		"time_min": 2314,
-		"time_max": 2346
+		"time_min": 2347,
+		"time_max": 2408
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental j:low purazi",
 		"from": "annwyn:cactus",
 		"to": "purazi",
 		"advisory": {},
-		"time_min": 981,
-		"time_max": 1020
+		"time_min": 1014,
+		"time_max": 1082
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:drippy",
 		"from": "annwyn:cactus",
 		"to": "icenia:drippy",
 		"advisory": {},
-		"time_min": 1460,
-		"time_max": 1530
+		"time_min": 1493,
+		"time_max": 1592
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland genso:taozi old_sanctuary",
 		"from": "annwyn:cactus",
 		"to": "old_sanctuary",
 		"advisory": {},
-		"time_min": 700,
-		"time_max": 910
+		"time_min": 733,
+		"time_max": 972
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "annwyn:cactus",
 		"to": "ozonrough",
 		"advisory": {},
-		"time_min": 2119,
-		"time_max": 2154
+		"time_min": 2152,
+		"time_max": 2216
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot vinland",
 		"from": "annwyn:cactus",
 		"to": "vinland",
 		"advisory": {},
-		"time_min": 1808,
-		"time_max": 1836
+		"time_min": 1841,
+		"time_max": 1898
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree vacari",
 		"from": "annwyn:cactus",
 		"to": "vacari",
 		"advisory": {},
-		"time_min": 1289,
-		"time_max": 1367
+		"time_min": 1322,
+		"time_max": 1429
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis ch1prempire j:coesav savion iria:jungle",
 		"from": "annwyn:cactus",
 		"to": "iria:jungle",
 		"advisory": {},
-		"time_min": 2658,
-		"time_max": 2827
+		"time_min": 2691,
+		"time_max": 2889
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "annwyn:cactus",
 		"to": "lriln'kriavnya",
 		"advisory": {},
-		"time_min": 2291,
-		"time_max": 2346
+		"time_min": 2324,
+		"time_max": 2408
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po caledonia",
 		"from": "annwyn:cactus",
 		"to": "caledonia",
 		"advisory": {},
-		"time_min": 1189,
-		"time_max": 1270
+		"time_min": 1222,
+		"time_max": 1332
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest mta canvasblue",
 		"from": "annwyn:cactus",
 		"to": "canvasblue",
 		"advisory": {},
-		"time_min": 1475,
-		"time_max": 1542
+		"time_min": 1508,
+		"time_max": 1604
 	},
 	{
 		"dest": "annwyn:cactus",
@@ -28710,240 +28710,240 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1191,
-		"time_max": 1280
+		"time_min": 1224,
+		"time_max": 1342
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia j:cabalwest ssta",
 		"from": "annwyn:cactus",
 		"to": "ssta",
 		"advisory": {},
-		"time_min": 1489,
-		"time_max": 1568
+		"time_min": 1522,
+		"time_max": 1630
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp forta'are",
 		"from": "annwyn:cactus",
 		"to": "forta'are",
 		"advisory": {},
-		"time_min": 2273,
-		"time_max": 2308
+		"time_min": 2306,
+		"time_max": 2370
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree lambat:treefarms",
 		"from": "annwyn:cactus",
 		"to": "lambat:treefarms",
 		"advisory": {},
-		"time_min": 1127,
-		"time_max": 1200
+		"time_min": 1160,
+		"time_max": 1262
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 westminster",
 		"from": "annwyn:cactus",
 		"to": "westminster",
 		"advisory": {},
-		"time_min": 2126,
-		"time_max": 2582
+		"time_min": 2159,
+		"time_max": 2644
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po mir",
 		"from": "annwyn:cactus",
 		"to": "mir",
 		"advisory": {},
-		"time_min": 1452,
-		"time_max": 1485
+		"time_min": 1485,
+		"time_max": 1547
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabaleast lord",
 		"from": "annwyn:cactus",
 		"to": "icenia:lord",
 		"advisory": {},
-		"time_min": 1501,
-		"time_max": 1543
+		"time_min": 1534,
+		"time_max": 1605
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coesav savion iria:desert",
 		"from": "annwyn:cactus",
 		"to": "iria:desert",
 		"advisory": {},
-		"time_min": 1238,
-		"time_max": 1328
+		"time_min": 1271,
+		"time_max": 1390
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coe:east coe j:coe:south genso:taozi coventhia",
 		"from": "annwyn:cactus",
 		"to": "coventhia",
 		"advisory": {},
-		"time_min": 1947,
-		"time_max": 2264
+		"time_min": 1980,
+		"time_max": 2326
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice aurum",
 		"from": "annwyn:cactus",
 		"to": "aurum",
 		"advisory": {},
-		"time_min": 662,
-		"time_max": 706
+		"time_min": 695,
+		"time_max": 768
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 mta",
 		"from": "annwyn:cactus",
 		"to": "mta",
 		"advisory": {},
-		"time_min": 1948,
-		"time_max": 2262
+		"time_min": 1981,
+		"time_max": 2324
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:gonem em",
 		"from": "annwyn:cactus",
 		"to": "em",
 		"advisory": {},
-		"time_min": 570,
-		"time_max": 593
+		"time_min": 603,
+		"time_max": 655
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp fortuna",
 		"from": "annwyn:cactus",
 		"to": "fortuna",
 		"advisory": {},
-		"time_min": 2900,
-		"time_max": 3063
+		"time_min": 2933,
+		"time_max": 3125
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "annwyn:cactus",
 		"to": "hje",
 		"advisory": {},
-		"time_min": 2481,
-		"time_max": 2504
+		"time_min": 2514,
+		"time_max": 2566
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj besia",
 		"from": "annwyn:cactus",
 		"to": "besia",
 		"advisory": {},
-		"time_min": 1017,
-		"time_max": 1045
+		"time_min": 1050,
+		"time_max": 1107
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland genso:taozi genso:farms",
 		"from": "annwyn:cactus",
 		"to": "genso:farms",
 		"advisory": {},
-		"time_min": 583,
-		"time_max": 759
+		"time_min": 616,
+		"time_max": 821
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia j:cabalwest wnsta",
 		"from": "annwyn:cactus",
 		"to": "wnsta",
 		"advisory": {},
-		"time_min": 1449,
-		"time_max": 1488
+		"time_min": 1482,
+		"time_max": 1550
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland genso:taozi genso:shiranui",
 		"from": "annwyn:cactus",
 		"to": "genso:shiranui",
 		"advisory": {},
-		"time_min": 598,
-		"time_max": 787
+		"time_min": 631,
+		"time_max": 849
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff terestai",
 		"from": "annwyn:cactus",
 		"to": "terestai",
 		"advisory": {},
-		"time_min": 1337,
-		"time_max": 1464
+		"time_min": 1370,
+		"time_max": 1526
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:pp hjaltland",
 		"from": "annwyn:cactus",
 		"to": "hjaltland",
 		"advisory": {},
-		"time_min": 2634,
-		"time_max": 2770
+		"time_min": 2667,
+		"time_max": 2832
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann threelakes",
 		"from": "annwyn:cactus",
 		"to": "threelakes",
 		"advisory": {},
-		"time_min": 332,
-		"time_max": 430
+		"time_min": 365,
+		"time_max": 492
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:westisle",
 		"from": "annwyn:cactus",
 		"to": "icenia:westisle",
 		"advisory": {},
-		"time_min": 1454,
-		"time_max": 1533
+		"time_min": 1487,
+		"time_max": 1595
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis iria",
 		"from": "annwyn:cactus",
 		"to": "iria",
 		"advisory": {},
-		"time_min": 1497,
-		"time_max": 1527
+		"time_min": 1530,
+		"time_max": 1589
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia gabon",
 		"from": "annwyn:cactus",
 		"to": "gabon",
 		"advisory": {},
-		"time_min": 1624,
-		"time_max": 1728
+		"time_min": 1657,
+		"time_max": 1790
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland j:gntv genso:roe genso:centi",
 		"from": "annwyn:cactus",
 		"to": "genso:centi",
 		"advisory": {},
-		"time_min": 949,
-		"time_max": 1118
+		"time_min": 982,
+		"time_max": 1180
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff carson",
 		"from": "annwyn:cactus",
 		"to": "carson",
 		"advisory": {},
-		"time_min": 1037,
-		"time_max": 1167
+		"time_min": 1070,
+		"time_max": 1229
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr lenin_isle ponsportia j:tuff pripyat",
 		"from": "annwyn:cactus",
 		"to": "pripyat",
 		"advisory": {},
-		"time_min": 1207,
-		"time_max": 1335
+		"time_min": 1240,
+		"time_max": 1397
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia it:anburon",
 		"from": "annwyn:cactus",
 		"to": "it:anburon",
 		"advisory": {},
-		"time_min": 1529,
-		"time_max": 1633
+		"time_min": 1562,
+		"time_max": 1695
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend endportal",
 		"from": "annwyn:cactus",
 		"to": "endportal",
 		"advisory": {},
-		"time_min": 792,
-		"time_max": 815
+		"time_min": 825,
+		"time_max": 877
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis new_sovia",
 		"from": "annwyn:cactus",
 		"to": "new_sovia",
 		"advisory": {},
-		"time_min": 1232,
-		"time_max": 1313
+		"time_min": 1265,
+		"time_max": 1375
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts sept september",
@@ -28952,312 +28952,312 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1761,
-		"time_max": 1955
+		"time_min": 1794,
+		"time_max": 2017
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland lutrelia",
 		"from": "annwyn:cactus",
 		"to": "lutrelia",
 		"advisory": {},
-		"time_min": 333,
-		"time_max": 418
+		"time_min": 366,
+		"time_max": 480
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland j:gntv tvtopia",
 		"from": "annwyn:cactus",
 		"to": "tvtopia",
 		"advisory": {},
-		"time_min": 774,
-		"time_max": 876
+		"time_min": 807,
+		"time_max": 938
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex alexandria",
 		"from": "annwyn:cactus",
 		"to": "alexandria",
 		"advisory": {},
-		"time_min": 2020,
-		"time_max": 2044
+		"time_min": 2053,
+		"time_max": 2106
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:nether",
 		"from": "annwyn:cactus",
 		"to": "icenia:nether",
 		"advisory": {},
-		"time_min": 1515,
-		"time_max": 1602
+		"time_min": 1548,
+		"time_max": 1664
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia icenia:atlantica",
 		"from": "annwyn:cactus",
 		"to": "icenia:atlantica",
 		"advisory": {},
-		"time_min": 1497,
-		"time_max": 1551
+		"time_min": 1530,
+		"time_max": 1613
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:piria aurum:cactus",
 		"from": "annwyn:cactus",
 		"to": "aurum:cactus",
 		"advisory": {},
-		"time_min": 959,
-		"time_max": 1062
+		"time_min": 992,
+		"time_max": 1124
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o j:pbnj j:po oasis lambat",
 		"from": "annwyn:cactus",
 		"to": "lambat",
 		"advisory": {},
-		"time_min": 1130,
-		"time_max": 1167
+		"time_min": 1163,
+		"time_max": 1229
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "annwyn:cactus",
 		"to": "topha'nya",
 		"advisory": {},
-		"time_min": 2289,
-		"time_max": 2341
+		"time_min": 2322,
+		"time_max": 2403
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot wayrest",
 		"from": "annwyn:cactus",
 		"to": "wayrest",
 		"advisory": {},
-		"time_min": 1097,
-		"time_max": 1136
+		"time_min": 1130,
+		"time_max": 1198
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "annwyn:cactus",
 		"to": "hiyo'mek",
 		"advisory": {},
-		"time_min": 2035,
-		"time_max": 2060
+		"time_min": 2068,
+		"time_max": 2122
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts j:pvark j:pkallos kallos",
 		"from": "annwyn:cactus",
 		"to": "kallos",
 		"advisory": {},
-		"time_min": 1940,
-		"time_max": 1965
+		"time_min": 1973,
+		"time_max": 2027
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:parr arrelani",
 		"from": "annwyn:cactus",
 		"to": "arrelani",
 		"advisory": {},
-		"time_min": 779,
-		"time_max": 864
+		"time_min": 812,
+		"time_max": 926
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia j:pmts ellen",
 		"from": "annwyn:cactus",
 		"to": "ellen",
 		"advisory": {},
-		"time_min": 2526,
-		"time_max": 3031
+		"time_min": 2559,
+		"time_max": 3093
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coesav pinegarden magnasoria",
 		"from": "annwyn:cactus",
 		"to": "magnasoria",
 		"advisory": {},
-		"time_min": 1179,
-		"time_max": 1211
+		"time_min": 1212,
+		"time_max": 1273
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia alpoko",
 		"from": "annwyn:cactus",
 		"to": "alpoko",
 		"advisory": {},
-		"time_min": 1633,
-		"time_max": 1704
+		"time_min": 1666,
+		"time_max": 1766
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot netherfarm",
 		"from": "annwyn:cactus",
 		"to": "netherfarm",
 		"advisory": {},
-		"time_min": 1075,
-		"time_max": 1098
+		"time_min": 1108,
+		"time_max": 1160
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland j:gntv genso:roe j:uroe j:icegen icenia varkonia",
 		"from": "annwyn:cactus",
 		"to": "varkonia",
 		"advisory": {},
-		"time_min": 1779,
-		"time_max": 2079
+		"time_min": 1812,
+		"time_max": 2141
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "annwyn:cactus",
 		"to": "socalist_ruler",
 		"advisory": {},
-		"time_min": 2276,
-		"time_max": 2330
+		"time_min": 2309,
+		"time_max": 2392
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "annwyn:cactus",
 		"to": "nro'meagh",
 		"advisory": {},
-		"time_min": 2212,
-		"time_max": 2256
+		"time_min": 2245,
+		"time_max": 2318
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:piria j:gensig sig",
 		"from": "annwyn:cactus",
 		"to": "sig",
 		"advisory": {},
-		"time_min": 1236,
-		"time_max": 1386
+		"time_min": 1269,
+		"time_max": 1448
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc cape_cocoa",
 		"from": "annwyn:cactus",
 		"to": "cape_cocoa",
 		"advisory": {},
-		"time_min": 634,
-		"time_max": 656
+		"time_min": 667,
+		"time_max": 718
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 jevoghnya",
 		"from": "annwyn:cactus",
 		"to": "jevoghnya",
 		"advisory": {},
-		"time_min": 2164,
-		"time_max": 2201
+		"time_min": 2197,
+		"time_max": 2263
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental j:low arstotzka j:tree lendiforma:mesa",
 		"from": "annwyn:cactus",
 		"to": "lendiforma:mesa",
 		"advisory": {},
-		"time_min": 1146,
-		"time_max": 1219
+		"time_min": 1179,
+		"time_max": 1281
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann j:coegon j:coe:east coe j:coe:south j:uroe j:icegen icenia spqr",
 		"from": "annwyn:cactus",
 		"to": "spqr",
 		"advisory": {},
-		"time_min": 2828,
-		"time_max": 3280
+		"time_min": 2861,
+		"time_max": 3342
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "annwyn:cactus",
 		"to": "il'olmhir",
 		"advisory": {},
-		"time_min": 2232,
-		"time_max": 2282
+		"time_min": 2265,
+		"time_max": 2344
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:nyaann nyasaland j:gntv genso:roe bloom",
 		"from": "annwyn:cactus",
 		"to": "bloom",
 		"advisory": {},
-		"time_min": 1240,
-		"time_max": 1435
+		"time_min": 1273,
+		"time_max": 1497
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:o islaoccidental crowsroost",
 		"from": "annwyn:cactus",
 		"to": "crowsroost",
 		"advisory": {},
-		"time_min": 1092,
-		"time_max": 1118
+		"time_min": 1125,
+		"time_max": 1180
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot 0,0 j:picenia icenia icenia:potato",
 		"from": "annwyn:cactus",
 		"to": "icenia:potato",
 		"advisory": {},
-		"time_min": 1478,
-		"time_max": 1543
+		"time_min": 1511,
+		"time_max": 1605
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its qbipfb",
 		"from": "annwyn:cactus",
 		"to": "its:qbipfb",
 		"advisory": {},
-		"time_min": 1455,
-		"time_max": 1493
+		"time_min": 1488,
+		"time_max": 1555
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its beach",
 		"from": "annwyn:cactus",
 		"to": "its:beach",
 		"advisory": {},
-		"time_min": 1441,
-		"time_max": 1473
+		"time_min": 1474,
+		"time_max": 1535
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its adytum",
 		"from": "annwyn:cactus",
 		"to": "its:adytum",
 		"advisory": {},
-		"time_min": 1481,
-		"time_max": 1524
+		"time_min": 1514,
+		"time_max": 1586
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its skybunker",
 		"from": "annwyn:cactus",
 		"to": "its:skybunker",
 		"advisory": {},
-		"time_min": 1447,
-		"time_max": 1480
+		"time_min": 1480,
+		"time_max": 1542
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its hji",
 		"from": "annwyn:cactus",
 		"to": "its:hji",
 		"advisory": {},
-		"time_min": 1448,
-		"time_max": 1484
+		"time_min": 1481,
+		"time_max": 1546
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its subway",
 		"from": "annwyn:cactus",
 		"to": "its:subway",
 		"advisory": {},
-		"time_min": 1438,
-		"time_max": 1469
+		"time_min": 1471,
+		"time_max": 1531
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its office",
 		"from": "annwyn:cactus",
 		"to": "its:office",
 		"advisory": {},
-		"time_min": 1440,
-		"time_max": 1470
+		"time_min": 1473,
+		"time_max": 1532
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its iceniapark",
 		"from": "annwyn:cactus",
 		"to": "its:iceniapark",
 		"advisory": {},
-		"time_min": 1435,
-		"time_max": 1465
+		"time_min": 1468,
+		"time_max": 1527
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its versailles",
 		"from": "annwyn:cactus",
 		"to": "its:versailles",
 		"advisory": {},
-		"time_min": 1445,
-		"time_max": 1476
+		"time_min": 1478,
+		"time_max": 1538
 	},
 	{
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot j:icegen icenia its bayloop",
 		"from": "annwyn:cactus",
 		"to": "its:bayloop",
 		"advisory": {},
-		"time_min": 1440,
-		"time_max": 1471
+		"time_min": 1473,
+		"time_max": 1533
 	},
 	{
 		"dest": "tabatia arstotzka j:low islaoccidental j:o j:ppcc j:ann j:nyaann j:coegon j:gonem gondolin acadia stallman j:stallman:west dulaman dulaman:exit",
@@ -29606,8 +29606,8 @@
 		"advisory": {
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
-		"time_min": 1191,
-		"time_max": 1280
+		"time_min": 1224,
+		"time_max": 1342
 	},
 	{
 		"dest": "tabatia",
@@ -30577,8 +30577,8 @@
 		"from": "ssta",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1146,
-		"time_max": 1351
+		"time_min": 1179,
+		"time_max": 1413
 	},
 	{
 		"dest": "ssta j:cabalwest icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -31413,8 +31413,8 @@
 		"from": "forta'are",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2273,
-		"time_max": 2308
+		"time_min": 2306,
+		"time_max": 2370
 	},
 	{
 		"dest": "forta'are j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -32249,8 +32249,8 @@
 		"from": "lambat:treefarms",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1127,
-		"time_max": 1200
+		"time_min": 1160,
+		"time_max": 1262
 	},
 	{
 		"dest": "lambat:treefarms j:tree arstotzka tabatia",
@@ -33085,8 +33085,8 @@
 		"from": "westminster",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2126,
-		"time_max": 2582
+		"time_min": 2159,
+		"time_max": 2644
 	},
 	{
 		"dest": "westminster 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -33917,12 +33917,12 @@
 		"time_max": 1881
 	},
 	{
-		"dest": "mir j:po oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "mir j:po j:pbnj j:o j:ppcc j:ann annwyn:cactus",
 		"from": "mir",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2011,
-		"time_max": 2271
+		"time_min": 1485,
+		"time_max": 1547
 	},
 	{
 		"dest": "mir j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -34757,8 +34757,8 @@
 		"from": "icenia:lord",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1134,
-		"time_max": 1328
+		"time_min": 1167,
+		"time_max": 1390
 	},
 	{
 		"dest": "icenia:lord j:cabaleast icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -35593,8 +35593,8 @@
 		"from": "iria:desert",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1238,
-		"time_max": 1328
+		"time_min": 1271,
+		"time_max": 1390
 	},
 	{
 		"dest": "iria:desert savion j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -36429,8 +36429,8 @@
 		"from": "coventhia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1317,
-		"time_max": 1757
+		"time_min": 1350,
+		"time_max": 1819
 	},
 	{
 		"dest": "coventhia genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -37265,8 +37265,8 @@
 		"from": "aurum",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 662,
-		"time_max": 706
+		"time_min": 695,
+		"time_max": 768
 	},
 	{
 		"dest": "aurum j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -38101,8 +38101,8 @@
 		"from": "mta",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1948,
-		"time_max": 2262
+		"time_min": 1981,
+		"time_max": 2324
 	},
 	{
 		"dest": "mta 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -38937,8 +38937,8 @@
 		"from": "em",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 570,
-		"time_max": 593
+		"time_min": 603,
+		"time_max": 655
 	},
 	{
 		"dest": "em j:gonem j:coegon j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -39773,8 +39773,8 @@
 		"from": "fortuna",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2900,
-		"time_max": 3063
+		"time_min": 2933,
+		"time_max": 3125
 	},
 	{
 		"dest": "fortuna j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -40609,8 +40609,8 @@
 		"from": "hje",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2481,
-		"time_max": 2504
+		"time_min": 2514,
+		"time_max": 2566
 	},
 	{
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -41445,8 +41445,8 @@
 		"from": "besia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1017,
-		"time_max": 1045
+		"time_min": 1050,
+		"time_max": 1107
 	},
 	{
 		"dest": "besia j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -42281,8 +42281,8 @@
 		"from": "genso:farms",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 583,
-		"time_max": 759
+		"time_min": 616,
+		"time_max": 821
 	},
 	{
 		"dest": "genso:farms genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -43117,8 +43117,8 @@
 		"from": "wnsta",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1082,
-		"time_max": 1273
+		"time_min": 1115,
+		"time_max": 1335
 	},
 	{
 		"dest": "wnsta j:cabalwest icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -43953,8 +43953,8 @@
 		"from": "genso:shiranui",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 598,
-		"time_max": 787
+		"time_min": 631,
+		"time_max": 849
 	},
 	{
 		"dest": "genso:shiranui genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -44789,8 +44789,8 @@
 		"from": "terestai",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1492,
-		"time_max": 1669
+		"time_min": 1525,
+		"time_max": 1731
 	},
 	{
 		"dest": "terestai j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -45625,8 +45625,8 @@
 		"from": "hjaltland",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2634,
-		"time_max": 2770
+		"time_min": 2667,
+		"time_max": 2832
 	},
 	{
 		"dest": "hjaltland j:pp j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -46461,8 +46461,8 @@
 		"from": "threelakes",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 332,
-		"time_max": 430
+		"time_min": 365,
+		"time_max": 492
 	},
 	{
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -47297,8 +47297,8 @@
 		"from": "icenia:westisle",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1111,
-		"time_max": 1316
+		"time_min": 1144,
+		"time_max": 1378
 	},
 	{
 		"dest": "icenia:westisle icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -48129,12 +48129,12 @@
 		"time_max": 1742
 	},
 	{
-		"dest": "iria oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "iria oasis ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "iria",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1878,
-		"time_max": 2133
+		"time_min": 1864,
+		"time_max": 1969
 	},
 	{
 		"dest": "iria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -48969,8 +48969,8 @@
 		"from": "gabon",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1075,
-		"time_max": 1291
+		"time_min": 1108,
+		"time_max": 1353
 	},
 	{
 		"dest": "gabon j:gntv nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -49805,8 +49805,8 @@
 		"from": "genso:centi",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 685,
-		"time_max": 888
+		"time_min": 718,
+		"time_max": 950
 	},
 	{
 		"dest": "genso:centi genso:roe genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -50641,8 +50641,8 @@
 		"from": "carson",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1192,
-		"time_max": 1372
+		"time_min": 1225,
+		"time_max": 1434
 	},
 	{
 		"dest": "carson j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -51477,8 +51477,8 @@
 		"from": "pripyat",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1362,
-		"time_max": 1540
+		"time_min": 1395,
+		"time_max": 1602
 	},
 	{
 		"dest": "pripyat j:tuff ponsportia lenin_isle j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -52313,8 +52313,8 @@
 		"from": "it:anburon",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1186,
-		"time_max": 1416
+		"time_min": 1219,
+		"time_max": 1478
 	},
 	{
 		"dest": "it:anburon icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -53149,8 +53149,8 @@
 		"from": "endportal",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 792,
-		"time_max": 815
+		"time_min": 825,
+		"time_max": 877
 	},
 	{
 		"dest": "endportal j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -53981,12 +53981,12 @@
 		"time_max": 1528
 	},
 	{
-		"dest": "new_sovia oasis j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "new_sovia oasis ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "new_sovia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1613,
-		"time_max": 1919
+		"time_min": 1599,
+		"time_max": 1755
 	},
 	{
 		"dest": "new_sovia oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -54891,8 +54891,8 @@
 		"advisory": {
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
-		"time_min": 1761,
-		"time_max": 1955
+		"time_min": 1794,
+		"time_max": 2017
 	},
 	{
 		"dest": "mts j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -55862,8 +55862,8 @@
 		"from": "lutrelia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 333,
-		"time_max": 418
+		"time_min": 366,
+		"time_max": 480
 	},
 	{
 		"dest": "lutrelia nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -56698,8 +56698,8 @@
 		"from": "tvtopia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 774,
-		"time_max": 876
+		"time_min": 807,
+		"time_max": 938
 	},
 	{
 		"dest": "tvtopia j:gntv nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -57534,8 +57534,8 @@
 		"from": "alexandria",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2020,
-		"time_max": 2044
+		"time_min": 2053,
+		"time_max": 2106
 	},
 	{
 		"dest": "alexandria j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -58370,8 +58370,8 @@
 		"from": "icenia:nether",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1172,
-		"time_max": 1385
+		"time_min": 1205,
+		"time_max": 1447
 	},
 	{
 		"dest": "icenia:nether icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -59206,8 +59206,8 @@
 		"from": "icenia:atlantica",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1130,
-		"time_max": 1336
+		"time_min": 1163,
+		"time_max": 1398
 	},
 	{
 		"dest": "icenia:atlantica icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -60038,12 +60038,12 @@
 		"time_max": 881
 	},
 	{
-		"dest": "aurum:cactus j:piria j:gensig genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "aurum:cactus j:piria oasis ch1prempire j:coesav j:coegon j:nyaann j:ann annwyn:cactus",
 		"from": "aurum:cactus",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1005,
-		"time_max": 1272
+		"time_min": 1993,
+		"time_max": 2124
 	},
 	{
 		"dest": "aurum:cactus j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -60878,8 +60878,8 @@
 		"from": "lambat",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1131,
-		"time_max": 1201
+		"time_min": 1164,
+		"time_max": 1263
 	},
 	{
 		"dest": "lambat arstotzka tabatia",
@@ -61714,8 +61714,8 @@
 		"from": "topha'nya",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2289,
-		"time_max": 2341
+		"time_min": 2322,
+		"time_max": 2403
 	},
 	{
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -62550,8 +62550,8 @@
 		"from": "wayrest",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1097,
-		"time_max": 1136
+		"time_min": 1130,
+		"time_max": 1198
 	},
 	{
 		"dest": "wayrest j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -63386,8 +63386,8 @@
 		"from": "hiyo'mek",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2035,
-		"time_max": 2060
+		"time_min": 2068,
+		"time_max": 2122
 	},
 	{
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -64222,8 +64222,8 @@
 		"from": "kallos",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1746,
-		"time_max": 2066
+		"time_min": 1779,
+		"time_max": 2128
 	},
 	{
 		"dest": "kallos icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -65058,8 +65058,8 @@
 		"from": "arrelani",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 779,
-		"time_max": 864
+		"time_min": 812,
+		"time_max": 926
 	},
 	{
 		"dest": "arrelani j:parr j:nice j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -65894,8 +65894,8 @@
 		"from": "ellen",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2526,
-		"time_max": 3031
+		"time_min": 2559,
+		"time_max": 3093
 	},
 	{
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -66730,8 +66730,8 @@
 		"from": "magnasoria",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1179,
-		"time_max": 1211
+		"time_min": 1212,
+		"time_max": 1273
 	},
 	{
 		"dest": "magnasoria pinegarden j:coesav ch1prempire oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -67566,8 +67566,8 @@
 		"from": "alpoko",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1290,
-		"time_max": 1487
+		"time_min": 1323,
+		"time_max": 1549
 	},
 	{
 		"dest": "alpoko icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -68402,8 +68402,8 @@
 		"from": "netherfarm",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1075,
-		"time_max": 1098
+		"time_min": 1108,
+		"time_max": 1160
 	},
 	{
 		"dest": "netherfarm j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -69238,8 +69238,8 @@
 		"from": "varkonia",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1480,
-		"time_max": 1791
+		"time_min": 1513,
+		"time_max": 1853
 	},
 	{
 		"dest": "varkonia icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -70074,8 +70074,8 @@
 		"from": "socalist_ruler",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2276,
-		"time_max": 2330
+		"time_min": 2309,
+		"time_max": 2392
 	},
 	{
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -70910,8 +70910,8 @@
 		"from": "nro'meagh",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2212,
-		"time_max": 2256
+		"time_min": 2245,
+		"time_max": 2318
 	},
 	{
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -71746,8 +71746,8 @@
 		"from": "sig",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 736,
-		"time_max": 991
+		"time_min": 769,
+		"time_max": 1053
 	},
 	{
 		"dest": "sig genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -72582,8 +72582,8 @@
 		"from": "cape_cocoa",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 634,
-		"time_max": 656
+		"time_min": 667,
+		"time_max": 718
 	},
 	{
 		"dest": "cape_cocoa j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -73418,8 +73418,8 @@
 		"from": "jevoghnya",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2164,
-		"time_max": 2201
+		"time_min": 2197,
+		"time_max": 2263
 	},
 	{
 		"dest": "jevoghnya j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -74254,8 +74254,8 @@
 		"from": "lendiforma:mesa",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1146,
-		"time_max": 1219
+		"time_min": 1179,
+		"time_max": 1281
 	},
 	{
 		"dest": "lendiforma:mesa j:tree arstotzka tabatia",
@@ -75090,8 +75090,8 @@
 		"from": "spqr",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2299,
-		"time_max": 2900
+		"time_min": 2332,
+		"time_max": 2962
 	},
 	{
 		"dest": "spqr icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -75926,8 +75926,8 @@
 		"from": "il'olmhir",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 2232,
-		"time_max": 2282
+		"time_min": 2265,
+		"time_max": 2344
 	},
 	{
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot j:pend j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -76762,8 +76762,8 @@
 		"from": "bloom",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 976,
-		"time_max": 1205
+		"time_min": 1009,
+		"time_max": 1267
 	},
 	{
 		"dest": "bloom genso:roe genso:taozi nyasaland j:nyaann j:ann j:ppcc j:o islaoccidental j:low arstotzka tabatia",
@@ -77594,12 +77594,12 @@
 		"time_max": 1093
 	},
 	{
-		"dest": "crowsroost genso:taozi nyasaland j:nyaann j:ann annwyn:cactus",
+		"dest": "crowsroost islaoccidental j:o j:ppcc j:ann annwyn:cactus",
 		"from": "crowsroost",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 832,
-		"time_max": 1118
+		"time_min": 1125,
+		"time_max": 1180
 	},
 	{
 		"dest": "crowsroost islaoccidental j:low arstotzka tabatia",
@@ -78434,8 +78434,8 @@
 		"from": "icenia:potato",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1135,
-		"time_max": 1326
+		"time_min": 1168,
+		"time_max": 1388
 	},
 	{
 		"dest": "icenia:potato icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -79270,8 +79270,8 @@
 		"from": "its:qbipfb",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1088,
-		"time_max": 1278
+		"time_min": 1121,
+		"time_max": 1340
 	},
 	{
 		"dest": "its:qbipfb j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -80106,8 +80106,8 @@
 		"from": "its:beach",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1074,
-		"time_max": 1258
+		"time_min": 1107,
+		"time_max": 1320
 	},
 	{
 		"dest": "its:beach j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -80942,8 +80942,8 @@
 		"from": "its:adytum",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1114,
-		"time_max": 1309
+		"time_min": 1147,
+		"time_max": 1371
 	},
 	{
 		"dest": "its:adytum j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -81778,8 +81778,8 @@
 		"from": "its:skybunker",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1080,
-		"time_max": 1265
+		"time_min": 1113,
+		"time_max": 1327
 	},
 	{
 		"dest": "its:skybunker j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -82614,8 +82614,8 @@
 		"from": "its:hji",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1081,
-		"time_max": 1269
+		"time_min": 1114,
+		"time_max": 1331
 	},
 	{
 		"dest": "its:hji j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -83450,8 +83450,8 @@
 		"from": "its:subway",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1071,
-		"time_max": 1254
+		"time_min": 1104,
+		"time_max": 1316
 	},
 	{
 		"dest": "its:subway j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -84286,8 +84286,8 @@
 		"from": "its:office",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1073,
-		"time_max": 1255
+		"time_min": 1106,
+		"time_max": 1317
 	},
 	{
 		"dest": "its:office j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -85122,8 +85122,8 @@
 		"from": "its:iceniapark",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1068,
-		"time_max": 1250
+		"time_min": 1101,
+		"time_max": 1312
 	},
 	{
 		"dest": "its:iceniapark j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -85958,8 +85958,8 @@
 		"from": "its:versailles",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1078,
-		"time_max": 1261
+		"time_min": 1111,
+		"time_max": 1323
 	},
 	{
 		"dest": "its:versailles j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
@@ -86794,8 +86794,8 @@
 		"from": "its:bayloop",
 		"to": "annwyn:cactus",
 		"advisory": {},
-		"time_min": 1073,
-		"time_max": 1256
+		"time_min": 1106,
+		"time_max": 1318
 	},
 	{
 		"dest": "its:bayloop j:its icenia j:icegen j:gensig j:piria oasis j:po j:pbnj j:o islaoccidental j:low arstotzka tabatia",
