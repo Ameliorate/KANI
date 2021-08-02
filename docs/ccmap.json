@@ -129,7 +129,7 @@
 {"id":"ccmap:kani/node/stallman","name":"Stallman (KANI)","station":true,"type":"CompliantSwitches","x":2439,"y":5,"z":-10848},
 {"advisory":"This station's embarking track will teleport you upwards if you're not careful.","id":"ccmap:kani/node/tabatia","name":"Tabatia (KANI)","type":"TerminalDestinations","x":6552,"y":40,"z":-2414},
 {"id":"ccmap:kani/node/terestai","name":"Terestai (KANI)","type":"TerminalDestinations","x":4223,"z":5333},
-{"id":"ccmap:kani/node/threelakes","name":"Threelakes (KANI)","type":"TerminalDestinations","x":3057,"y":11,"z":-6517},
+{"id":"ccmap:kani/node/threelakes","name":"Threelakes (KANI)","type":"TerminalDestinations","x":3057,"y":11,"z":-5517},
 {"id":"ccmap:kani/node/topha'nya","name":"Topha'Nya (KANI)","type":"TerminalDestinations","x":-696,"y":115,"z":8667},
 {"id":"ccmap:kani/node/torndal","name":"Torndal (KANI)","station":true,"type":"CompliantSwitches","x":-403,"y":122,"z":8166},
 {"id":"ccmap:kani/node/tvtopia","name":"Tvtopia (KANI)","type":"TerminalDestinations","x":-504,"y":11,"z":-3500},
@@ -255,7 +255,7 @@
 {"distance":3149,"id":"ccmap:kani/link/j:coegon/j:coesav","line":[[[3851,-5796],[7000,-5765]]],"name":"J:Coegon - J:Coesav (KANI)","type":"link"},
 {"distance":1104,"id":"ccmap:kani/link/j:coegon/j:gonem","line":[[[3851,-5796],[3851,-6900]]],"name":"J:Coegon - J:Gonem (KANI)","type":"link"},
 {"distance":1888,"id":"ccmap:kani/link/j:coegon/j:nyaann","line":[[[3851,-5796],[3861,-3908]]],"name":"J:Coegon - J:Nyaann (KANI)","type":"link"},
-{"distance":1072,"id":"ccmap:kani/link/j:coegon/threelakes","line":[[[3851,-5796],[3057,-6517]]],"name":"J:Coegon - Threelakes (KANI)","type":"link"},
+{"distance":841,"id":"ccmap:kani/link/j:coegon/threelakes","line":[[[3851,-5796],[3057,-5517]]],"name":"J:Coegon - Threelakes (KANI)","type":"link"},
 {"distance":3086,"id":"ccmap:kani/link/j:coesav/pinegarden","line":[[[7000,-5765],[7004,-8851]]],"name":"J:Coesav - Pinegarden (KANI)","type":"link"},
 {"distance":2847,"id":"ccmap:kani/link/j:coesav/savion","line":[[[7000,-5765],[9847,-5807]]],"name":"J:Coesav - Savion (KANI)","type":"link"},
 {"distance":869,"id":"ccmap:kani/link/j:gensig/j:icegen","line":[[[1249,-1412],[380,-1412]]],"name":"J:Gensig - J:Icegen (KANI)","type":"link"},
@@ -282,7 +282,7 @@
 {"distance":54,"id":"ccmap:kani/link/j:nro2/nro'meagh","line":[[[-402,8359],[-348,8364]]],"name":"J:Nro2 - Nro'Meagh (KANI)","type":"link"},
 {"distance":193,"id":"ccmap:kani/link/j:nro2/torndal","line":[[[-402,8359],[-403,8166]]],"name":"J:Nro2 - Torndal (KANI)","type":"link"},
 {"distance":259,"id":"ccmap:kani/link/j:nyaann/nyasaland","line":[[[3861,-3908],[4061,-4074]]],"name":"J:Nyaann - Nyasaland (KANI)","type":"link"},
-{"distance":2730,"id":"ccmap:kani/link/j:nyaann/threelakes","line":[[[3861,-3908],[3057,-6517]]],"name":"J:Nyaann - Threelakes (KANI)","type":"link"},
+{"distance":1798,"id":"ccmap:kani/link/j:nyaann/threelakes","line":[[[3861,-3908],[3057,-5517]]],"name":"J:Nyaann - Threelakes (KANI)","type":"link"},
 {"distance":1230,"id":"ccmap:kani/link/j:o/j:pbnj","line":[[[5070,0],[6300,0]]],"name":"J:O - J:Pbnj (KANI)","type":"link"},
 {"distance":1231,"id":"ccmap:kani/link/j:o/j:ppcc","line":[[[5070,0],[3839,0]]],"name":"J:O - J:Ppcc (KANI)","type":"link"},
 {"distance":123,"id":"ccmap:kani/link/j:palex/j:pniyo","line":[[[448,8213],[449,8336]]],"name":"J:Palex - J:Pniyo (KANI)","type":"link"},
@@ -326,4 +326,4 @@
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627945317","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627945638","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
