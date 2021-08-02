@@ -1,0 +1,11 @@
+x = 5070
+y = 12
+z = 0
+
+switch = true
+
+links = [
+ 'j:pbnj',
+ 'j:ppcc',
+ 'islaoccidental',
+]

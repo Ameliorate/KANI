@@ -1,0 +1,12 @@
+x = 6654
+y = 71
+z = -1568
+
+switch = true
+
+links = [
+ 'arstotzka',
+ 'lambat:treefarms',
+ 'lendiforma:mesa',
+ 'vacari',
+]

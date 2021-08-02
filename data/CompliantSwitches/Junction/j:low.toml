@@ -1,0 +1,11 @@
+x = 5293
+y = 20
+z = -1521
+
+switch = true
+
+links = [
+ 'arstotzka',
+ 'purazi',
+ 'islaoccidental',
+]

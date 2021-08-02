@@ -5,7 +5,7 @@ z = 0
 switch = true
 
 links = [
- 'j:ppcc',
+ 'j:o',
  'j:po',
  'besia',
 ]

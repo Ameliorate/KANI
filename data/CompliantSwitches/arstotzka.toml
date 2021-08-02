@@ -1,0 +1,12 @@
+x = 6818
+y = 59
+z = -1717
+
+station = true
+
+links = [
+ 'j:low',
+ 'j:tree',
+ 'lambat',
+ 'tabatia',
+]
