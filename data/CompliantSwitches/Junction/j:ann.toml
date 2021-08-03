@@ -7,7 +7,7 @@ switch = true
 links = [
  'j:nyaann',
  'j:ppcc',
-#'coe' # Awaiting connection to be made into the switch
+ 'coe',
  'annwyn:cactus',
-#'ch1prempire', #Need to check
+#'ch1prempire', # Isn't connected to the switch
 ]
