@@ -136,7 +136,7 @@
 {"id":"ccmap:kani/node/vacari","name":"Vacari (KANI)","type":"TerminalDestinations","x":6606,"y":1,"z":-268},
 {"id":"ccmap:kani/node/valyria","name":"Valyria (KANI)","type":"TerminalDestinations","x":-2633,"z":-8393},
 {"id":"ccmap:kani/node/varkonia","name":"Varkonia (KANI)","type":"TerminalDestinations","x":-4861,"z":-2769},
-{"description":"Features a very complicated NonCompliantSwitch. Don't think about it too hard.","id":"ccmap:kani/node/vinland","name":"Vinland (KANI)","type":"TerminalDestinations","x":414,"z":6602},
+{"advisory":"Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI","description":"Features a very complicated NonCompliantSwitch. Don't think about it too hard.","id":"ccmap:kani/node/vinland","name":"Vinland (KANI)","type":"TerminalDestinations","x":414,"z":6602},
 {"description":"Station under a fancy aztek build in a swamp. Now owned by Yoahtl.","id":"ccmap:kani/node/wayrest","name":"Wayrest (KANI)","type":"TerminalDestinations","x":1277,"z":145},
 {"description":"City of Westminster","id":"ccmap:kani/node/westminster","name":"Westminster (KANI)","type":"TerminalDestinations","x":-7120,"z":5100},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/wnsta","name":"Wnsta (KANI)","type":"TerminalDestinations","x":-1867,"y":5,"z":-1336},
@@ -327,4 +327,4 @@
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627950781","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627962743","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
