@@ -227,7 +227,9 @@
 		"dest": "dulaman j:stallman:west j:coe:north coe j:coe:south genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "dulaman",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2839,
 		"time_max": 3136
 	},
@@ -1063,7 +1065,9 @@
 		"dest": "pinegarden j:coesav ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "pinegarden",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2716,
 		"time_max": 2825
 	},
@@ -1899,7 +1903,9 @@
 		"dest": "savion j:coesav ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "savion",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2686,
 		"time_max": 2800
 	},
@@ -2735,7 +2741,9 @@
 		"dest": "ponsportia j:pend j:knot vinland",
 		"from": "ponsportia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1238,
 		"time_max": 1312
 	},
@@ -3571,7 +3579,9 @@
 		"dest": "ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "ch1prempire",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1925,
 		"time_max": 2012
 	},
@@ -4407,7 +4417,9 @@
 		"dest": "gondolin j:coe:north coe j:coe:south genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "gondolin",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2594,
 		"time_max": 2977
 	},
@@ -5243,7 +5255,9 @@
 		"dest": "genso:roe genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "genso:roe",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1693,
 		"time_max": 1846
 	},
@@ -6079,7 +6093,9 @@
 		"dest": "torndal j:nro1 j:pnro j:knot vinland",
 		"from": "torndal",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2023,
 		"time_max": 2049
 	},
@@ -6915,7 +6931,9 @@
 		"dest": "oasis j:piria j:pend j:knot vinland",
 		"from": "oasis",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1697,
 		"time_max": 1763
 	},
@@ -7751,7 +7769,9 @@
 		"dest": "axiom j:piria j:pend j:knot vinland",
 		"from": "axiom",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1231,
 		"time_max": 1290
 	},
@@ -8587,7 +8607,9 @@
 		"dest": "coe j:coe:south genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "coe",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2014,
 		"time_max": 2165
 	},
@@ -9423,7 +9445,9 @@
 		"dest": "0,0 j:knot vinland",
 		"from": "0,0",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 873,
 		"time_max": 878
 	},
@@ -10259,7 +10283,9 @@
 		"dest": "kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot vinland",
 		"from": "kro'ushro",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2094,
 		"time_max": 2120
 	},
@@ -11095,7 +11121,9 @@
 		"dest": "icenia vinland",
 		"from": "icenia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1038,
 		"time_max": 1264
 	},
@@ -11931,7 +11959,9 @@
 		"dest": "arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "arstotzka",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1804,
 		"time_max": 1850
 	},
@@ -12767,7 +12797,9 @@
 		"dest": "acadia gondolin j:coe:north coe j:coe:south genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "acadia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2729,
 		"time_max": 3112
 	},
@@ -13603,7 +13635,9 @@
 		"dest": "lenin_isle ponsportia j:pend j:knot vinland",
 		"from": "lenin_isle",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1287,
 		"time_max": 1381
 	},
@@ -14439,7 +14473,9 @@
 		"dest": "imc j:pmts j:picenia 0,0 j:knot vinland",
 		"from": "imc",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2010,
 		"time_max": 2316
 	},
@@ -15275,7 +15311,9 @@
 		"dest": "stallman acadia gondolin j:coe:north coe j:coe:south genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "stallman",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2919,
 		"time_max": 3360
 	},
@@ -16111,7 +16149,9 @@
 		"dest": "genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "genso:taozi",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1580,
 		"time_max": 1708
 	},
@@ -16947,7 +16987,9 @@
 		"dest": "nyasaland genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "nyasaland",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1973,
 		"time_max": 2238
 	},
@@ -17783,7 +17825,9 @@
 		"dest": "islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "islaoccidental",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1576,
 		"time_max": 1584
 	},
@@ -18619,7 +18663,9 @@
 		"dest": "valyria j:gntv genso:roe genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "valyria",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2513,
 		"time_max": 2919
 	},
@@ -19455,7 +19501,9 @@
 		"dest": "pacem j:pp j:pnro j:knot vinland",
 		"from": "pacem",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2156,
 		"time_max": 2170
 	},
@@ -20291,7 +20339,9 @@
 		"dest": "purazi j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "purazi",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1687,
 		"time_max": 1710
 	},
@@ -21127,7 +21177,9 @@
 		"dest": "icenia:drippy icenia vinland",
 		"from": "icenia:drippy",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1108,
 		"time_max": 1352
 	},
@@ -21963,7 +22015,9 @@
 		"dest": "old_sanctuary genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "old_sanctuary",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1748,
 		"time_max": 1914
 	},
@@ -22799,7 +22853,9 @@
 		"dest": "ozonrough j:pniyo j:palex j:pnro j:knot vinland",
 		"from": "ozonrough",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1961,
 		"time_max": 1978
 	},
@@ -23411,7 +23467,9 @@
 		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe j:coe:north j:stallman:west dulaman dulaman:exit",
 		"from": "vinland",
 		"to": "dulaman",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2711,
 		"time_max": 3086
 	},
@@ -23419,7 +23477,9 @@
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south coe j:ann j:nyaann j:coegon j:coesav pinegarden pinegarden:exit",
 		"from": "vinland",
 		"to": "pinegarden",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 3094,
 		"time_max": 3283
 	},
@@ -23427,7 +23487,9 @@
 		"dest": "vinland j:knot j:pend j:piria oasis ch1prempire j:coesav savion savion:exit",
 		"from": "vinland",
 		"to": "savion",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2686,
 		"time_max": 2800
 	},
@@ -23435,7 +23497,9 @@
 		"dest": "vinland j:knot j:pend ponsportia ponsportia:exit",
 		"from": "vinland",
 		"to": "ponsportia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1238,
 		"time_max": 1312
 	},
@@ -23443,7 +23507,9 @@
 		"dest": "vinland j:knot j:pend j:piria oasis ch1prempire ch1prempire:exit",
 		"from": "vinland",
 		"to": "ch1prempire",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1925,
 		"time_max": 2012
 	},
@@ -23451,7 +23517,9 @@
 		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe j:coe:east j:coegon j:gonem gondolin gondolin:exit",
 		"from": "vinland",
 		"to": "gondolin",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2695,
 		"time_max": 2929
 	},
@@ -23459,7 +23527,9 @@
 		"dest": "vinland icenia j:icegen j:uroe genso:roe genso:roe:exit",
 		"from": "vinland",
 		"to": "genso:roe",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1475,
 		"time_max": 1705
 	},
@@ -23467,7 +23537,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal torndal:exit",
 		"from": "vinland",
 		"to": "torndal",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2023,
 		"time_max": 2049
 	},
@@ -23475,7 +23547,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po oasis oasis:exit",
 		"from": "vinland",
 		"to": "oasis",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1742,
 		"time_max": 1749
 	},
@@ -23483,7 +23557,9 @@
 		"dest": "vinland j:knot j:pend j:piria axiom axiom:exit",
 		"from": "vinland",
 		"to": "axiom",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1231,
 		"time_max": 1290
 	},
@@ -23491,7 +23567,9 @@
 		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe coe:exit",
 		"from": "vinland",
 		"to": "coe",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1886,
 		"time_max": 2115
 	},
@@ -23499,7 +23577,9 @@
 		"dest": "vinland j:knot 0,0 0,0:exit",
 		"from": "vinland",
 		"to": "0,0",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 873,
 		"time_max": 878
 	},
@@ -23507,7 +23587,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro kro'ushro:exit",
 		"from": "vinland",
 		"to": "kro'ushro",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2094,
 		"time_max": 2120
 	},
@@ -23515,7 +23597,9 @@
 		"dest": "vinland icenia icenia:exit",
 		"from": "vinland",
 		"to": "icenia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1038,
 		"time_max": 1264
 	},
@@ -23523,7 +23607,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka arstotzka:exit",
 		"from": "vinland",
 		"to": "arstotzka",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1804,
 		"time_max": 1850
 	},
@@ -23531,7 +23617,9 @@
 		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe j:coe:east j:coegon j:gonem gondolin acadia acadia:exit",
 		"from": "vinland",
 		"to": "acadia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2830,
 		"time_max": 3064
 	},
@@ -23539,7 +23627,9 @@
 		"dest": "vinland j:knot j:pend ponsportia lenin_isle lenin_isle:exit",
 		"from": "vinland",
 		"to": "lenin_isle",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1287,
 		"time_max": 1381
 	},
@@ -23547,7 +23637,9 @@
 		"dest": "vinland icenia j:picenia j:pmts imc imc:exit",
 		"from": "vinland",
 		"to": "imc",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2182,
 		"time_max": 2738
 	},
@@ -23555,7 +23647,9 @@
 		"dest": "vinland icenia j:icegen j:uroe j:coe:south coe j:coe:north j:stallman:west stallman stallman:exit",
 		"from": "vinland",
 		"to": "stallman",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2581,
 		"time_max": 2958
 	},
@@ -23563,7 +23657,9 @@
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south genso:taozi genso:taozi:exit",
 		"from": "vinland",
 		"to": "genso:taozi",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1298,
 		"time_max": 1326
 	},
@@ -23571,7 +23667,9 @@
 		"dest": "vinland j:knot j:pend j:piria j:gensig genso:taozi nyasaland nyasaland:exit",
 		"from": "vinland",
 		"to": "nyasaland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1973,
 		"time_max": 2238
 	},
@@ -23579,7 +23677,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental islaoccidental:exit",
 		"from": "vinland",
 		"to": "islaoccidental",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1576,
 		"time_max": 1584
 	},
@@ -23587,7 +23687,9 @@
 		"dest": "vinland icenia j:icegen j:uroe genso:roe j:gntv valyria",
 		"from": "vinland",
 		"to": "valyria",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2295,
 		"time_max": 2778
 	},
@@ -23595,7 +23697,9 @@
 		"dest": "vinland j:knot j:pnro j:pp pacem",
 		"from": "vinland",
 		"to": "pacem",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2156,
 		"time_max": 2170
 	},
@@ -23603,7 +23707,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low purazi",
 		"from": "vinland",
 		"to": "purazi",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1687,
 		"time_max": 1710
 	},
@@ -23611,7 +23717,9 @@
 		"dest": "vinland icenia icenia:drippy",
 		"from": "vinland",
 		"to": "icenia:drippy",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1108,
 		"time_max": 1352
 	},
@@ -23619,7 +23727,9 @@
 		"dest": "vinland j:knot j:pend j:piria j:gensig genso:taozi old_sanctuary",
 		"from": "vinland",
 		"to": "old_sanctuary",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1748,
 		"time_max": 1914
 	},
@@ -23627,7 +23737,9 @@
 		"dest": "vinland j:knot j:pnro j:palex j:pniyo ozonrough",
 		"from": "vinland",
 		"to": "ozonrough",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1961,
 		"time_max": 1978
 	},
@@ -23635,7 +23747,9 @@
 		"dest": "vinland",
 		"from": "vinland",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 0,
 		"time_max": 0
 	},
@@ -23643,7 +23757,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka j:tree vacari",
 		"from": "vinland",
 		"to": "vacari",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1995,
 		"time_max": 2057
 	},
@@ -23651,7 +23767,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po oasis ch1prempire j:coesav savion iria:jungle",
 		"from": "vinland",
 		"to": "iria:jungle",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 3364,
 		"time_max": 3517
 	},
@@ -23659,7 +23777,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro lriln'kriavnya",
 		"from": "vinland",
 		"to": "lriln'kriavnya",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2133,
 		"time_max": 2170
 	},
@@ -23667,7 +23787,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po caledonia",
 		"from": "vinland",
 		"to": "caledonia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1895,
 		"time_max": 1960
 	},
@@ -23675,7 +23797,9 @@
 		"dest": "vinland icenia j:cabalwest mta canvasblue",
 		"from": "vinland",
 		"to": "canvasblue",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1123,
 		"time_max": 1364
 	},
@@ -23683,7 +23807,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:ann annwyn:cactus",
 		"from": "vinland",
 		"to": "annwyn:cactus",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1841,
 		"time_max": 1898
 	},
@@ -23692,7 +23818,8 @@
 		"from": "vinland",
 		"to": "tabatia",
 		"advisory": {
-			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
+			"tabatia": "This station's embarking track will teleport you upwards if you're not careful.",
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
 		},
 		"time_min": 2514,
 		"time_max": 2648
@@ -23701,7 +23828,9 @@
 		"dest": "vinland icenia j:cabalwest ssta",
 		"from": "vinland",
 		"to": "ssta",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1137,
 		"time_max": 1390
 	},
@@ -23709,7 +23838,9 @@
 		"dest": "vinland j:knot j:pnro j:pp forta'are",
 		"from": "vinland",
 		"to": "forta'are",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2115,
 		"time_max": 2132
 	},
@@ -23717,7 +23848,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka j:tree lambat:treefarms",
 		"from": "vinland",
 		"to": "lambat:treefarms",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1833,
 		"time_max": 1890
 	},
@@ -23725,7 +23858,9 @@
 		"dest": "vinland icenia westminster",
 		"from": "vinland",
 		"to": "westminster",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2103,
 		"time_max": 2764
 	},
@@ -23733,7 +23868,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po mir",
 		"from": "vinland",
 		"to": "mir",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2158,
 		"time_max": 2175
 	},
@@ -23741,7 +23878,9 @@
 		"dest": "vinland icenia j:cabaleast lord",
 		"from": "vinland",
 		"to": "icenia:lord",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1125,
 		"time_max": 1367
 	},
@@ -23749,7 +23888,9 @@
 		"dest": "vinland j:knot j:pend j:piria oasis ch1prempire j:coesav savion iria:desert",
 		"from": "vinland",
 		"to": "iria:desert",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2831,
 		"time_max": 3004
 	},
@@ -23757,7 +23898,9 @@
 		"dest": "vinland icenia j:icegen j:uroe genso:roe genso:taozi coventhia",
 		"from": "vinland",
 		"to": "coventhia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2373,
 		"time_max": 2896
 	},
@@ -23765,7 +23908,9 @@
 		"dest": "vinland j:knot j:pend j:nice aurum",
 		"from": "vinland",
 		"to": "aurum",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1250,
 		"time_max": 1278
 	},
@@ -23773,7 +23918,9 @@
 		"dest": "vinland icenia mta",
 		"from": "vinland",
 		"to": "mta",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1875,
 		"time_max": 2445
 	},
@@ -23781,7 +23928,9 @@
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south coe j:ann j:nyaann j:coegon j:gonem em",
 		"from": "vinland",
 		"to": "em",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2541,
 		"time_max": 2727
 	},
@@ -23789,7 +23938,9 @@
 		"dest": "vinland j:knot j:pnro j:pp fortuna",
 		"from": "vinland",
 		"to": "fortuna",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2742,
 		"time_max": 2887
 	},
@@ -23797,7 +23948,9 @@
 		"dest": "vinland icenia j:picenia j:pmts j:pvark j:pkallos hje",
 		"from": "vinland",
 		"to": "hje",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2495,
 		"time_max": 2750
 	},
@@ -23805,7 +23958,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj besia",
 		"from": "vinland",
 		"to": "besia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1723,
 		"time_max": 1735
 	},
@@ -23813,7 +23968,9 @@
 		"dest": "vinland j:knot j:icegen j:gensig genso:taozi genso:farms",
 		"from": "vinland",
 		"to": "genso:farms",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1312,
 		"time_max": 1324
 	},
@@ -23821,7 +23978,9 @@
 		"dest": "vinland icenia j:cabalwest wnsta",
 		"from": "vinland",
 		"to": "wnsta",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1073,
 		"time_max": 1312
 	},
@@ -23829,7 +23988,9 @@
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south genso:taozi genso:shiranui",
 		"from": "vinland",
 		"to": "genso:shiranui",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1364,
 		"time_max": 1409
 	},
@@ -23837,7 +23998,9 @@
 		"dest": "vinland j:knot j:pend ponsportia j:tuff terestai",
 		"from": "vinland",
 		"to": "terestai",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1818,
 		"time_max": 1977
 	},
@@ -23845,7 +24008,9 @@
 		"dest": "vinland j:knot j:pnro j:pp hjaltland",
 		"from": "vinland",
 		"to": "hjaltland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2476,
 		"time_max": 2594
 	},
@@ -23853,7 +24018,9 @@
 		"dest": "vinland j:knot j:icegen j:uroe j:coe:south coe j:coe:east j:coegon threelakes",
 		"from": "vinland",
 		"to": "threelakes",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2084,
 		"time_max": 2122
 	},
@@ -23861,7 +24028,9 @@
 		"dest": "vinland icenia icenia:westisle",
 		"from": "vinland",
 		"to": "icenia:westisle",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1102,
 		"time_max": 1355
 	},
@@ -23869,7 +24038,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po oasis iria",
 		"from": "vinland",
 		"to": "iria",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2203,
 		"time_max": 2217
 	},
@@ -23877,7 +24048,9 @@
 		"dest": "vinland icenia gabon",
 		"from": "vinland",
 		"to": "gabon",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1248,
 		"time_max": 1552
 	},
@@ -23885,7 +24058,9 @@
 		"dest": "vinland icenia j:icegen j:uroe genso:roe genso:centi",
 		"from": "vinland",
 		"to": "genso:centi",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1515,
 		"time_max": 1751
 	},
@@ -23893,7 +24068,9 @@
 		"dest": "vinland j:knot j:pend ponsportia j:tuff carson",
 		"from": "vinland",
 		"to": "carson",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1518,
 		"time_max": 1680
 	},
@@ -23901,7 +24078,9 @@
 		"dest": "vinland j:knot j:pend ponsportia j:tuff pripyat",
 		"from": "vinland",
 		"to": "pripyat",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1688,
 		"time_max": 1848
 	},
@@ -23909,7 +24088,9 @@
 		"dest": "vinland icenia it:anburon",
 		"from": "vinland",
 		"to": "it:anburon",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1177,
 		"time_max": 1455
 	},
@@ -23917,7 +24098,9 @@
 		"dest": "vinland j:knot j:pend endportal",
 		"from": "vinland",
 		"to": "endportal",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1118,
 		"time_max": 1123
 	},
@@ -23925,7 +24108,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po oasis new_sovia",
 		"from": "vinland",
 		"to": "new_sovia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1938,
 		"time_max": 2003
 	},
@@ -23934,7 +24119,8 @@
 		"from": "vinland",
 		"to": "mts",
 		"advisory": {
-			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
+			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
 		},
 		"time_min": 1775,
 		"time_max": 2201
@@ -23943,7 +24129,9 @@
 		"dest": "vinland j:knot j:pend j:piria oasis ch1prempire j:coesav j:coegon j:nyaann nyasaland lutrelia",
 		"from": "vinland",
 		"to": "lutrelia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 3186,
 		"time_max": 3364
 	},
@@ -23951,7 +24139,9 @@
 		"dest": "vinland icenia j:icegen j:uroe genso:roe j:gntv tvtopia",
 		"from": "vinland",
 		"to": "tvtopia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1670,
 		"time_max": 1961
 	},
@@ -23959,7 +24149,9 @@
 		"dest": "vinland j:knot j:pnro j:palex alexandria",
 		"from": "vinland",
 		"to": "alexandria",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1862,
 		"time_max": 1868
 	},
@@ -23967,7 +24159,9 @@
 		"dest": "vinland icenia icenia:nether",
 		"from": "vinland",
 		"to": "icenia:nether",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1163,
 		"time_max": 1424
 	},
@@ -23975,7 +24169,9 @@
 		"dest": "vinland icenia icenia:atlantica",
 		"from": "vinland",
 		"to": "icenia:atlantica",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1121,
 		"time_max": 1375
 	},
@@ -23983,7 +24179,9 @@
 		"dest": "vinland j:knot j:pend j:piria aurum:cactus",
 		"from": "vinland",
 		"to": "aurum:cactus",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1285,
 		"time_max": 1370
 	},
@@ -23991,7 +24189,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o j:pbnj j:po oasis lambat",
 		"from": "vinland",
 		"to": "lambat",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1836,
 		"time_max": 1857
 	},
@@ -23999,7 +24199,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro topha'nya",
 		"from": "vinland",
 		"to": "topha'nya",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2131,
 		"time_max": 2165
 	},
@@ -24007,7 +24209,9 @@
 		"dest": "vinland j:knot wayrest",
 		"from": "vinland",
 		"to": "wayrest",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 939,
 		"time_max": 960
 	},
@@ -24015,7 +24219,9 @@
 		"dest": "vinland j:knot j:pnro j:palex j:pniyo hiyo'mek",
 		"from": "vinland",
 		"to": "hiyo'mek",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1877,
 		"time_max": 1884
 	},
@@ -24023,7 +24229,9 @@
 		"dest": "vinland icenia kallos",
 		"from": "vinland",
 		"to": "kallos",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1737,
 		"time_max": 2105
 	},
@@ -24031,7 +24239,9 @@
 		"dest": "vinland j:knot j:pend ponsportia lenin_isle j:parr arrelani",
 		"from": "vinland",
 		"to": "arrelani",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1520,
 		"time_max": 1677
 	},
@@ -24039,7 +24249,9 @@
 		"dest": "vinland icenia j:picenia j:pmts ellen",
 		"from": "vinland",
 		"to": "ellen",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2540,
 		"time_max": 3277
 	},
@@ -24047,7 +24259,9 @@
 		"dest": "vinland j:knot j:pend j:piria oasis ch1prempire j:coesav pinegarden magnasoria",
 		"from": "vinland",
 		"to": "magnasoria",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2772,
 		"time_max": 2887
 	},
@@ -24055,7 +24269,9 @@
 		"dest": "vinland icenia alpoko",
 		"from": "vinland",
 		"to": "alpoko",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1281,
 		"time_max": 1526
 	},
@@ -24063,7 +24279,9 @@
 		"dest": "vinland j:knot netherfarm",
 		"from": "vinland",
 		"to": "netherfarm",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 917,
 		"time_max": 922
 	},
@@ -24071,7 +24289,9 @@
 		"dest": "vinland icenia varkonia",
 		"from": "vinland",
 		"to": "varkonia",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1471,
 		"time_max": 1830
 	},
@@ -24079,7 +24299,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 kro'ushro socalist_ruler",
 		"from": "vinland",
 		"to": "socalist_ruler",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2118,
 		"time_max": 2154
 	},
@@ -24087,7 +24309,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal j:nro2 nro'meagh",
 		"from": "vinland",
 		"to": "nro'meagh",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2054,
 		"time_max": 2080
 	},
@@ -24095,7 +24319,9 @@
 		"dest": "vinland j:knot j:pend j:piria j:gensig sig",
 		"from": "vinland",
 		"to": "sig",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1562,
 		"time_max": 1694
 	},
@@ -24103,7 +24329,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc cape_cocoa",
 		"from": "vinland",
 		"to": "cape_cocoa",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1340,
 		"time_max": 1346
 	},
@@ -24111,7 +24339,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 jevoghnya",
 		"from": "vinland",
 		"to": "jevoghnya",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2006,
 		"time_max": 2025
 	},
@@ -24119,7 +24349,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental j:low arstotzka j:tree lendiforma:mesa",
 		"from": "vinland",
 		"to": "lendiforma:mesa",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1852,
 		"time_max": 1909
 	},
@@ -24127,7 +24359,9 @@
 		"dest": "vinland icenia spqr",
 		"from": "vinland",
 		"to": "spqr",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2290,
 		"time_max": 2939
 	},
@@ -24135,7 +24369,9 @@
 		"dest": "vinland j:knot j:pnro j:nro1 torndal il'olmhir",
 		"from": "vinland",
 		"to": "il'olmhir",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2074,
 		"time_max": 2106
 	},
@@ -24143,7 +24379,9 @@
 		"dest": "vinland icenia bloom",
 		"from": "vinland",
 		"to": "bloom",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1197,
 		"time_max": 1477
 	},
@@ -24151,7 +24389,9 @@
 		"dest": "vinland j:knot j:pend j:nice j:ppcc j:o islaoccidental crowsroost",
 		"from": "vinland",
 		"to": "crowsroost",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1798,
 		"time_max": 1808
 	},
@@ -24159,7 +24399,9 @@
 		"dest": "vinland icenia icenia:potato",
 		"from": "vinland",
 		"to": "icenia:potato",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1126,
 		"time_max": 1365
 	},
@@ -24167,7 +24409,9 @@
 		"dest": "vinland icenia its qbipfb",
 		"from": "vinland",
 		"to": "its:qbipfb",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1079,
 		"time_max": 1317
 	},
@@ -24175,7 +24419,9 @@
 		"dest": "vinland icenia its beach",
 		"from": "vinland",
 		"to": "its:beach",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1065,
 		"time_max": 1297
 	},
@@ -24183,7 +24429,9 @@
 		"dest": "vinland icenia its adytum",
 		"from": "vinland",
 		"to": "its:adytum",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1105,
 		"time_max": 1348
 	},
@@ -24191,7 +24439,9 @@
 		"dest": "vinland icenia its skybunker",
 		"from": "vinland",
 		"to": "its:skybunker",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1071,
 		"time_max": 1304
 	},
@@ -24199,7 +24449,9 @@
 		"dest": "vinland icenia its hji",
 		"from": "vinland",
 		"to": "its:hji",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1072,
 		"time_max": 1308
 	},
@@ -24207,7 +24459,9 @@
 		"dest": "vinland icenia its subway",
 		"from": "vinland",
 		"to": "its:subway",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1062,
 		"time_max": 1293
 	},
@@ -24215,7 +24469,9 @@
 		"dest": "vinland icenia its office",
 		"from": "vinland",
 		"to": "its:office",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1064,
 		"time_max": 1294
 	},
@@ -24223,7 +24479,9 @@
 		"dest": "vinland icenia its iceniapark",
 		"from": "vinland",
 		"to": "its:iceniapark",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1059,
 		"time_max": 1289
 	},
@@ -24231,7 +24489,9 @@
 		"dest": "vinland icenia its versailles",
 		"from": "vinland",
 		"to": "its:versailles",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1069,
 		"time_max": 1300
 	},
@@ -24239,7 +24499,9 @@
 		"dest": "vinland icenia its bayloop",
 		"from": "vinland",
 		"to": "its:bayloop",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1064,
 		"time_max": 1295
 	},
@@ -24471,7 +24733,9 @@
 		"dest": "vacari j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "vacari",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1995,
 		"time_max": 2057
 	},
@@ -25307,7 +25571,9 @@
 		"dest": "iria:jungle savion j:coesav ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "iria:jungle",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 3319,
 		"time_max": 3531
 	},
@@ -26143,7 +26409,9 @@
 		"dest": "lriln'kriavnya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot vinland",
 		"from": "lriln'kriavnya",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2133,
 		"time_max": 2170
 	},
@@ -26979,7 +27247,9 @@
 		"dest": "caledonia j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "caledonia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1895,
 		"time_max": 1960
 	},
@@ -27815,7 +28085,9 @@
 		"dest": "canvasblue j:cabalwest icenia vinland",
 		"from": "canvasblue",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1123,
 		"time_max": 1364
 	},
@@ -28651,7 +28923,9 @@
 		"dest": "annwyn:cactus j:ann j:ppcc j:nice j:pend j:knot vinland",
 		"from": "annwyn:cactus",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1841,
 		"time_max": 1898
 	},
@@ -29544,6 +29818,7 @@
 		"from": "tabatia",
 		"to": "vinland",
 		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI",
 			"tabatia": "This station's embarking track will teleport you upwards if you're not careful."
 		},
 		"time_min": 1897,
@@ -30528,7 +30803,9 @@
 		"dest": "ssta j:cabalwest icenia vinland",
 		"from": "ssta",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1137,
 		"time_max": 1390
 	},
@@ -31364,7 +31641,9 @@
 		"dest": "forta'are j:pp j:pnro j:knot vinland",
 		"from": "forta'are",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2115,
 		"time_max": 2132
 	},
@@ -32200,7 +32479,9 @@
 		"dest": "lambat:treefarms j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "lambat:treefarms",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1833,
 		"time_max": 1890
 	},
@@ -33036,7 +33317,9 @@
 		"dest": "westminster 0,0 j:knot vinland",
 		"from": "westminster",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1968,
 		"time_max": 2406
 	},
@@ -33872,7 +34155,9 @@
 		"dest": "mir j:po j:pbnj j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "mir",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2158,
 		"time_max": 2175
 	},
@@ -34708,7 +34993,9 @@
 		"dest": "icenia:lord j:cabaleast icenia vinland",
 		"from": "icenia:lord",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1125,
 		"time_max": 1367
 	},
@@ -35544,7 +35831,9 @@
 		"dest": "iria:desert savion j:coesav ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "iria:desert",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2831,
 		"time_max": 3004
 	},
@@ -36380,7 +36669,9 @@
 		"dest": "coventhia genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "coventhia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2365,
 		"time_max": 2761
 	},
@@ -37216,7 +37507,9 @@
 		"dest": "aurum j:nice j:pend j:knot vinland",
 		"from": "aurum",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1250,
 		"time_max": 1278
 	},
@@ -38052,7 +38345,9 @@
 		"dest": "mta 0,0 j:knot vinland",
 		"from": "mta",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1790,
 		"time_max": 2086
 	},
@@ -38888,7 +39183,9 @@
 		"dest": "em j:gonem j:coegon j:nyaann j:ann j:ppcc j:nice j:pend j:knot vinland",
 		"from": "em",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2208,
 		"time_max": 2219
 	},
@@ -39724,7 +40021,9 @@
 		"dest": "fortuna j:pp j:pnro j:knot vinland",
 		"from": "fortuna",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2742,
 		"time_max": 2887
 	},
@@ -40560,7 +40859,9 @@
 		"dest": "hje j:pkallos j:pvark j:pmts j:picenia 0,0 j:knot vinland",
 		"from": "hje",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2323,
 		"time_max": 2328
 	},
@@ -41396,7 +41697,9 @@
 		"dest": "besia j:pbnj j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "besia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1723,
 		"time_max": 1735
 	},
@@ -42232,7 +42535,9 @@
 		"dest": "genso:farms genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "genso:farms",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1631,
 		"time_max": 1763
 	},
@@ -43068,7 +43373,9 @@
 		"dest": "wnsta j:cabalwest icenia vinland",
 		"from": "wnsta",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1073,
 		"time_max": 1312
 	},
@@ -43904,7 +44211,9 @@
 		"dest": "genso:shiranui genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "genso:shiranui",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1646,
 		"time_max": 1791
 	},
@@ -44740,7 +45049,9 @@
 		"dest": "terestai j:tuff ponsportia j:pend j:knot vinland",
 		"from": "terestai",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1818,
 		"time_max": 1977
 	},
@@ -45576,7 +45887,9 @@
 		"dest": "hjaltland j:pp j:pnro j:knot vinland",
 		"from": "hjaltland",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2476,
 		"time_max": 2594
 	},
@@ -46412,7 +46725,9 @@
 		"dest": "threelakes j:nyaann j:ann j:ppcc j:nice j:pend j:knot vinland",
 		"from": "threelakes",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1970,
 		"time_max": 2056
 	},
@@ -47248,7 +47563,9 @@
 		"dest": "icenia:westisle icenia vinland",
 		"from": "icenia:westisle",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1102,
 		"time_max": 1355
 	},
@@ -48084,7 +48401,9 @@
 		"dest": "iria oasis j:piria j:pend j:knot vinland",
 		"from": "iria",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2158,
 		"time_max": 2231
 	},
@@ -48920,7 +49239,9 @@
 		"dest": "gabon j:picenia 0,0 j:knot vinland",
 		"from": "gabon",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1407,
 		"time_max": 1554
 	},
@@ -49756,7 +50077,9 @@
 		"dest": "genso:centi genso:roe genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "genso:centi",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1733,
 		"time_max": 1892
 	},
@@ -50592,7 +50915,9 @@
 		"dest": "carson j:tuff ponsportia j:pend j:knot vinland",
 		"from": "carson",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1518,
 		"time_max": 1680
 	},
@@ -51428,7 +51753,9 @@
 		"dest": "pripyat j:tuff ponsportia j:pend j:knot vinland",
 		"from": "pripyat",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1688,
 		"time_max": 1848
 	},
@@ -52264,7 +52591,9 @@
 		"dest": "it:anburon icenia vinland",
 		"from": "it:anburon",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1177,
 		"time_max": 1455
 	},
@@ -53100,7 +53429,9 @@
 		"dest": "endportal j:pend j:knot vinland",
 		"from": "endportal",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1118,
 		"time_max": 1123
 	},
@@ -53936,7 +54267,9 @@
 		"dest": "new_sovia oasis j:piria j:pend j:knot vinland",
 		"from": "new_sovia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1893,
 		"time_max": 2017
 	},
@@ -54829,6 +55162,7 @@
 		"from": "mts",
 		"to": "vinland",
 		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI",
 			"mts": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n"
 		},
 		"time_min": 1603,
@@ -55813,7 +56147,9 @@
 		"dest": "lutrelia nyasaland genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "lutrelia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2167,
 		"time_max": 2482
 	},
@@ -56649,7 +56985,9 @@
 		"dest": "tvtopia j:gntv genso:roe genso:taozi j:gensig j:piria j:pend j:knot vinland",
 		"from": "tvtopia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1888,
 		"time_max": 2102
 	},
@@ -57485,7 +57823,9 @@
 		"dest": "alexandria j:palex j:pnro j:knot vinland",
 		"from": "alexandria",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1862,
 		"time_max": 1868
 	},
@@ -58321,7 +58661,9 @@
 		"dest": "icenia:nether icenia vinland",
 		"from": "icenia:nether",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1163,
 		"time_max": 1424
 	},
@@ -59157,7 +59499,9 @@
 		"dest": "icenia:atlantica icenia vinland",
 		"from": "icenia:atlantica",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1121,
 		"time_max": 1375
 	},
@@ -59993,7 +60337,9 @@
 		"dest": "aurum:cactus j:piria j:pend j:knot vinland",
 		"from": "aurum:cactus",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1285,
 		"time_max": 1370
 	},
@@ -60829,7 +61175,9 @@
 		"dest": "lambat oasis j:piria j:pend j:knot vinland",
 		"from": "lambat",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1791,
 		"time_max": 1871
 	},
@@ -61665,7 +62013,9 @@
 		"dest": "topha'nya kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot vinland",
 		"from": "topha'nya",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2131,
 		"time_max": 2165
 	},
@@ -62501,7 +62851,9 @@
 		"dest": "wayrest j:knot vinland",
 		"from": "wayrest",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 939,
 		"time_max": 960
 	},
@@ -63337,7 +63689,9 @@
 		"dest": "hiyo'mek j:pniyo j:palex j:pnro j:knot vinland",
 		"from": "hiyo'mek",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1877,
 		"time_max": 1884
 	},
@@ -64173,7 +64527,9 @@
 		"dest": "kallos icenia vinland",
 		"from": "kallos",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1737,
 		"time_max": 2105
 	},
@@ -65009,7 +65365,9 @@
 		"dest": "arrelani j:parr lenin_isle ponsportia j:pend j:knot vinland",
 		"from": "arrelani",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1520,
 		"time_max": 1677
 	},
@@ -65845,7 +66203,9 @@
 		"dest": "ellen j:pmts j:picenia 0,0 j:knot vinland",
 		"from": "ellen",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2368,
 		"time_max": 2855
 	},
@@ -66681,7 +67041,9 @@
 		"dest": "magnasoria pinegarden j:coesav ch1prempire oasis j:piria j:pend j:knot vinland",
 		"from": "magnasoria",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2772,
 		"time_max": 2887
 	},
@@ -67517,7 +67879,9 @@
 		"dest": "alpoko icenia vinland",
 		"from": "alpoko",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1281,
 		"time_max": 1526
 	},
@@ -68353,7 +68717,9 @@
 		"dest": "netherfarm j:knot vinland",
 		"from": "netherfarm",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 917,
 		"time_max": 922
 	},
@@ -69189,7 +69555,9 @@
 		"dest": "varkonia icenia vinland",
 		"from": "varkonia",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1471,
 		"time_max": 1830
 	},
@@ -70025,7 +70393,9 @@
 		"dest": "socalist_ruler kro'ushro j:nro2 torndal j:nro1 j:pnro j:knot vinland",
 		"from": "socalist_ruler",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2118,
 		"time_max": 2154
 	},
@@ -70861,7 +71231,9 @@
 		"dest": "nro'meagh j:nro2 torndal j:nro1 j:pnro j:knot vinland",
 		"from": "nro'meagh",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2054,
 		"time_max": 2080
 	},
@@ -71697,7 +72069,9 @@
 		"dest": "sig j:gensig j:piria j:pend j:knot vinland",
 		"from": "sig",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1562,
 		"time_max": 1694
 	},
@@ -72533,7 +72907,9 @@
 		"dest": "cape_cocoa j:ppcc j:nice j:pend j:knot vinland",
 		"from": "cape_cocoa",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1340,
 		"time_max": 1346
 	},
@@ -73369,7 +73745,9 @@
 		"dest": "jevoghnya j:nro1 j:pnro j:knot vinland",
 		"from": "jevoghnya",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2006,
 		"time_max": 2025
 	},
@@ -74205,7 +74583,9 @@
 		"dest": "lendiforma:mesa j:tree arstotzka j:low islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "lendiforma:mesa",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1852,
 		"time_max": 1909
 	},
@@ -75041,7 +75421,9 @@
 		"dest": "spqr icenia vinland",
 		"from": "spqr",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2290,
 		"time_max": 2939
 	},
@@ -75877,7 +76259,9 @@
 		"dest": "il'olmhir torndal j:nro1 j:pnro j:knot vinland",
 		"from": "il'olmhir",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 2074,
 		"time_max": 2106
 	},
@@ -76713,7 +77097,9 @@
 		"dest": "bloom icenia vinland",
 		"from": "bloom",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1197,
 		"time_max": 1477
 	},
@@ -77549,7 +77935,9 @@
 		"dest": "crowsroost islaoccidental j:o j:ppcc j:nice j:pend j:knot vinland",
 		"from": "crowsroost",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1798,
 		"time_max": 1808
 	},
@@ -78385,7 +78773,9 @@
 		"dest": "icenia:potato icenia vinland",
 		"from": "icenia:potato",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1126,
 		"time_max": 1365
 	},
@@ -79221,7 +79611,9 @@
 		"dest": "its:qbipfb j:its icenia vinland",
 		"from": "its:qbipfb",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1079,
 		"time_max": 1317
 	},
@@ -80057,7 +80449,9 @@
 		"dest": "its:beach j:its icenia vinland",
 		"from": "its:beach",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1065,
 		"time_max": 1297
 	},
@@ -80893,7 +81287,9 @@
 		"dest": "its:adytum j:its icenia vinland",
 		"from": "its:adytum",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1105,
 		"time_max": 1348
 	},
@@ -81729,7 +82125,9 @@
 		"dest": "its:skybunker j:its icenia vinland",
 		"from": "its:skybunker",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1071,
 		"time_max": 1304
 	},
@@ -82565,7 +82963,9 @@
 		"dest": "its:hji j:its icenia vinland",
 		"from": "its:hji",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1072,
 		"time_max": 1308
 	},
@@ -83401,7 +83801,9 @@
 		"dest": "its:subway j:its icenia vinland",
 		"from": "its:subway",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1062,
 		"time_max": 1293
 	},
@@ -84237,7 +84639,9 @@
 		"dest": "its:office j:its icenia vinland",
 		"from": "its:office",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1064,
 		"time_max": 1294
 	},
@@ -85073,7 +85477,9 @@
 		"dest": "its:iceniapark j:its icenia vinland",
 		"from": "its:iceniapark",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1059,
 		"time_max": 1289
 	},
@@ -85909,7 +86315,9 @@
 		"dest": "its:versailles j:its icenia vinland",
 		"from": "its:versailles",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1069,
 		"time_max": 1300
 	},
@@ -86745,7 +87153,9 @@
 		"dest": "its:bayloop j:its icenia vinland",
 		"from": "its:bayloop",
 		"to": "vinland",
-		"advisory": {},
+		"advisory": {
+			"vinland": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+		},
 		"time_min": 1064,
 		"time_max": 1295
 	},
