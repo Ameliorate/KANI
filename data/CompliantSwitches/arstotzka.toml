@@ -5,7 +5,7 @@ z = -1717
 station = true
 
 links = [
- 'j:low',
+ 'j:ardr',
  'j:tree',
  'lambat',
  'tabatia',

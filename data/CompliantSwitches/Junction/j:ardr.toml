@@ -1,0 +1,11 @@
+x = 6599
+y = 20
+z = -1521
+
+switch = true
+
+links = [
+ 'j:low',
+ 'arstotzka',
+ 'lambat',
+]
