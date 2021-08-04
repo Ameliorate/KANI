@@ -59,6 +59,7 @@
 {"description":"The subway under IceniaCity near JahPark and the station building. This station also serves JahPark.","id":"ccmap:kani/node/its:subway","name":"Its:Subway (KANI)","type":"TerminalDestinations","x":-1691,"y":64,"z":-1348},
 {"description":"The greenery part of icenia, notibly featuring SoundTech's house.","id":"ccmap:kani/node/its:versailles","name":"Its:Versailles (KANI)","type":"TerminalDestinations","x":-1594,"y":70,"z":-1292},
 {"id":"ccmap:kani/node/j:ann","name":"J:Ann (KANI)","switch":true,"type":"CompliantSwitches","x":3853,"y":6,"z":-3730},
+{"id":"ccmap:kani/node/j:ardr","name":"J:Ardr (KANI)","switch":true,"type":"CompliantSwitches","x":6599,"y":20,"z":-1521},
 {"BadLinks":"icenia:lord: lord, ","description":"East network of the rail cabal run by SoundTech.","id":"ccmap:kani/node/j:cabaleast","location":"East of IceniaCity","name":"J:Cabaleast (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1341,"y":5,"z":-1290},
 {"BadLinks":"icenia:westisle: westisle, icenia:nether: nether, icenia:drippy: drippy, canvasblue: mta canvasblue, ","description":"West Network of SoundTech's Rail Cabal.","id":"ccmap:kani/node/j:cabalwest","location":"West of IceniaCity, East of WestIsle.","name":"J:Cabalwest (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1800,"z":-1300},
 {"id":"ccmap:kani/node/j:coe:east","name":"J:Coe:East (KANI)","switch":true,"type":"CompliantSwitches","x":1297,"y":5,"z":-5765},
@@ -151,7 +152,7 @@
 {"distance":1946,"id":"ccmap:kani/link/alpoko/icenia","line":[[[-3600,-1600],[-1660,-1440]]],"name":"Alpoko - Icenia (KANI)","type":"link"},
 {"distance":945,"id":"ccmap:kani/link/annwyn:cactus/j:ann","line":[[[4530,-3070],[3853,-3730]]],"name":"Annwyn:Cactus - J:Ann (KANI)","type":"link"},
 {"distance":1217,"id":"ccmap:kani/link/arrelani/j:parr","line":[[[2502,996],[3364,136]]],"name":"Arrelani - J:Parr (KANI)","type":"link"},
-{"distance":1537,"id":"ccmap:kani/link/arstotzka/j:low","line":[[[6818,-1717],[5293,-1521]]],"name":"Arstotzka - J:Low (KANI)","type":"link"},
+{"distance":293,"id":"ccmap:kani/link/arstotzka/j:ardr","line":[[[6818,-1717],[6599,-1521]]],"name":"Arstotzka - J:Ardr (KANI)","type":"link"},
 {"distance":221,"id":"ccmap:kani/link/arstotzka/j:tree","line":[[[6818,-1717],[6654,-1568]]],"name":"Arstotzka - J:Tree (KANI)","type":"link"},
 {"distance":266,"id":"ccmap:kani/link/arstotzka/lambat","line":[[[6818,-1717],[6893,-1461]]],"name":"Arstotzka - Lambat (KANI)","type":"link"},
 {"distance":746,"id":"ccmap:kani/link/arstotzka/tabatia","line":[[[6818,-1717],[6552,-2414]]],"name":"Arstotzka - Tabatia (KANI)","type":"link"},
@@ -248,6 +249,8 @@
 {"distance":106,"id":"ccmap:kani/link/its:versailles/j:its","line":[[[-1594,-1292],[-1700,-1300]]],"name":"Its:Versailles - J:Its (KANI)","type":"link"},
 {"distance":178,"id":"ccmap:kani/link/j:ann/j:nyaann","line":[[[3853,-3730],[3861,-3908]]],"name":"J:Ann - J:Nyaann (KANI)","type":"link"},
 {"distance":3730,"id":"ccmap:kani/link/j:ann/j:ppcc","line":[[[3853,-3730],[3839,0]]],"name":"J:Ann - J:Ppcc (KANI)","type":"link"},
+{"distance":1306,"id":"ccmap:kani/link/j:ardr/j:low","line":[[[6599,-1521],[5293,-1521]]],"name":"J:Ardr - J:Low (KANI)","type":"link"},
+{"distance":300,"id":"ccmap:kani/link/j:ardr/lambat","line":[[[6599,-1521],[6893,-1461]]],"name":"J:Ardr - Lambat (KANI)","type":"link"},
 {"distance":590,"id":"ccmap:kani/link/j:cabalwest/ssta","line":[[[-1800,-1300],[-1957,-731]]],"name":"J:Cabalwest - Ssta (KANI)","type":"link"},
 {"distance":76,"id":"ccmap:kani/link/j:cabalwest/wnsta","line":[[[-1800,-1300],[-1867,-1336]]],"name":"J:Cabalwest - Wnsta (KANI)","type":"link"},
 {"distance":2554,"id":"ccmap:kani/link/j:coe:east/j:coegon","line":[[[1297,-5765],[3851,-5796]]],"name":"J:Coe:East - J:Coegon (KANI)","type":"link"},
@@ -327,4 +330,4 @@
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1627962743","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1628038107","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
