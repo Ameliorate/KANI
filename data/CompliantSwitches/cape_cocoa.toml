@@ -1,0 +1,10 @@
+x = 3861
+y = 1
+z = 529
+
+station = true
+
+links = [
+ 'j:ppcc',
+ 'j:kal',
+]

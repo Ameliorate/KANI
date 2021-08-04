@@ -1,0 +1,12 @@
+x = 4217
+y = 12
+z = 496
+
+switch = true
+
+links = [
+ 'j:tuff',
+ 'cape_cocoa',
+ 'carson',
+ 'newkalayaan',
+]

@@ -5,6 +5,7 @@ z = 2340
 switch = true
 
 links = [
+ 'j:kal',
  'ponsportia',
  'carson',
  'pripyat',
