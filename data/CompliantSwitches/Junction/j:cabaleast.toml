@@ -11,6 +11,3 @@ links = [
 ]
 
 switch = true
-
-[BadLinks]
-"icenia:lord" = "lord"
