@@ -60,7 +60,7 @@
 {"description":"The greenery part of icenia, notibly featuring SoundTech's house.","id":"ccmap:kani/node/its:versailles","name":"Its:Versailles (KANI)","type":"TerminalDestinations","x":-1594,"y":70,"z":-1292},
 {"id":"ccmap:kani/node/j:ann","name":"J:Ann (KANI)","switch":true,"type":"CompliantSwitches","x":3853,"y":6,"z":-3730},
 {"id":"ccmap:kani/node/j:ardr","name":"J:Ardr (KANI)","switch":true,"type":"CompliantSwitches","x":6599,"y":20,"z":-1521},
-{"BadLinks":"icenia:lord: lord, ","description":"East network of the rail cabal run by SoundTech.","id":"ccmap:kani/node/j:cabaleast","location":"East of IceniaCity","name":"J:Cabaleast (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1341,"y":5,"z":-1290},
+{"description":"East network of the rail cabal run by SoundTech.","id":"ccmap:kani/node/j:cabaleast","location":"East of IceniaCity","name":"J:Cabaleast (KANI)","switch":true,"type":"CompliantSwitches","x":-1341,"y":5,"z":-1290},
 {"BadLinks":"icenia:westisle: westisle, icenia:nether: nether, icenia:drippy: drippy, canvasblue: mta canvasblue, ","description":"West Network of SoundTech's Rail Cabal.","id":"ccmap:kani/node/j:cabalwest","location":"West of IceniaCity, East of WestIsle.","name":"J:Cabalwest (KANI)","switch":true,"type":"NonCompliantSwitches","x":-1800,"z":-1300},
 {"id":"ccmap:kani/node/j:coe:east","name":"J:Coe:East (KANI)","switch":true,"type":"CompliantSwitches","x":1297,"y":5,"z":-5765},
 {"id":"ccmap:kani/node/j:coe:north","name":"J:Coe:North (KANI)","switch":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5919},
@@ -340,4 +340,4 @@
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1628125856","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1628182812","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
