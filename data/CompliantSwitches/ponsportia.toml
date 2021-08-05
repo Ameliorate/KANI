@@ -5,7 +5,7 @@ z = 1103
 station = true
 
 links = [
- 'j:pend',
+ 'j:mumm',
  'j:tuff',
  'lenin_isle',
 ]

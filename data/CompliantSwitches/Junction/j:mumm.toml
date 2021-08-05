@@ -1,0 +1,13 @@
+x = 3131
+y = 1
+z = 992
+
+switch = true
+
+links = [
+ 'ponsportia',
+ 'j:pend',
+ 'newaegina',
+#'bloom', # Currently broken by newaegina junction
+#'adina', # Can get to adina, but can't leave
+]
