@@ -42,6 +42,9 @@ jobs:
         export LAST_UPDATE=$(git log --format='%ct' -1 -- data)
         echo $LAST_UPDATE
         python ./ccmap.py > docs/ccmap.json
+    - name: Run export program
+      run: |
+        python ./export.py > docs/export.json
     - name: Commit routes.json to git
       run: |
         git config --local user.name "KANI Bot"
@@ -55,6 +58,13 @@ jobs:
         if ! git diff --quiet --exit-code docs/ccmap.json; then
         git add docs/ccmap.json
         git commit -m "Update ccmap.json"
+        fi
+    - name: Commit export.json to git
+      run: |
+        git config --local user.name "KANI Bot"
+        if ! git diff --quiet --exit-code docs/export.json; then
+        git add docs/export.json
+        git commit -m "Update export.json"
         fi
     - name: Push changes
       uses: ad-m/github-push-action@master
