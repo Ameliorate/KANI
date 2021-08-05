@@ -15,8 +15,6 @@ def processFile(path, name):
     myData = toml.load(path)
     if 'links' not in myData:
         myData['links'] = []
-    if 'BadLinks' not in myData:
-        myData['BadLinks'] = {}
     data[name] = myData
 
 for subdir, dirs, files in os.walk(datadir):
