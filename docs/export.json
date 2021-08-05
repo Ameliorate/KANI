@@ -6,8 +6,7 @@
 		"station": true,
 		"links": [
 			"j:stallman:west"
-		],
-		"BadLinks": {}
+		]
 	},
 	"pinegarden": {
 		"x": 7004,
@@ -17,8 +16,7 @@
 		"links": [
 			"j:coesav",
 			"magnasoria"
-		],
-		"BadLinks": {}
+		]
 	},
 	"savion": {
 		"x": 9847,
@@ -31,8 +29,7 @@
 			"iria:jungle",
 			"iria:desert",
 			"mir"
-		],
-		"BadLinks": {}
+		]
 	},
 	"ponsportia": {
 		"x": 3131,
@@ -43,8 +40,7 @@
 			"j:mumm",
 			"j:tuff",
 			"lenin_isle"
-		],
-		"BadLinks": {}
+		]
 	},
 	"ch1prempire": {
 		"x": 7183,
@@ -54,8 +50,7 @@
 		"links": [
 			"j:coesav",
 			"lambat"
-		],
-		"BadLinks": {}
+		]
 	},
 	"gondolin": {
 		"description": "Gondolin",
@@ -67,8 +62,7 @@
 			"j:coe:north",
 			"j:gonem",
 			"acadia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"genso:roe": {
 		"description": "Gensokyo's Roe Island, where they first started out.",
@@ -82,8 +76,7 @@
 			"genso:taozi",
 			"genso:centi",
 			"bloom"
-		],
-		"BadLinks": {}
+		]
 	},
 	"torndal": {
 		"x": -403,
@@ -94,8 +87,7 @@
 			"j:nro1",
 			"j:nro2",
 			"il'olmhir"
-		],
-		"BadLinks": {}
+		]
 	},
 	"oasis": {
 		"x": 7009,
@@ -108,8 +100,7 @@
 			"iria",
 			"lambat",
 			"new_sovia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"axiom": {
 		"x": 3004,
@@ -118,8 +109,7 @@
 		"station": true,
 		"links": [
 			"j:piria"
-		],
-		"BadLinks": {}
+		]
 	},
 	"coe": {
 		"description": "City of England",
@@ -132,8 +122,7 @@
 			"j:coe:east",
 			"j:coe:north",
 			"j:ann"
-		],
-		"BadLinks": {}
+		]
 	},
 	"0,0": {
 		"description": "Passing through the hands of many nations, this iconic landmark finds itself at the coordinates 0, 0.\n\nThe recent efforts of Icenia and allies have lead to the creation of the NexusInternationalGateway and the remodeling of the station interiour.\n",
@@ -147,8 +136,7 @@
 			"westminster",
 			"j:picenia"
 		],
-		"station": true,
-		"BadLinks": {}
+		"station": true
 	},
 	"kro'ushro": {
 		"x": -406,
@@ -160,8 +148,7 @@
 			"socalist_ruler",
 			"topha'nya",
 			"lriln'kriavnya"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia": {
 		"description": "Newly renovated station in IceniaCity",
@@ -205,8 +192,7 @@
 			"j:tree",
 			"lambat",
 			"tabatia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"acadia": {
 		"description": "Acadia",
@@ -217,8 +203,7 @@
 		"links": [
 			"stallman",
 			"gondolin"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lenin_isle": {
 		"x": 3365,
@@ -228,8 +213,7 @@
 		"links": [
 			"ponsportia",
 			"j:parr"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lambat": {
 		"x": 7007,
@@ -241,8 +225,7 @@
 			"oasis",
 			"arstotzka",
 			"ch1prempire"
-		],
-		"BadLinks": {}
+		]
 	},
 	"imc": {
 		"x": -8200,
@@ -258,8 +241,7 @@
 			"mts",
 			"spqr"
 		],
-		"mts": "sept september",
-		"BadLinks": {}
+		"mts": "sept september"
 	},
 	"stallman": {
 		"x": 2439,
@@ -269,8 +251,7 @@
 		"links": [
 			"j:stallman:west",
 			"acadia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"cape_cocoa": {
 		"x": 3861,
@@ -280,8 +261,7 @@
 		"links": [
 			"j:ppcc",
 			"j:kal"
-		],
-		"BadLinks": {}
+		]
 	},
 	"genso:taozi": {
 		"description": "Gensokyo's current project, a modern japanese city.",
@@ -299,8 +279,7 @@
 			"coventhia",
 			"genso:shiranui",
 			"genso:farms"
-		],
-		"BadLinks": {}
+		]
 	},
 	"nyasaland": {
 		"x": 4061,
@@ -313,8 +292,7 @@
 			"genso:taozi",
 			"lutrelia",
 			"purazi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"islaoccidental": {
 		"x": 5084,
@@ -325,8 +303,7 @@
 			"j:o",
 			"j:low",
 			"crowsroost"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
@@ -338,8 +315,7 @@
 			"j:icegen",
 			"j:coe:south",
 			"genso:roe"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:low": {
 		"x": 5293,
@@ -350,8 +326,7 @@
 			"j:ardr",
 			"purazi",
 			"islaoccidental"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:tuff": {
 		"x": 4224,
@@ -364,8 +339,7 @@
 			"carson",
 			"pripyat",
 			"terestai"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:coesav": {
 		"x": 7000,
@@ -377,8 +351,7 @@
 			"ch1prempire",
 			"pinegarden",
 			"savion"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pbnj": {
 		"x": 6300,
@@ -389,8 +362,7 @@
 			"j:o",
 			"j:po",
 			"besia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:coegon": {
 		"x": 3851,
@@ -403,8 +375,7 @@
 			"j:nyaann",
 			"j:gonem",
 			"threelakes"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pmts": {
 		"x": -2516,
@@ -430,8 +401,7 @@
 			"coe",
 			"j:uroe",
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:nice": {
 		"x": 3364,
@@ -443,8 +413,7 @@
 			"j:ppcc",
 			"j:parr",
 			"aurum"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:piria": {
 		"description": "Very nice intesection of 4 rails outside the city of Elwin.\n",
@@ -460,8 +429,7 @@
 			"aurum",
 			"aurum:cactus"
 		],
-		"switch": true,
-		"BadLinks": {}
+		"switch": true
 	},
 	"j:ann": {
 		"x": 3853,
@@ -473,8 +441,7 @@
 			"j:ppcc",
 			"coe",
 			"annwyn:cactus"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:knot": {
 		"description": "The switch directly east of NexusStation. One of the only rail switches built by GamePhobic for nexus that wasn't obby/lava bombed in the war. Since remodeled to be A CompliantSwitch.\n",
@@ -491,8 +458,7 @@
 			"vinland",
 			"wayrest"
 		],
-		"switch": true,
-		"BadLinks": {}
+		"switch": true
 	},
 	"j:nro2": {
 		"x": -402,
@@ -503,8 +469,7 @@
 			"torndal",
 			"kro'ushro",
 			"nro'meagh"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:gensig": {
 		"description": "Junction in the North East which connects j:icegen, gensokyo:taozi, and sig\n",
@@ -517,8 +482,7 @@
 			"sig",
 			"j:piria"
 		],
-		"switch": true,
-		"BadLinks": {}
+		"switch": true
 	},
 	"j:gntv": {
 		"x": -746,
@@ -531,8 +495,7 @@
 			"gabon",
 			"valyria",
 			"nyasaland"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pkallos": {
 		"switch": true,
@@ -543,8 +506,7 @@
 			"hje",
 			"kallos",
 			"j:pvark"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:kal": {
 		"x": 4217,
@@ -556,8 +518,7 @@
 			"cape_cocoa",
 			"carson",
 			"newkalayaan"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:nyaann": {
 		"x": 3861,
@@ -569,8 +530,7 @@
 			"j:coegon",
 			"j:ann",
 			"threelakes"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:ppcc": {
 		"x": 3839,
@@ -582,8 +542,7 @@
 			"j:o",
 			"j:ann",
 			"cape_cocoa"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:mumm": {
 		"x": 3131,
@@ -594,8 +553,7 @@
 			"ponsportia",
 			"j:pend",
 			"newaegina"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:ardr": {
 		"x": 6599,
@@ -606,8 +564,7 @@
 			"j:low",
 			"arstotzka",
 			"lambat"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pp": {
 		"x": 381,
@@ -620,8 +577,7 @@
 			"fortuna",
 			"pacem",
 			"forta'are"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pnro": {
 		"x": 381,
@@ -633,8 +589,7 @@
 			"j:nro1",
 			"j:palex",
 			"j:pp"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:nro1": {
 		"x": -689,
@@ -645,8 +600,7 @@
 			"j:pnro",
 			"torndal",
 			"jevoghnya"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:coe:north": {
 		"x": 770,
@@ -657,8 +611,7 @@
 			"coe",
 			"gondolin",
 			"j:stallman:west"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:icegen": {
 		"description": "Junction in the North East which connects icenia, j:knot, j:uroe, and j:gensig\n",
@@ -671,8 +624,7 @@
 			"j:uroe",
 			"j:gensig"
 		],
-		"switch": true,
-		"BadLinks": {}
+		"switch": true
 	},
 	"j:o": {
 		"x": 5070,
@@ -683,8 +635,7 @@
 			"j:pbnj",
 			"j:ppcc",
 			"islaoccidental"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:po": {
 		"x": 7000,
@@ -696,8 +647,7 @@
 			"oasis",
 			"caledonia",
 			"mir"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:picenia": {
 		"x": -1405,
@@ -708,8 +658,7 @@
 			"icenia",
 			"gabon",
 			"j:pmts"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:gonem": {
 		"x": 3851,
@@ -720,8 +669,7 @@
 			"em",
 			"gondolin",
 			"j:coegon"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pend": {
 		"x": 2313,
@@ -734,8 +682,7 @@
 			"j:nice",
 			"j:mumm",
 			"endportal"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pvark": {
 		"x": -4860,
@@ -761,8 +708,7 @@
 			"alexandria",
 			"j:pnro",
 			"j:pniyo"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:pniyo": {
 		"x": 449,
@@ -773,8 +719,7 @@
 			"j:palex",
 			"hiyo'mek",
 			"ozonrough"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:cabaleast": {
 		"description": "East network of the rail cabal run by SoundTech.",
@@ -786,8 +731,7 @@
 			"icenia",
 			"icenia:lord"
 		],
-		"switch": true,
-		"BadLinks": {}
+		"switch": true
 	},
 	"j:parr": {
 		"x": 3364,
@@ -798,8 +742,7 @@
 			"j:nice",
 			"arrelani",
 			"lenin_isle"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:stallman:west": {
 		"x": 2120,
@@ -810,8 +753,7 @@
 			"stallman",
 			"j:coe:north",
 			"dulaman"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:coe:east": {
 		"x": 1297,
@@ -821,8 +763,7 @@
 		"links": [
 			"coe",
 			"j:coegon"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:tree": {
 		"x": 6654,
@@ -834,24 +775,21 @@
 			"lambat:treefarms",
 			"lendiforma:mesa",
 			"vacari"
-		],
-		"BadLinks": {}
+		]
 	},
 	"valyria": {
 		"x": -2633,
 		"z": -8393,
 		"links": [
 			"j:gntv"
-		],
-		"BadLinks": {}
+		]
 	},
 	"pacem": {
 		"x": -540,
 		"z": 9800,
 		"links": [
 			"j:pp"
-		],
-		"BadLinks": {}
+		]
 	},
 	"purazi": {
 		"x": 4693,
@@ -860,8 +798,7 @@
 		"links": [
 			"j:low",
 			"nyasaland"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:drippy": {
 		"x": -1500,
@@ -869,8 +806,7 @@
 		"links": [
 			"icenia",
 			"j:cabalwest"
-		],
-		"BadLinks": {}
+		]
 	},
 	"old_sanctuary": {
 		"x": 2572,
@@ -878,8 +814,7 @@
 		"z": -2266,
 		"links": [
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"ozonrough": {
 		"x": 1140,
@@ -887,8 +822,7 @@
 		"z": 8423,
 		"links": [
 			"j:pniyo"
-		],
-		"BadLinks": {}
+		]
 	},
 	"vinland": {
 		"description": "Features a very complicated NonCompliantSwitch. Don't think about it too hard.",
@@ -898,8 +832,7 @@
 		"links": [
 			"icenia",
 			"j:knot"
-		],
-		"BadLinks": {}
+		]
 	},
 	"vacari": {
 		"x": 6606,
@@ -907,8 +840,7 @@
 		"z": -268,
 		"links": [
 			"j:tree"
-		],
-		"BadLinks": {}
+		]
 	},
 	"iria:jungle": {
 		"x": 10702,
@@ -916,8 +848,7 @@
 		"z": -817,
 		"links": [
 			"savion"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lriln'kriavnya": {
 		"x": -108,
@@ -925,8 +856,7 @@
 		"z": 8838,
 		"links": [
 			"kro'ushro"
-		],
-		"BadLinks": {}
+		]
 	},
 	"newaegina": {
 		"x": 2923,
@@ -934,8 +864,7 @@
 		"z": 938,
 		"links": [
 			"j:mumm"
-		],
-		"BadLinks": {}
+		]
 	},
 	"caledonia": {
 		"description": "Active city near mir, featuring the securemall.",
@@ -943,24 +872,21 @@
 		"z": 553,
 		"links": [
 			"j:po"
-		],
-		"BadLinks": {}
+		]
 	},
 	"canvasblue": {
 		"x": -2280,
 		"z": -1340,
 		"links": [
 			"j:cabalwest"
-		],
-		"BadLinks": {}
+		]
 	},
 	"annwyn:cactus": {
 		"x": 4530,
 		"z": -3070,
 		"links": [
 			"j:ann"
-		],
-		"BadLinks": {}
+		]
 	},
 	"tabatia": {
 		"x": 6552,
@@ -969,8 +895,7 @@
 		"advisory": "This station's embarking track will teleport you upwards if you're not careful.",
 		"links": [
 			"arstotzka"
-		],
-		"BadLinks": {}
+		]
 	},
 	"ssta": {
 		"description": "Station part of the RAIL CABAL",
@@ -979,8 +904,7 @@
 		"z": -731,
 		"links": [
 			"j:cabalwest"
-		],
-		"BadLinks": {}
+		]
 	},
 	"forta'are": {
 		"x": 274,
@@ -988,8 +912,7 @@
 		"z": 9130,
 		"links": [
 			"j:pp"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lambat:treefarms": {
 		"x": 6659,
@@ -997,8 +920,7 @@
 		"z": -1572,
 		"links": [
 			"j:tree"
-		],
-		"BadLinks": {}
+		]
 	},
 	"westminster": {
 		"description": "City of Westminster",
@@ -1008,8 +930,7 @@
 			"0,0",
 			"icenia",
 			"imc"
-		],
-		"BadLinks": {}
+		]
 	},
 	"mir": {
 		"description": "Vault Nation of Mir",
@@ -1018,8 +939,7 @@
 		"links": [
 			"j:po",
 			"savion"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:lord": {
 		"x": -1000,
@@ -1027,8 +947,7 @@
 		"description": "LordChiefton's Estate in Icenia",
 		"links": [
 			"j:cabaleast"
-		],
-		"BadLinks": {}
+		]
 	},
 	"iria:desert": {
 		"x": 8973,
@@ -1036,16 +955,14 @@
 		"z": -6569,
 		"links": [
 			"savion"
-		],
-		"BadLinks": {}
+		]
 	},
 	"coventhia": {
 		"x": -4346,
 		"z": -5420,
 		"links": [
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"aurum": {
 		"x": 3036,
@@ -1055,8 +972,7 @@
 			"j:nice",
 			"j:piria",
 			"aurum:cactus"
-		],
-		"BadLinks": {}
+		]
 	},
 	"mta": {
 		"description": "City of Mount Agusta",
@@ -1070,8 +986,7 @@
 			"kallos",
 			"imc",
 			"j:pvark"
-		],
-		"BadLinks": {}
+		]
 	},
 	"em": {
 		"x": 4559,
@@ -1079,32 +994,28 @@
 		"z": -6889,
 		"links": [
 			"j:gonem"
-		],
-		"BadLinks": {}
+		]
 	},
 	"fortuna": {
 		"x": 5850,
 		"z": 8450,
 		"links": [
 			"j:pp"
-		],
-		"BadLinks": {}
+		]
 	},
 	"hje": {
 		"x": -11600,
 		"z": 0,
 		"links": [
 			"j:pkallos"
-		],
-		"BadLinks": {}
+		]
 	},
 	"besia": {
 		"x": 6346,
 		"z": 1262,
 		"links": [
 			"j:pbnj"
-		],
-		"BadLinks": {}
+		]
 	},
 	"genso:farms": {
 		"x": 1246,
@@ -1112,8 +1023,7 @@
 		"z": -2213,
 		"links": [
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"wnsta": {
 		"description": "Station part of the RAIL CABAL",
@@ -1122,8 +1032,7 @@
 		"z": -1336,
 		"links": [
 			"j:cabalwest"
-		],
-		"BadLinks": {}
+		]
 	},
 	"genso:shiranui": {
 		"x": 773,
@@ -1131,16 +1040,14 @@
 		"z": -2460,
 		"links": [
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"terestai": {
 		"x": 4223,
 		"z": 5333,
 		"links": [
 			"j:tuff"
-		],
-		"BadLinks": {}
+		]
 	},
 	"hjaltland": {
 		"description": "Vault nation of Hjaltland",
@@ -1148,8 +1055,7 @@
 		"z": 10794,
 		"links": [
 			"j:pp"
-		],
-		"BadLinks": {}
+		]
 	},
 	"threelakes": {
 		"x": 3057,
@@ -1158,8 +1064,7 @@
 		"links": [
 			"j:coegon",
 			"j:nyaann"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:westisle": {
 		"description": "State of Icenia, dissolved after a period of inactivity after an attempted takeover of Icenia Government",
@@ -1169,8 +1074,7 @@
 		"links": [
 			"j:cabalwest",
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"iria": {
 		"x": 10700,
@@ -1178,8 +1082,7 @@
 		"links": [
 			"oasis",
 			"savion"
-		],
-		"BadLinks": {}
+		]
 	},
 	"gabon": {
 		"x": -3105,
@@ -1188,8 +1091,7 @@
 			"icenia",
 			"j:picenia",
 			"j:gntv"
-		],
-		"BadLinks": {}
+		]
 	},
 	"genso:centi": {
 		"x": 89,
@@ -1197,8 +1099,7 @@
 		"z": -2794,
 		"links": [
 			"genso:roe"
-		],
-		"BadLinks": {}
+		]
 	},
 	"carson": {
 		"x": 4200,
@@ -1206,24 +1107,21 @@
 		"links": [
 			"j:tuff",
 			"j:kal"
-		],
-		"BadLinks": {}
+		]
 	},
 	"pripyat": {
 		"x": 6175,
 		"z": 2350,
 		"links": [
 			"j:tuff"
-		],
-		"BadLinks": {}
+		]
 	},
 	"it:anburon": {
 		"x": -1070,
 		"z": -500,
 		"links": [
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"endportal": {
 		"description": "An end portal renovated by darthorangejuice near wayrest.\n\nMore info: https://old.reddit.com/r/civclassics/comments/jpcs9p/peters_castle_end_portal/\n",
@@ -1237,8 +1135,7 @@
 			"x": 2314,
 			"y": 38,
 			"z": 444
-		},
-		"BadLinks": {}
+		}
 	},
 	"new_sovia": {
 		"description": "City of New Sovia, home of LSD members such as Pirater and iwaki.",
@@ -1246,8 +1143,7 @@
 		"z": -1278,
 		"links": [
 			"oasis"
-		],
-		"BadLinks": {}
+		]
 	},
 	"mts": {
 		"x": -4966,
@@ -1257,8 +1153,7 @@
 			"j:pmts",
 			"j:pvark",
 			"imc"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lutrelia": {
 		"x": 5536,
@@ -1266,8 +1161,7 @@
 		"z": -3598,
 		"links": [
 			"nyasaland"
-		],
-		"BadLinks": {}
+		]
 	},
 	"tvtopia": {
 		"x": -504,
@@ -1275,8 +1169,7 @@
 		"z": -3500,
 		"links": [
 			"j:gntv"
-		],
-		"BadLinks": {}
+		]
 	},
 	"alexandria": {
 		"x": 471,
@@ -1284,8 +1177,7 @@
 		"z": 8209,
 		"links": [
 			"j:palex"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:nether": {
 		"x": -2000,
@@ -1293,8 +1185,7 @@
 		"links": [
 			"j:cabalwest",
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:atlantica": {
 		"x": -1961,
@@ -1302,8 +1193,7 @@
 		"z": -2030,
 		"links": [
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"aurum:cactus": {
 		"x": 3259,
@@ -1312,8 +1202,7 @@
 		"links": [
 			"j:piria",
 			"aurum"
-		],
-		"BadLinks": {}
+		]
 	},
 	"topha'nya": {
 		"x": -696,
@@ -1321,8 +1210,7 @@
 		"z": 8667,
 		"links": [
 			"kro'ushro"
-		],
-		"BadLinks": {}
+		]
 	},
 	"newkalayaan": {
 		"x": 4464,
@@ -1330,8 +1218,7 @@
 		"z": 637,
 		"links": [
 			"j:kal"
-		],
-		"BadLinks": {}
+		]
 	},
 	"wayrest": {
 		"description": "Station under a fancy aztek build in a swamp. Now owned by Yoahtl.",
@@ -1340,8 +1227,7 @@
 		"links": [
 			"0,0",
 			"j:knot"
-		],
-		"BadLinks": {}
+		]
 	},
 	"hiyo'mek": {
 		"x": 447,
@@ -1349,8 +1235,7 @@
 		"z": 8360,
 		"links": [
 			"j:pniyo"
-		],
-		"BadLinks": {}
+		]
 	},
 	"kallos": {
 		"x": -7100,
@@ -1360,8 +1245,7 @@
 			"icenia",
 			"mta",
 			"j:pkallos"
-		],
-		"BadLinks": {}
+		]
 	},
 	"arrelani": {
 		"x": 2502,
@@ -1369,8 +1253,7 @@
 		"z": 996,
 		"links": [
 			"j:parr"
-		],
-		"BadLinks": {}
+		]
 	},
 	"ellen": {
 		"x": -9768,
@@ -1378,8 +1261,7 @@
 		"links": [
 			"j:pmts",
 			"imc"
-		],
-		"BadLinks": {}
+		]
 	},
 	"magnasoria": {
 		"x": 7447,
@@ -1387,16 +1269,14 @@
 		"z": -8800,
 		"links": [
 			"pinegarden"
-		],
-		"BadLinks": {}
+		]
 	},
 	"alpoko": {
 		"x": -3600,
 		"z": -1600,
 		"links": [
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"netherfarm": {
 		"description": "Random portal farm off of JunctionKnot.\n\nUnknown owner, but seems to be public-use.\n",
@@ -1405,8 +1285,7 @@
 		"z": 0,
 		"links": [
 			"j:knot"
-		],
-		"BadLinks": {}
+		]
 	},
 	"varkonia": {
 		"x": -4861,
@@ -1417,8 +1296,7 @@
 			"spqr",
 			"varkonia",
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"socalist_ruler": {
 		"x": -529,
@@ -1426,8 +1304,7 @@
 		"z": 8588,
 		"links": [
 			"kro'ushro"
-		],
-		"BadLinks": {}
+		]
 	},
 	"nro'meagh": {
 		"x": -348,
@@ -1435,8 +1312,7 @@
 		"z": 8364,
 		"links": [
 			"j:nro2"
-		],
-		"BadLinks": {}
+		]
 	},
 	"sig": {
 		"x": 2315,
@@ -1444,8 +1320,7 @@
 		"links": [
 			"j:gensig",
 			"genso:taozi"
-		],
-		"BadLinks": {}
+		]
 	},
 	"jevoghnya": {
 		"x": -679,
@@ -1453,8 +1328,7 @@
 		"z": 7935,
 		"links": [
 			"j:nro1"
-		],
-		"BadLinks": {}
+		]
 	},
 	"lendiforma:mesa": {
 		"x": 6498,
@@ -1462,8 +1336,7 @@
 		"z": -1568,
 		"links": [
 			"j:tree"
-		],
-		"BadLinks": {}
+		]
 	},
 	"spqr": {
 		"description": "City of roma",
@@ -1476,8 +1349,7 @@
 			"mta",
 			"kallos",
 			"imc"
-		],
-		"BadLinks": {}
+		]
 	},
 	"il'olmhir": {
 		"x": -453,
@@ -1485,8 +1357,7 @@
 		"z": 7762,
 		"links": [
 			"torndal"
-		],
-		"BadLinks": {}
+		]
 	},
 	"bloom": {
 		"description": "Station of the former nation Bloom, now owned by Icenia.",
@@ -1496,8 +1367,7 @@
 			"icenia",
 			"imc",
 			"genso:roe"
-		],
-		"BadLinks": {}
+		]
 	},
 	"crowsroost": {
 		"x": 3307,
@@ -1505,8 +1375,7 @@
 		"links": [
 			"genso:taozi",
 			"islaoccidental"
-		],
-		"BadLinks": {}
+		]
 	},
 	"icenia:potato": {
 		"description": "A exp-sized potato farm south of WestIsle.",
@@ -1514,8 +1383,7 @@
 		"z": -744,
 		"links": [
 			"icenia"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:qbipfb": {
 		"description": "IceniaCity's current only public factory bulding.\n\n# Factories\n\n* Aesthetics Factory\n* Basic Smelter\n* Ore Smelter\n* Charcoal Maker\n* Carpentry Factory\n* Rail Factory\n* Clay Dying Factory\n* Glass Dying Factory\n* Wool Dying Factory\n* Bio Lab\n* Concrete Mixer\n* Printing Press\n* Grill\n* Bakery\n* Redstone Mechanics\n* Compactor\n* Iron Forge\n\n# Factories Missing\n\nThere is no room for expansion in the QBIPFB. \n\n* Cauldron\n* Animal Husbandry\n* Bastion Factory\n* Diamond Tools/Armor Smith\n* Gold Forge\n* Iron Armor Smith\n* Iron Tools Smith\n",
@@ -1524,8 +1392,7 @@
 		"z": -1393,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:beach": {
 		"description": "IceniaCity's iconic beach. Restored in late 2019, this natural beach is next to the former JQ area and holds great potential for future projects.",
@@ -1534,8 +1401,7 @@
 		"z": -1321,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:adytum": {
 		"description": "A castle town southeast of IceniaCity ran by gavbea.\n\n# Technical Info\n\nAbandoned rail used, main Y level 51, roughly Z=-1322.\n",
@@ -1544,8 +1410,7 @@
 		"z": -1186,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:skybunker": {
 		"description": "Contains a water drop to the IceniaSkybunker, a short staircase to the surface, and a door to SoundTech's basement.",
@@ -1554,8 +1419,7 @@
 		"z": -1325,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:hji": {
 		"x": -1612,
@@ -1563,8 +1427,7 @@
 		"z": -1391,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:subway": {
 		"description": "The subway under IceniaCity near JahPark and the station building. This station also serves JahPark.",
@@ -1573,8 +1436,7 @@
 		"z": -1348,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:office": {
 		"description": "The office of the transit authority, accepting donations and mail, as well as offering information about the transit network.",
@@ -1583,8 +1445,7 @@
 		"z": -1303,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:iceniapark": {
 		"description": "The largest park in the middle of IceniaCity, featuring footpaths, bushes, and naturally generated trees.",
@@ -1593,8 +1454,7 @@
 		"z": -1298,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:versailles": {
 		"description": "The greenery part of icenia, notibly featuring SoundTech's house.",
@@ -1603,8 +1463,7 @@
 		"z": -1292,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"its:bayloop": {
 		"description": "A newly renovated area of IceniaCity, featuring IceniasFirstBank, SevenAndI, the IceniaCasino, and plenty of newly cleared building space.",
@@ -1613,8 +1472,7 @@
 		"z": -1235,
 		"links": [
 			"j:its"
-		],
-		"BadLinks": {}
+		]
 	},
 	"j:cabalwest": {
 		"description": "West Network of SoundTech's Rail Cabal.",
