@@ -1,44 +1,360 @@
-<title>Knot And Nexus Interchange</title>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title>Knot And Nexus Interchange</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+	</head>
+	<body
+		style="
+			margin: 0;
+			padding: 1em;
+			box-sizing: border-box;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			background-color: Lavender;
+		"
+	>
+		<h1>KANI</h1>
+		<p id="statusMsg">Loading ...</p>
+		<p>
+			<input
+				id="start-dest"
+				name="start-dest"
+				placeholder="Start"
+				type="search"
+				list="dests"
+				onchange="handleControlsChange()"
+			/>
+			<span style="font-size: 1.5em">&rarr;</span>
+			<input
+				id="end-dest"
+				name="end-dest"
+				placeholder="End"
+				type="search"
+				list="dests"
+				onchange="handleControlsChange()"
+			/>
+			<datalist id="dests"></datalist>
+		</p>
+		<div style="width: 100%">
+			<textarea
+				id="destCommand"
+				readonly
+				placeholder="Your /dest command will appear here."
+				onClick="this.setSelectionRange(0, this.value.length)"
+				style="
+					width: 100%;
+					border: none;
+					text-align: center;
+					background-color: transparent;
+				"
+			></textarea>
+		</div>
+		<p
+			id="advisories"
+			style="
+				display: none;
+				max-width: 40em;
+				border: 1px red dashed;
+				padding: 0.5em;
+			"
+		></p>
+		<svg
+			id="mapSvg"
+			width="100%"
+			height="200px"
+			style="stroke-linecap: round; stroke-linejoin: round"
+		>
+			<path id="mapNetwork" fill="none" stroke="#888" opacity=".5" />
+			<path id="mapPath" fill="none" stroke="#b65" />
+		</svg>
+		<div style="max-width: 40em">
+			<p>
+				For support and more info:
+				<a href="https://discord.gg/eJ8vjvZnmw">join the Discord</a> or contact
+				Amelorate/Oniii_Chan in-game.
+			</p>
+			<p>
+				The Knot And Nexus Interchange (previously known as Nexus International
+				Gateway) is a system of rails and
+				<a
+					href="https://civwiki.org/wiki/RailSwitch"
+					target="_blank"
+					style="color: initial"
+					>rail switches</a
+				>
+				centered around
+				<a
+					href="http://civwiki.org/wiki/Nexus"
+					target="_blank"
+					style="color: initial"
+					>Nexus</a
+				>
+				that was created with the goal of fully AFK travel across the map, that
+				will always route you to the correct destination. It was designed to be
+				easily added to with little collaboration between nations.
+			</p>
+			<p>
+				Rail systems that predate the KANI were often buggy, being unable to
+				route players to some destinations. They were also difficult to add to,
+				having to update many destination signs to just add one destination. In
+				addition, since the creation of the KANI they often don't act properly,
+				sending players in circles, to the incorrect stop, or sending them back
+				to where they came from.
+			</p>
+			<img src="https://ameliorate.github.io/KANI/kani.png" width="100%" />
+			<p style="opacity: 0.5">
+				This web app was built by
+				<a href="http://github.com/Gjum" target="_blank" style="color: initial"
+					>Gjum</a
+				>.
+			</p>
+		</div>
+		<script>
+			function euclid(a, b) {
+				const dx = a.x - b.x;
+				const dz = a.z - b.z;
+				return Math.sqrt(dx * dx + dz * dz);
+			}
 
-<style>
-body {
-  background-color: Lavender;
-}
+			function taxicab(a, b) {
+				const dx = a.x - b.x;
+				const dz = a.z - b.z;
+				return Math.abs(dx) + Math.abs(dz);
+			}
 
-#text {
-  max-width: 700px;
-  margin: 10px; 
-  line-height: 1.4;
-}
+			/** Back-track from current to start.
+			 * start has no cameFrom, that's how we terminate. */
+			function reconstructPath(cameFrom, current) {
+				const reversePath = [current];
+				let circuitBreaker = 999;
+				while (--circuitBreaker > 0) {
+					current = cameFrom[current];
+					if (!current) {
+						// reached start
+						return reversePath.reverse();
+					}
+					reversePath.push(current);
+				}
+				console.error("Infinite loop", { current, cameFrom });
+			}
 
-iframe {
-  float: right;
-}
-</style>
+			function astar(graphNodes, start, end) {
+				/** compute actual edge length between two nodes */
+				// TODO use real-world data, e.g., from TravelBot
+				const edgeLen = (a, b) => taxicab(graphNodes[a], graphNodes[b]);
 
-<body>
+				// Converted from pseudocode at https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1025834072#Pseudocode
+				// Creative Commons Attribution-ShareAlike License: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+				/** node immediately preceding a node N, on the cheapest currently known path from start to N */
+				const cameFrom = {};
+				/** cost of the cheapest currently known path from start to the node */
+				const startCost = {};
+				/** cost of the cheapest currently known path from start through the node to end */
+				const fullCost = {};
+				/** Must never overestimate the cost, only then can we guarantee an optimal solution.
+				 * Due to geometry, euclidic distance is always less-than-or-equal the real distance. */
+				const heuristic = (n) => euclid(graphNodes[n], graphNodes[end]);
+				/** set of discovered nodes that may need to be (re-)expanded */
+				// TODO speed up by using a minHeap as priority queue
+				const open = {};
+				// TODO If ties are broken so the queue behaves in a LIFO manner, A* will behave like depth-first search among equal cost paths (avoiding exploring more than one equally optimal solution)
+				const findBestNode = () =>
+					Object.keys(open).reduce(
+						(best, candidate) =>
+							fullCost[best] && fullCost[best] < fullCost[candidate]
+								? best
+								: candidate,
+						null
+					);
 
-  <iframe src="minimal.html" width=550 height=250></iframe>
+				open[start] = true;
+				startCost[start] = 0;
+				fullCost[start] = heuristic(start);
+				let circuitBreaker = 99999;
+				while (Object.keys(open).length) {
+					if (--circuitBreaker < 0) {
+						console.error("Infinite loop", { current, open, cameFrom });
+						return { error: "Infinite loop" };
+					}
+					const current = findBestNode();
+					if (current === end) {
+						const path = reconstructPath(cameFrom, current);
+						return { path, length: fullCost[current] || 0 };
+					}
+					delete open[current];
+					for (const neighbor of graphNodes[current].links) {
+						// distance from start to neighbor through current
+						const gCostCurrent =
+							startCost[current] + edgeLen(current, neighbor);
+						if (
+							startCost[neighbor] === undefined ||
+							startCost[neighbor] > gCostCurrent
+						) {
+							// This path to neighbor is better than any previous one. Record it!
+							cameFrom[neighbor] = current;
+							startCost[neighbor] = gCostCurrent;
+							fullCost[neighbor] = startCost[neighbor] + heuristic(neighbor);
+							// new path may be better than previous at this node, re-evaluate
+							open[neighbor] = true;
+						}
+					}
+				}
+				return { error: "No route from " + start + " to " + end };
+			}
 
+			let graphNodes = {};
 
-  <div id='text'>
+			fetch("https://ameliorate.github.io/KANI/export.json")
+				.then((res) => res.json())
+				.then((data) => {
+					graphNodes = data;
 
-    <h1>Knot And Nexus Interchange</h1>
+					let stations = Object.keys(graphNodes)
+						.filter((dest) => !dest.startsWith("j:"))
+						.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
+					for (const dest of stations) {
+						if (!dest.startsWith("j:")) {
+							const option = document.createElement("option");
+							option.innerHTML = dest;
+							document.getElementById("dests").appendChild(option);
+						}
+					}
 
-    <img src="kani.png" height=70%>
+					const statusMsgElem = document.getElementById("statusMsg");
+					statusMsgElem.innerHTML = `Select from ${stations.length} destinations:`;
 
-    <p>
-    The Knot And Nexus Interchange (previously known as Nexus International Gateway) is a system of rails and rail switches centered around Nexus that was created with the goal of fully afk travel across the map, that will always route you to the correct destination.
-    It was designed to be easilly added to with little colaboration between nations.
-    </p>
+					drawMapNetwork();
+					updateMapRoute(null);
 
-    <p>
-    Rail systems that predate the KANI were often buggy, being unable to route players to some destinations.
-    They were also difficult to add to, having to update many destination signs to just add one destination.
-    In addition, since the creation of the KANI they often don't act properly, sending players in circles, to the incorrect stop, or sending them back to where they came.
-    </p>
+					if (document.location.hash) {
+						const hash = decodeURI(document.location.hash.substr(1));
+						const [start, end] = hash.split("#");
+						// sanitize input: only allow known node names
+						if (!graphNodes[start]) start = "";
+						if (!graphNodes[end]) end = "";
+						setRouteQuery(start, end);
+					}
+				});
 
-  </div>
+			/** programmatically input a route query */
+			function setRouteQuery(start, end) {
+				const startElem = document.getElementById("start-dest");
+				const endElem = document.getElementById("end-dest");
+				if (graphNodes[start]) startElem.value = start;
+				else startElem.value = "";
+				if (graphNodes[end]) endElem.value = end;
+				else endElem.value = "";
+				handleControlsChange();
+			}
 
+			function handleControlsChange() {
+				const start = document.getElementById("start-dest").value;
+				const end = document.getElementById("end-dest").value;
+				updateUrl(start, end);
+				updateRoute(start, end);
+			}
 
-</body>
+			function updateUrl(start, end) {
+				if (!graphNodes[start]) start = "";
+				if (!graphNodes[end]) end = "";
+				const hash = "#" + encodeURIComponent(start) + "#" + encodeURI(end);
+				if (document.location.hash !== hash) {
+					// doing `document.location.hash = hash` would spam the broser history
+					const { origin, pathname, search } = document.location;
+					document.location.replace(origin + pathname + search + hash);
+				}
+			}
+
+			function updateRoute(start, end) {
+				const destCommandElem = document.getElementById("destCommand");
+				const advisoriesElem = document.getElementById("advisories");
+				if (!(graphNodes[start] && graphNodes[end])) {
+					destCommandElem.value = "";
+					advisoriesElem.innerHTML = "";
+					return;
+				}
+				const { path, length, error } = astar(graphNodes, start, end);
+				if (error) {
+					destCommandElem.value = "";
+					advisoriesElem.innerHTML = "Error: " + error;
+					return;
+				}
+				const advisories = [];
+				const pathDests = path.map((node, i) => {
+					if (graphNodes[node].advisory) {
+						advisories.push(graphNodes[node].advisory);
+					}
+					const prev = graphNodes[path[i - 1]] || {};
+					const badLinks = prev.BadLinks || {};
+					return badLinks[node] || node;
+				});
+
+				destCommandElem.value = "/dest " + pathDests.join(" ");
+				if (advisories.length) {
+					advisoriesElem.innerHTML = advisories.join("<br/>");
+					advisoriesElem.style.display = "initial";
+				} else advisoriesElem.style.display = "none";
+
+				updateMapRoute(path);
+			}
+
+			/** selected route (black) */
+			function updateMapRoute(path) {
+				const nodes = (path || Object.keys(graphNodes)).map(
+					(nodeName) => graphNodes[nodeName]
+				);
+				const minX = Math.min(...nodes.map((n) => n.x));
+				const maxX = Math.max(...nodes.map((n) => n.x));
+				const maxZ = Math.max(...nodes.map((n) => n.z));
+				const minZ = Math.min(...nodes.map((n) => n.z));
+				const width = maxX - minX;
+				const height = maxZ - minZ;
+
+				const vh = 0.3 * screen.height; // svg is 30% of viewport height
+				// lineWidth is 1/100 of svg height. svg may scale down when it is too wide.
+				const lineWidth = Math.max(height, vh * (width / screen.width)) / 100;
+
+				const networkPath = document.getElementById("mapNetwork");
+				const routePath = document.getElementById("mapPath");
+				const svg = document.getElementById("mapSvg");
+
+				networkPath.setAttribute("stroke-width", lineWidth);
+				routePath.setAttribute("stroke-width", lineWidth);
+
+				const viewBox = [
+					minX - lineWidth,
+					minZ - lineWidth,
+					width + 2 * lineWidth,
+					height + 2 * lineWidth,
+				];
+
+				svg.setAttribute("viewBox", viewBox.join(" "));
+
+				if (path) {
+					const d = "M" + nodes.map(({ x, z }) => x + "," + z).join("L");
+					routePath.setAttribute("d", d);
+				} else {
+					routePath.setAttribute("d", "");
+				}
+			}
+
+			/** entire network in the background (gray) */
+			function drawMapNetwork() {
+				const links = [];
+				for (const node of Object.values(graphNodes)) {
+					for (const neighbor of node.links) {
+						links.push([node, graphNodes[neighbor]]);
+					}
+				}
+				const d = links
+					.map(([a, b]) => "M" + a.x + "," + a.z + "L" + b.x + "," + b.z)
+					.join("");
+				document.getElementById("mapNetwork").setAttribute("d", d);
+			}
+		</script>
+	</body>
+</html>
