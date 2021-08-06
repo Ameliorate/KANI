@@ -34,9 +34,6 @@ jobs:
     - name: Run lint program
       run: |
         python ./lint.py
-    - name: Run compute program
-      run: |
-        python ./compute.py > docs/routes.json
     - name: Run ccmap program
       run: |
         export LAST_UPDATE=$(git log --format='%ct' -1 -- data)

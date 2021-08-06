@@ -32,9 +32,6 @@ jobs:
     - name: Run lint program
       run: |
         python ./lint.py
-    - name: Run compute program
-      run: |
-        python ./compute.py > docs/routes.json
     - name: Run ccmap program
       run: |
         export LAST_UPDATE=$(git log --format='%ct' -1 -- data)
@@ -43,13 +40,6 @@ jobs:
     - name: Run export program
       run: |
         python ./export.py > docs/export.json
-    - name: Commit routes.json to git
-      run: |
-        git config --local user.name "KANI Bot"
-        if ! git diff --quiet --exit-code docs/routes.json; then
-        git add docs/routes.json
-        git commit -m "Update routes.json"
-        fi
     - name: Commit ccmap.json to git
       run: |
         git config --local user.name "KANI Bot"
