@@ -1,4 +1,15 @@
 {
+	"purazi": {
+		"x": 4693,
+		"y": 20,
+		"z": -1521,
+		"switch": true,
+		"links": [
+			"j:low",
+			"nyasaland",
+			"noname"
+		]
+	},
 	"dulaman": {
 		"x": 2120,
 		"y": 10,
@@ -791,15 +802,6 @@
 			"j:pp"
 		]
 	},
-	"purazi": {
-		"x": 4693,
-		"y": 20,
-		"z": -1521,
-		"links": [
-			"j:low",
-			"nyasaland"
-		]
-	},
 	"icenia:drippy": {
 		"x": -1500,
 		"z": -900,
@@ -1312,6 +1314,14 @@
 		"z": 8364,
 		"links": [
 			"j:nro2"
+		]
+	},
+	"noname": {
+		"x": 4988,
+		"y": 12,
+		"z": -1997,
+		"links": [
+			"purazi"
 		]
 	},
 	"sig": {
