@@ -116,6 +116,7 @@
 {"description":"City of New Sovia, home of LSD members such as Pirater and iwaki.","id":"ccmap:kani/node/new_sovia","name":"New_Sovia (KANI)","type":"TerminalDestinations","x":8475,"z":-1278},
 {"id":"ccmap:kani/node/newaegina","name":"Newaegina (KANI)","type":"TerminalDestinations","x":2923,"y":1,"z":938},
 {"id":"ccmap:kani/node/newkalayaan","name":"Newkalayaan (KANI)","type":"TerminalDestinations","x":4464,"y":72,"z":637},
+{"id":"ccmap:kani/node/noname","name":"Noname (KANI)","type":"TerminalDestinations","x":4988,"y":12,"z":-1997},
 {"id":"ccmap:kani/node/nro'meagh","name":"Nro'Meagh (KANI)","type":"TerminalDestinations","x":-348,"y":122,"z":8364},
 {"id":"ccmap:kani/node/nyasaland","name":"Nyasaland (KANI)","station":true,"type":"CompliantSwitches","x":4061,"y":25,"z":-4074},
 {"id":"ccmap:kani/node/oasis","name":"Oasis (KANI)","station":true,"type":"CompliantSwitches","x":7009,"y":64,"z":-715},
@@ -125,7 +126,7 @@
 {"id":"ccmap:kani/node/pinegarden","name":"Pinegarden (KANI)","station":true,"type":"CompliantSwitches","x":7004,"y":13,"z":-8851},
 {"id":"ccmap:kani/node/ponsportia","name":"Ponsportia (KANI)","station":true,"type":"CompliantSwitches","x":3131,"y":1,"z":1103},
 {"id":"ccmap:kani/node/pripyat","name":"Pripyat (KANI)","type":"TerminalDestinations","x":6175,"z":2350},
-{"id":"ccmap:kani/node/purazi","name":"Purazi (KANI)","type":"TerminalDestinations","x":4693,"y":20,"z":-1521},
+{"id":"ccmap:kani/node/purazi","name":"Purazi (KANI)","switch":true,"type":"CompliantSwitches","x":4693,"y":20,"z":-1521},
 {"id":"ccmap:kani/node/savion","name":"Savion (KANI)","station":true,"type":"CompliantSwitches","x":9847,"y":7,"z":-5807},
 {"id":"ccmap:kani/node/sig","name":"Sig (KANI)","type":"TerminalDestinations","x":2315,"z":-1360},
 {"id":"ccmap:kani/node/socalist_ruler","name":"Socalist_Ruler (KANI)","type":"TerminalDestinations","x":-529,"y":118,"z":8588},
@@ -339,5 +340,6 @@
 {"distance":9645,"id":"ccmap:kani/link/mta/spqr","line":[[[-6713,2955],[-10650,-5850]]],"name":"Mta - Spqr (KANI)","type":"link"},
 {"distance":6016,"id":"ccmap:kani/link/mta/varkonia","line":[[[-6713,2955],[-4861,-2769]]],"name":"Mta - Varkonia (KANI)","type":"link"},
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
+{"distance":560,"id":"ccmap:kani/link/noname/purazi","line":[[[4988,-1997],[4693,-1521]]],"name":"Noname - Purazi (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1628271148","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":6557,"id":"ccmap:kani/link/spqr/varkonia","line":[[[-10650,-5850],[-4861,-2769]]],"name":"Spqr - Varkonia (KANI)","type":"link"}],"info":{"last_update":"1628281413","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
