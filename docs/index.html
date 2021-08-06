@@ -210,8 +210,9 @@
 						return { path, length: fullCost[current] || 0 };
 					}
 					const currentNode = graphNodes[current];
-					if (!currentNode.switch && !currentNode.station) {
-						continue; // can't leave this node using RailSwitch
+					const canRouteThrough = currentNode.switch || currentNode.station;
+					if (!canRouteThrough && current !== start) {
+						continue; // can't leave this node
 					}
 					for (const neighbor of currentNode.links) {
 						// distance from start to neighbor through current
