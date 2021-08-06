@@ -181,17 +181,21 @@
 				fullCost[start] = heuristic(start);
 				let circuitBreaker = 99999;
 				while (Object.keys(open).length) {
+					const current = findBestNode();
+					delete open[current];
 					if (--circuitBreaker < 0) {
 						console.error("Infinite loop", { current, open, cameFrom });
 						return { error: "Infinite loop" };
 					}
-					const current = findBestNode();
 					if (current === end) {
 						const path = reconstructPath(cameFrom, current);
 						return { path, length: fullCost[current] || 0 };
 					}
-					delete open[current];
-					for (const neighbor of graphNodes[current].links) {
+					const currentNode = graphNodes[current];
+					if (!currentNode.switch && !currentNode.station) {
+						continue; // can't leave this node using RailSwitch
+					}
+					for (const neighbor of currentNode.links) {
 						// distance from start to neighbor through current
 						const gCostCurrent =
 							startCost[current] + edgeLen(current, neighbor);
