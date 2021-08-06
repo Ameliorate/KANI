@@ -39,20 +39,21 @@
 			/>
 			<datalist id="dests"></datalist>
 		</p>
-		<div style="width: 100%">
-			<textarea
-				id="destCommand"
-				readonly
-				placeholder="Your /dest command will appear here."
-				onClick="this.setSelectionRange(0, this.value.length)"
-				style="
-					width: 100%;
-					border: none;
-					text-align: center;
-					background-color: transparent;
-				"
-			></textarea>
-		</div>
+		<textarea
+			id="destCommand"
+			readonly
+			placeholder="Your /dest command will appear here."
+			onClick="this.setSelectionRange(0, this.value.length)"
+			style="
+				width: 100%;
+				border: none;
+				text-align: center;
+				background-color: transparent;
+			"
+		></textarea>
+		<p id="travelTime" style="opacity: 0.5">
+			Travel time information will appear here.
+		</p>
 		<p
 			id="advisories"
 			style="
@@ -271,29 +272,59 @@
 
 			function updateRoute(start, end) {
 				const destCommandElem = document.getElementById("destCommand");
+				const travelTimeElem = document.getElementById("travelTime");
 				const advisoriesElem = document.getElementById("advisories");
+
 				if (!(graphNodes[start] && graphNodes[end])) {
 					destCommandElem.value = "";
+					travelTimeElem.innerHTML =
+						"Travel time information will appear here.";
 					advisoriesElem.innerHTML = "";
 					return;
 				}
 				const { path, length, error } = astar(graphNodes, start, end);
 				if (error) {
 					destCommandElem.value = "";
+					travelTimeElem.innerHTML =
+						"Travel time information will appear here.";
 					advisoriesElem.innerHTML = "Error: " + error;
 					return;
 				}
+
+				const travelSpeedMps = 8; // carts travel at 8 meters per second on good rails
+				let minDuration = 0;
+				let maxDuration = 0;
 				const advisories = [];
-				const pathDests = path.map((node, i) => {
-					if (graphNodes[node].advisory) {
-						advisories.push(graphNodes[node].advisory);
+				const pathDests = path.map((nodeName, i) => {
+					if (graphNodes[nodeName].advisory) {
+						advisories.push(graphNodes[nodeName].advisory);
 					}
-					const prev = graphNodes[path[i - 1]] || {};
-					const badLinks = prev.BadLinks || {};
-					return badLinks[node] || node;
+					const prev = graphNodes[path[i - 1]];
+					if (prev) {
+						minDuration += euclid(prev, graphNodes[nodeName]) / travelSpeedMps;
+						maxDuration += taxicab(prev, graphNodes[nodeName]) / travelSpeedMps;
+					}
+					const badLinks = (prev || {}).BadLinks || {};
+					return badLinks[nodeName] || nodeName;
 				});
 
 				destCommandElem.value = "/dest " + pathDests.join(" ");
+
+				const minMin = Math.floor(minDuration / 60);
+				const minSec = Math.ceil(minDuration - 60 * minMin);
+				const maxMin = Math.floor(maxDuration / 60);
+				const maxSec = Math.ceil(maxDuration - 60 * maxMin);
+				travelTimeElem.innerHTML =
+					"This trip is estimated to take from " +
+					minMin +
+					" minutes " +
+					minSec +
+					" seconds to " +
+					maxMin +
+					" minutes " +
+					maxSec +
+					" seconds. Lag may impact this estimate.";
+
 				if (advisories.length) {
 					advisoriesElem.innerHTML = advisories.join("<br/>");
 					advisoriesElem.style.display = "initial";
