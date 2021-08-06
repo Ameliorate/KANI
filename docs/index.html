@@ -315,11 +315,14 @@
 					const badLinks = (prev || {}).BadLinks || {};
 					return badLinks[nodeName] || nodeName;
 				});
-
+				const lastNodeName = path[path.length - 1];
+				if (graphNodes[lastNodeName].station) {
+					pathDests.push(lastNodeName + ":exit");
+				}
 				destCommandElem.value = "/dest " + pathDests.join(" ");
 
 				const minMin = Math.floor(minDuration / 60);
-				const minSec = Math.ceil(minDuration - 60 * minMin);
+				const minSec = Math.floor(minDuration - 60 * minMin);
 				const maxMin = Math.floor(maxDuration / 60);
 				const maxSec = Math.ceil(maxDuration - 60 * maxMin);
 				travelTimeElem.innerHTML =
