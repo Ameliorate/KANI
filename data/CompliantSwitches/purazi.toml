@@ -2,7 +2,10 @@ x = 4693
 y = 20
 z = -1521
 
+switch = true
+
 links = [
  'j:low',
  'nyasaland',
+ 'noname',
 ]
