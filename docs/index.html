@@ -146,7 +146,11 @@
 			function astar(graphNodes, start, end) {
 				/** compute actual edge length between two nodes */
 				// TODO use real-world data, e.g., from TravelBot
-				const edgeLen = (a, b) => taxicab(graphNodes[a], graphNodes[b]);
+				function edgeLen(a, b) {
+					const max = taxicab(graphNodes[a], graphNodes[b]);
+					const min = euclid(graphNodes[a], graphNodes[b]);
+					return (max + min) / 2;
+				}
 
 				// Converted from pseudocode at https://en.wikipedia.org/w/index.php?title=A*_search_algorithm&oldid=1025834072#Pseudocode
 				// Creative Commons Attribution-ShareAlike License: https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
