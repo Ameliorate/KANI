@@ -184,9 +184,7 @@
 			"bloom",
 			"gabon",
 			"alpoko",
-			"spqr",
-			"varkonia",
-			"kallos"
+			"j:iskv"
 		],
 		"station": true,
 		"BadLinks": {
@@ -983,11 +981,9 @@
 		"links": [
 			"icenia",
 			"0,0",
-			"varkonia",
-			"spqr",
-			"kallos",
 			"imc",
-			"j:pvark"
+			"j:pvark",
+			"j:iskv"
 		]
 	},
 	"em": {
@@ -1243,10 +1239,8 @@
 		"x": -7100,
 		"z": -150,
 		"links": [
-			"spqr",
-			"icenia",
-			"mta",
-			"j:pkallos"
+			"j:pkallos",
+			"j:iskv"
 		]
 	},
 	"arrelani": {
@@ -1294,10 +1288,7 @@
 		"z": -2769,
 		"links": [
 			"j:pvark",
-			"mta",
-			"spqr",
-			"varkonia",
-			"icenia"
+			"j:iskv"
 		]
 	},
 	"socalist_ruler": {
@@ -1354,10 +1345,7 @@
 		"y": 9,
 		"z": -5850,
 		"links": [
-			"icenia",
-			"varkonia",
-			"mta",
-			"kallos",
+			"j:iskv",
 			"imc"
 		]
 	},
@@ -1482,6 +1470,19 @@
 		"z": -1235,
 		"links": [
 			"j:its"
+		]
+	},
+	"j:iskv": {
+		"x": 7500,
+		"y": 11,
+		"z": -1325,
+		"switch": true,
+		"links": [
+			"icenia",
+			"spqr",
+			"kallos",
+			"varkonia",
+			"mta"
 		]
 	},
 	"j:cabalwest": {
