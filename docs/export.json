@@ -10,6 +10,17 @@
 			"noname"
 		]
 	},
+	"september": {
+		"x": -4947,
+		"y": 8,
+		"z": 2211,
+		"station": true,
+		"links": [
+			"j:omts",
+			"mta",
+			"september:ocean"
+		]
+	},
 	"dulaman": {
 		"x": 2120,
 		"y": 10,
@@ -242,15 +253,13 @@
 		"station": true,
 		"contact": "andrea.shp#0352 474636313191120906",
 		"links": [
-			"j:pmts",
+			"j:pi",
 			"bloom",
 			"ellen",
 			"westminster",
 			"mta",
-			"mts",
 			"spqr"
-		],
-		"mts": "sept september"
+		]
 	},
 	"stallman": {
 		"x": 2439,
@@ -326,6 +335,18 @@
 			"genso:roe"
 		]
 	},
+	"j:omts": {
+		"x": -4875,
+		"y": 11,
+		"z": 2273,
+		"switch": true,
+		"links": [
+			"j:pvark",
+			"j:pmts",
+			"j:pi",
+			"september"
+		]
+	},
 	"j:low": {
 		"x": 5293,
 		"y": 20,
@@ -391,15 +412,11 @@
 		"z": 0,
 		"switch": true,
 		"links": [
-			"mts",
-			"imc",
+			"j:omts",
 			"ellen",
 			"j:pvark",
 			"j:picenia"
-		],
-		"BadLinks": {
-			"mts": "sept september"
-		}
+		]
 	},
 	"j:coe:south": {
 		"x": 771,
@@ -699,14 +716,11 @@
 		"switch": true,
 		"links": [
 			"varkonia",
-			"mts",
 			"mta",
+			"j:omts",
 			"j:pmts",
 			"j:pkallos"
-		],
-		"BadLinks": {
-			"mts": "september"
-		}
+		]
 	},
 	"j:palex": {
 		"x": 448,
@@ -741,6 +755,17 @@
 			"icenia:lord"
 		],
 		"switch": true
+	},
+	"j:pi": {
+		"x": -4873,
+		"y": 11,
+		"z": 2501,
+		"switch": true,
+		"links": [
+			"j:omts",
+			"imc",
+			"westminster"
+		]
 	},
 	"j:parr": {
 		"x": 3364,
@@ -927,6 +952,7 @@
 		"x": -7120,
 		"z": 5100,
 		"links": [
+			"j:pi",
 			"0,0",
 			"icenia",
 			"imc"
@@ -982,6 +1008,7 @@
 			"icenia",
 			"0,0",
 			"imc",
+			"september",
 			"j:pvark",
 			"j:iskv"
 		]
@@ -1143,16 +1170,6 @@
 			"oasis"
 		]
 	},
-	"mts": {
-		"x": -4966,
-		"z": 2237,
-		"advisory": "MtS has a extremely complicated rail system that has explicitly denied support for the KANI.\nAccessing MtS from the KANI may not work from all origins, and leaving MtS using the KANI is often completely nonfunctional.\n",
-		"links": [
-			"j:pmts",
-			"j:pvark",
-			"imc"
-		]
-	},
 	"lutrelia": {
 		"x": 5536,
 		"y": 8,
@@ -1167,6 +1184,14 @@
 		"z": -3500,
 		"links": [
 			"j:gntv"
+		]
+	},
+	"september:ocean": {
+		"x": -4268,
+		"y": 11,
+		"z": 2234,
+		"links": [
+			"september"
 		]
 	},
 	"alexandria": {
