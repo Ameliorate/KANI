@@ -1,0 +1,13 @@
+x = 7500
+y = 11
+z = -1325
+
+switch = true
+
+links = [
+ 'icenia',
+ 'spqr',
+ 'kallos',
+ 'varkonia',
+ 'mta',
+]

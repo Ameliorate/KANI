@@ -5,9 +5,6 @@ y = 9
 z = -5850
 
 links = [
- 'icenia',
- 'varkonia',
- 'mta',
- 'kallos',
+ 'j:iskv',
  'imc',
 ]

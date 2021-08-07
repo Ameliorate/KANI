@@ -1,8 +1,6 @@
 x = -7100 
 z = -150
 links = [
- 'spqr',
- 'icenia',
- 'mta',
  'j:pkallos',
+ 'j:iskv',
 ]
