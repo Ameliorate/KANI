@@ -1,0 +1,11 @@
+x = -4947
+y = 8
+z = 2211
+
+station = true
+
+links = [
+ 'j:omts',
+ 'mta',
+ 'september:ocean',
+]

@@ -1,0 +1,12 @@
+x = -4875
+y = 11
+z = 2273
+
+switch = true
+
+links = [
+ 'j:pvark',
+ 'j:pmts',
+ 'j:pi',
+ 'september',
+]

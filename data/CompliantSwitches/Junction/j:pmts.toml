@@ -4,12 +4,8 @@ z = 0
 switch = true
 
 links = [
- 'mts',
- 'imc',
+ 'j:omts',
  'ellen',
  'j:pvark',
  'j:picenia',
 ]
-
-[BadLinks]
-'mts' = 'sept september'

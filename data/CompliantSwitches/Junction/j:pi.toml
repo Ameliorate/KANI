@@ -1,0 +1,11 @@
+x = -4873
+y = 11
+z = 2501
+
+switch = true
+
+links = [
+ 'j:omts',
+ 'imc',
+ 'westminster',
+]

@@ -5,14 +5,11 @@ station = true
 contact = "andrea.shp#0352 474636313191120906"
 
 links = [
- 'j:pmts',
+ 'j:pi',
  'bloom',
  'ellen',
  'westminster',
  'mta',
- 'mts',
  'spqr',
 ]
 
-#[BadLinks]
-'mts' = 'sept september'

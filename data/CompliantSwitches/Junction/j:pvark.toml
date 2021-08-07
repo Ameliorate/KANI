@@ -5,11 +5,8 @@ switch = true
 
 links = [
  'varkonia',
- 'mts',
  'mta',
+ 'j:omts',
  'j:pmts',
  'j:pkallos',
 ]
-
-[BadLinks]
-'mts' = 'september'
