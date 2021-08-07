@@ -308,7 +308,6 @@
 {"distance":1231,"id":"ccmap:kani/link/j:o/j:ppcc","line":[[[5070,0],[3839,0]]],"name":"J:O - J:Ppcc (KANI)","type":"link"},
 {"distance":228,"id":"ccmap:kani/link/j:omts/j:pi","line":[[[-4875,2273],[-4873,2501]]],"name":"J:Omts - J:Pi (KANI)","type":"link"},
 {"distance":3275,"id":"ccmap:kani/link/j:omts/j:pmts","line":[[[-4875,2273],[-2516,0]]],"name":"J:Omts - J:Pmts (KANI)","type":"link"},
-{"distance":2273,"id":"ccmap:kani/link/j:omts/j:pvark","line":[[[-4875,2273],[-4860,0]]],"name":"J:Omts - J:Pvark (KANI)","type":"link"},
 {"distance":95,"id":"ccmap:kani/link/j:omts/september","line":[[[-4875,2273],[-4947,2211]]],"name":"J:Omts - September (KANI)","type":"link"},
 {"distance":123,"id":"ccmap:kani/link/j:palex/j:pniyo","line":[[[448,8213],[449,8336]]],"name":"J:Palex - J:Pniyo (KANI)","type":"link"},
 {"distance":67,"id":"ccmap:kani/link/j:palex/j:pnro","line":[[[448,8213],[381,8208]]],"name":"J:Palex - J:Pnro (KANI)","type":"link"},
@@ -347,4 +346,4 @@
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":560,"id":"ccmap:kani/link/noname/purazi","line":[[[4988,-1997],[4693,-1521]]],"name":"Noname - Purazi (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":679,"id":"ccmap:kani/link/september/september:ocean","line":[[[-4947,2211],[-4268,2234]]],"name":"September - September:Ocean (KANI)","type":"link"}],"info":{"last_update":"1628306392","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":679,"id":"ccmap:kani/link/september/september:ocean","line":[[[-4947,2211],[-4268,2234]]],"name":"September - September:Ocean (KANI)","type":"link"}],"info":{"last_update":"1628375221","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
