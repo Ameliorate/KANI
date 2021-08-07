@@ -5,7 +5,6 @@ z = 2273
 switch = true
 
 links = [
- 'j:pvark',
  'j:pmts',
  'j:pi',
  'september',
