@@ -2,5 +2,5 @@ x = -7100
 z = -150
 links = [
  'j:pkallos',
- 'j:iskv',
+#'j:iskv',
 ]

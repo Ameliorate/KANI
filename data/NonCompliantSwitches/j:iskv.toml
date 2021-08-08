@@ -7,7 +7,7 @@ switch = true
 links = [
  'icenia',
  'spqr',
- 'kallos',
+#'kallos', # Disabled because of complaints of kallos not having a station from this direction
  'varkonia',
  'mta',
 ]
