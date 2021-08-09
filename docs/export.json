@@ -143,6 +143,7 @@
 			"j:coe:south",
 			"j:coe:east",
 			"j:coe:north",
+			"j:coe:west",
 			"j:ann"
 		]
 	},
@@ -406,6 +407,17 @@
 			"threelakes"
 		]
 	},
+	"j:coe:west": {
+		"x": -2632,
+		"y": 12,
+		"z": -5765,
+		"switch": true,
+		"links": [
+			"coe",
+			"valyria",
+			"j:gntv"
+		]
+	},
 	"j:pmts": {
 		"x": -2516,
 		"z": 0,
@@ -518,7 +530,7 @@
 			"genso:roe",
 			"tvtopia",
 			"gabon",
-			"valyria",
+			"j:coe:west",
 			"nyasaland"
 		]
 	},
@@ -810,10 +822,11 @@
 		]
 	},
 	"valyria": {
-		"x": -2633,
+		"x": -2632,
+		"y": 12,
 		"z": -8393,
 		"links": [
-			"j:gntv"
+			"j:coe:west"
 		]
 	},
 	"pacem": {
