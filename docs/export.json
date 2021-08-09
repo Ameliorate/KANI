@@ -144,7 +144,8 @@
 			"j:coe:east",
 			"j:coe:north",
 			"j:coe:west",
-			"j:ann"
+			"j:ann",
+			"lexington"
 		]
 	},
 	"0,0": {
@@ -1110,6 +1111,15 @@
 		"links": [
 			"j:cabalwest",
 			"icenia"
+		]
+	},
+	"lexington": {
+		"description": "Lexington",
+		"x": -624,
+		"y": 3,
+		"z": -7293,
+		"links": [
+			"coe"
 		]
 	},
 	"iria": {
