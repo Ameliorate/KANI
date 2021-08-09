@@ -10,6 +10,6 @@ links = [
  'j:coe:south',
  'j:coe:east',
  'j:coe:north',
-#'j:coe:west',
+ 'j:coe:west',
  'j:ann',
 ]
