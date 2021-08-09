@@ -110,6 +110,7 @@
 {"id":"ccmap:kani/node/lambat:treefarms","name":"Lambat:Treefarms (KANI)","type":"TerminalDestinations","x":6659,"y":71,"z":-1572},
 {"id":"ccmap:kani/node/lendiforma:mesa","name":"Lendiforma:Mesa (KANI)","type":"TerminalDestinations","x":6498,"y":58,"z":-1568},
 {"id":"ccmap:kani/node/lenin_isle","name":"Lenin_Isle (KANI)","station":true,"type":"CompliantSwitches","x":3365,"y":12,"z":784},
+{"description":"Lexington","id":"ccmap:kani/node/lexington","name":"Lexington (KANI)","type":"TerminalDestinations","x":-624,"y":3,"z":-7293},
 {"id":"ccmap:kani/node/lriln'kriavnya","name":"Lriln'Kriavnya (KANI)","type":"TerminalDestinations","x":-108,"y":4,"z":8838},
 {"id":"ccmap:kani/node/lutrelia","name":"Lutrelia (KANI)","type":"TerminalDestinations","x":5536,"y":8,"z":-3598},
 {"id":"ccmap:kani/node/magnasoria","name":"Magnasoria (KANI)","type":"TerminalDestinations","x":7447,"y":1,"z":-8800},
@@ -188,6 +189,7 @@
 {"distance":154,"id":"ccmap:kani/link/coe/j:coe:north","line":[[[770,-5765],[770,-5919]]],"name":"Coe - J:Coe:North (KANI)","type":"link"},
 {"distance":2922,"id":"ccmap:kani/link/coe/j:coe:south","line":[[[770,-5765],[771,-2843]]],"name":"Coe - J:Coe:South (KANI)","type":"link"},
 {"distance":3402,"id":"ccmap:kani/link/coe/j:coe:west","line":[[[770,-5765],[-2632,-5765]]],"name":"Coe - J:Coe:West (KANI)","type":"link"},
+{"distance":2068,"id":"ccmap:kani/link/coe/lexington","line":[[[770,-5765],[-624,-7293]]],"name":"Coe - Lexington (KANI)","type":"link"},
 {"distance":6283,"id":"ccmap:kani/link/coventhia/genso:taozi","line":[[[-4346,-5420],[1278,-2618]]],"name":"Coventhia - Genso:Taozi (KANI)","type":"link"},
 {"distance":2401,"id":"ccmap:kani/link/crowsroost/genso:taozi","line":[[[3307,-1334],[1278,-2618]]],"name":"Crowsroost - Genso:Taozi (KANI)","type":"link"},
 {"distance":1777,"id":"ccmap:kani/link/crowsroost/islaoccidental","line":[[[3307,-1334],[5084,-1321]]],"name":"Crowsroost - Islaoccidental (KANI)","type":"link"},
@@ -348,4 +350,4 @@
 {"distance":1570,"id":"ccmap:kani/link/new_sovia/oasis","line":[[[8475,-1278],[7009,-715]]],"name":"New_Sovia - Oasis (KANI)","type":"link"},
 {"distance":560,"id":"ccmap:kani/link/noname/purazi","line":[[[4988,-1997],[4693,-1521]]],"name":"Noname - Purazi (KANI)","type":"link"},
 {"distance":2630,"id":"ccmap:kani/link/nyasaland/purazi","line":[[[4061,-4074],[4693,-1521]]],"name":"Nyasaland - Purazi (KANI)","type":"link"},
-{"distance":679,"id":"ccmap:kani/link/september/september:ocean","line":[[[-4947,2211],[-4268,2234]]],"name":"September - September:Ocean (KANI)","type":"link"}],"info":{"last_update":"1628479234","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
+{"distance":679,"id":"ccmap:kani/link/september/september:ocean","line":[[[-4947,2211],[-4268,2234]]],"name":"September - September:Ocean (KANI)","type":"link"}],"info":{"last_update":"1628541297","version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
