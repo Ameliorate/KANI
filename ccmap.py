@@ -100,16 +100,10 @@ presentations = [
     },
 ]
 
-if 'LAST_UPDATE' in environ:
-    print("Using LAST_UPDATE env variable for time", file=stderr)
-else:
-    print("Using system time", file=stderr)
-
 collection = {
     "name": "Rails",
     "info": {
         "version": "3.0.0-beta3",
-        "last_update": environ.get('LAST_UPDATE') or int(time.time()),
     },
     "presentations": presentations,
     "features":
