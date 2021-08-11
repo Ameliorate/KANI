@@ -3,9 +3,9 @@ description = "Features a very complicated NonCompliantSwitch. Don't think about
 x = 414
 z = 6602
 
-advisory = "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI"
+advisory = "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI. Departing to icenia may work."
 
 links = [
-  "icenia",
+  "j:wiv",
   "j:knot",
 ]

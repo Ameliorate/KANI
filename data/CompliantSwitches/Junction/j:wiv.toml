@@ -1,0 +1,12 @@
+x = -1117
+y = 24
+z = 5110
+
+switch = true
+
+links = [
+ 'icenia',
+ 'westminster',
+ 'vinland'
+ #entrana?
+]

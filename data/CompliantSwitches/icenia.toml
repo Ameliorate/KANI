@@ -10,19 +10,18 @@ links = [
  "j:picenia",
  "j:its",
  "j:icegen",
+ "j:iskv",
+ "j:wiv",
  "icenia:nether",
  "icenia:potato",
  "it:anburon",
  "icenia:drippy",
  "mta",
  "icenia:westisle",
- "vinland",
- "westminster",
  "icenia:atlantica",
  "bloom",
  "gabon",
  "alpoko",
- "j:iskv",
 ]
 
 station = true
