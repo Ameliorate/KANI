@@ -185,19 +185,18 @@
 			"j:picenia",
 			"j:its",
 			"j:icegen",
+			"j:iskv",
+			"j:wiv",
 			"icenia:nether",
 			"icenia:potato",
 			"it:anburon",
 			"icenia:drippy",
 			"mta",
 			"icenia:westisle",
-			"vinland",
-			"westminster",
 			"icenia:atlantica",
 			"bloom",
 			"gabon",
-			"alpoko",
-			"j:iskv"
+			"alpoko"
 		],
 		"station": true,
 		"BadLinks": {
@@ -557,6 +556,17 @@
 			"j:pvark"
 		]
 	},
+	"j:wiv": {
+		"x": -1117,
+		"y": 24,
+		"z": 5110,
+		"switch": true,
+		"links": [
+			"icenia",
+			"westminster",
+			"vinland"
+		]
+	},
 	"j:kal": {
 		"x": 4217,
 		"y": 12,
@@ -876,9 +886,9 @@
 		"description": "Features a very complicated NonCompliantSwitch. Don't think about it too hard.",
 		"x": 414,
 		"z": 6602,
-		"advisory": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI",
+		"advisory": "Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI. Departing to icenia may work.",
 		"links": [
-			"icenia",
+			"j:wiv",
 			"j:knot"
 		]
 	},
@@ -976,8 +986,8 @@
 		"z": 5100,
 		"links": [
 			"j:pi",
+			"j:wiv",
 			"0,0",
-			"icenia",
 			"imc"
 		]
 	},
