@@ -1,0 +1,12 @@
+description = "Gigachadtopia station"
+
+x = -1426
+y = 5
+z = -5765
+
+station = true
+
+links = [
+ 'coe',
+ 'j:coe:west'
+]

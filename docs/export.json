@@ -143,7 +143,7 @@
 			"j:coe:south",
 			"j:coe:east",
 			"j:coe:north",
-			"j:coe:west",
+			"giga",
 			"j:ann",
 			"lexington"
 		]
@@ -325,6 +325,17 @@
 			"crowsroost"
 		]
 	},
+	"giga": {
+		"description": "Gigachadtopia station",
+		"x": -1426,
+		"y": 5,
+		"z": -5765,
+		"station": true,
+		"links": [
+			"coe",
+			"j:coe:west"
+		]
+	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
 		"x": 380,
@@ -414,7 +425,7 @@
 		"z": -5765,
 		"switch": true,
 		"links": [
-			"coe",
+			"giga",
 			"valyria",
 			"j:gntv"
 		]
