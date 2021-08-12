@@ -561,7 +561,7 @@
 		"links": [
 			"giga",
 			"valyria",
-			"j:gntv"
+			"j:bwy"
 		]
 	},
 	"j:pmts": {
@@ -676,7 +676,7 @@
 			"genso:roe",
 			"tvtopia",
 			"gabon",
-			"j:coe:west",
+			"j:bwy",
 			"nyasaland"
 		]
 	},
@@ -775,6 +775,20 @@
 			"fortuna",
 			"pacem",
 			"forta'are"
+		]
+	},
+	"j:bwy": {
+		"x": -2632,
+		"y": 12,
+		"z": -3300,
+		"switch": true,
+		"links": [
+			"j:gntv",
+			"j:coe:west",
+			"kalingrad",
+			"bloom",
+			"varkonia",
+			"high_velothi"
 		]
 	},
 	"j:pnro": {
@@ -1165,6 +1179,14 @@
 			"j:cabaleast"
 		]
 	},
+	"kalingrad": {
+		"x": -11618,
+		"z": -3299,
+		"advisory": "Doesn't have a true rail station. You will be thrown off the rail into a short fall into bedrock. Waypoint your rail if you don't want to get lost",
+		"links": [
+			"j:bwy"
+		]
+	},
 	"iria:desert": {
 		"x": 8973,
 		"y": 1,
@@ -1494,6 +1516,14 @@
 			"j:knot"
 		]
 	},
+	"high_velothi": {
+		"x": -2639,
+		"y": 12,
+		"z": -3575,
+		"links": [
+			"j:bwy"
+		]
+	},
 	"hiyo'mek": {
 		"x": 447,
 		"y": 12,
@@ -1554,7 +1584,8 @@
 		"z": -2769,
 		"links": [
 			"j:pvark",
-			"j:iskv"
+			"j:iskv",
+			"j:bwy"
 		]
 	},
 	"socalist_ruler": {
@@ -1628,6 +1659,7 @@
 		"x": -2228,
 		"z": -2577,
 		"links": [
+			"j:bwy",
 			"icenia",
 			"imc",
 			"genso:roe"
