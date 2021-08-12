@@ -1,0 +1,11 @@
+x = 5083
+y = 5
+z = -381
+
+switch = true
+
+links = [
+ 'j:o',
+ 'islaoccidental',
+ 'vesteria',
+]
