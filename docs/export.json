@@ -334,7 +334,7 @@
 		"z": -1321,
 		"station": true,
 		"links": [
-			"j:o",
+			"j:ves",
 			"j:low",
 			"crowsroost"
 		]
@@ -706,6 +706,17 @@
 			"j:lazuli": "entrana.to"
 		}
 	},
+	"j:ves": {
+		"x": 5083,
+		"y": 5,
+		"z": -381,
+		"switch": true,
+		"links": [
+			"j:o",
+			"islaoccidental",
+			"vesteria"
+		]
+	},
 	"j:kal": {
 		"x": 4217,
 		"y": 12,
@@ -846,7 +857,7 @@
 		"links": [
 			"j:pbnj",
 			"j:ppcc",
-			"islaoccidental"
+			"j:ves"
 		]
 	},
 	"j:po": {
@@ -1505,6 +1516,14 @@
 		"z": 637,
 		"links": [
 			"j:kal"
+		]
+	},
+	"vesteria": {
+		"x": 5375,
+		"y": 10,
+		"z": -381,
+		"links": [
+			"j:ves"
 		]
 	},
 	"wayrest": {
