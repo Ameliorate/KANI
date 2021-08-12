@@ -1,0 +1,15 @@
+x = 8706
+y = 11
+z = 4720
+
+switch = true
+
+links = [
+ 'j:flathell',
+ 'j:vc',
+ 'caledonia',
+]
+
+[BadLinks]
+'j:flathell' = 'mush.to'
+'j:vc' = 'entrana.tob'

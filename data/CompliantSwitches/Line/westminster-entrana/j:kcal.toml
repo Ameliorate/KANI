@@ -1,0 +1,15 @@
+x = 4766
+y = 4
+z = 4743
+
+switch = true
+
+links = [
+ 'entrana',
+ 'j:pash',
+ 'caledonia',
+]
+
+[BadLinks]
+'entrana' = 'entrana.to entrana'
+'j:pash' = 'westminster.to'

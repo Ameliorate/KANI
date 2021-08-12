@@ -1,0 +1,9 @@
+x = 7503
+y = 1
+z = 7500
+
+description = "Lazulicorp bunker"
+
+links = [
+ 'j:lohq',
+]

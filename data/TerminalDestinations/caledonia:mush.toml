@@ -1,0 +1,10 @@
+x = 9499
+y = 11
+z = 7695
+
+links = [
+ 'j:flathell'
+]
+
+[BadLinks]
+'j:flathell' = 'entrana.tob'

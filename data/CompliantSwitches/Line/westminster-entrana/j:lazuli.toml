@@ -1,0 +1,15 @@
+x = 1157
+y = 4
+z = 5113
+
+switch = true
+
+links = [
+ 'j:lohq',
+ 'j:wiv',
+ 'lazulitower',
+]
+
+[BadLinks]
+'j:lohq' = 'entrana.to'
+'j:wiv' = 'westminster.to j:wiv'

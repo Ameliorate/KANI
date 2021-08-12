@@ -1,0 +1,15 @@
+x = 8706
+y = 11
+z = 7054
+
+switch = true
+
+links = [
+ 'j:mcal',
+ 'caledonia:mush',
+ 'caledonia:flathell',
+]
+
+[BadLinks]
+'caledonia:mush' = 'mush.to caledonia:mush'
+'j:mcal' = 'entrana.tob'

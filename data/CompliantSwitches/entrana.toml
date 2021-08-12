@@ -1,0 +1,15 @@
+x = 8356
+y = 1
+z = 4747
+
+station = true
+
+links = [
+ 'j:cdm',
+ 'j:kcal',
+ 'u3p',
+]
+
+[BadLinks]
+'j:cdm' = 'mush.to'
+'j:kcal' = 'westminster.to'

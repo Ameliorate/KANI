@@ -1,0 +1,15 @@
+x = 8706
+y = 1
+z = 4744
+
+switch = true
+
+links = [
+ 'j:mcal',
+ 'j:cdm',
+ 'ventura',
+]
+
+[BadLinks]
+'j:mcal' = 'mush.to'
+'j:cdm' = 'entrana.tob'

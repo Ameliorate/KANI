@@ -1,0 +1,15 @@
+x = 4368
+y = 3
+z = 4743
+
+switch = true
+
+links = [
+ 'j:kcal',
+ 'j:lohq',
+ 'ashelor',
+]
+
+[BadLinks]
+'j:kcal' = 'entrana.to'
+'j:lohq' = 'westminster.to'
