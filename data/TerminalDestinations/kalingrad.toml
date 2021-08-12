@@ -1,0 +1,8 @@
+x = -11618
+z = -3299
+
+advisory = "Doesn't have a true rail station. You will be thrown off the rail into a short fall into bedrock. Waypoint your rail if you don't want to get lost"
+
+links = [
+ 'j:bwy',
+]
