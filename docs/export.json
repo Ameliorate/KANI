@@ -203,6 +203,21 @@
 			"j:its": "its"
 		}
 	},
+	"entrana": {
+		"x": 8356,
+		"y": 1,
+		"z": 4747,
+		"station": true,
+		"links": [
+			"j:cdm",
+			"j:kcal",
+			"u3p"
+		],
+		"BadLinks": {
+			"j:cdm": "mush.to",
+			"j:kcal": "westminster.to"
+		}
+	},
 	"arstotzka": {
 		"x": 6818,
 		"y": 59,
@@ -334,6 +349,126 @@
 			"coe",
 			"j:coe:west"
 		]
+	},
+	"j:vc": {
+		"x": 8706,
+		"y": 1,
+		"z": 4744,
+		"switch": true,
+		"links": [
+			"j:mcal",
+			"j:cdm",
+			"ventura"
+		],
+		"BadLinks": {
+			"j:mcal": "mush.to",
+			"j:cdm": "entrana.tob"
+		}
+	},
+	"j:cdm": {
+		"x": 8669,
+		"y": 4,
+		"z": 4744,
+		"switch": true,
+		"links": [
+			"j:vc",
+			"entrana",
+			"cdm"
+		],
+		"BadLinks": {
+			"j:vc": "mush.to",
+			"entrana": "entrana.tob entrana"
+		}
+	},
+	"j:flathell": {
+		"x": 8706,
+		"y": 11,
+		"z": 7054,
+		"switch": true,
+		"links": [
+			"j:mcal",
+			"caledonia:mush",
+			"caledonia:flathell"
+		],
+		"BadLinks": {
+			"caledonia:mush": "mush.to caledonia:mush",
+			"j:mcal": "entrana.tob"
+		}
+	},
+	"j:mcal": {
+		"x": 8706,
+		"y": 11,
+		"z": 4720,
+		"switch": true,
+		"links": [
+			"j:flathell",
+			"j:vc",
+			"caledonia"
+		],
+		"BadLinks": {
+			"j:flathell": "mush.to",
+			"j:vc": "entrana.tob"
+		}
+	},
+	"j:lazuli": {
+		"x": 1157,
+		"y": 4,
+		"z": 5113,
+		"switch": true,
+		"links": [
+			"j:lohq",
+			"j:wiv",
+			"lazulitower"
+		],
+		"BadLinks": {
+			"j:lohq": "entrana.to",
+			"j:wiv": "westminster.to j:wiv"
+		}
+	},
+	"j:kcal": {
+		"x": 4766,
+		"y": 4,
+		"z": 4743,
+		"switch": true,
+		"links": [
+			"entrana",
+			"j:pash",
+			"caledonia"
+		],
+		"BadLinks": {
+			"entrana": "entrana.to entrana",
+			"j:pash": "westminster.to"
+		}
+	},
+	"j:lohq": {
+		"x": 2274,
+		"y": 3,
+		"z": 5113,
+		"switch": true,
+		"links": [
+			"j:pash",
+			"j:lazuli",
+			"lohq"
+		],
+		"BadLinks": {
+			"j:pash": "entrana.to",
+			"j:lazuli": "westminster.to"
+		}
+	},
+	"j:pash": {
+		"x": 4368,
+		"y": 3,
+		"z": 4743,
+		"switch": true,
+		"links": [
+			"j:kcal",
+			"j:lohq",
+			"ashelor"
+		],
+		"BadLinks": {
+			"j:kcal": "entrana.to",
+			"j:lohq": "westminster.to"
+		}
 	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
@@ -562,10 +697,14 @@
 		"z": 5110,
 		"switch": true,
 		"links": [
+			"j:lazuli",
 			"icenia",
 			"westminster",
 			"vinland"
-		]
+		],
+		"BadLinks": {
+			"j:lazuli": "entrana.to"
+		}
 	},
 	"j:kal": {
 		"x": 4217,
@@ -858,6 +997,14 @@
 			"j:pp"
 		]
 	},
+	"u3p": {
+		"x": 7438,
+		"y": 3,
+		"z": 2352,
+		"links": [
+			"entrana"
+		]
+	},
 	"icenia:drippy": {
 		"x": -1500,
 		"z": -900,
@@ -890,6 +1037,14 @@
 		"links": [
 			"j:wiv",
 			"j:knot"
+		]
+	},
+	"ashelor": {
+		"x": 4367,
+		"y": 4,
+		"z": 4842,
+		"links": [
+			"j:pash"
 		]
 	},
 	"vacari": {
@@ -929,7 +1084,9 @@
 		"x": 8857,
 		"z": 553,
 		"links": [
-			"j:po"
+			"j:po",
+			"j:mcal",
+			"j:kcal"
 		]
 	},
 	"canvasblue": {
@@ -1015,6 +1172,17 @@
 		"links": [
 			"savion"
 		]
+	},
+	"caledonia:mush": {
+		"x": 9499,
+		"y": 11,
+		"z": 7695,
+		"links": [
+			"j:flathell"
+		],
+		"BadLinks": {
+			"j:flathell": "entrana.tob"
+		}
 	},
 	"coventhia": {
 		"x": -4346,
@@ -1105,6 +1273,30 @@
 		"z": 5333,
 		"links": [
 			"j:tuff"
+		]
+	},
+	"ventura": {
+		"x": 8724,
+		"y": 1,
+		"z": 4744,
+		"links": [
+			"j:vc"
+		]
+	},
+	"caledonia:flathell": {
+		"x": 8710,
+		"y": 11,
+		"z": 7054,
+		"links": [
+			"j:flathell"
+		]
+	},
+	"cdm": {
+		"x": 8669,
+		"y": 12,
+		"z": 5235,
+		"links": [
+			"j:cdm"
 		]
 	},
 	"hjaltland": {
@@ -1218,6 +1410,14 @@
 		"z": -3598,
 		"links": [
 			"nyasaland"
+		]
+	},
+	"lazulitower": {
+		"x": -5344,
+		"y": 1,
+		"z": 2403,
+		"links": [
+			"j:lazuli"
 		]
 	},
 	"tvtopia": {
@@ -1447,6 +1647,15 @@
 		"z": -744,
 		"links": [
 			"icenia"
+		]
+	},
+	"lohq": {
+		"x": 7503,
+		"y": 1,
+		"z": 7500,
+		"description": "Lazulicorp bunker",
+		"links": [
+			"j:lohq"
 		]
 	},
 	"its:qbipfb": {
