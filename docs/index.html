@@ -322,7 +322,8 @@
 				let minDuration = 0;
 				let maxDuration = 0;
 				const advisories = [];
-				const pathDests = path.map((nodeName, i) => {
+				const pathDests = [];
+				path.forEach((nodeName, i) => {
 					if (graphNodes[nodeName].advisory) {
 						advisories.push(graphNodes[nodeName].advisory);
 					}
@@ -332,7 +333,12 @@
 						maxDuration += taxicab(prev, graphNodes[nodeName]) / travelSpeedMps;
 					}
 					const badLinks = (prev || {}).BadLinks || {};
-					return badLinks[nodeName] || nodeName;
+					const newDests = (badLinks[nodeName] || nodeName).split(" ");
+					for (const dest of newDests) {
+						if (pathDests.indexOf(dest) === -1) {
+							pathDests.push(dest);
+						}
+					}
 				});
 				const lastNodeName = path[path.length - 1];
 				if (graphNodes[lastNodeName].station) {
