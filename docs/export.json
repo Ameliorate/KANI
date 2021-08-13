@@ -428,12 +428,41 @@
 		"switch": true,
 		"links": [
 			"j:lohq",
-			"j:wiv",
+			"j:pwiv",
 			"lazulitower"
 		],
 		"BadLinks": {
 			"j:lohq": "entrana.to",
-			"j:wiv": "westminster.to j:wiv"
+			"j:pwiv": "westminster.to"
+		}
+	},
+	"j:pnyc": {
+		"x": -4902,
+		"y": 1,
+		"z": 5001,
+		"switch": true,
+		"links": [
+			"j:why",
+			"j:hits_cwby"
+		],
+		"BadLinks": {
+			"j:why": "entrana.to",
+			"j:": "westminster.to"
+		}
+	},
+	"j:hits_cwby": {
+		"x": -6968,
+		"y": 3,
+		"z": 5001,
+		"switch": true,
+		"links": [
+			"j:pnyc",
+			"j:hits_cic",
+			"westminster"
+		],
+		"BadLinks": {
+			"j:pnyc": "entrana.to",
+			"westminster": "westminster.to westminster"
 		}
 	},
 	"j:kcal": {
@@ -449,6 +478,21 @@
 		"BadLinks": {
 			"entrana": "entrana.to entrana",
 			"j:pash": "westminster.to"
+		}
+	},
+	"j:suwa": {
+		"x": -3743,
+		"y": 3,
+		"z": 5113,
+		"switch": true,
+		"links": [
+			"j:pwiv",
+			"j:why",
+			"sunrise_warden"
+		],
+		"BadLinks": {
+			"j:pwiv": "entrana.to",
+			"j:why": "westminster.to"
 		}
 	},
 	"j:lohq": {
@@ -479,6 +523,36 @@
 		"BadLinks": {
 			"j:kcal": "entrana.to",
 			"j:lohq": "westminster.to"
+		}
+	},
+	"j:pwiv": {
+		"x": -1143,
+		"y": 3,
+		"z": 5113,
+		"switch": true,
+		"links": [
+			"j:lazuli",
+			"j:suwa",
+			"j:wiv"
+		],
+		"BadLinks": {
+			"j:lazuli": "entrana.to",
+			"j:suwa": "westminster.to"
+		}
+	},
+	"j:why": {
+		"x": -4200,
+		"y": 1,
+		"z": 5001,
+		"switch": true,
+		"links": [
+			"j:suwa",
+			"j:pnyc",
+			"literally_where"
+		],
+		"BadLinks": {
+			"j:suwa": "entrana.to",
+			"j:pnyc": "westminster.to"
 		}
 	},
 	"j:hits_hwar": {
@@ -594,6 +668,7 @@
 		"switch": true,
 		"links": [
 			"j:hits_hwar",
+			"j:hits_cwby",
 			"etherium:railto",
 			"southshire",
 			"westminster"
@@ -735,14 +810,10 @@
 		"z": 5110,
 		"switch": true,
 		"links": [
-			"j:lazuli",
+			"j:pwiv",
 			"icenia",
-			"westminster",
 			"vinland"
-		],
-		"BadLinks": {
-			"j:lazuli": "entrana.to"
-		}
+		]
 	},
 	"j:ves": {
 		"x": 5083,
@@ -1127,6 +1198,15 @@
 			"savion"
 		]
 	},
+	"literally_where": {
+		"x": -3812,
+		"y": 1,
+		"z": 5001,
+		"description": "Random manual junction between someone's nether base, and an unfinished rail.",
+		"links": [
+			"j:why"
+		]
+	},
 	"lriln'kriavnya": {
 		"x": -108,
 		"y": 4,
@@ -1215,8 +1295,8 @@
 		"z": 5100,
 		"links": [
 			"j:pi",
-			"j:wiv",
 			"j:hits_cic",
+			"j:hits_cwby",
 			"0,0",
 			"imc"
 		]
@@ -1315,6 +1395,14 @@
 		"z": 0,
 		"links": [
 			"j:pkallos"
+		]
+	},
+	"sunrise_warden": {
+		"x": -3739,
+		"y": 2,
+		"z": 5119,
+		"links": [
+			"j:suwa"
 		]
 	},
 	"besia": {
