@@ -1,0 +1,13 @@
+x = -4624
+y = 12
+z = 9177
+
+switch = true
+
+links = [
+ 'j:hits_cic',
+ 'hjaltland',
+ 'resimere',
+ 'airhaven',
+]
+

@@ -1,0 +1,16 @@
+x = -6780
+y = 12
+z = 7022
+
+switch = true
+
+links = [
+ 'j:hits_hwar',
+ 'etherium:railto',
+ 'southshire',
+ 'westminster',
+#'nyc', # Waiting on NYC underground station renovation please
+]
+
+[BadLinks]
+'etherium:railto' = 'etherium'

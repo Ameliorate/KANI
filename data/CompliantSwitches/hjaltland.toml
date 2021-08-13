@@ -1,0 +1,11 @@
+x = -2944
+y = 12
+z = 10793
+
+station = true
+
+links = [
+ 'j:pp',
+ 'j:hits_hwar',
+ 'pacem',
+]

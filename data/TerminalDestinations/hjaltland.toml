@@ -1,8 +1,0 @@
-description = "Vault nation of Hjaltland"
-
-x = -2941
-z = 10794
-
-links = [
- 'j:pp',
-]
