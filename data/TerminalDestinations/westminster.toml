@@ -10,3 +10,6 @@ links = [
   "0,0",
   "imc",
 ]
+
+[BadLinks]
+'j:hits_cwby' = 'entrana.to'
