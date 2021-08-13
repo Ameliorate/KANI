@@ -1299,7 +1299,10 @@
 			"j:hits_cwby",
 			"0,0",
 			"imc"
-		]
+		],
+		"BadLinks": {
+			"j:hits_cwby": "entrana.to"
+		}
 	},
 	"mir": {
 		"description": "Vault Nation of Mir",
