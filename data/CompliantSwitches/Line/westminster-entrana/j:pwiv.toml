@@ -1,0 +1,15 @@
+x = -1143
+y = 3
+z = 5113
+
+switch = true
+
+links = [
+ 'j:lazuli',
+ 'j:suwa',
+ 'j:wiv',
+]
+
+[BadLinks]
+'j:lazuli' = 'entrana.to'
+'j:suwa' = 'westminster.to'

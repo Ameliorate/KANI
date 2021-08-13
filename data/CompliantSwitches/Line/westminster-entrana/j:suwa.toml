@@ -1,0 +1,15 @@
+x = -3743
+y = 3
+z = 5113
+
+switch = true
+
+links = [
+ 'j:pwiv',
+ 'j:why',
+ 'sunrise_warden',
+]
+
+[BadLinks]
+'j:pwiv' = 'entrana.to'
+'j:why' = 'westminster.to'

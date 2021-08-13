@@ -5,8 +5,8 @@ z = 5100
 
 links = [
   "j:pi",
-  "j:wiv",
   "j:hits_cic",
+  "j:hits_cwby",
   "0,0",
   "imc",
 ]

@@ -1,0 +1,9 @@
+x = -3812
+y = 1
+z = 5001
+
+description = "Random manual junction between someone's nether base, and an unfinished rail."
+
+links = [
+ 'j:why',
+]

@@ -6,6 +6,7 @@ switch = true
 
 links = [
  'j:hits_hwar',
+ 'j:hits_cwby',
  'etherium:railto',
  'southshire',
  'westminster',

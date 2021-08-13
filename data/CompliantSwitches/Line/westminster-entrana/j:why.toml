@@ -1,0 +1,15 @@
+x = -4200
+y = 1
+z = 5001
+
+switch = true
+
+links = [
+ 'j:suwa',
+ 'j:pnyc',
+ 'literally_where',
+]
+
+[BadLinks]
+'j:suwa' = 'entrana.to'
+'j:pnyc' = 'westminster.to'

@@ -5,11 +5,7 @@ z = 5110
 switch = true
 
 links = [
- 'j:lazuli',
+ 'j:pwiv',
  'icenia',
- 'westminster',
  'vinland',
 ]
-
-[BadLinks]
-'j:lazuli' = 'entrana.to'
