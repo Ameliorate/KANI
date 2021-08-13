@@ -218,6 +218,17 @@
 			"j:kcal": "westminster.to"
 		}
 	},
+	"hjaltland": {
+		"x": -2944,
+		"y": 12,
+		"z": 10793,
+		"station": true,
+		"links": [
+			"j:pp",
+			"j:hits_hwar",
+			"pacem"
+		]
+	},
 	"arstotzka": {
 		"x": 6818,
 		"y": 59,
@@ -470,6 +481,18 @@
 			"j:lohq": "westminster.to"
 		}
 	},
+	"j:hits_hwar": {
+		"x": -4624,
+		"y": 12,
+		"z": 9177,
+		"switch": true,
+		"links": [
+			"j:hits_cic",
+			"hjaltland",
+			"resimere",
+			"airhaven"
+		]
+	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
 		"x": 380,
@@ -563,6 +586,21 @@
 			"valyria",
 			"j:bwy"
 		]
+	},
+	"j:hits_cic": {
+		"x": -6780,
+		"y": 12,
+		"z": 7022,
+		"switch": true,
+		"links": [
+			"j:hits_hwar",
+			"etherium:railto",
+			"southshire",
+			"westminster"
+		],
+		"BadLinks": {
+			"etherium:railto": "etherium"
+		}
 	},
 	"j:pmts": {
 		"x": -2516,
@@ -1019,7 +1057,8 @@
 		"x": -540,
 		"z": 9800,
 		"links": [
-			"j:pp"
+			"j:pp",
+			"hjaltland"
 		]
 	},
 	"u3p": {
@@ -1104,6 +1143,14 @@
 			"j:mumm"
 		]
 	},
+	"airhaven": {
+		"x": -4618,
+		"y": 12,
+		"z": 9172,
+		"links": [
+			"j:hits_hwar"
+		]
+	},
 	"caledonia": {
 		"description": "Active city near mir, featuring the securemall.",
 		"x": 8857,
@@ -1169,6 +1216,7 @@
 		"links": [
 			"j:pi",
 			"j:wiv",
+			"j:hits_cic",
 			"0,0",
 			"imc"
 		]
@@ -1332,14 +1380,6 @@
 			"j:cdm"
 		]
 	},
-	"hjaltland": {
-		"description": "Vault nation of Hjaltland",
-		"x": -2941,
-		"z": 10794,
-		"links": [
-			"j:pp"
-		]
-	},
 	"threelakes": {
 		"x": 3057,
 		"y": 11,
@@ -1453,6 +1493,14 @@
 			"j:lazuli"
 		]
 	},
+	"etherium:railto": {
+		"x": -6920,
+		"y": 11,
+		"z": 7027,
+		"links": [
+			"j:hits_cic"
+		]
+	},
 	"tvtopia": {
 		"x": -504,
 		"y": 11,
@@ -1483,6 +1531,14 @@
 		"links": [
 			"j:cabalwest",
 			"icenia"
+		]
+	},
+	"southshire": {
+		"x": -7749,
+		"y": 106,
+		"z": 5935,
+		"links": [
+			"j:hits_cic"
 		]
 	},
 	"icenia:atlantica": {
@@ -1637,6 +1693,14 @@
 		"links": [
 			"j:gensig",
 			"genso:taozi"
+		]
+	},
+	"resimere": {
+		"x": -4937,
+		"y": 2,
+		"z": 9433,
+		"links": [
+			"j:hits_hwar"
 		]
 	},
 	"jevoghnya": {
