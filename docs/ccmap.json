@@ -187,7 +187,7 @@
 {"id":"ccmap:kani/node/vesteria","name":"Vesteria (KANI)","type":"TerminalDestinations","x":5375,"y":10,"z":-381},
 {"advisory":"Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI. Departing to icenia may work.","description":"Features a very complicated NonCompliantSwitch. Don't think about it too hard.","id":"ccmap:kani/node/vinland","name":"Vinland (KANI)","type":"TerminalDestinations","x":414,"z":6602},
 {"description":"Station under a fancy aztek build in a swamp. Now owned by Yoahtl.","id":"ccmap:kani/node/wayrest","name":"Wayrest (KANI)","type":"TerminalDestinations","x":1277,"z":145},
-{"description":"City of Westminster","id":"ccmap:kani/node/westminster","name":"Westminster (KANI)","type":"TerminalDestinations","x":-7120,"z":5100},
+{"BadLinks":"j:hits_cwby: entrana.to, ","description":"City of Westminster","id":"ccmap:kani/node/westminster","name":"Westminster (KANI)","type":"TerminalDestinations","x":-7120,"z":5100},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/wnsta","name":"Wnsta (KANI)","type":"TerminalDestinations","x":-1867,"y":5,"z":-1336},
 {"distance":380,"id":"ccmap:kani/link/0,0/j:knot","line":[[[0,0],[380,0]]],"name":"0,0 - J:Knot (KANI)","type":"link"},
 {"distance":1405,"id":"ccmap:kani/link/0,0/j:picenia","line":[[[0,0],[-1405,0]]],"name":"0,0 - J:Picenia (KANI)","type":"link"},
