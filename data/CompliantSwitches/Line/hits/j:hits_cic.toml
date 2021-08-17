@@ -6,12 +6,12 @@ switch = true
 
 links = [
  'j:hits_hwar',
- 'j:hits_cwby',
+ 'j:hits_wm',
  'etherium:railto',
  'southshire',
- 'westminster',
 #'nyc', # Waiting on NYC underground station renovation please
 ]
 
 [BadLinks]
 'etherium:railto' = 'etherium'
+'j:hits_wm' = 'hits:north'

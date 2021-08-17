@@ -1,0 +1,13 @@
+x = -7000
+y = 12
+z = 5120
+
+switch = true
+
+links = [
+ 'westminster',
+ 'j:hits_cic',
+]
+
+[BadLinks]
+'j:hits_cic' = 'hits:south'

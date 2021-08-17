@@ -6,11 +6,11 @@ switch = true
 
 links = [
  'j:why',
- 'j:hits_cwby',
+ 'westminster',
 #'nyc', # Will be enabled when NYC station works
 ]
 
 [BadLinks]
 'j:why' = 'entrana.to'
-'j:' = 'westminster.to'
+'westminster' = 'westminster.to westminster'
 

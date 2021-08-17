@@ -1,0 +1,25 @@
+description = "City of Westminster"
+
+x = -7120
+z = 5100
+
+station = true
+
+links = [
+ 'j:pi',
+ 'j:hits_wm',
+ 'j:pnyc',
+ '0,0',
+ 'imc',
+ 'southshire',
+ 'meditat',
+ 'hexcorp',
+ 'taliesin',
+ 'strassburg',
+ 'arran',
+ 'spqr',
+ 'albion',
+]
+
+[BadLinks]
+'j:pnyc' = 'entrana.to'
