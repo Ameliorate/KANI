@@ -1,0 +1,11 @@
+x = -8417
+y = 80
+z = 4247
+
+switch = true
+
+links = [
+ 'j:e15',
+ 'j:twink',
+ 'meditat',
+]

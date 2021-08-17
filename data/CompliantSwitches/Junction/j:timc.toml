@@ -1,0 +1,12 @@
+x = -8238
+y = 121
+z = 3228
+
+switch = true
+
+links = [
+ 'j:e15',
+ 'imc',
+ 'imc:top',
+ 'imc:farms',
+]

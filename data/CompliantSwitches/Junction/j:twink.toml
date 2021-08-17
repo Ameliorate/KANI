@@ -1,0 +1,12 @@
+x = -8289
+y = 80
+z = 4413
+
+switch = true
+
+links = [
+ 'j:met',
+ 'j:pell',
+#'westminster', # WIP Rail
+#'arran:northisland', # WIP rail
+]

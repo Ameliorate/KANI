@@ -1,0 +1,11 @@
+x = -8270
+y = 17
+z = 5121
+
+switch = true
+
+links = [
+ 'j:twink',
+ 'j:nell',
+ 'arran',
+]

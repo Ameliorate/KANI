@@ -1,0 +1,11 @@
+x = -8440
+y = 121
+z = 3594
+
+switch = true
+
+links = [
+ 'j:timc',
+ 'j:met',
+#'hexcorp', # WIP Rail, currently hexcorp.wip
+]
