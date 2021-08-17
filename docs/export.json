@@ -706,7 +706,6 @@
 		"switch": true,
 		"links": [
 			"j:omts",
-			"ellen",
 			"j:pvark",
 			"j:picenia"
 		]
@@ -1764,9 +1763,9 @@
 	},
 	"ellen": {
 		"x": -9768,
-		"z": 6046,
+		"y": 11,
+		"z": 6051,
 		"links": [
-			"j:pmts",
 			"imc"
 		]
 	},
