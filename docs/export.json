@@ -76,8 +76,9 @@
 	},
 	"westminster": {
 		"description": "City of Westminster",
-		"x": -7120,
-		"z": 5100,
+		"x": -7143,
+		"y": 93,
+		"z": 5114,
 		"station": true,
 		"links": [
 			"j:pi",
