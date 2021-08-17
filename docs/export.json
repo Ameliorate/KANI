@@ -306,8 +306,8 @@
 		"contact": "andrea.shp#0352 474636313191120906",
 		"links": [
 			"j:pi",
+			"j:timc",
 			"bloom",
-			"ellen",
 			"westminster",
 			"mta",
 			"spqr"
@@ -665,6 +665,18 @@
 			"savion"
 		]
 	},
+	"j:timc": {
+		"x": -8238,
+		"y": 121,
+		"z": 3228,
+		"switch": true,
+		"links": [
+			"j:e15",
+			"imc",
+			"imc:top",
+			"imc:farms"
+		]
+	},
 	"j:pbnj": {
 		"x": 6300,
 		"y": 13,
@@ -674,6 +686,17 @@
 			"j:o",
 			"j:po",
 			"besia"
+		]
+	},
+	"j:nell": {
+		"x": -9732,
+		"y": 26,
+		"z": 5270,
+		"switch": true,
+		"links": [
+			"j:pell",
+			"ellen",
+			"nymph"
 		]
 	},
 	"j:coegon": {
@@ -837,6 +860,17 @@
 			"vinland"
 		]
 	},
+	"j:pell": {
+		"x": -8270,
+		"y": 17,
+		"z": 5121,
+		"switch": true,
+		"links": [
+			"j:twink",
+			"j:nell",
+			"arran"
+		]
+	},
 	"j:ves": {
 		"x": 5083,
 		"y": 5,
@@ -884,6 +918,16 @@
 			"cape_cocoa"
 		]
 	},
+	"j:e15": {
+		"x": -8440,
+		"y": 121,
+		"z": 3594,
+		"switch": true,
+		"links": [
+			"j:timc",
+			"j:met"
+		]
+	},
 	"j:mumm": {
 		"x": 3131,
 		"y": 1,
@@ -904,6 +948,16 @@
 			"j:low",
 			"arstotzka",
 			"lambat"
+		]
+	},
+	"j:twink": {
+		"x": -8289,
+		"y": 80,
+		"z": 4413,
+		"switch": true,
+		"links": [
+			"j:met",
+			"j:pell"
 		]
 	},
 	"j:pp": {
@@ -1126,6 +1180,17 @@
 			"j:coegon"
 		]
 	},
+	"j:met": {
+		"x": -8417,
+		"y": 80,
+		"z": 4247,
+		"switch": true,
+		"links": [
+			"j:e15",
+			"j:twink",
+			"meditat"
+		]
+	},
 	"j:tree": {
 		"x": 6654,
 		"y": 71,
@@ -1178,6 +1243,14 @@
 			"j:cabalwest"
 		]
 	},
+	"imc:farms": {
+		"x": -8907,
+		"y": 100,
+		"z": 2902,
+		"links": [
+			"j:timc"
+		]
+	},
 	"old_sanctuary": {
 		"x": 2572,
 		"y": 9,
@@ -1199,7 +1272,8 @@
 		"y": 63,
 		"z": 5066,
 		"links": [
-			"westminster"
+			"westminster",
+			"j:pell"
 		]
 	},
 	"vinland": {
@@ -1342,6 +1416,14 @@
 		"description": "LordChiefton's Estate in Icenia",
 		"links": [
 			"j:cabaleast"
+		]
+	},
+	"imc:top": {
+		"x": -8234,
+		"y": 135,
+		"z": 3216,
+		"links": [
+			"j:timc"
 		]
 	},
 	"kalingrad": {
@@ -1738,6 +1820,14 @@
 			"j:bwy"
 		]
 	},
+	"nymph": {
+		"x": -9981,
+		"y": 26,
+		"z": 5275,
+		"links": [
+			"j:nell"
+		]
+	},
 	"hiyo'mek": {
 		"x": 447,
 		"y": 12,
@@ -1766,7 +1856,7 @@
 		"y": 11,
 		"z": 6051,
 		"links": [
-			"imc"
+			"j:nell"
 		]
 	},
 	"magnasoria": {
@@ -1863,7 +1953,8 @@
 		"y": 12,
 		"z": 4202,
 		"links": [
-			"westminster"
+			"westminster",
+			"j:met"
 		]
 	},
 	"spqr": {
