@@ -176,7 +176,7 @@
 {"description":"City of roma","id":"ccmap:kani/node/spqr","name":"Spqr (KANI)","type":"TerminalDestinations","x":-10650,"y":9,"z":-5850},
 {"description":"Station part of the RAIL CABAL","id":"ccmap:kani/node/ssta","name":"Ssta (KANI)","type":"TerminalDestinations","x":-1957,"y":2,"z":-731},
 {"id":"ccmap:kani/node/stallman","name":"Stallman (KANI)","station":true,"type":"CompliantSwitches","x":2439,"y":5,"z":-10848},
-{"id":"ccmap:kani/node/strassburg","name":"Strassburg (KANI)","type":"TerminalDestinations","x":-8694,"y":142,"z":4875},
+{"id":"ccmap:kani/node/strassburg","name":"Strassburg (KANI)","type":"TerminalDestinations","x":-6694,"y":142,"z":4875},
 {"id":"ccmap:kani/node/sunrise_warden","name":"Sunrise_Warden (KANI)","type":"TerminalDestinations","x":-3739,"y":2,"z":5119},
 {"advisory":"This station's embarking track will teleport you upwards if you're not careful.","id":"ccmap:kani/node/tabatia","name":"Tabatia (KANI)","type":"TerminalDestinations","x":6552,"y":40,"z":-2414},
 {"id":"ccmap:kani/node/taliesin","name":"Taliesin (KANI)","type":"TerminalDestinations","x":-5689,"y":79,"z":4651},
@@ -443,5 +443,5 @@
 {"distance":679,"id":"ccmap:kani/link/september/september:ocean","line":[[[-4947,2211],[-4268,2234]]],"name":"September - September:Ocean (KANI)","type":"link"},
 {"distance":1020,"id":"ccmap:kani/link/southshire/westminster","line":[[[-7749,5935],[-7143,5114]]],"name":"Southshire - Westminster (KANI)","type":"link"},
 {"distance":11511,"id":"ccmap:kani/link/spqr/westminster","line":[[[-10650,-5850],[-7143,5114]]],"name":"Spqr - Westminster (KANI)","type":"link"},
-{"distance":1569,"id":"ccmap:kani/link/strassburg/westminster","line":[[[-8694,4875],[-7143,5114]]],"name":"Strassburg - Westminster (KANI)","type":"link"},
+{"distance":508,"id":"ccmap:kani/link/strassburg/westminster","line":[[[-6694,4875],[-7143,5114]]],"name":"Strassburg - Westminster (KANI)","type":"link"},
 {"distance":1525,"id":"ccmap:kani/link/taliesin/westminster","line":[[[-5689,4651],[-7143,5114]]],"name":"Taliesin - Westminster (KANI)","type":"link"}],"info":{"version":"3.0.0-beta3"},"name":"Rails","presentations":[{"name":"Rails and Stops (KANI)","style_base":{"color":"#ff8800"},"zoom_styles":{"-2":{"name":"$name"},"-6":{"name":null}}}]}
