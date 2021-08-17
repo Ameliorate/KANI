@@ -74,6 +74,30 @@
 			"lambat"
 		]
 	},
+	"westminster": {
+		"description": "City of Westminster",
+		"x": -7120,
+		"z": 5100,
+		"station": true,
+		"links": [
+			"j:pi",
+			"j:hits_wm",
+			"j:pnyc",
+			"0,0",
+			"imc",
+			"southshire",
+			"meditat",
+			"hexcorp",
+			"taliesin",
+			"strassburg",
+			"arran",
+			"spqr",
+			"albion"
+		],
+		"BadLinks": {
+			"j:pnyc": "entrana.to"
+		}
+	},
 	"gondolin": {
 		"description": "Gondolin",
 		"x": 3845,
@@ -421,6 +445,47 @@
 			"j:vc": "entrana.tob"
 		}
 	},
+	"j:hits_hwar": {
+		"x": -4624,
+		"y": 12,
+		"z": 9177,
+		"switch": true,
+		"links": [
+			"j:hits_cic",
+			"hjaltland",
+			"resimere",
+			"airhaven"
+		]
+	},
+	"j:hits_cic": {
+		"x": -6780,
+		"y": 12,
+		"z": 7022,
+		"switch": true,
+		"links": [
+			"j:hits_hwar",
+			"j:hits_wm",
+			"etherium:railto",
+			"southshire"
+		],
+		"BadLinks": {
+			"etherium:railto": "etherium",
+			"j:hits_wm": "hits:north"
+		}
+	},
+	"j:hits_wm": {
+		"x": -7000,
+		"y": 12,
+		"z": 5120,
+		"switch": true,
+		"links": [
+			"westminster",
+			"j:hits_cic"
+		],
+		"BadLinks": {
+			"j:hits_cic": "hits:south"
+		}
+	},
 	"j:lazuli": {
 		"x": 1157,
 		"y": 4,
@@ -443,25 +508,10 @@
 		"switch": true,
 		"links": [
 			"j:why",
-			"j:hits_cwby"
-		],
-		"BadLinks": {
-			"j:why": "entrana.to",
-			"j:": "westminster.to"
-		}
-	},
-	"j:hits_cwby": {
-		"x": -6968,
-		"y": 3,
-		"z": 5001,
-		"switch": true,
-		"links": [
-			"j:pnyc",
-			"j:hits_cic",
 			"westminster"
 		],
 		"BadLinks": {
-			"j:pnyc": "entrana.to",
+			"j:why": "entrana.to",
 			"westminster": "westminster.to westminster"
 		}
 	},
@@ -554,18 +604,6 @@
 			"j:suwa": "entrana.to",
 			"j:pnyc": "westminster.to"
 		}
-	},
-	"j:hits_hwar": {
-		"x": -4624,
-		"y": 12,
-		"z": 9177,
-		"switch": true,
-		"links": [
-			"j:hits_cic",
-			"hjaltland",
-			"resimere",
-			"airhaven"
-		]
 	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
@@ -660,22 +698,6 @@
 			"valyria",
 			"j:bwy"
 		]
-	},
-	"j:hits_cic": {
-		"x": -6780,
-		"y": 12,
-		"z": 7022,
-		"switch": true,
-		"links": [
-			"j:hits_hwar",
-			"j:hits_cwby",
-			"etherium:railto",
-			"southshire",
-			"westminster"
-		],
-		"BadLinks": {
-			"etherium:railto": "etherium"
-		}
 	},
 	"j:pmts": {
 		"x": -2516,
@@ -1140,6 +1162,14 @@
 			"entrana"
 		]
 	},
+	"taliesin": {
+		"x": -5689,
+		"y": 79,
+		"z": 4651,
+		"links": [
+			"westminster"
+		]
+	},
 	"icenia:drippy": {
 		"x": -1500,
 		"z": -900,
@@ -1162,6 +1192,14 @@
 		"z": 8423,
 		"links": [
 			"j:pniyo"
+		]
+	},
+	"arran": {
+		"x": -8126,
+		"y": 63,
+		"z": 5066,
+		"links": [
+			"westminster"
 		]
 	},
 	"vinland": {
@@ -1289,21 +1327,6 @@
 			"j:tree"
 		]
 	},
-	"westminster": {
-		"description": "City of Westminster",
-		"x": -7120,
-		"z": 5100,
-		"links": [
-			"j:pi",
-			"j:hits_cic",
-			"j:hits_cwby",
-			"0,0",
-			"imc"
-		],
-		"BadLinks": {
-			"j:hits_cwby": "entrana.to"
-		}
-	},
 	"mir": {
 		"description": "Vault Nation of Mir",
 		"x": 11043,
@@ -1400,6 +1423,14 @@
 			"j:pkallos"
 		]
 	},
+	"albion": {
+		"x": -7194,
+		"y": 64,
+		"z": 3804,
+		"links": [
+			"westminster"
+		]
+	},
 	"sunrise_warden": {
 		"x": -3739,
 		"y": 2,
@@ -1469,6 +1500,14 @@
 		"z": 5235,
 		"links": [
 			"j:cdm"
+		]
+	},
+	"hexcorp": {
+		"x": -8668,
+		"y": 12,
+		"z": 3740,
+		"links": [
+			"westminster"
 		]
 	},
 	"threelakes": {
@@ -1608,6 +1647,14 @@
 			"september"
 		]
 	},
+	"strassburg": {
+		"x": -8694,
+		"y": 142,
+		"z": 4875,
+		"links": [
+			"westminster"
+		]
+	},
 	"alexandria": {
 		"x": 471,
 		"y": 12,
@@ -1629,7 +1676,8 @@
 		"y": 106,
 		"z": 5935,
 		"links": [
-			"j:hits_cic"
+			"j:hits_cic",
+			"westminster"
 		]
 	},
 	"icenia:atlantica": {
@@ -1810,6 +1858,14 @@
 			"j:tree"
 		]
 	},
+	"meditat": {
+		"x": -9193,
+		"y": 12,
+		"z": 4202,
+		"links": [
+			"westminster"
+		]
+	},
 	"spqr": {
 		"description": "City of roma",
 		"x": -10650,
@@ -1817,7 +1873,8 @@
 		"z": -5850,
 		"links": [
 			"j:iskv",
-			"imc"
+			"imc",
+			"westminster"
 		]
 	},
 	"il'olmhir": {
