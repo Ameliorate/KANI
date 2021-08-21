@@ -484,7 +484,7 @@
 			"j:hits_cic"
 		],
 		"BadLinks": {
-			"j:hits_cic": "hits:south"
+			"j:hits_cic": "hits:south j:hits_cic"
 		}
 	},
 	"j:lazuli": {
