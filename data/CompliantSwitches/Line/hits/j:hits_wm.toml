@@ -10,4 +10,4 @@ links = [
 ]
 
 [BadLinks]
-'j:hits_cic' = 'hits:south'
+'j:hits_cic' = 'hits:south j:hits_cic'
