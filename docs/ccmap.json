@@ -366,7 +366,6 @@
 {"distance":1456,"id":"ccmap:kani/link/j:hits_cic/southshire","line":[[[-6780,7022],[-7749,5935]]],"name":"J:Hits_Cic - Southshire (KANI)","type":"link"},
 {"distance":404,"id":"ccmap:kani/link/j:hits_hwar/resimere","line":[[[-4624,9177],[-4937,9433]]],"name":"J:Hits_Hwar - Resimere (KANI)","type":"link"},
 {"distance":143,"id":"ccmap:kani/link/j:hits_wm/westminster","line":[[[-7000,5120],[-7143,5114]]],"name":"J:Hits_Wm - Westminster (KANI)","type":"link"},
-{"distance":1412,"id":"ccmap:kani/link/j:icegen/j:knot","line":[[[380,-1412],[380,0]]],"name":"J:Icegen - J:Knot (KANI)","type":"link"},
 {"distance":1434,"id":"ccmap:kani/link/j:icegen/j:uroe","line":[[[380,-1412],[380,-2846]]],"name":"J:Icegen - J:Uroe (KANI)","type":"link"},
 {"distance":4351,"id":"ccmap:kani/link/j:iskv/mta","line":[[[-7500,-1325],[-6713,2955]]],"name":"J:Iskv - Mta (KANI)","type":"link"},
 {"distance":5513,"id":"ccmap:kani/link/j:iskv/spqr","line":[[[-7500,-1325],[-10650,-5850]]],"name":"J:Iskv - Spqr (KANI)","type":"link"},
