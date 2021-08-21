@@ -1,10 +1,10 @@
-x = 2439
-y = 5
-z = -10848
+x = 3855
+y = 1
+z = -10244
 
 station = true
 
 links = [
- 'j:stallman:west',
+ 'j:acadia:east',
  'j:acadia:north',
 ]

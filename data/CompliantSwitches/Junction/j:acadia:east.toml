@@ -1,0 +1,12 @@
+x = 3856
+y = 1
+z = -9809
+
+switch = true
+
+links = [
+ 'acadia',
+ 'gondolin',
+ 'kanava',
+ 'lovelace',
+]

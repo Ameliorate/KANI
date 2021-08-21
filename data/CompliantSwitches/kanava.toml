@@ -1,0 +1,9 @@
+x = 4384
+y = 2
+z = -9775
+
+station = true
+
+links = [
+ 'j:acadia:east',
+]

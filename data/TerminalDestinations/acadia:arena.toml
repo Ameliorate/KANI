@@ -1,0 +1,9 @@
+x = 3824
+y = 12
+z = -9945
+
+advisory = "Rail is not yet complete, dumps you off in a tunnel to acadia's arena."
+
+links = [
+ 'acadia',
+]

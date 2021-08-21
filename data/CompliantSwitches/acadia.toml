@@ -1,12 +1,11 @@
-description = "Acadia"
-
-x = 3846
-y = 1
-z = -10273
+x = 3552
+y = 21
+z = -9887
 
 station = true
 
 links = [
- 'stallman',
- 'gondolin'
+ 'j:acadia:north',
+ 'j:acadia:east',
+ 'acadia:arena',
 ]

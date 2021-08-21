@@ -9,5 +9,5 @@ station = true
 links = [
  'j:coe:north',
  'j:gonem',
- 'acadia'
+ 'j:acadia:east',
 ]
