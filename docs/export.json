@@ -10,6 +10,15 @@
 			"noname"
 		]
 	},
+	"kanava": {
+		"x": 4384,
+		"y": 2,
+		"z": -9775,
+		"station": true,
+		"links": [
+			"j:acadia:east"
+		]
+	},
 	"september": {
 		"x": -4947,
 		"y": 8,
@@ -108,7 +117,7 @@
 		"links": [
 			"j:coe:north",
 			"j:gonem",
-			"acadia"
+			"j:acadia:east"
 		]
 	},
 	"genso:roe": {
@@ -254,6 +263,16 @@
 			"pacem"
 		]
 	},
+	"lovelace": {
+		"x": 3855,
+		"y": 1,
+		"z": -10244,
+		"station": true,
+		"links": [
+			"j:acadia:east",
+			"j:acadia:north"
+		]
+	},
 	"arstotzka": {
 		"x": 6818,
 		"y": 59,
@@ -267,14 +286,14 @@
 		]
 	},
 	"acadia": {
-		"description": "Acadia",
-		"x": 3846,
-		"y": 1,
-		"z": -10273,
+		"x": 3552,
+		"y": 21,
+		"z": -9887,
 		"station": true,
 		"links": [
-			"stallman",
-			"gondolin"
+			"j:acadia:north",
+			"j:acadia:east",
+			"acadia:arena"
 		]
 	},
 	"lenin_isle": {
@@ -320,7 +339,7 @@
 		"station": true,
 		"links": [
 			"j:stallman:west",
-			"acadia"
+			"j:acadia:north"
 		]
 	},
 	"cape_cocoa": {
@@ -606,6 +625,17 @@
 			"j:pnyc": "westminster.to"
 		}
 	},
+	"j:acadia:north": {
+		"x": 3567,
+		"y": 1,
+		"z": -10279,
+		"switch": true,
+		"links": [
+			"acadia",
+			"lovelace",
+			"stallman"
+		]
+	},
 	"j:uroe": {
 		"description": "Switch located directly under gensokyo:roe",
 		"x": 380,
@@ -835,6 +865,18 @@
 			"gabon",
 			"j:bwy",
 			"nyasaland"
+		]
+	},
+	"j:acadia:east": {
+		"x": 3856,
+		"y": 1,
+		"z": -9809,
+		"switch": true,
+		"links": [
+			"acadia",
+			"gondolin",
+			"kanava",
+			"lovelace"
 		]
 	},
 	"j:pkallos": {
@@ -1879,6 +1921,15 @@
 		"z": 0,
 		"links": [
 			"j:knot"
+		]
+	},
+	"acadia:arena": {
+		"x": 3824,
+		"y": 12,
+		"z": -9945,
+		"advisory": "Rail is not yet complete, dumps you off in a tunnel to acadia's arena.",
+		"links": [
+			"acadia"
 		]
 	},
 	"varkonia": {
