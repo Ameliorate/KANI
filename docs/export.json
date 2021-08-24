@@ -486,7 +486,8 @@
 			"j:hits_hwar",
 			"j:hits_wm",
 			"etherium:railto",
-			"southshire"
+			"southshire",
+			"nyc"
 		],
 		"BadLinks": {
 			"etherium:railto": "etherium",
@@ -1332,6 +1333,14 @@
 		"z": 4842,
 		"links": [
 			"j:pash"
+		]
+	},
+	"nyc": {
+		"x": -4996,
+		"y": 11,
+		"z": 7027,
+		"links": [
+			"j:hits_cic"
 		]
 	},
 	"vacari": {
