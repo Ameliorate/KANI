@@ -171,7 +171,7 @@
 {"id":"ccmap:kani/node/noname","name":"Noname (KANI)","type":"TerminalDestinations","x":4988,"y":12,"z":-1997},
 {"id":"ccmap:kani/node/nro'meagh","name":"Nro'Meagh (KANI)","type":"TerminalDestinations","x":-348,"y":122,"z":8364},
 {"id":"ccmap:kani/node/nyasaland","name":"Nyasaland (KANI)","station":true,"type":"CompliantSwitches","x":4061,"y":25,"z":-4074},
-{"id":"ccmap:kani/node/nyc","name":"Nyc (KANI)","type":"TerminalDestinations","x":-4996,"y":11,"z":7027},
+{"advisory":"NYC's rail station is pretty incomplete and may be a bit difficult to leave. There is a rail to the surface at -4990 7006, and a rail into the incomplete underground station at -4994 6865","id":"ccmap:kani/node/nyc","name":"Nyc (KANI)","type":"TerminalDestinations","x":-4996,"y":11,"z":7027},
 {"id":"ccmap:kani/node/nymph","name":"Nymph (KANI)","type":"TerminalDestinations","x":-9981,"y":26,"z":5275},
 {"id":"ccmap:kani/node/oasis","name":"Oasis (KANI)","station":true,"type":"CompliantSwitches","x":7009,"y":64,"z":-715},
 {"id":"ccmap:kani/node/old_sanctuary","name":"Old_Sanctuary (KANI)","type":"TerminalDestinations","x":2572,"y":9,"z":-2266},
