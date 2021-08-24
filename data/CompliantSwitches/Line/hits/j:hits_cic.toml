@@ -9,7 +9,7 @@ links = [
  'j:hits_wm',
  'etherium:railto',
  'southshire',
-#'nyc', # Waiting on NYC underground station renovation please
+ 'nyc',
 ]
 
 [BadLinks]
