@@ -2,6 +2,8 @@ x = -4996
 y = 11
 z = 7027
 
+advisory = "NYC's rail station is pretty incomplete and may be a bit difficult to leave. There is a rail to the surface at -4990 7006, and a rail into the incomplete underground station at -4994 6865"
+
 links = [
  'j:hits_cic',
 ]
