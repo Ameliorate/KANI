@@ -1,0 +1,9 @@
+x = -7514
+y = 11
+z = -268
+
+advisory = "The switch going to tambov is flawed, and may send you the wrong direction when you're departing from tambov"
+
+links = [
+ 'j:mta',
+]

@@ -7,7 +7,9 @@ switch = true
 links = [
  'westminster',
  'j:hits_cic',
+ 'j:hits_mta_east',
 ]
 
 [BadLinks]
 'j:hits_cic' = 'hits:south j:hits_cic'
+'j:hits_mta_east' = 'hits:north'

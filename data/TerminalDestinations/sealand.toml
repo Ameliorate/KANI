@@ -1,0 +1,10 @@
+x = -6179
+y = 11
+z = 3218
+
+links = [
+ 'j:troll',
+]
+
+[BadLinks]
+'j:troll' = 'sea:north j:troll'

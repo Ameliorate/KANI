@@ -1,0 +1,18 @@
+x = -6175
+y = 11
+z = 3000
+
+description = "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre."
+
+switch = true
+
+links = [
+ 'j:hits_mta_east',
+ 'sealand',
+ 'september',
+ 'mta:megafarm',
+]
+
+[BadLinks]
+'j:hits_mta_east' = 'mta:west j:hits_mta_east'
+'mta:megafarm' = 'megafarm'

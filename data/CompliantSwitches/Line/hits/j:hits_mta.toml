@@ -1,0 +1,13 @@
+x = -6700
+y = 12
+z = 2981
+
+switch = true
+
+links = [
+ 'j:hits_mta_east',
+ 'j:mta',
+]
+
+[BadLinks]
+'j:hits_mta_east' = 'hits:south'

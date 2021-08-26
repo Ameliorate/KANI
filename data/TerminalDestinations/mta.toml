@@ -1,13 +1,9 @@
 description = "City of Mount Agusta"
 
-x = -6713
-z = 2955
+x = -6700
+y = 57
+z = 3000
 
 links = [
-  "icenia",
-  "0,0",
-  "imc",
-  "september",
-  "j:pvark",
-  "j:iskv",
+ 'j:mta',
 ]

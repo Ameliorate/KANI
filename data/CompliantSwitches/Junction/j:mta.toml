@@ -1,0 +1,22 @@
+x = -6699
+y = 45
+z = 2999
+
+switch = true
+
+links = [
+ 'mta',
+#'j:mta_transit',
+ 'j:hits_mta',
+ 'freedom_station',
+
+# along mta:west
+ 'tambov',
+ 'mta:macro',
+ 'albion:hmarket',
+]
+
+[BadLinks]
+'tambov' = 'mta:west tambov'
+'mta:macro' = 'mta:west macro'
+'albion:hmarket' = 'mta:west albion:hmarket'

@@ -5,7 +5,6 @@ switch = true
 
 links = [
  'varkonia',
- 'mta',
  'j:pmts',
  'j:pkallos',
 ]
