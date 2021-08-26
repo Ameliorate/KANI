@@ -26,7 +26,7 @@
 		"station": true,
 		"links": [
 			"j:omts",
-			"mta",
+			"j:troll",
 			"september:ocean"
 		]
 	},
@@ -190,7 +190,6 @@
 		"links": [
 			"j:knot",
 			"wayrest",
-			"mta",
 			"westminster",
 			"j:picenia"
 		],
@@ -225,7 +224,6 @@
 			"icenia:potato",
 			"it:anburon",
 			"icenia:drippy",
-			"mta",
 			"icenia:westisle",
 			"icenia:atlantica",
 			"bloom",
@@ -328,7 +326,6 @@
 			"j:timc",
 			"bloom",
 			"westminster",
-			"mta",
 			"spqr"
 		]
 	},
@@ -477,6 +474,19 @@
 			"airhaven"
 		]
 	},
+	"j:hits_mta": {
+		"x": -6700,
+		"y": 12,
+		"z": 2981,
+		"switch": true,
+		"links": [
+			"j:hits_mta_east",
+			"j:mta"
+		],
+		"BadLinks": {
+			"j:hits_mta_east": "hits:south"
+		}
+	},
 	"j:hits_cic": {
 		"x": -6780,
 		"y": 12,
@@ -501,10 +511,27 @@
 		"switch": true,
 		"links": [
 			"westminster",
-			"j:hits_cic"
+			"j:hits_cic",
+			"j:hits_mta_east"
 		],
 		"BadLinks": {
-			"j:hits_cic": "hits:south j:hits_cic"
+			"j:hits_cic": "hits:south j:hits_cic",
+			"j:hits_mta_east": "hits:north"
+		}
+	},
+	"j:hits_mta_east": {
+		"x": -6700,
+		"y": 12,
+		"z": 3001,
+		"switch": true,
+		"links": [
+			"j:hits_wm",
+			"j:hits_mta",
+			"j:troll"
+		],
+		"BadLinks": {
+			"j:hits_wm": "hits:south",
+			"j:hits_mta": "hits:north"
 		}
 	},
 	"j:lazuli": {
@@ -1086,6 +1113,25 @@
 			"j:ves"
 		]
 	},
+	"j:mta": {
+		"x": -6699,
+		"y": 45,
+		"z": 2999,
+		"switch": true,
+		"links": [
+			"mta",
+			"j:hits_mta",
+			"freedom_station",
+			"tambov",
+			"mta:macro",
+			"albion:hmarket"
+		],
+		"BadLinks": {
+			"tambov": "mta:west tambov",
+			"mta:macro": "mta:west macro",
+			"albion:hmarket": "mta:west albion:hmarket"
+		}
+	},
 	"j:po": {
 		"x": 7000,
 		"y": 12,
@@ -1139,7 +1185,6 @@
 		"switch": true,
 		"links": [
 			"varkonia",
-			"mta",
 			"j:pmts",
 			"j:pkallos"
 		]
@@ -1291,6 +1336,17 @@
 		"links": [
 			"j:timc"
 		]
+	},
+	"sealand": {
+		"x": -6179,
+		"y": 11,
+		"z": 3218,
+		"links": [
+			"j:troll"
+		],
+		"BadLinks": {
+			"j:troll": "sea:north j:troll"
+		}
 	},
 	"old_sanctuary": {
 		"x": 2572,
@@ -1484,6 +1540,15 @@
 			"j:bwy"
 		]
 	},
+	"tambov": {
+		"x": -7514,
+		"y": 11,
+		"z": -268,
+		"advisory": "The switch going to tambov is flawed, and may send you the wrong direction when you're departing from tambov",
+		"links": [
+			"j:mta"
+		]
+	},
 	"iria:desert": {
 		"x": 8973,
 		"y": 1,
@@ -1522,15 +1587,11 @@
 	},
 	"mta": {
 		"description": "City of Mount Agusta",
-		"x": -6713,
-		"z": 2955,
+		"x": -6700,
+		"y": 57,
+		"z": 3000,
 		"links": [
-			"icenia",
-			"0,0",
-			"imc",
-			"september",
-			"j:pvark",
-			"j:iskv"
+			"j:mta"
 		]
 	},
 	"em": {
@@ -1610,12 +1671,28 @@
 			"j:tuff"
 		]
 	},
+	"mta:megafarm": {
+		"x": -6175,
+		"y": 11,
+		"z": 2965,
+		"links": [
+			"j:troll"
+		]
+	},
 	"ventura": {
 		"x": 8724,
 		"y": 1,
 		"z": 4744,
 		"links": [
 			"j:vc"
+		]
+	},
+	"mta:macro": {
+		"x": -7000,
+		"y": 36,
+		"z": 3000,
+		"links": [
+			"j:mta"
 		]
 	},
 	"caledonia:flathell": {
@@ -2054,12 +2131,28 @@
 			"islaoccidental"
 		]
 	},
+	"albion:hmarket": {
+		"x": -7179,
+		"y": 62,
+		"z": 3544,
+		"links": [
+			"j:mta"
+		]
+	},
 	"icenia:potato": {
 		"description": "A exp-sized potato farm south of WestIsle.",
 		"x": -1550,
 		"z": -744,
 		"links": [
 			"icenia"
+		]
+	},
+	"freedom_station": {
+		"x": -6653,
+		"y": 35,
+		"z": 2861,
+		"links": [
+			"j:mta"
 		]
 	},
 	"lohq": {
@@ -2168,8 +2261,7 @@
 		"links": [
 			"icenia",
 			"spqr",
-			"varkonia",
-			"mta"
+			"varkonia"
 		]
 	},
 	"j:cabalwest": {
@@ -2223,6 +2315,23 @@
 			"its:subway": "subway",
 			"its:versailles": "versailles",
 			"its:hji": "hji"
+		}
+	},
+	"j:troll": {
+		"x": -6175,
+		"y": 11,
+		"z": 3000,
+		"description": "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre.",
+		"switch": true,
+		"links": [
+			"j:hits_mta_east",
+			"sealand",
+			"september",
+			"mta:megafarm"
+		],
+		"BadLinks": {
+			"j:hits_mta_east": "mta:west j:hits_mta_east",
+			"mta:megafarm": "megafarm"
 		}
 	}
 }
