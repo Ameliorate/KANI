@@ -27,8 +27,12 @@
 		"links": [
 			"j:omts",
 			"j:troll",
+			"j:hits_mts",
 			"september:ocean"
-		]
+		],
+		"BadLinks": {
+			"j:hits_mts": "sept:hits"
+		}
 	},
 	"dulaman": {
 		"x": 2120,
@@ -402,6 +406,18 @@
 			"j:coe:west"
 		]
 	},
+	"lumiere": {
+		"x": -7928,
+		"y": 11,
+		"z": -2534,
+		"station": true,
+		"links": [
+			"j:hits_lumiere"
+		],
+		"BadLinks": {
+			"j:hits_lumiere": "lumiere:hits"
+		}
+	},
 	"j:vc": {
 		"x": 8706,
 		"y": 1,
@@ -474,6 +490,23 @@
 			"airhaven"
 		]
 	},
+	"j:hits_redline": {
+		"x": -6700,
+		"y": 12,
+		"z": 2876,
+		"switch": true,
+		"links": [
+			"j:hits_mta",
+			"j:hits_spqr"
+		],
+		"BadLinks": {
+			"j:hits_mta": "hits:south",
+			"j:hits_spqr": "hits:north",
+			"icenia": "redline:north icenia",
+			"bloom": "redline:north bloom",
+			"gabon": "redline:north gabon"
+		}
+	},
 	"j:hits_mta": {
 		"x": -6700,
 		"y": 12,
@@ -481,10 +514,27 @@
 		"switch": true,
 		"links": [
 			"j:hits_mta_east",
+			"j:hits_redline",
 			"j:mta"
 		],
 		"BadLinks": {
-			"j:hits_mta_east": "hits:south"
+			"j:hits_mta_east": "hits:south",
+			"j:hits_redline": "hits:north"
+		}
+	},
+	"j:hits_lumiere": {
+		"x": -6700,
+		"y": 12,
+		"z": -2532,
+		"switch": true,
+		"links": [
+			"j:hits_z0",
+			"j:hits_atlantis",
+			"lumiere"
+		],
+		"BadLinks": {
+			"j:hits_z0": "hits:south",
+			"j:hits_allantis": "hits:north"
 		}
 	},
 	"j:hits_cic": {
@@ -504,6 +554,35 @@
 			"j:hits_wm": "hits:north"
 		}
 	},
+	"j:hits_ll": {
+		"x": -6700,
+		"y": 12,
+		"z": -2870,
+		"switch": true,
+		"links": [
+			"j:hits_atlantis",
+			"j:hits_lusitania"
+		],
+		"BadLinks": {
+			"j:hits_atlantis": "hits:south",
+			"j:hits_lusitania": "hits:north"
+		}
+	},
+	"j:hits_lusitania": {
+		"x": -6700,
+		"y": 12,
+		"z": -3597,
+		"switch": true,
+		"links": [
+			"j:hits_ll",
+			"impasse",
+			"lusitania"
+		],
+		"BadLinks": {
+			"j:hits_ll": "hits:south",
+			"impasse": "hits:north impasse"
+		}
+	},
 	"j:hits_wm": {
 		"x": -7000,
 		"y": 12,
@@ -519,6 +598,51 @@
 			"j:hits_mta_east": "hits:north"
 		}
 	},
+	"j:hits_atlantis": {
+		"x": -6700,
+		"y": 12,
+		"z": -2683,
+		"switch": true,
+		"links": [
+			"j:hits_lumiere",
+			"j:hits_ll",
+			"atlantis"
+		],
+		"BadLinks": {
+			"j:hits_lumiere": "hits:south",
+			"j:hits_ll": "hits:north"
+		}
+	},
+	"j:hits_spqr": {
+		"x": -6700,
+		"y": 12,
+		"z": 2500,
+		"switch": true,
+		"links": [
+			"j:hits_redline",
+			"j:hits_mts",
+			"spqr"
+		],
+		"BadLinks": {
+			"j:hits_redline": "hits:south",
+			"j:hits_mts": "hits:north"
+		}
+	},
+	"j:hits_mts": {
+		"x": -6700,
+		"y": 12,
+		"z": 508,
+		"switch": true,
+		"links": [
+			"j:hits_spqr",
+			"j:hits_z0",
+			"september"
+		],
+		"BadLinks": {
+			"j:hits_spqr": "hits:south",
+			"j:hits_z0": "hits:north"
+		}
+	},
 	"j:hits_mta_east": {
 		"x": -6700,
 		"y": 12,
@@ -532,6 +656,22 @@
 		"BadLinks": {
 			"j:hits_wm": "hits:south",
 			"j:hits_mta": "hits:north"
+		}
+	},
+	"j:hits_z0": {
+		"x": -6700,
+		"y": 12,
+		"z": 0,
+		"switch": true,
+		"links": [
+			"j:hits_mts",
+			"j:hits_lumiere",
+			"j:pkallos",
+			"j:pvark"
+		],
+		"BadLinks": {
+			"j:hits_mts": "hits:south",
+			"j:hits_lumiere": "hits:north"
 		}
 	},
 	"j:lazuli": {
@@ -915,7 +1055,7 @@
 		"links": [
 			"hje",
 			"kallos",
-			"j:pvark"
+			"j:hits_z0"
 		]
 	},
 	"j:wiv": {
@@ -1187,7 +1327,7 @@
 		"links": [
 			"varkonia",
 			"j:pmts",
-			"j:pkallos"
+			"j:hits_z0"
 		]
 	},
 	"j:palex": {
@@ -1357,6 +1497,17 @@
 			"genso:taozi"
 		]
 	},
+	"impasse": {
+		"x": -6710,
+		"y": 12,
+		"z": -5107,
+		"links": [
+			"j:hits_lusitania"
+		],
+		"BadLinks": {
+			"j:hits_lusitania": "hits:south"
+		}
+	},
 	"ozonrough": {
 		"x": 1140,
 		"y": 11,
@@ -1523,6 +1674,14 @@
 		"description": "LordChiefton's Estate in Icenia",
 		"links": [
 			"j:cabaleast"
+		]
+	},
+	"atlantis": {
+		"x": -7075,
+		"y": 12,
+		"z": -2740,
+		"links": [
+			"j:hits_atlantis"
 		]
 	},
 	"imc:top": {
@@ -1702,6 +1861,14 @@
 		"z": 7054,
 		"links": [
 			"j:flathell"
+		]
+	},
+	"lusitania": {
+		"x": -7749,
+		"y": 55,
+		"z": -3552,
+		"links": [
+			"j:hits_lusitania"
 		]
 	},
 	"cdm": {
@@ -2109,6 +2276,7 @@
 		"z": -5850,
 		"links": [
 			"j:iskv",
+			"j:hits_spqr",
 			"imc",
 			"westminster"
 		]
