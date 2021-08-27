@@ -1,0 +1,15 @@
+x = -6700
+y = 12
+z = -2683
+
+switch = true
+
+links = [
+ 'j:hits_lumiere',
+ 'j:hits_ll',
+ 'atlantis',
+]
+
+[BadLinks]
+'j:hits_lumiere' = 'hits:south'
+'j:hits_ll' = 'hits:north'

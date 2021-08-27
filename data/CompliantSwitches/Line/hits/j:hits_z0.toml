@@ -1,0 +1,16 @@
+x = -6700
+y = 12
+z = 0
+
+switch = true
+
+links = [
+ 'j:hits_mts',
+ 'j:hits_lumiere',
+ 'j:pkallos',
+ 'j:pvark',
+]
+
+[BadLinks]
+'j:hits_mts' = 'hits:south'
+'j:hits_lumiere' = 'hits:north'

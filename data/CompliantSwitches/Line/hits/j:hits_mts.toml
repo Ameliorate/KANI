@@ -1,0 +1,15 @@
+x = -6700
+y = 12
+z = 508
+
+switch = true
+
+links = [
+ 'j:hits_spqr',
+ 'j:hits_z0',
+ 'september',
+]
+
+[BadLinks]
+'j:hits_spqr' = 'hits:south'
+'j:hits_z0' = 'hits:north'

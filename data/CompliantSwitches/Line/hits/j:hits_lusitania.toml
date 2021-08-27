@@ -1,0 +1,15 @@
+x = -6700
+y = 12
+z = -3597
+
+switch = true
+
+links = [
+ 'j:hits_ll',
+ 'impasse',
+ 'lusitania',
+]
+
+[BadLinks]
+'j:hits_ll' = 'hits:south'
+'impasse' = 'hits:north impasse'

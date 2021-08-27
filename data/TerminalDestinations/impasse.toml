@@ -1,0 +1,10 @@
+x = -6710
+y = 12
+z = -5107
+
+links = [
+ 'j:hits_lusitania',
+]
+
+[BadLinks]
+'j:hits_lusitania' = 'hits:south'

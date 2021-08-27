@@ -1,0 +1,12 @@
+x = -7928
+y = 11
+z = -2534
+
+station = true
+
+links = [
+ 'j:hits_lumiere',
+]
+
+[BadLinks]
+'j:hits_lumiere' = 'lumiere:hits'

@@ -1,0 +1,20 @@
+x = -6700
+y = 12
+z = 2876
+
+switch = true
+
+links = [
+ 'j:hits_mta',
+ 'j:hits_spqr',
+#'icenia',
+#'bloom',
+#'gabon',
+]
+
+[BadLinks]
+'j:hits_mta' = 'hits:south'
+'j:hits_spqr' = 'hits:north'
+'icenia' = 'redline:north icenia'
+'bloom' = 'redline:north bloom'
+'gabon' = 'redline:north gabon'
