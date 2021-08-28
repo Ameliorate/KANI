@@ -1478,17 +1478,6 @@
 			"j:timc"
 		]
 	},
-	"sealand": {
-		"x": -6179,
-		"y": 11,
-		"z": 3218,
-		"links": [
-			"j:troll"
-		],
-		"BadLinks": {
-			"j:troll": "sea:north j:troll"
-		}
-	},
 	"old_sanctuary": {
 		"x": 2572,
 		"y": 9,
@@ -2502,7 +2491,6 @@
 		"switch": true,
 		"links": [
 			"j:hits_mta_east",
-			"sealand",
 			"september",
 			"mta:megafarm"
 		],
