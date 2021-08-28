@@ -22,7 +22,7 @@
 {"BadLinks":"j:flathell: entrana.tob, ","id":"ccmap:kani/node/caledonia:mush","name":"Caledonia:Mush (KANI)","type":"TerminalDestinations","x":9499,"y":11,"z":7695},
 {"id":"ccmap:kani/node/canvasblue","name":"Canvasblue (KANI)","type":"TerminalDestinations","x":-2280,"z":-1340},
 {"id":"ccmap:kani/node/cape_cocoa","name":"Cape_Cocoa (KANI)","station":true,"type":"CompliantSwitches","x":3861,"y":1,"z":529},
-{"id":"ccmap:kani/node/carson","name":"Carson (KANI)","type":"TerminalDestinations","x":4200,"z":1750},
+{"id":"ccmap:kani/node/carson","name":"Carson (KANI)","station":true,"type":"TerminalDestinations","x":4200,"z":1750},
 {"id":"ccmap:kani/node/cdm","name":"Cdm (KANI)","type":"TerminalDestinations","x":8669,"y":12,"z":5235},
 {"id":"ccmap:kani/node/ch1prempire","name":"Ch1Prempire (KANI)","station":true,"type":"CompliantSwitches","x":7183,"y":1,"z":-2533},
 {"description":"City of England","id":"ccmap:kani/node/coe","name":"Coe (KANI)","station":true,"type":"CompliantSwitches","x":770,"y":5,"z":-5765},
