@@ -287,6 +287,16 @@
 			"tabatia"
 		]
 	},
+	"carson": {
+		"x": 4242,
+		"y": 38,
+		"z": 1734,
+		"station": true,
+		"links": [
+			"j:tuff",
+			"j:kal"
+		]
+	},
 	"acadia": {
 		"x": 3552,
 		"y": 21,
@@ -889,7 +899,6 @@
 		"z": 2340,
 		"switch": true,
 		"links": [
-			"j:kal",
 			"ponsportia",
 			"carson",
 			"pripyat",
@@ -1142,7 +1151,6 @@
 		"z": 496,
 		"switch": true,
 		"links": [
-			"j:tuff",
 			"cape_cocoa",
 			"carson",
 			"newkalayaan"
@@ -2015,15 +2023,6 @@
 		"z": -2794,
 		"links": [
 			"genso:roe"
-		]
-	},
-	"carson": {
-		"x": 4200,
-		"z": 1750,
-		"station": true,
-		"links": [
-			"j:tuff",
-			"j:kal"
 		]
 	},
 	"pripyat": {
