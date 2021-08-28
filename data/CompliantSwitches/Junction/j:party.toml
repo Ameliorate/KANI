@@ -1,0 +1,14 @@
+x = 7440
+y = 11
+z = 1993
+
+switch = true
+
+links = [
+ 'j:kcal',
+ 'caledonia',
+ 'lambat:under',
+ 'rainier',
+#'u3p', # Disabled to reduce complexity of using u3p station
+ 'party_island',
+]

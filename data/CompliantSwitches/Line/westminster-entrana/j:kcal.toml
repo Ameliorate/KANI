@@ -7,7 +7,7 @@ switch = true
 links = [
  'entrana',
  'j:pash',
- 'caledonia',
+ 'j:party',
 ]
 
 [BadLinks]
