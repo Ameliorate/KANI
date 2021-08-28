@@ -711,7 +711,7 @@
 		"links": [
 			"entrana",
 			"j:pash",
-			"caledonia"
+			"j:party"
 		],
 		"BadLinks": {
 			"entrana": "entrana.to entrana",
@@ -1430,6 +1430,19 @@
 			"vacari"
 		]
 	},
+	"j:party": {
+		"x": 7440,
+		"y": 11,
+		"z": 1993,
+		"switch": true,
+		"links": [
+			"j:kcal",
+			"caledonia",
+			"lambat:under",
+			"rainier",
+			"party_island"
+		]
+	},
 	"valyria": {
 		"x": -2632,
 		"y": 12,
@@ -1460,6 +1473,14 @@
 		"z": 4651,
 		"links": [
 			"westminster"
+		]
+	},
+	"lambat:under": {
+		"x": 7066,
+		"y": 1,
+		"z": -1507,
+		"links": [
+			"j:party"
 		]
 	},
 	"icenia:drippy": {
@@ -1496,6 +1517,14 @@
 		"BadLinks": {
 			"j:hits_lusitania": "hits:south"
 		}
+	},
+	"rainier": {
+		"x": 7823,
+		"y": 15,
+		"z": 5106,
+		"links": [
+			"j:party"
+		]
 	},
 	"ozonrough": {
 		"x": 1140,
@@ -1597,7 +1626,7 @@
 		"links": [
 			"j:po",
 			"j:mcal",
-			"j:kcal"
+			"j:party"
 		]
 	},
 	"canvasblue": {
@@ -2043,6 +2072,14 @@
 		"links": [
 			"j:cabalwest",
 			"icenia"
+		]
+	},
+	"party_island": {
+		"x": 7224,
+		"y": 3,
+		"z": 1687,
+		"links": [
+			"j:party"
 		]
 	},
 	"southshire": {
