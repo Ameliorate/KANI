@@ -1,6 +1,8 @@
 x = 4200
 z = 1750
 
+station = true
+
 links = [
  'j:tuff',
  'j:kal',
