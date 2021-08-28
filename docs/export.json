@@ -349,8 +349,8 @@
 		"z": 529,
 		"station": true,
 		"links": [
-			"j:ppcc",
-			"j:kal"
+			"j:kal",
+			"j:x3850_cc"
 		]
 	},
 	"genso:taozi": {
@@ -674,6 +674,36 @@
 			"j:hits_lumiere": "hits:north"
 		}
 	},
+	"j:x3850_crab": {
+		"x": 3850,
+		"y": 2,
+		"z": 4732,
+		"switch": true,
+		"links": [
+			"j:x3850_cc",
+			"x3850_wb:south",
+			"j:crab"
+		],
+		"BadLinks": {
+			"j:x3850_cc": "x3850:north",
+			"x3850_wb:south": "x3850:south x3850_wb:south"
+		}
+	},
+	"j:x3850_cc": {
+		"x": 3850,
+		"y": 2,
+		"z": 537,
+		"switch": true,
+		"links": [
+			"j:ppcc",
+			"j:x3850_crab",
+			"cape_cocoa"
+		],
+		"BadLinks": {
+			"j:ppcc": "x3850:north",
+			"j:x3850_crab": "x3850:south"
+		}
+	},
 	"j:lazuli": {
 		"x": 1157,
 		"y": 4,
@@ -687,6 +717,21 @@
 		"BadLinks": {
 			"j:lohq": "entrana.to",
 			"j:pwiv": "westminster.to"
+		}
+	},
+	"j:crab": {
+		"x": 3862,
+		"y": 2,
+		"z": 4743,
+		"switch": true,
+		"links": [
+			"j:pash",
+			"j:lohq",
+			"j:x3850_crab"
+		],
+		"BadLinks": {
+			"j:pash": "entrana.to",
+			"j:lohq": "westminster.to"
 		}
 	},
 	"j:pnyc": {
@@ -739,12 +784,12 @@
 		"z": 5113,
 		"switch": true,
 		"links": [
-			"j:pash",
+			"j:crab",
 			"j:lazuli",
 			"lohq"
 		],
 		"BadLinks": {
-			"j:pash": "entrana.to",
+			"j:crab": "entrana.to",
 			"j:lazuli": "westminster.to"
 		}
 	},
@@ -755,12 +800,12 @@
 		"switch": true,
 		"links": [
 			"j:kcal",
-			"j:lohq",
+			"j:crab",
 			"ashelor"
 		],
 		"BadLinks": {
 			"j:kcal": "entrana.to",
-			"j:lohq": "westminster.to"
+			"j:crab": "westminster.to"
 		}
 	},
 	"j:pwiv": {
@@ -1124,9 +1169,12 @@
 			"j:nice",
 			"j:o",
 			"j:ann",
-			"cape_cocoa",
+			"j:x3850_cc",
 			"wolken"
-		]
+		],
+		"BadLinks": {
+			"j:x3850_cc": "x3850:south"
+		}
 	},
 	"j:e15": {
 		"x": -8440,
@@ -1872,6 +1920,17 @@
 		"links": [
 			"j:mta"
 		]
+	},
+	"x3850_wb:south": {
+		"x": 3850,
+		"y": 1,
+		"z": 12415,
+		"links": [
+			"j:x3850_crab"
+		],
+		"BadLinks": {
+			"j:x3850_crab": "x3850:north"
+		}
 	},
 	"caledonia:flathell": {
 		"x": 8710,
