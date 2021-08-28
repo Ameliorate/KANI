@@ -6,10 +6,10 @@ switch = true
 
 links = [
  'j:kcal',
- 'j:lohq',
+ 'j:crab',
  'ashelor',
 ]
 
 [BadLinks]
 'j:kcal' = 'entrana.to'
-'j:lohq' = 'westminster.to'
+'j:crab' = 'westminster.to'

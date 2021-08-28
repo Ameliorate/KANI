@@ -1,0 +1,15 @@
+x = 3850
+y = 2
+z = 4732
+
+switch = true
+
+links = [
+ 'j:x3850_cc',
+ 'x3850_wb:south',
+ 'j:crab',
+]
+
+[BadLinks] 
+'j:x3850_cc' = 'x3850:north'
+'x3850_wb:south' = 'x3850:south x3850_wb:south'

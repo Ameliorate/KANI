@@ -1,0 +1,15 @@
+x = 3862
+y = 2
+z = 4743
+
+switch = true
+
+links = [
+ 'j:pash',
+ 'j:lohq',
+ 'j:x3850_crab',
+]
+
+[BadLinks]
+'j:pash' = 'entrana.to'
+'j:lohq' = 'westminster.to'

@@ -1,0 +1,15 @@
+x = 3850
+y = 2
+z = 537
+
+switch = true
+
+links = [
+ 'j:ppcc',
+ 'j:x3850_crab',
+ 'cape_cocoa',
+]
+
+[BadLinks]
+'j:ppcc' = 'x3850:north'
+'j:x3850_crab' = 'x3850:south'

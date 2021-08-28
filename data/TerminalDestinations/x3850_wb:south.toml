@@ -1,0 +1,10 @@
+x = 3850
+y = 1
+z = 12415
+
+links = [
+ 'j:x3850_crab',
+]
+
+[BadLinks]
+'j:x3850_crab' = 'x3850:north'

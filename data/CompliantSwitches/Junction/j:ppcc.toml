@@ -8,7 +8,9 @@ links = [
  'j:nice',
  'j:o',
  'j:ann',
- 'cape_cocoa',
+ 'j:x3850_cc',
  'wolken',
 ]
 
+[BadLinks]
+'j:x3850_cc' = 'x3850:south'

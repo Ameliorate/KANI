@@ -5,6 +5,6 @@ z = 529
 station = true
 
 links = [
- 'j:ppcc',
  'j:kal',
+ 'j:x3850_cc',
 ]
