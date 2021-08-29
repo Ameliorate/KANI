@@ -1046,6 +1046,7 @@
 			"0,0",
 			"j:pend",
 			"j:pnro",
+			"j:icegen",
 			"netherfarm",
 			"vinland",
 			"wayrest"
@@ -1292,6 +1293,7 @@
 		"y": 12,
 		"z": -1412,
 		"links": [
+			"j:knot",
 			"icenia",
 			"j:uroe",
 			"j:gensig"
