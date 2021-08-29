@@ -1,0 +1,11 @@
+x = -1296
+y = 11
+z = -3505
+
+switch = true
+
+links = [
+ 'j:gntv',
+ 'j:bwy',
+ 'gabon',
+]
