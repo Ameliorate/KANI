@@ -338,7 +338,6 @@
 		"links": [
 			"j:pi",
 			"j:timc",
-			"bloom",
 			"westminster",
 			"spqr"
 		]
@@ -392,6 +391,20 @@
 			"genso:taozi",
 			"lutrelia",
 			"purazi"
+		]
+	},
+	"bloom": {
+		"x": -2266,
+		"y": 19,
+		"z": -2562,
+		"station": true,
+		"links": [
+			"j:bwy",
+			"icenia",
+			"genso:roe",
+			"it:anburon",
+			"coventhia",
+			"gabon"
 		]
 	},
 	"islaoccidental": {
@@ -1819,7 +1832,8 @@
 		"x": -4346,
 		"z": -5420,
 		"links": [
-			"genso:taozi"
+			"genso:taozi",
+			"bloom"
 		]
 	},
 	"aurum": {
@@ -2027,7 +2041,8 @@
 		"links": [
 			"icenia",
 			"j:picenia",
-			"j:sad"
+			"j:sad",
+			"bloom"
 		]
 	},
 	"genso:centi": {
@@ -2057,7 +2072,8 @@
 		"x": -1070,
 		"z": -500,
 		"links": [
-			"icenia"
+			"icenia",
+			"bloom"
 		]
 	},
 	"endportal": {
@@ -2385,17 +2401,6 @@
 		"z": 7762,
 		"links": [
 			"torndal"
-		]
-	},
-	"bloom": {
-		"description": "Station of the former nation Bloom, now owned by Icenia.",
-		"x": -2228,
-		"z": -2577,
-		"links": [
-			"j:bwy",
-			"icenia",
-			"imc",
-			"genso:roe"
 		]
 	},
 	"crowsroost": {
