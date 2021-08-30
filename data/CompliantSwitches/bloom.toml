@@ -1,0 +1,16 @@
+x = -2266
+y = 19
+z = -2562
+
+station = true
+
+links = [
+  "j:bwy",
+  "icenia",
+  "genso:roe",
+# "0,0",
+# "new_ashelor", # Disabled because the rail needs to be appraised, and also massive cross-map rails are ugly
+  "it:anburon",
+  "coventhia",
+  "gabon",
+]
