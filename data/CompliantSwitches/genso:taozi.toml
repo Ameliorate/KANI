@@ -1,3 +1,5 @@
+aliases = ['gensokyo:taozi', 'taozi city', 'gensokyo']
+
 description = "Gensokyo's current project, a modern japanese city."
 
 x = 1278
