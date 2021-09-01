@@ -59,6 +59,9 @@ def format_node(node):
     if bad_links != "":
         o['BadLinks'] = bad_links
 
+    if 'aliases' in node:
+        o['aliases'] = ", ".join(node['aliases'])
+
     return o
 
 def format_link(node, neighbor):
