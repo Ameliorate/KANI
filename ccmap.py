@@ -37,7 +37,7 @@ for subdir, dirs, files in os.walk(datadir):
         if filepath.endswith('.toml'):
             processFile(filepath, filename)
 
-optional_fields = 'description location inaccuratelocation switch station advisory'.split(' ')
+optional_fields = 'description location inaccuratelocation switch station advisory aliases'.split(' ')
 
 def format_node(node):
     o = {}
@@ -58,9 +58,6 @@ def format_node(node):
     bad_links.rstrip(", ")
     if bad_links != "":
         o['BadLinks'] = bad_links
-
-    if 'aliases' in node:
-        o['aliases'] = ", ".join(node['aliases'])
 
     return o
 
