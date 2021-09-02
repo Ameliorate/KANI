@@ -178,7 +178,7 @@
 {"id":"ccmap:kani/node/lenin_isle","name":"Lenin_Isle (KANI)","station":true,"type":"CompliantSwitches","x":3365,"y":12,"z":784},
 {"description":"Lexington","id":"ccmap:kani/node/lexington","name":"Lexington (KANI)","type":"TerminalDestinations","x":-624,"y":3,"z":-7293},
 {"description":"Random manual junction between someone's nether base, and an unfinished rail.","id":"ccmap:kani/node/literally_where","name":"Literally_Where (KANI)","type":"TerminalDestinations","x":-3812,"y":1,"z":5001},
-{"aliases":["lazulicorp"],"description":"Lazulicorp bunker","id":"ccmap:kani/node/lohq","name":"Lohq (KANI)","type":"TerminalDestinations","x":7503,"y":1,"z":7500},
+{"aliases":["lazulicorp","lazuli oceanic hq"],"description":"Lazulicorp bunker","id":"ccmap:kani/node/lohq","name":"Lohq (KANI)","type":"TerminalDestinations","x":7503,"y":1,"z":7500},
 {"id":"ccmap:kani/node/lovelace","name":"Lovelace (KANI)","station":true,"type":"CompliantSwitches","x":3855,"y":1,"z":-10244},
 {"id":"ccmap:kani/node/lriln'kriavnya","name":"Lriln'Kriavnya (KANI)","type":"TerminalDestinations","x":-108,"y":4,"z":8838},
 {"BadLinks":"j:hits_lumiere: lumiere:hits, ","id":"ccmap:kani/node/lumiere","name":"Lumiere (KANI)","station":true,"type":"CompliantSwitches","x":-7928,"y":11,"z":-2534},
