@@ -17,6 +17,6 @@ links = [
 ]
 
 [BadLinks]
-'tambov' = 'mta':west tambov'
-'mta:macro' = 'mta':west macro'
-'albion:hmarket' = 'mta':west albion:hmarket'
+'tambov' = 'mta\':west tambov'
+'mta:macro' = 'mta\':west macro'
+'albion:hmarket' = 'mta\':west albion:hmarket'
