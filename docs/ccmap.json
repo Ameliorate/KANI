@@ -168,7 +168,7 @@
 {"id":"ccmap:kani/node/j:sad","name":"J:Sad (KANI)","switch":true,"type":"CompliantSwitches","x":-1296,"y":11,"z":-3505},
 {"id":"ccmap:kani/node/j:stallman:west","name":"J:Stallman:West (KANI)","switch":true,"type":"CompliantSwitches","x":2120,"y":5,"z":-10828},
 {"BadLinks":"j:pwiv: entrana.to, j:why: westminster.to, ","id":"ccmap:kani/node/j:suwa","name":"J:Suwa (KANI)","switch":true,"type":"CompliantSwitches","x":-3743,"y":3,"z":5113},
-{"BadLinks":"0,0: 0,0:ne, westminster: 0,0:sw, ","id":"ccmap:kani/node/j:sw:mta","name":"J:Sw:Mta (KANI)","switch":true,"type":"CompliantSwitches","x":-3000,"y":11,"z":3000},
+{"BadLinks":"0,0: 0,0:ne 0,0, westminster: 0,0:sw westminster, ","id":"ccmap:kani/node/j:sw:mta","name":"J:Sw:Mta (KANI)","switch":true,"type":"CompliantSwitches","x":-3000,"y":11,"z":3000},
 {"id":"ccmap:kani/node/j:timc","name":"J:Timc (KANI)","switch":true,"type":"CompliantSwitches","x":-8238,"y":121,"z":3228},
 {"id":"ccmap:kani/node/j:tree","name":"J:Tree (KANI)","switch":true,"type":"CompliantSwitches","x":6654,"y":71,"z":-1568},
 {"id":"ccmap:kani/node/j:tuff","name":"J:Tuff (KANI)","switch":true,"type":"CompliantSwitches","x":4224,"y":12,"z":2340},
