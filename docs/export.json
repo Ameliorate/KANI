@@ -1167,16 +1167,12 @@
 		"switch": true,
 		"links": [
 			"mta",
+			"j:mta_minor:ahm",
 			"j:hits_mta",
-			"freedom_station",
-			"tambov",
-			"mta:macro",
-			"albion:hmarket"
+			"freedom_station"
 		],
 		"BadLinks": {
-			"tambov": "mta':west tambov",
-			"mta:macro": "mta':west macro",
-			"albion:hmarket": "mta':west albion:hmarket"
+			"j:mta_minor:ahm": "mta_minor:west"
 		}
 	},
 	"j:twink": {
@@ -1383,6 +1379,51 @@
 		"BadLinks": {
 			"j:ppcc": "x3850:north",
 			"j:x3850_crab": "x3850:south"
+		}
+	},
+	"j:mta_minor:ahm": {
+		"x": -6817,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta",
+			"j:mta_minor:macro",
+			"albion:hmarket"
+		],
+		"BadLinks": {
+			"j:mta": "mta_minor:east",
+			"j:mta_minor:macro": "mta_minor:west"
+		}
+	},
+	"j:mta_minor:macro": {
+		"x": -3953,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta_minor:ahm",
+			"j:mta_minor:tambov",
+			"mta:macro"
+		],
+		"BadLinks": {
+			"j:mta_minor:ahm": "mta_minor:east",
+			"j:mta_minor:tambov": "mta_minor:west"
+		}
+	},
+	"j:mta_minor:tambov": {
+		"x": -7514,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta_minor:macro",
+			"mta:minor_end",
+			"tambov"
+		],
+		"BadLinks": {
+			"j:mta_minor:macro": "mta_minor:east",
+			"mta:minor_end": "mta_minor:west mta:minor_end"
 		}
 	},
 	"j:flathell": {
@@ -1726,9 +1767,8 @@
 		"x": -7514,
 		"y": 11,
 		"z": -268,
-		"advisory": "The switch going to tambov is flawed, and may send you the wrong direction when you're departing from tambov",
 		"links": [
-			"j:mta"
+			"j:mta_minor:tambov"
 		]
 	},
 	"icenia:lord": {
@@ -1883,7 +1923,7 @@
 		"y": 36,
 		"z": 3000,
 		"links": [
-			"j:mta"
+			"j:mta_minor:macro"
 		]
 	},
 	"lendiforma:mesa": {
@@ -2334,7 +2374,7 @@
 		"y": 62,
 		"z": 3544,
 		"links": [
-			"j:mta"
+			"j:mta_minor:ahm"
 		]
 	},
 	"nro'meagh": {
@@ -2427,6 +2467,14 @@
 		"BadLinks": {
 			"j:hits_lusitania": "hits:south"
 		}
+	},
+	"mta:minor_end": {
+		"x": -8417,
+		"y": 11,
+		"z": 3000,
+		"links": [
+			"j:mta_minor:tambov"
+		]
 	},
 	"genso:shiranui": {
 		"aliases": [
