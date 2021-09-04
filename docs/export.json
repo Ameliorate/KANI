@@ -297,7 +297,10 @@
 			"wayrest",
 			"j:picenia"
 		],
-		"station": true
+		"station": true,
+		"BadLinks": {
+			"j:sw:mta": "0,0:sw"
+		}
 	},
 	"ponsportia": {
 		"x": 3131,
@@ -528,7 +531,8 @@
 			"albion"
 		],
 		"BadLinks": {
-			"j:pnyc": "entrana.to"
+			"j:pnyc": "entrana.to",
+			"j:sw:mta": "0,0:ne"
 		}
 	},
 	"islaoccidental": {
