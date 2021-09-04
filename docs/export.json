@@ -2813,7 +2813,10 @@
 		"z": 2708,
 		"links": [
 			"j:walton:sept"
-		]
+		],
+		"BadLinks": {
+			"j:walton:sept": "walton.away"
+		}
 	},
 	"alpoko": {
 		"x": -3600,
