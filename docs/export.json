@@ -1551,8 +1551,8 @@
 			"westminster"
 		],
 		"BadLinks": {
-			"0,0": "0,0:ne",
-			"westminster": "0,0:sw"
+			"0,0": "0,0:ne 0,0",
+			"westminster": "0,0:sw westminster"
 		}
 	},
 	"j:mta_minor:ahm": {
