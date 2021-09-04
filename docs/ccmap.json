@@ -256,7 +256,7 @@
 {"id":"ccmap:kani/node/ventura","name":"Ventura (KANI)","type":"TerminalDestinations","x":8724,"y":1,"z":4744},
 {"id":"ccmap:kani/node/vesteria","name":"Vesteria (KANI)","type":"TerminalDestinations","x":5375,"y":10,"z":-381},
 {"advisory":"Vinland's outdated rail switch system may make it difficult to leave vinland using the KANI. Departing to icenia may work.","description":"Features a very complicated NonCompliantSwitch. Don't think about it too hard.","id":"ccmap:kani/node/vinland","name":"Vinland (KANI)","type":"TerminalDestinations","x":414,"z":6602},
-{"id":"ccmap:kani/node/walton","name":"Walton (KANI)","type":"TerminalDestinations","x":-5564,"y":11,"z":2708},
+{"BadLinks":"j:walton:sept: walton.away, ","id":"ccmap:kani/node/walton","name":"Walton (KANI)","type":"TerminalDestinations","x":-5564,"y":11,"z":2708},
 {"description":"Station under a fancy aztek build in a swamp. Now owned by Yoahtl.","id":"ccmap:kani/node/wayrest","name":"Wayrest (KANI)","type":"TerminalDestinations","x":1277,"z":145},
 {"id":"ccmap:kani/node/westbury","name":"Westbury (KANI)","type":"TerminalDestinations","x":-5142,"y":70,"z":3527},
 {"BadLinks":"j:pnyc: entrana.to, j:sw:mta: 0,0:ne, ","aliases":["commonwealth"],"description":"City of Westminster","id":"ccmap:kani/node/westminster","name":"Westminster (KANI)","station":true,"type":"CompliantSwitches","x":-7143,"y":93,"z":5114},
