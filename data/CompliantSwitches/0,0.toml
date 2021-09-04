@@ -19,3 +19,6 @@ links = [
 ]
 
 station = true
+
+[BadLinks]
+'j:sw:mta' = '0,0:sw'
