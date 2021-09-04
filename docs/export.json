@@ -52,22 +52,6 @@
 			"its:hji": "hji"
 		}
 	},
-	"j:troll": {
-		"x": -6175,
-		"y": 11,
-		"z": 3000,
-		"description": "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre.",
-		"switch": true,
-		"links": [
-			"j:hits_mta_east",
-			"september",
-			"mta:megafarm"
-		],
-		"BadLinks": {
-			"j:hits_mta_east": "mta:west j:hits_mta_east",
-			"mta:megafarm": "megafarm"
-		}
-	},
 	"j:iskv": {
 		"x": -7500,
 		"y": 11,
@@ -203,7 +187,7 @@
 		"station": true,
 		"links": [
 			"j:omts",
-			"j:troll",
+			"j:walton:sept",
 			"j:hits_mts",
 			"september:ocean"
 		],
@@ -309,8 +293,8 @@
 		"z": 0,
 		"links": [
 			"j:knot",
+			"j:sw:mta",
 			"wayrest",
-			"westminster",
 			"j:picenia"
 		],
 		"station": true
@@ -529,10 +513,10 @@
 		"z": 5114,
 		"station": true,
 		"links": [
-			"j:pi",
+			"j:mta:wm",
 			"j:hits_wm",
 			"j:pnyc",
-			"0,0",
+			"j:sw:mta",
 			"imc",
 			"southshire",
 			"meditat",
@@ -705,7 +689,7 @@
 		"links": [
 			"j:omts",
 			"imc",
-			"westminster"
+			"j:mta:sept"
 		]
 	},
 	"j:pnro": {
@@ -1351,6 +1335,100 @@
 			"j:lazuli": "westminster.to"
 		}
 	},
+	"j:mta:canopus": {
+		"x": -4782,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:sept",
+			"j:sw:mta",
+			"canopus"
+		],
+		"BadLinks": {
+			"j:mta:sept": "mta:west",
+			"j:sw:mta": "mta:east"
+		}
+	},
+	"j:mta:sept": {
+		"x": -4871,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:wm",
+			"j:mta:canopus",
+			"j:pi"
+		],
+		"BadLinks": {
+			"j:mta:wm": "mta:west",
+			"j:mta:canopus": "mta:east"
+		}
+	},
+	"j:mta:sa": {
+		"x": -6041,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:troll",
+			"j:mta:walton",
+			"j:sa:spratly"
+		],
+		"BadLinks": {
+			"j:mta:troll": "mta:west",
+			"j:mta:walton": "mta:east",
+			"j:sa:spratly": ".sa"
+		}
+	},
+	"j:mta:troll": {
+		"x": -6175,
+		"y": 11,
+		"z": 3000,
+		"description": "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre.",
+		"switch": true,
+		"links": [
+			"j:hits_mta_east",
+			"j:mta:sa",
+			"mta:megafarm"
+		],
+		"BadLinks": {
+			"j:hits_mta_east": "mta:west",
+			"j:mta:sa": "mta:east",
+			"mta:megafarm": "megafarm"
+		}
+	},
+	"j:mta:wm": {
+		"x": -4877,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:walton",
+			"j:mta:sept",
+			"westminster"
+		],
+		"BadLinks": {
+			"j:mta:walton": "mta:west",
+			"j:mta:sept": "mta:east"
+		}
+	},
+	"j:mta:walton": {
+		"x": -5698,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:sa",
+			"j:mta:wm",
+			"j:walton:sept"
+		],
+		"BadLinks": {
+			"j:mta:sa": "mta:west",
+			"j:mta:wm": "mta:east",
+			"j:walton:sept": "walton.to"
+		}
+	},
 	"j:x3850_crab": {
 		"x": 3850,
 		"y": 2,
@@ -1379,6 +1457,98 @@
 		"BadLinks": {
 			"j:ppcc": "x3850:north",
 			"j:x3850_crab": "x3850:south"
+		}
+	},
+	"j:walton:sept": {
+		"x": -5698,
+		"y": 11,
+		"z": 2967,
+		"switch": true,
+		"links": [
+			"j:mta:walton",
+			"walton",
+			"september"
+		],
+		"BadLinks": {
+			"j:mta:walton": "walton.away",
+			"walton": "walton.to walton"
+		}
+	},
+	"j:sa:spratly": {
+		"x": -6041,
+		"y": 11,
+		"z": 3319,
+		"switch": true,
+		"links": [
+			"j:mta:sa",
+			"sa:spratly",
+			"j:sa:north"
+		],
+		"BadLinks": {
+			"j:mta:sa": "sa:northbound",
+			"j:sa:north": "sa:southbound"
+		}
+	},
+	"j:sa:south": {
+		"x": -6041,
+		"y": 72,
+		"z": 3878,
+		"switch": true,
+		"links": [
+			"j:sa:west",
+			"j:sa:east"
+		]
+	},
+	"j:sa:west": {
+		"x": -6144,
+		"y": 72,
+		"z": 3775,
+		"switch": true,
+		"links": [
+			"sa:city",
+			"j:sa:north",
+			"j:sa:south"
+		]
+	},
+	"j:sa:north": {
+		"x": -6041,
+		"y": 72,
+		"z": 3672,
+		"switch": true,
+		"links": [
+			"j:sa:spratly",
+			"j:sa:east",
+			"j:sa:west"
+		],
+		"BadLinks": {
+			"j:sa:spratly": "sa:northbound"
+		}
+	},
+	"j:sa:east": {
+		"x": -5938,
+		"y": 72,
+		"z": 3775,
+		"switch": true,
+		"links": [
+			"j:sa:north",
+			"j:sa:south",
+			"sa:ice",
+			"westbury"
+		]
+	},
+	"j:sw:mta": {
+		"x": -3000,
+		"y": 11,
+		"z": 3000,
+		"switch": true,
+		"links": [
+			"j:mta:canopus",
+			"0,0",
+			"westminster"
+		],
+		"BadLinks": {
+			"0,0": "0,0:ne",
+			"westminster": "0,0:sw"
 		}
 	},
 	"j:mta_minor:ahm": {
@@ -1542,11 +1712,12 @@
 		"links": [
 			"j:hits_wm",
 			"j:hits_mta",
-			"j:troll"
+			"j:mta:troll"
 		],
 		"BadLinks": {
 			"j:hits_wm": "hits:south",
-			"j:hits_mta": "hits:north"
+			"j:hits_mta": "hits:north",
+			"j:mta:troll": "mta:east"
 		}
 	},
 	"j:hits_ll": {
@@ -2258,6 +2429,14 @@
 			"j:cabalwest"
 		]
 	},
+	"sa:city": {
+		"x": -6084,
+		"y": 72,
+		"z": 3775,
+		"links": [
+			"j:sa:west"
+		]
+	},
 	"aurum": {
 		"x": 3036,
 		"y": 10,
@@ -2328,7 +2507,7 @@
 		"y": 11,
 		"z": 2965,
 		"links": [
-			"j:troll"
+			"j:mta:troll"
 		]
 	},
 	"pripyat": {
@@ -2344,6 +2523,14 @@
 		"z": 2902,
 		"links": [
 			"j:timc"
+		]
+	},
+	"canopus": {
+		"x": -4782,
+		"y": 11,
+		"z": 3003,
+		"links": [
+			"j:mta:canopus"
 		]
 	},
 	"newaegina": {
@@ -2444,6 +2631,14 @@
 		"z": 2720,
 		"links": [
 			"j:ppcc"
+		]
+	},
+	"sa:ice": {
+		"x": -5753,
+		"y": 72,
+		"z": 3850,
+		"links": [
+			"j:sa:east"
 		]
 	},
 	"em": {
@@ -2552,6 +2747,14 @@
 			"bloom"
 		]
 	},
+	"westbury": {
+		"x": -5142,
+		"y": 70,
+		"z": 3257,
+		"links": [
+			"j:sa:east"
+		]
+	},
 	"icenia:drippy": {
 		"x": -1500,
 		"z": -900,
@@ -2600,6 +2803,14 @@
 			"westminster"
 		]
 	},
+	"walton": {
+		"x": -5564,
+		"y": 11,
+		"z": 2708,
+		"links": [
+			"j:walton:sept"
+		]
+	},
 	"alpoko": {
 		"x": -3600,
 		"z": -1600,
@@ -2645,6 +2856,15 @@
 		"z": 7054,
 		"links": [
 			"j:flathell"
+		]
+	},
+	"sa:spratly": {
+		"x": -5918,
+		"y": 60,
+		"z": 3319,
+		"switch": true,
+		"links": [
+			"j:sa:spratly"
 		]
 	},
 	"canvasblue": {
