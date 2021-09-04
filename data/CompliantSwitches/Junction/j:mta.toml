@@ -7,16 +7,10 @@ switch = true
 links = [
  'mta',
 #'j:mta_transit',
+ 'j:mta_minor:ahm',
  'j:hits_mta',
  'freedom_station',
-
-# along mta':west
- 'tambov',
- 'mta:macro',
- 'albion:hmarket',
 ]
 
 [BadLinks]
-'tambov' = "mta':west tambov"
-'mta:macro' = "mta':west macro"
-'albion:hmarket' = "mta':west albion:hmarket"
+'j:mta_minor:ahm' = 'mta_minor:west'

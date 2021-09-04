@@ -3,5 +3,5 @@ y = 36
 z = 3000
 
 links = [
- 'j:mta',
+ 'j:mta_minor:macro',
 ]

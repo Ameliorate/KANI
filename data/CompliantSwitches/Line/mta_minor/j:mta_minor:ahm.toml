@@ -1,0 +1,15 @@
+x = -6817
+y = 11
+z = 3000
+
+switch = true
+
+links = [
+ 'j:mta',
+ 'j:mta_minor:macro',
+ 'albion:hmarket',
+]
+
+[BadLinks]
+'j:mta' = 'mta_minor:east'
+'j:mta_minor:macro' = 'mta_minor:west'

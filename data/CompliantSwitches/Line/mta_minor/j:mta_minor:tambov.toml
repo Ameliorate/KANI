@@ -1,0 +1,15 @@
+x = -7514
+y = 11
+z = 3000
+
+switch = true
+
+links = [
+ 'j:mta_minor:macro',
+ 'mta:minor_end',
+ 'tambov',
+]
+
+[BadLinks]
+'j:mta_minor:macro' = 'mta_minor:east'
+'mta:minor_end' = 'mta_minor:west mta:minor_end'
