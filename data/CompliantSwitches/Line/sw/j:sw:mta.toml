@@ -1,0 +1,15 @@
+x = -3000
+y = 11
+z = 3000
+
+switch = true
+
+links = [
+ 'j:mta:canopus',
+ '0,0',
+ 'westminster',
+]
+
+[BadLinks]
+'0,0' = '0,0:ne'
+'westminster' = '0,0:sw'

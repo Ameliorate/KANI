@@ -1,0 +1,10 @@
+x = -6041
+y = 72
+z = 3878
+
+switch = true
+
+links = [
+ 'j:sa:west',
+ 'j:sa:east',
+]

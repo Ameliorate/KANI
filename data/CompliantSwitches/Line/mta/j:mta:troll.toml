@@ -8,10 +8,11 @@ switch = true
 
 links = [
  'j:hits_mta_east',
- 'september',
+ 'j:mta:sa',
  'mta:megafarm',
 ]
 
 [BadLinks]
-'j:hits_mta_east' = 'mta:west j:hits_mta_east'
+'j:hits_mta_east' = 'mta:west'
+'j:mta:sa' = 'mta:east'
 'mta:megafarm' = 'megafarm'

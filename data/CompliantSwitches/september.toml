@@ -8,7 +8,7 @@ station = true
 
 links = [
  'j:omts',
- 'j:troll',
+ 'j:walton:sept',
  'j:hits_mts',
  'september:ocean',
 ]

@@ -1,0 +1,15 @@
+x = -5698
+y = 11
+z = 2967
+
+switch = true
+
+links = [
+ 'j:mta:walton',
+ 'walton',
+ 'september',
+]
+
+[BadLinks]
+'j:mta:walton' = 'walton.away'
+'walton' = 'walton.to walton'

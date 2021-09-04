@@ -1,0 +1,13 @@
+x = -6144
+y = 72
+z = 3775
+
+switch = true
+
+links = [
+ 'sa:city',
+#'gor:north', # Disabled at the request of the yoathl government
+#'gor:south'
+ 'j:sa:north',
+ 'j:sa:south',
+]

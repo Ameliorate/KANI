@@ -1,0 +1,9 @@
+x = -5918
+y = 60
+z = 3319
+
+switch = true
+
+links = [
+ 'j:sa:spratly',
+]

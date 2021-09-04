@@ -1,0 +1,15 @@
+x = -4877
+y = 11
+z = 3000
+
+switch = true
+
+links = [
+ 'j:mta:walton',
+ 'j:mta:sept',
+ 'westminster',
+]
+
+[BadLinks]
+'j:mta:walton' = 'mta:west'
+'j:mta:sept' = 'mta:east'

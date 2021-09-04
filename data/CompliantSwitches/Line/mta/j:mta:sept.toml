@@ -1,0 +1,15 @@
+x = -4871
+y = 11
+z = 3000
+
+switch = true
+
+links = [
+ 'j:mta:wm',
+ 'j:mta:canopus',
+ 'j:pi',
+]
+
+[BadLinks]
+'j:mta:wm' = 'mta:west'
+'j:mta:canopus' = 'mta:east'

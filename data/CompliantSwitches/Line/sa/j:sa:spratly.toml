@@ -1,0 +1,15 @@
+x = -6041
+y = 11
+z = 3319
+
+switch = true
+
+links = [
+ 'j:mta:sa',
+ 'sa:spratly',
+ 'j:sa:north',
+]
+
+[BadLinks]
+'j:mta:sa' = 'sa:northbound'
+'j:sa:north' = 'sa:southbound'
