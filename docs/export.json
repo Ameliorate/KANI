@@ -376,11 +376,13 @@
 		"station": true,
 		"contact": "andrea.shp#0352 474636313191120906",
 		"links": [
-			"j:pi",
 			"j:timc",
-			"westminster",
+			"j:redimc:spqr",
 			"spqr"
-		]
+		],
+		"BadLinks": {
+			"j:redimc:spqr": "redimc:east"
+		}
 	},
 	"arstotzka": {
 		"x": 6818,
@@ -520,19 +522,19 @@
 			"j:hits_wm",
 			"j:pnyc",
 			"j:sw:mta",
-			"imc",
+			"j:romacw:imc",
 			"southshire",
 			"meditat",
 			"hexcorp",
 			"taliesin",
 			"strassburg",
 			"arran",
-			"spqr",
 			"albion"
 		],
 		"BadLinks": {
 			"j:pnyc": "entrana.to",
-			"j:sw:mta": "0,0:ne"
+			"j:sw:mta": "0,0:ne",
+			"j:romacw:imc": "romacw:north"
 		}
 	},
 	"islaoccidental": {
@@ -692,7 +694,7 @@
 		"switch": true,
 		"links": [
 			"j:omts",
-			"imc",
+			"j:redimc:pi",
 			"j:mta:sept"
 		]
 	},
@@ -1205,6 +1207,21 @@
 			"j:picenia"
 		]
 	},
+	"j:romacw:imc": {
+		"x": -8015,
+		"y": 11,
+		"z": 3215,
+		"switch": true,
+		"links": [
+			"westminster",
+			"spqr",
+			"j:redimc:spqr"
+		],
+		"BadLinks": {
+			"westminster": "romacw:south westminster",
+			"spqr": "romacw:north spqr"
+		}
+	},
 	"j:pnyc": {
 		"x": -4902,
 		"y": 1,
@@ -1463,6 +1480,36 @@
 			"j:x3850_crab": "x3850:south"
 		}
 	},
+	"j:redimc:spqr": {
+		"x": -8011,
+		"y": 16,
+		"z": 3208,
+		"switch": true,
+		"links": [
+			"j:redimc:pi",
+			"imc",
+			"j:romacw:imc"
+		],
+		"BadLinks": {
+			"j:redimc:pi": "redimc:east",
+			"imc": "redimc:west imc"
+		}
+	},
+	"j:redimc:pi": {
+		"x": -6839,
+		"y": 18,
+		"z": 2370,
+		"switch": true,
+		"links": [
+			"j:redline:imc",
+			"j:redimc:spqr",
+			"j:pi"
+		],
+		"BadLinks": {
+			"j:redline:imc": "redimc:east",
+			"j:redimc:spqr": "redimc:west"
+		}
+	},
 	"j:walton:sept": {
 		"x": -5698,
 		"y": 11,
@@ -1476,6 +1523,20 @@
 		"BadLinks": {
 			"j:mta:walton": "walton.away",
 			"walton": "walton.to walton"
+		}
+	},
+	"j:redline:imc": {
+		"x": -6701,
+		"y": 8,
+		"z": 2261,
+		"switch": true,
+		"links": [
+			"j:hits_redline",
+			"j:redimc:pi"
+		],
+		"BadLinks": {
+			"j:hits_redline": "redline:south",
+			"j:redimc:pi": "redimc:west"
 		}
 	},
 	"j:sa:spratly": {
@@ -1817,14 +1878,13 @@
 		"switch": true,
 		"links": [
 			"j:hits_mta",
-			"j:hits_spqr"
+			"j:hits_spqr",
+			"j:redline:imc"
 		],
 		"BadLinks": {
 			"j:hits_mta": "hits:south",
 			"j:hits_spqr": "hits:north",
-			"icenia": "redline:north icenia",
-			"bloom": "redline:north bloom",
-			"gabon": "redline:north gabon"
+			"j:redline:imc": "redline:north"
 		}
 	},
 	"j:hits_lusitania": {
@@ -2378,9 +2438,12 @@
 		"links": [
 			"j:iskv",
 			"j:hits_spqr",
-			"imc",
-			"westminster"
-		]
+			"j:romacw:imc",
+			"imc"
+		],
+		"BadLinks": {
+			"j:romacw:imc": "romacw:south"
+		}
 	},
 	"forta'are": {
 		"x": 274,
