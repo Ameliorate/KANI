@@ -1,0 +1,15 @@
+x = -6839
+y = 18
+z = 2370
+
+switch = true
+
+links = [
+ 'j:redline:imc',
+ 'j:redimc:spqr',
+ 'j:pi',
+]
+
+[BadLinks]
+'j:redline:imc' = 'redimc:east'
+'j:redimc:spqr' = 'redimc:west'

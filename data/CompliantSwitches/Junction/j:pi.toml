@@ -6,6 +6,6 @@ switch = true
 
 links = [
  'j:omts',
- 'imc',
+ 'j:redimc:pi',
  'j:mta:sept',
 ]

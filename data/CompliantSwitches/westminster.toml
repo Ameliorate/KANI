@@ -13,17 +13,17 @@ links = [
  'j:hits_wm',
  'j:pnyc',
  'j:sw:mta',
- 'imc',
+ 'j:romacw:imc',
  'southshire',
  'meditat',
  'hexcorp',
  'taliesin',
  'strassburg',
  'arran',
- 'spqr',
  'albion',
 ]
 
 [BadLinks]
 'j:pnyc' = 'entrana.to'
 'j:sw:mta' = '0,0:ne'
+'j:romacw:imc' = 'romacw:north'

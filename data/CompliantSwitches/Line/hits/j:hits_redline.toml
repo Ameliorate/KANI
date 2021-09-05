@@ -7,14 +7,10 @@ switch = true
 links = [
  'j:hits_mta',
  'j:hits_spqr',
-#'icenia',
-#'bloom',
-#'gabon',
+ 'j:redline:imc',
 ]
 
 [BadLinks]
 'j:hits_mta' = 'hits:south'
 'j:hits_spqr' = 'hits:north'
-'icenia' = 'redline:north icenia'
-'bloom' = 'redline:north bloom'
-'gabon' = 'redline:north gabon'
+'j:redline:imc' = 'redline:north'

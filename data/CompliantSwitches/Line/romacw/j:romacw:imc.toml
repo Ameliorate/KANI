@@ -1,0 +1,15 @@
+x = -8015
+y = 11
+z = 3215
+
+switch = true
+
+links = [
+ 'westminster',
+ 'spqr',
+ 'j:redimc:spqr',
+]
+
+[BadLinks]
+'westminster' = 'romacw:south westminster'
+'spqr' = 'romacw:north spqr'

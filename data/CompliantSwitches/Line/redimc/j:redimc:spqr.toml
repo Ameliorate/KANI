@@ -1,0 +1,15 @@
+x = -8011
+y = 16
+z = 3208
+
+switch = true
+
+links = [
+ 'j:redimc:pi',
+ 'imc',
+ 'j:romacw:imc',
+]
+
+[BadLinks]
+'j:redimc:pi' = 'redimc:east'
+'imc' = 'redimc:west imc'

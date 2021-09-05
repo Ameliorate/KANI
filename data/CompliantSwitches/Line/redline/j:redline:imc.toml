@@ -1,0 +1,16 @@
+x = -6701
+y = 8
+z = 2261
+
+switch = true
+
+links = [
+ 'j:hits_redline',
+#'j:redline:',
+ 'j:redimc:pi',
+]
+
+[BadLinks]
+'j:hits_redline' = 'redline:south'
+#'j:redline:' = 'redline:north'
+'j:redimc:pi' = 'redimc:west'
