@@ -10,40 +10,16 @@ import time
 import json
 from math import sqrt
 from os import environ
+from common import *
 
-datadir = r'./data'
+data = get_data()
 
-data = {}
-
-def processFile(path, name):
-    try:
-        name = name.removesuffix('.toml')
-        myData = toml.load(path)
-        myData['name'] = name
-        myData['filepath'] = path
-        if 'links' not in myData:
-            myData['links'] = []
-        if 'BadLinks' not in myData:
-            myData['BadLinks'] = {}
-        data[name] = myData
-    except Error as e:
-        print(f"Error while reading file {path}", file=stderr)
-        raise e
-
-for subdir, dirs, files in os.walk(datadir):
-    for filename in files:
-        filepath = subdir + os.sep + filename
-
-        if filepath.endswith('.toml'):
-            processFile(filepath, filename)
-
-optional_fields = 'description location inaccuratelocation switch station advisory aliases'.split(' ')
+optional_fields = 'description location inaccuratelocation switch station advisory aliases type'.split(' ')
 
 def format_node(node):
     o = {}
     o['id'] = 'ccmap:kani/node/' + node['name']
     o['name'] = node['name'].title() + ' (KANI)'
-    o['type'] = node['filepath'].split(os.sep)[2]
     o['x'] = int(node['x'])
     o['z'] = int(node['z'])
     if 'y' in node:

@@ -1,32 +1,8 @@
 #!/usr/bin/python3
 
-import toml
-import os
-from sys import stderr
-from collections import deque
-from copy import deepcopy
-import json
+from common import *
 
-datadir = r'./data'
-
-data = {}
-
-def processFile(path, name):
-    print(f"Processing file {path}", file=stderr)
-    name = name.removesuffix('.toml')
-    myData = toml.load(path)
-    if 'links' not in myData:
-        myData['links'] = []
-    if 'BadLinks' not in myData:
-        myData['BadLinks'] = {}
-    data[name] = myData
-
-for subdir, dirs, files in os.walk(datadir):
-    for filename in files:
-        filepath = subdir + os.sep + filename
-
-        if filepath.endswith('.toml'):
-            processFile(filepath, filename)
+data = get_data()
 
 has_error = False
 
