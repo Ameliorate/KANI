@@ -5,6 +5,7 @@
 		"x": -1800,
 		"z": -1300,
 		"links": [
+			"j:redline:ice",
 			"icenia",
 			"icenia:westisle",
 			"icenia:drippy",
@@ -18,7 +19,7 @@
 			"icenia:westisle": "westisle",
 			"icenia:nether": "nether",
 			"icenia:drippy": "drippy",
-			"canvasblue": "mta canvasblue"
+			"canvasblue": "j:redline:ice canvasblue"
 		}
 	},
 	"j:its": {
@@ -426,12 +427,16 @@
 		"station": true,
 		"links": [
 			"j:bwy",
+			"j:redline:gab",
 			"icenia",
 			"genso:roe",
 			"it:anburon",
 			"coventhia",
 			"gabon"
-		]
+		],
+		"BadLinks": {
+			"j:redline:gab": "redline:south"
+		}
 	},
 	"lumiere": {
 		"x": -7928,
@@ -799,6 +804,7 @@
 		"links": [
 			"j:pmts",
 			"j:pi",
+			"j:redline:mts",
 			"september"
 		]
 	},
@@ -898,12 +904,14 @@
 	},
 	"j:pvark": {
 		"x": -4860,
+		"y": 11,
 		"z": 0,
+		"description": "Not actually connected to varkonia anymore",
 		"switch": true,
 		"links": [
-			"varkonia",
 			"j:pmts",
-			"j:hits_z0"
+			"j:hits_z0",
+			"j:redline:z0"
 		]
 	},
 	"j:low": {
@@ -1525,6 +1533,51 @@
 			"walton": "walton.to walton"
 		}
 	},
+	"j:redline:gab": {
+		"x": -3081,
+		"y": 11,
+		"z": -1656,
+		"switch": true,
+		"links": [
+			"j:redline:ice",
+			"bloom",
+			"gabon"
+		],
+		"BadLinks": {
+			"j:redline:ice": "redline:south",
+			"bloom": "redline:north bloom"
+		}
+	},
+	"j:redline:z0": {
+		"x": -4869,
+		"y": 11,
+		"z": 197,
+		"switch": true,
+		"links": [
+			"j:redline:mts",
+			"j:redline:ice",
+			"j:pvark"
+		],
+		"BadLinks": {
+			"j:redline:mts": "redline:south",
+			"j:redline:ice": "redline:north"
+		}
+	},
+	"j:redline:ice": {
+		"x": -3260,
+		"y": 11,
+		"z": -1413,
+		"switch": true,
+		"links": [
+			"j:redline:z0",
+			"j:redline:gab",
+			"j:cabalwest"
+		],
+		"BadLinks": {
+			"j:redline:z0": "redline:south",
+			"j:redline:gab": "redline:north"
+		}
+	},
 	"j:redline:imc": {
 		"x": -6701,
 		"y": 8,
@@ -1532,11 +1585,28 @@
 		"switch": true,
 		"links": [
 			"j:hits_redline",
+			"j:redline:mts",
 			"j:redimc:pi"
 		],
 		"BadLinks": {
 			"j:hits_redline": "redline:south",
+			"j:redline:mts": "redline:north",
 			"j:redimc:pi": "redimc:west"
+		}
+	},
+	"j:redline:mts": {
+		"x": -4875,
+		"y": 11,
+		"z": 197,
+		"switch": true,
+		"links": [
+			"j:redline:imc",
+			"j:redline:z0",
+			"j:omts"
+		],
+		"BadLinks": {
+			"j:redline:imc": "redline:south",
+			"j:redline:z0": "redline:north"
 		}
 	},
 	"j:sa:spratly": {
@@ -2125,6 +2195,7 @@
 			"icenia",
 			"j:picenia",
 			"j:sad",
+			"j:redline:gab",
 			"bloom"
 		]
 	},
@@ -2323,7 +2394,6 @@
 		"x": -4861,
 		"z": -2769,
 		"links": [
-			"j:pvark",
 			"j:iskv",
 			"j:bwy"
 		]
