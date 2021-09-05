@@ -14,7 +14,7 @@ from common import *
 
 data = get_data()
 
-optional_fields = 'description location inaccuratelocation switch station advisory aliases type'.split(' ')
+optional_fields = 'description location inaccuratelocation switch station advisory aliases type filepath'.split(' ')
 
 def format_node(node):
     o = {}
