@@ -1,0 +1,15 @@
+x = -4875
+y = 11
+z = 197
+
+switch = true
+
+links = [
+ 'j:redline:imc',
+ 'j:redline:z0',
+ 'j:omts',
+]
+
+[BadLinks]
+'j:redline:imc' = 'redline:south'
+'j:redline:z0' = 'redline:north'

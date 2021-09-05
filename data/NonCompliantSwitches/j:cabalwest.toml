@@ -5,6 +5,7 @@ x = -1800 # Distributed network, estimated
 z = -1300
 
 links = [
+ "j:redline:ice",
  "icenia",
  "icenia:westisle",
  "icenia:drippy",
@@ -20,4 +21,4 @@ switch = true
 "icenia:westisle" = "westisle"
 "icenia:nether" = "nether"
 "icenia:drippy" = "drippy"
-"canvasblue" = "mta canvasblue"
+"canvasblue" = "j:redline:ice canvasblue"

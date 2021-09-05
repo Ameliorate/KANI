@@ -1,0 +1,15 @@
+x = -3081
+y = 11
+z = -1656
+
+switch = true
+
+links = [
+ 'j:redline:ice',
+ 'bloom',
+ 'gabon',
+]
+
+[BadLinks]
+'j:redline:ice' = 'redline:south'
+'bloom' = 'redline:north bloom'

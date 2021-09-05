@@ -6,11 +6,11 @@ switch = true
 
 links = [
  'j:hits_redline',
-#'j:redline:',
+ 'j:redline:mts',
  'j:redimc:pi',
 ]
 
 [BadLinks]
 'j:hits_redline' = 'redline:south'
-#'j:redline:' = 'redline:north'
+'j:redline:mts' = 'redline:north'
 'j:redimc:pi' = 'redimc:west'

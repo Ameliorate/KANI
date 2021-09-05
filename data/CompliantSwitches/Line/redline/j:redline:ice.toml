@@ -1,0 +1,15 @@
+x = -3260
+y = 11
+z = -1413
+
+switch = true
+
+links = [
+ 'j:redline:z0',
+ 'j:redline:gab',
+ 'j:cabalwest',
+]
+
+[BadLinks]
+'j:redline:z0' = 'redline:south'
+'j:redline:gab' = 'redline:north'
