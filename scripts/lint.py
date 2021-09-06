@@ -49,6 +49,11 @@ for destination in data.keys():
         if destination not in link_data.get('links'):
             print(f"{destination} lists link {link}, however {link} does not list link {destination}")
             has_error = True
+    
+    if dest_data['type'] == "CompliantSwitches" or dest_data['type'] == "NonCompliantSwitches":
+        if not dest_data.get('switch') and not dest_data.get('station'):
+            print(f"{destination} is in a switch folder but does not have switch or station = true")
+            has_error = True
 
 if has_error:
     exit(1)
