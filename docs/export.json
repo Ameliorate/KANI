@@ -214,19 +214,6 @@
 		"y": 138,
 		"z": -106
 	},
-	"axiom": {
-		"BadLinks": {},
-		"filepath": "./data/CompliantSwitches/axiom.toml",
-		"links": [
-			"j:piria"
-		],
-		"name": "axiom",
-		"station": true,
-		"type": "CompliantSwitches",
-		"x": 3004,
-		"y": 15,
-		"z": -1049
-	},
 	"besia": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/besia.toml",
@@ -2371,7 +2358,6 @@
 			"j:pend",
 			"oasis",
 			"j:gensig",
-			"axiom",
 			"aurum",
 			"aurum:cactus"
 		],
