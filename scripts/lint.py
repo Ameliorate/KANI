@@ -1,14 +1,25 @@
 #!/usr/bin/python3
 
+from dijkstar import Graph, find_path, NoPathError
 from common import *
 
 data = get_data()
 
 has_error = False
 
-coordinates = {}
-aliases = {}
+coordinates = {} # used for coordinate collision check
+aliases = {} # used for aliases collision check
 
+# create routing graph for use in checks
+graph = Graph()
+
+for destination in data.keys():
+    dest_data = data[destination]
+    if 'links' in dest_data:
+        for link in dest_data['links']:
+            graph.add_edge(destination, link, 1)
+
+# start the checking
 for destination in data.keys():
     dest_data = data[destination]
 
@@ -74,6 +85,13 @@ for destination in data.keys():
                 if alias == destination2:
                     print(f"{destination} has alias {alias} that is also a canonical destination")
                     has_error = True
+
+    # check if node is connected to 0,0
+    try:
+        find_path(graph, destination, "0,0")
+    except NoPathError:
+        print(f"{destination} is not connected to 0,0")
+        has_error = True
 
 if has_error:
     exit(1)
