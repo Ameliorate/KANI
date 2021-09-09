@@ -7,6 +7,7 @@ data = get_data()
 has_error = False
 
 coordinates = {}
+aliases = {}
 
 for destination in data.keys():
     dest_data = data[destination]
@@ -49,11 +50,30 @@ for destination in data.keys():
         if destination not in link_data.get('links'):
             print(f"{destination} lists link {link}, however {link} does not list link {destination}")
             has_error = True
-    
+
+    # if is in switches folder, check if switch    
     if dest_data['type'] == "CompliantSwitches" or dest_data['type'] == "NonCompliantSwitches":
         if not dest_data.get('switch') and not dest_data.get('station'):
             print(f"{destination} is in a switch folder but does not have switch or station = true")
             has_error = True
+
+    # lint all aliases
+    if 'aliases' in dest_data:
+        for alias in dest_data.get('aliases'):
+
+            # check for duplicate aliases
+            if alias in aliases:
+                otheralias = aliases[alias]
+                print(f"{destination} has alias {alias} that also points to {otheralias}")
+                has_error = True
+            else:
+                aliases[alias] = destination
+
+            # check for aliases that are also canonical destination
+            for destination2 in data.keys():
+                if alias == destination2:
+                    print(f"{destination} has alias {alias} that is also a canonical destination")
+                    has_error = True
 
 if has_error:
     exit(1)
