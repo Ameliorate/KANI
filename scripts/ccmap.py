@@ -24,6 +24,7 @@ def format_node(node):
     o['z'] = int(node['z'])
     if 'y' in node:
         o['y'] = int(node['y'])
+    o['link_count'] = len(node['links'])
     for key in optional_fields:
         if key in node:
             o[key] = node[key]
