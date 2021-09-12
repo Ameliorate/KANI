@@ -1957,8 +1957,9 @@
 	},
 	"j:medi:ll": {
 		"BadLinks": {
-			"j:medi:": "medi:clock",
-			"j:medi:cc": "medi:aclock"
+			"j:ll:hits": "ll:east",
+			"j:medi:cc": "medi:aclock",
+			"j:medi:lusit": "medi:clock"
 		},
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:ll.toml",
 		"links": [
