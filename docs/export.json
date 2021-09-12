@@ -2786,13 +2786,13 @@
 	},
 	"j:romacw:imc": {
 		"BadLinks": {
-			"spqr": "romacw:north spqr",
+			"j:romacw:lanni": "romacw:north",
 			"westminster": "romacw:south westminster"
 		},
 		"filepath": "./data/CompliantSwitches/Line/romacw/j:romacw:imc.toml",
 		"links": [
 			"westminster",
-			"spqr",
+			"j:romacw:lanni",
 			"j:redimc:spqr"
 		],
 		"name": "j:romacw:imc",
@@ -2801,6 +2801,24 @@
 		"x": -8015,
 		"y": 11,
 		"z": 3215
+	},
+	"j:romacw:lanni": {
+		"BadLinks": {
+			"j:romacw:imc": "romacw:south",
+			"spqr": "romacw:north spqr"
+		},
+		"filepath": "./data/CompliantSwitches/Line/romacw/j:romacw:lanni.toml",
+		"links": [
+			"spqr",
+			"j:romacw:imc",
+			"lanni"
+		],
+		"name": "j:romacw:lanni",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -10232,
+		"y": 11,
+		"z": 760
 	},
 	"j:sa:east": {
 		"BadLinks": {},
@@ -3262,6 +3280,21 @@
 		"x": 7066,
 		"y": 1,
 		"z": -1507
+	},
+	"lanni": {
+		"BadLinks": {},
+		"aliases": [
+			"western agricultural union"
+		],
+		"filepath": "./data/TerminalDestinations/lanni.toml",
+		"links": [
+			"j:romacw:lanni"
+		],
+		"name": "lanni",
+		"type": "TerminalDestinations",
+		"x": -11938,
+		"y": 1,
+		"z": 759
 	},
 	"lazulitower": {
 		"BadLinks": {},
@@ -3944,7 +3977,7 @@
 	},
 	"spqr": {
 		"BadLinks": {
-			"j:romacw:imc": "romacw:south"
+			"j:romacw:lanni": "romacw:south"
 		},
 		"aliases": [
 			"roma"
@@ -3954,7 +3987,7 @@
 		"links": [
 			"j:iskv",
 			"j:hits_spqr",
-			"j:romacw:imc",
+			"j:romacw:lanni",
 			"imc"
 		],
 		"name": "spqr",
