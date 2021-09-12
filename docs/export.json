@@ -356,6 +356,18 @@
 		"y": 12,
 		"z": 5235
 	},
+	"centumcellas": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/centumcellas.toml",
+		"links": [
+			"j:medi:cc"
+		],
+		"name": "centumcellas",
+		"type": "TerminalDestinations",
+		"x": -7398,
+		"y": 64,
+		"z": -3390
+	},
 	"ch1prempire": {
 		"BadLinks": {},
 		"aliases": [
@@ -556,6 +568,7 @@
 			"j:picenia",
 			"j:sad",
 			"j:redline:gab",
+			"j:ll:gabon",
 			"bloom"
 		],
 		"name": "gabon",
@@ -1523,7 +1536,8 @@
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_ll.toml",
 		"links": [
 			"j:hits_atlantis",
-			"j:hits_lusitania"
+			"j:hits_lusitania",
+			"j:ll:hits"
 		],
 		"name": "j:hits_ll",
 		"switch": true,
@@ -1835,6 +1849,42 @@
 		"y": 4,
 		"z": 5113
 	},
+	"j:ll:gabon": {
+		"BadLinks": {
+			"j:ll:hits": "ll:west",
+			"lambat:newstation": "ll:east lambat"
+		},
+		"filepath": "./data/CompliantSwitches/Line/ll/j:ll:gabon.toml",
+		"links": [
+			"lambat:newstation",
+			"j:ll:hits",
+			"gabon"
+		],
+		"name": "j:ll:gabon",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -3141,
+		"y": 12,
+		"z": -2320
+	},
+	"j:ll:hits": {
+		"BadLinks": {
+			"j:ll:gabon": "ll:east",
+			"j:medi:ll": "ll:west"
+		},
+		"filepath": "./data/CompliantSwitches/Line/ll/j:ll:hits.toml",
+		"links": [
+			"j:ll:gabon",
+			"j:medi:ll",
+			"j:hits_ll"
+		],
+		"name": "j:ll:hits",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -6708,
+		"y": 12,
+		"z": -2870
+	},
 	"j:lohq": {
 		"BadLinks": {
 			"j:crab": "entrana.to",
@@ -1885,6 +1935,80 @@
 		"x": 8706,
 		"y": 11,
 		"z": 4720
+	},
+	"j:medi:cc": {
+		"BadLinks": {
+			"centumcellas": ".centumcellas",
+			"j:medi:ll": "medi:aclock",
+			"j:medi:olimpia": "medi:clock"
+		},
+		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:cc.toml",
+		"links": [
+			"j:medi:ll",
+			"j:medi:olimpia",
+			"centumcellas"
+		],
+		"name": "j:medi:cc",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -7393,
+		"y": 64,
+		"z": -3390
+	},
+	"j:medi:ll": {
+		"BadLinks": {
+			"j:medi:": "medi:clock",
+			"j:medi:cc": "medi:aclock"
+		},
+		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:ll.toml",
+		"links": [
+			"j:medi:lusit",
+			"j:medi:cc",
+			"j:ll:hits"
+		],
+		"name": "j:medi:ll",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -7490,
+		"y": 72,
+		"z": -3537
+	},
+	"j:medi:lusit": {
+		"BadLinks": {
+			"j:medi:end2": "medi:aclock",
+			"j:medi:ll": "medi:clock"
+		},
+		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:lusit.toml",
+		"links": [
+			"medi:end2",
+			"j:medi:ll",
+			"lusitania",
+			"littlesw"
+		],
+		"name": "j:medi:lusit",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -7740,
+		"y": 72,
+		"z": -3619
+	},
+	"j:medi:olimpia": {
+		"BadLinks": {
+			"j:medi:cc": "medi:aclock",
+			"j:medi:end": "medi:clock medi:end"
+		},
+		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:olimpia.toml",
+		"links": [
+			"j:medi:cc",
+			"medi:end",
+			"olimpia"
+		],
+		"name": "j:medi:olimpia",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -7275,
+		"y": 66,
+		"z": -3138
 	},
 	"j:met": {
 		"BadLinks": {},
@@ -3102,6 +3226,18 @@
 		"y": 12,
 		"z": -1575
 	},
+	"lambat:newstation": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/lambat:newstation.toml",
+		"links": [
+			"j:ll:gabon"
+		],
+		"name": "lambat:newstation",
+		"type": "TerminalDestinations",
+		"x": 7022,
+		"y": 12,
+		"z": -160
+	},
 	"lambat:treefarms": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/lambat:treefarms.toml",
@@ -3190,6 +3326,18 @@
 		"y": 1,
 		"z": 5001
 	},
+	"littlesw": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/littlesw.toml",
+		"links": [
+			"j:medi:lusit"
+		],
+		"name": "littlesw",
+		"type": "TerminalDestinations",
+		"x": -7720,
+		"y": 72,
+		"z": -3830
+	},
 	"lohq": {
 		"BadLinks": {},
 		"aliases": [
@@ -3252,7 +3400,8 @@
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/lusitania.toml",
 		"links": [
-			"j:hits_lusitania"
+			"j:hits_lusitania",
+			"j:medi:lusit"
 		],
 		"name": "lusitania",
 		"type": "TerminalDestinations",
@@ -3283,6 +3432,32 @@
 		"x": 7447,
 		"y": 1,
 		"z": -8800
+	},
+	"medi:end": {
+		"BadLinks": {
+			"j:medi:olimpia": "medi:aclock"
+		},
+		"filepath": "./data/TerminalDestinations/medi:end.toml",
+		"links": [
+			"j:medi:olimpia"
+		],
+		"name": "medi:end",
+		"type": "TerminalDestinations",
+		"x": -6048,
+		"y": 68,
+		"z": -3245
+	},
+	"medi:end2": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/medi:end2.toml",
+		"links": [
+			"j:medi:lusit"
+		],
+		"name": "medi:end2",
+		"type": "TerminalDestinations",
+		"x": -8006,
+		"y": 72,
+		"z": -3593
 	},
 	"meditat": {
 		"BadLinks": {},
@@ -3508,6 +3683,19 @@
 		"x": 2572,
 		"y": 9,
 		"z": -2266
+	},
+	"olimpia": {
+		"BadLinks": {},
+		"advisory": "The switch at olimpia can only route anticlockwise. Travel times may be increased",
+		"filepath": "./data/TerminalDestinations/olimpia.toml",
+		"links": [
+			"j:medi:olimpia"
+		],
+		"name": "olimpia",
+		"type": "TerminalDestinations",
+		"x": -7267,
+		"y": 66,
+		"z": -3085
 	},
 	"ozonrough": {
 		"BadLinks": {},
