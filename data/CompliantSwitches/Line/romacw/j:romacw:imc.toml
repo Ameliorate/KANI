@@ -6,10 +6,10 @@ switch = true
 
 links = [
  'westminster',
- 'spqr',
+ 'j:romacw:lanni',
  'j:redimc:spqr',
 ]
 
 [BadLinks]
 'westminster' = 'romacw:south westminster'
-'spqr' = 'romacw:north spqr'
+'j:romacw:lanni' = 'romacw:north'

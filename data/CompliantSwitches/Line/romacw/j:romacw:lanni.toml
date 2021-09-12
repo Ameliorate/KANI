@@ -1,0 +1,15 @@
+x = -10232
+y = 11
+z = 760
+
+switch = true
+
+links = [
+ 'spqr',
+ 'j:romacw:imc',
+ 'lanni',
+]
+
+[BadLinks]
+'spqr' = 'romacw:north spqr'
+'j:romacw:imc' = 'romacw:south'

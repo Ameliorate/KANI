@@ -9,9 +9,9 @@ z = -5850
 links = [
  'j:iskv',
  'j:hits_spqr',
- 'j:romacw:imc',
+ 'j:romacw:lanni',
  'imc',
 ]
 
 [BadLinks]
-'j:romacw:imc' = 'romacw:south'
+'j:romacw:lanni' = 'romacw:south'
