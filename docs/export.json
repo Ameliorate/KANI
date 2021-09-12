@@ -905,8 +905,7 @@
 		"filepath": "./data/CompliantSwitches/imc.toml",
 		"links": [
 			"j:timc",
-			"j:redimc:spqr",
-			"spqr"
+			"j:redimc:spqr"
 		],
 		"name": "imc",
 		"station": true,
@@ -3987,8 +3986,7 @@
 		"links": [
 			"j:iskv",
 			"j:hits_spqr",
-			"j:romacw:lanni",
-			"imc"
+			"j:romacw:lanni"
 		],
 		"name": "spqr",
 		"type": "TerminalDestinations",
