@@ -1,0 +1,15 @@
+x = -7490
+y = 72
+z = -3537
+
+switch = true
+
+links = [
+ 'j:medi:lusit',
+ 'j:medi:cc',
+ 'j:ll:hits',
+]
+
+[BadLinks]
+'j:medi:cc' = 'medi:aclock'
+'j:medi:' = 'medi:clock'

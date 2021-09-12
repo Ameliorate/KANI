@@ -1,0 +1,16 @@
+x = -6708
+y = 12
+z = -2870
+
+switch = true
+
+links = [
+ 'j:ll:gabon',
+ 'j:medi:ll',
+ 'j:hits_ll',
+]
+
+[BadLinks]
+'j:ll:gabon' = 'll:east'
+'j:medi:ll' = 'll:west'
+

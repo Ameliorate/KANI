@@ -1,0 +1,15 @@
+x = -7275
+y = 66
+z = -3138
+
+switch = true
+
+links = [
+ 'j:medi:cc',
+ 'medi:end',
+ 'olimpia',
+]
+
+[BadLinks]
+'j:medi:cc' = 'medi:aclock'
+'j:medi:end' = 'medi:clock medi:end'

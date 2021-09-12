@@ -1,0 +1,16 @@
+x = -7393
+y = 64
+z = -3390
+
+switch = true
+
+links = [
+ 'j:medi:ll',
+ 'j:medi:olimpia',
+ 'centumcellas',
+]
+
+[BadLinks]
+'j:medi:ll' = 'medi:aclock'
+'j:medi:olimpia' = 'medi:clock'
+'centumcellas' = '.centumcellas'

@@ -1,0 +1,10 @@
+x = -6048
+y = 68
+z = -3245
+
+links = [
+ 'j:medi:olimpia',
+]
+
+[BadLinks]
+'j:medi:olimpia' = 'medi:aclock'

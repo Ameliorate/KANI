@@ -1,0 +1,16 @@
+x = -7740
+y = 72
+z = -3619
+
+switch = true
+
+links = [
+ 'medi:end2',
+ 'j:medi:ll',
+ 'lusitania',
+ 'littlesw',
+]
+
+[BadLinks]
+'j:medi:end2' = 'medi:aclock'
+'j:medi:ll' = 'medi:clock'

@@ -1,0 +1,15 @@
+x = -3141
+y = 12
+z = -2320
+
+switch = true
+
+links = [
+ 'lambat:newstation',
+ 'j:ll:hits',
+ 'gabon',
+]
+
+[BadLinks]
+'lambat:newstation' = 'll:east lambat'
+'j:ll:hits' = 'll:west'

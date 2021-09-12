@@ -7,7 +7,7 @@ switch = true
 links = [
  'j:hits_atlantis',
  'j:hits_lusitania',
-#'j:ll_hits,
+ 'j:ll:hits',
 ]
 
 [BadLinks]

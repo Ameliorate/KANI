@@ -1,0 +1,9 @@
+x = -7267
+y = 66
+z = -3085
+
+advisory = "The switch at olimpia can only route anticlockwise. Travel times may be increased"
+
+links = [
+ 'j:medi:olimpia',
+]
