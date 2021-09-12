@@ -1958,8 +1958,8 @@
 	"j:medi:ll": {
 		"BadLinks": {
 			"j:ll:hits": "ll:east",
-			"j:medi:cc": "medi:aclock",
-			"j:medi:lusit": "medi:clock"
+			"j:medi:cc": "medi:clock",
+			"j:medi:lusit": "medi:aclock"
 		},
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:ll.toml",
 		"links": [
@@ -1996,7 +1996,7 @@
 	"j:medi:olimpia": {
 		"BadLinks": {
 			"j:medi:cc": "medi:aclock",
-			"j:medi:end": "medi:clock medi:end"
+			"medi:end": "medi:clock medi:end"
 		},
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:olimpia.toml",
 		"links": [
