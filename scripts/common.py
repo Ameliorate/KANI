@@ -14,7 +14,7 @@ def process_file(path, name):
         if 'BadLinks' not in myData:
             myData['BadLinks'] = {}
         return myData
-    except Error as e:
+    except Exception as e:
         print(f"Error while reading file {path}", file=stderr)
         raise e
 
