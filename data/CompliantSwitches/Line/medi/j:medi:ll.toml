@@ -11,6 +11,6 @@ links = [
 ]
 
 [BadLinks]
-'j:medi:cc' = 'medi:aclock'
-'j:medi:lusit' = 'medi:clock'
+'j:medi:cc' = 'medi:clock'
+'j:medi:lusit' = 'medi:aclock'
 'j:ll:hits' = 'll:east'

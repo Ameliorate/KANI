@@ -12,4 +12,4 @@ links = [
 
 [BadLinks]
 'j:medi:cc' = 'medi:aclock'
-'j:medi:end' = 'medi:clock medi:end'
+'medi:end' = 'medi:clock medi:end'
