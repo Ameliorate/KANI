@@ -3510,8 +3510,7 @@
 		"description": "Vault Nation of Mir",
 		"filepath": "./data/TerminalDestinations/mir.toml",
 		"links": [
-			"j:po",
-			"savion"
+			"j:po"
 		],
 		"name": "mir",
 		"type": "TerminalDestinations",
@@ -3889,8 +3888,7 @@
 			"j:coesav",
 			"iria",
 			"iria:jungle",
-			"iria:desert",
-			"mir"
+			"iria:desert"
 		],
 		"name": "savion",
 		"station": true,
