@@ -7,7 +7,7 @@ switch = true
 links = [
  'j:kcal',
  'caledonia',
- 'lambat:under',
+#'lambat:under', # Disabled by request of lambat
  'rainier',
 #'u3p', # Disabled to reduce complexity of using u3p station
  'party_island',
