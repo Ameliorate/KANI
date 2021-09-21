@@ -2368,7 +2368,6 @@
 		"links": [
 			"j:kcal",
 			"caledonia",
-			"lambat:under",
 			"rainier",
 			"party_island"
 		],
@@ -3267,18 +3266,6 @@
 		"x": 6659,
 		"y": 71,
 		"z": -1572
-	},
-	"lambat:under": {
-		"BadLinks": {},
-		"filepath": "./data/TerminalDestinations/lambat:under.toml",
-		"links": [
-			"j:party"
-		],
-		"name": "lambat:under",
-		"type": "TerminalDestinations",
-		"x": 7066,
-		"y": 1,
-		"z": -1507
 	},
 	"lanni": {
 		"BadLinks": {},
