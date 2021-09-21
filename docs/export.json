@@ -788,8 +788,8 @@
 			"j:icegen",
 			"j:iskv",
 			"j:wiv",
+			"j:potato",
 			"icenia:nether",
-			"icenia:potato",
 			"it:anburon",
 			"icenia:drippy",
 			"icenia:westisle",
@@ -858,12 +858,13 @@
 		"description": "A exp-sized potato farm south of WestIsle.",
 		"filepath": "./data/TerminalDestinations/icenia:potato.toml",
 		"links": [
-			"icenia"
+			"j:potato"
 		],
 		"name": "icenia:potato",
 		"type": "TerminalDestinations",
-		"x": -1550,
-		"z": -744
+		"x": -1512,
+		"y": 178,
+		"z": -740
 	},
 	"icenia:westisle": {
 		"BadLinks": {},
@@ -2585,6 +2586,21 @@
 		"y": 12,
 		"z": 0
 	},
+	"j:potato": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:potato.toml",
+		"links": [
+			"icenia",
+			"icenia:potato",
+			"snowpeak"
+		],
+		"name": "j:potato",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -6171,
+		"y": 11,
+		"z": -780
+	},
 	"j:pp": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:pp.toml",
@@ -3933,6 +3949,18 @@
 		"type": "TerminalDestinations",
 		"x": 2315,
 		"z": -1360
+	},
+	"snowpeak": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/snowpeak.toml",
+		"links": [
+			"j:potato"
+		],
+		"name": "snowpeak",
+		"type": "TerminalDestinations",
+		"x": -1614,
+		"y": 11,
+		"z": -492
 	},
 	"socalist_ruler": {
 		"BadLinks": {},
