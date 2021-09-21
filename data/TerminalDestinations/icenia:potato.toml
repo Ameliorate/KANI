@@ -1,8 +1,9 @@
 description = "A exp-sized potato farm south of WestIsle."
 
-x = -1550
-z = -744
+x = -1512
+y = 178
+z = -740
 
 links = [
-  "icenia",
+  "j:potato",
 ]

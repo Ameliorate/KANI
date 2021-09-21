@@ -1,0 +1,11 @@
+x = -6171
+y = 11
+z = -780
+
+switch = true
+
+links = [
+ 'icenia',
+ 'icenia:potato',
+ 'snowpeak',
+]
