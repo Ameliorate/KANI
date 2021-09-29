@@ -1349,7 +1349,7 @@
 		"links": [
 			"j:coe:east",
 			"j:coesav",
-			"j:nyaann",
+			"j:jomsborg",
 			"j:gonem",
 			"threelakes"
 		],
@@ -1776,6 +1776,21 @@
 		"type": "NonCompliantSwitches",
 		"x": -1700,
 		"z": -1300
+	},
+	"j:jomsborg": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:jomsborg.toml",
+		"links": [
+			"j:nyaann",
+			"j:coegon",
+			"jomsborg"
+		],
+		"name": "j:jomsborg",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 3851,
+		"y": 1,
+		"z": -4240
 	},
 	"j:kal": {
 		"BadLinks": {},
@@ -2291,7 +2306,7 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:nyaann.toml",
 		"links": [
 			"nyasaland",
-			"j:coegon",
+			"j:jomsborg",
 			"j:ann",
 			"threelakes"
 		],
@@ -3189,6 +3204,18 @@
 		"x": -679,
 		"y": 133,
 		"z": 7935
+	},
+	"jomsborg": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/jomsborg.toml",
+		"links": [
+			"j:jomsborg"
+		],
+		"name": "jomsborg",
+		"type": "TerminalDestinations",
+		"x": 3398,
+		"y": 1,
+		"z": -4623
 	},
 	"kalingrad": {
 		"BadLinks": {},
