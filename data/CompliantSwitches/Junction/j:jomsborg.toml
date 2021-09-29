@@ -1,0 +1,11 @@
+x = 3851
+y = 1
+z = -4240
+
+switch = true
+
+links = [
+ 'j:nyaann',
+ 'j:coegon',
+ 'jomsborg',
+]
