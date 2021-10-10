@@ -1,0 +1,10 @@
+x = 5478
+y = 20
+z = -1532
+
+station = true
+
+links = [
+ 'j:ardr',
+ 'j:low',
+]
