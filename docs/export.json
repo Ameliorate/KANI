@@ -444,6 +444,20 @@
 		"y": 10,
 		"z": -12189
 	},
+	"duskwood": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/duskwood.toml",
+		"links": [
+			"j:ardr",
+			"j:low"
+		],
+		"name": "duskwood",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 5478,
+		"y": 20,
+		"z": -1532
+	},
 	"ellen": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/ellen.toml",
@@ -1195,7 +1209,7 @@
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:ardr.toml",
 		"links": [
-			"j:low",
+			"duskwood",
 			"arstotzka",
 			"lambat"
 		],
@@ -1922,7 +1936,7 @@
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:low.toml",
 		"links": [
-			"j:ardr",
+			"duskwood",
 			"purazi",
 			"islaoccidental"
 		],
