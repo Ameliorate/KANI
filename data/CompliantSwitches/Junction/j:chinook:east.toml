@@ -1,0 +1,11 @@
+x = 1696
+y = 11
+z = -6675
+
+switch = true
+
+links = [
+ 'tau'rynn',
+ 'j:chinook:south',
+ 'gondolin',
+]
