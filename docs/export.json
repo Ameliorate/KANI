@@ -7,7 +7,7 @@
 			"nexus"
 		],
 		"description": "Passing through the hands of many nations, this iconic landmark finds itself at the coordinates 0, 0.\n\nThe recent efforts of Icenia and allies have lead to the creation of the NexusInternationalGateway and the remodeling of the station interiour.\n",
-		"filepath": "./data/CompliantSwitches/0,0.toml",
+		"filepath": "./data/TerminalDestinations/0,0.toml",
 		"links": [
 			"j:knot",
 			"j:sw:mta",
@@ -15,8 +15,7 @@
 			"j:picenia"
 		],
 		"name": "0,0",
-		"station": true,
-		"type": "CompliantSwitches",
+		"type": "TerminalDestinations",
 		"x": 0,
 		"y": 22,
 		"z": 0
