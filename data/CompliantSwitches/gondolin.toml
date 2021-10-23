@@ -7,7 +7,7 @@ z = -9191
 station = true
 
 links = [
- 'j:coe:north',
+ 'j:chinook:east',
  'j:gonem',
  'j:acadia:east',
 ]

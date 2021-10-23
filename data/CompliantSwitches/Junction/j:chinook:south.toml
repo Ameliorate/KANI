@@ -1,0 +1,11 @@
+x = 1542
+y = 11
+z = -6675
+
+switch = true
+
+links = [
+ "chinook",
+ "j:chinook:east",
+ "j:coe:north",
+]
