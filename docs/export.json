@@ -385,6 +385,26 @@
 		"y": 1,
 		"z": -2533
 	},
+	"chinook": {
+		"BadLinks": {},
+		"aliases": [
+			"chinook:central",
+			"cnk",
+			"biscuit bay",
+			"bbay"
+		],
+		"description": "Chinook Central Station.",
+		"filepath": "./data/CompliantSwitches/chinook.toml",
+		"links": [
+			"j:chinook:south"
+		],
+		"name": "chinook",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 1420,
+		"y": 65,
+		"z": -6825
+	},
 	"coe": {
 		"BadLinks": {},
 		"aliases": [
@@ -708,7 +728,7 @@
 		"description": "Gondolin",
 		"filepath": "./data/CompliantSwitches/gondolin.toml",
 		"links": [
-			"j:coe:north",
+			"j:chinook:east",
 			"j:gonem",
 			"j:acadia:east"
 		],
@@ -1297,6 +1317,36 @@
 		"y": 4,
 		"z": 4744
 	},
+	"j:chinook:east": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:chinook:east.toml",
+		"links": [
+			"tau'rynn",
+			"j:chinook:south",
+			"gondolin"
+		],
+		"name": "j:chinook:east",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 1696,
+		"y": 11,
+		"z": -6675
+	},
+	"j:chinook:south": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:chinook:south.toml",
+		"links": [
+			"chinook",
+			"j:chinook:east",
+			"j:coe:north"
+		],
+		"name": "j:chinook:south",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 1542,
+		"y": 11,
+		"z": -6675
+	},
 	"j:coe:east": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:east.toml",
@@ -1316,7 +1366,7 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:north.toml",
 		"links": [
 			"coe",
-			"gondolin",
+			"j:chinook:south",
 			"j:stallman:west"
 		],
 		"name": "j:coe:north",
@@ -4134,6 +4184,23 @@
 		"x": -7514,
 		"y": 11,
 		"z": -268
+	},
+	"tau'rynn": {
+		"BadLinks": {},
+		"aliases": [
+			"polaris"
+		],
+		"description": "Tau'rynn Station.",
+		"filepath": "./data/CompliantSwitches/tau'rynn.toml",
+		"links": [
+			"j:chinook:east"
+		],
+		"name": "tau'rynn",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 1709,
+		"y": 2,
+		"z": -7222
 	},
 	"terestai": {
 		"BadLinks": {},
