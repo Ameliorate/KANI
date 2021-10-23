@@ -1612,11 +1612,11 @@
 	"j:hits_lumiere": {
 		"BadLinks": {
 			"j:hits_allantis": "hits:north",
-			"j:hits_z0": "hits:south"
+			"j:hits_thoria": "hits:south"
 		},
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_lumiere.toml",
 		"links": [
-			"j:hits_z0",
+			"j:hits_thoria",
 			"j:hits_atlantis",
 			"lumiere"
 		],
@@ -1737,6 +1737,24 @@
 		"y": 12,
 		"z": 2500
 	},
+	"j:hits_thoria": {
+		"BadLinks": {
+			"j:hits_lumiere": "hits:north",
+			"j:hits_z0": "hits:south"
+		},
+		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_thoria.toml",
+		"links": [
+			"j:hits_lumiere",
+			"j:hits_z0",
+			"thoria"
+		],
+		"name": "j:hits_thoria",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -6384,
+		"y": 12,
+		"z": -1555
+	},
 	"j:hits_wm": {
 		"BadLinks": {
 			"j:hits_cic": "hits:south j:hits_cic",
@@ -1757,13 +1775,13 @@
 	},
 	"j:hits_z0": {
 		"BadLinks": {
-			"j:hits_lumiere": "hits:north",
-			"j:hits_mts": "hits:south"
+			"j:hits_mts": "hits:south",
+			"j:hits_thoria": "hits:north"
 		},
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_z0.toml",
 		"links": [
 			"j:hits_mts",
-			"j:hits_lumiere",
+			"j:hits_thoria",
 			"j:pkallos",
 			"j:pvark"
 		],
@@ -4212,6 +4230,19 @@
 		"type": "TerminalDestinations",
 		"x": 4223,
 		"z": 5333
+	},
+	"thoria": {
+		"BadLinks": {},
+		"filepath": "./data/thoria.toml",
+		"links": [
+			"j:hits_thoria"
+		],
+		"name": "thoria",
+		"station": true,
+		"type": "thoria.toml",
+		"x": -6367,
+		"y": 13,
+		"z": -1560
 	},
 	"threelakes": {
 		"BadLinks": {},
