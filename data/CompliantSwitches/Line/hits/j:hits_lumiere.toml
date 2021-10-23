@@ -5,11 +5,11 @@ z = -2532
 switch = true
 
 links = [
- 'j:hits_z0',
+ 'j:hits_thoria',
  'j:hits_atlantis',
  'lumiere',
 ]
 
 [BadLinks]
-'j:hits_z0' = 'hits:south'
+'j:hits_thoria' = 'hits:south'
 'j:hits_allantis' = 'hits:north'
