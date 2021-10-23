@@ -1,0 +1,13 @@
+aliases = ['polaris']
+
+description = "Tau'rynn Station."
+
+x = 1709
+y = 2
+z = -7222
+
+station = true
+
+links = [
+ 'j:chinook:east',
+]
