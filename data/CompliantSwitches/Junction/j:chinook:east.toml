@@ -5,7 +5,7 @@ z = -6675
 switch = true
 
 links = [
- 'tau'rynn',
- 'j:chinook:south',
- 'gondolin',
+ "tau'rynn",
+ "j:chinook:south",
+ "gondolin",
 ]
