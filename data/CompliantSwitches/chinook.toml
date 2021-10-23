@@ -1,0 +1,13 @@
+aliases = ['chinook:central', 'cnk', 'biscuit bay', 'bbay']
+
+description = "Chinook Central Station."
+
+x = 1420
+y = 65
+z = -6825
+
+station = true
+
+links = [
+ 'j:chinook:south',
+]
