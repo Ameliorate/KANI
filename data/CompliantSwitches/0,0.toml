@@ -18,7 +18,7 @@ links = [
  'j:picenia',
 ]
 
-#station = true
+station = true
 
 [BadLinks]
 'j:sw:mta' = '0,0:sw'
