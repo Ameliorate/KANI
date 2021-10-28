@@ -1916,7 +1916,6 @@
 			"j:pend",
 			"j:pnro",
 			"j:icegen",
-			"netherfarm",
 			"vinland",
 			"wayrest"
 		],
@@ -3680,19 +3679,6 @@
 		"x": -8417,
 		"y": 11,
 		"z": 3000
-	},
-	"netherfarm": {
-		"BadLinks": {},
-		"description": "Random portal farm off of JunctionKnot.\n\nUnknown owner, but seems to be public-use.\n",
-		"filepath": "./data/TerminalDestinations/netherfarm.toml",
-		"links": [
-			"j:knot"
-		],
-		"name": "netherfarm",
-		"type": "TerminalDestinations",
-		"x": 1115,
-		"y": 11,
-		"z": 0
 	},
 	"new_sovia": {
 		"BadLinks": {},
