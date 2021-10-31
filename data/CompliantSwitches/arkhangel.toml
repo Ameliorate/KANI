@@ -1,0 +1,10 @@
+x = 3849
+y = 2
+z = -5230
+
+station = true
+
+links = [
+ "j:coegon",
+ "j:jomsborg",
+]
