@@ -119,6 +119,20 @@
 		"x": 4530,
 		"z": -3070
 	},
+	"arkhangel": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/arkhangel.toml",
+		"links": [
+			"j:threelakes",
+			"j:jomsborg"
+		],
+		"name": "arkhangel",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 3849,
+		"y": 1,
+		"z": -5230
+	},
 	"arran": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/arran.toml",
@@ -417,7 +431,7 @@
 			"j:coe:east",
 			"j:coe:north",
 			"giga",
-			"j:ann",
+			"j:coe:southeast",
 			"lexington"
 		],
 		"name": "coe",
@@ -1215,7 +1229,7 @@
 		"links": [
 			"j:nyaann",
 			"j:ppcc",
-			"coe",
+			"j:coe:southeast",
 			"annwyn:cactus"
 		],
 		"name": "j:ann",
@@ -1392,6 +1406,21 @@
 		"y": 5,
 		"z": -2843
 	},
+	"j:coe:southeast": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:coe:southeast.toml",
+		"links": [
+			"coe",
+			"j:ann",
+			"threelakes"
+		],
+		"name": "j:coe:southeast",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 1006,
+		"y": 1,
+		"z": -5615
+	},
 	"j:coe:west": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:west.toml",
@@ -1413,9 +1442,8 @@
 		"links": [
 			"j:coe:east",
 			"j:coesav",
-			"j:jomsborg",
-			"j:gonem",
-			"threelakes"
+			"j:threelakes",
+			"j:gonem"
 		],
 		"name": "j:coegon",
 		"switch": true,
@@ -1864,7 +1892,7 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:jomsborg.toml",
 		"links": [
 			"j:nyaann",
-			"j:coegon",
+			"arkhangel",
 			"jomsborg"
 		],
 		"name": "j:jomsborg",
@@ -2388,8 +2416,7 @@
 		"links": [
 			"nyasaland",
 			"j:jomsborg",
-			"j:ann",
-			"threelakes"
+			"j:ann"
 		],
 		"name": "j:nyaann",
 		"switch": true,
@@ -3075,6 +3102,21 @@
 		"x": -3000,
 		"y": 11,
 		"z": 3000
+	},
+	"j:threelakes": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:threelakes.toml",
+		"links": [
+			"j:coegon",
+			"threelakes",
+			"arkhangel"
+		],
+		"name": "j:threelakes",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 3850,
+		"y": 1,
+		"z": -5613
 	},
 	"j:timc": {
 		"BadLinks": {},
@@ -4233,16 +4275,17 @@
 	},
 	"threelakes": {
 		"BadLinks": {},
-		"filepath": "./data/TerminalDestinations/threelakes.toml",
+		"filepath": "./data/CompliantSwitches/threelakes.toml",
 		"links": [
-			"j:coegon",
-			"j:nyaann"
+			"j:threelakes",
+			"j:coe:southeast"
 		],
 		"name": "threelakes",
-		"type": "TerminalDestinations",
-		"x": 3057,
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 3060,
 		"y": 11,
-		"z": -5517
+		"z": -5617
 	},
 	"topha'nya": {
 		"BadLinks": {},
