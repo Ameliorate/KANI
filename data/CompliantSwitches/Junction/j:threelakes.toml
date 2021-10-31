@@ -1,11 +1,11 @@
-x = 3851
+x = 3850
 y = 1
-z = -4240
+z = -5613
 
 switch = true
 
 links = [
- 'j:nyaann',
+ 'j:coegon',
+ 'threelakes',
  'arkhangel',
- 'jomsborg',
 ]

@@ -1,0 +1,10 @@
+x = 3060
+y = 11
+z = -5617
+
+station = true
+
+links = [
+ 'j:threelakes',
+ 'j:coe:southeast',
+]

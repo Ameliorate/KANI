@@ -7,7 +7,7 @@ switch = true
 links = [
  'j:nyaann',
  'j:ppcc',
- 'coe',
+ 'j:coe:southeast',
  'annwyn:cactus',
 #'ch1prempire', # Isn't connected to the switch
 ]

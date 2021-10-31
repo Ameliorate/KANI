@@ -1,0 +1,10 @@
+x = 3849
+y = 1
+z = -5230
+
+station = true
+
+links = [
+ "j:threelakes",
+ "j:jomsborg",
+]
