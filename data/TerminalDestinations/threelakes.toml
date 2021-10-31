@@ -1,9 +1,0 @@
-x = 3057
-y = 11
-z = -5517
-
-links = [
- 'j:coegon',
- 'j:nyaann',
- 'j:coe:southeast',
-]
