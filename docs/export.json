@@ -828,6 +828,7 @@
 		},
 		"description": "Newly renovated station in IceniaCity",
 		"filepath": "./data/CompliantSwitches/icenia.toml",
+		"image": "https://cdn.discordapp.com/attachments/558071874161082370/612487830391750657/First-Render-Icenia-Final-1.jpg",
 		"links": [
 			"j:cabalwest",
 			"j:cabaleast",
