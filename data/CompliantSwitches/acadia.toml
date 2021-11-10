@@ -8,4 +8,5 @@ links = [
  'j:acadia:north',
  'j:acadia:east',
  'acadia:arena',
+ 'vanhoover',
 ]
