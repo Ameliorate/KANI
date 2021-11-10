@@ -1,0 +1,9 @@
+x = 2300
+y = 70
+z = -9680
+
+station = true
+
+links = [
+ 'acadia',
+]
