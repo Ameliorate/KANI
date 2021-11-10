@@ -27,7 +27,8 @@
 		"links": [
 			"j:acadia:north",
 			"j:acadia:east",
-			"acadia:arena"
+			"acadia:arena",
+			"vanhoover"
 		],
 		"name": "acadia",
 		"station": true,
@@ -3197,6 +3198,19 @@
 		"y": 5,
 		"z": -2846
 	},
+	"j:van:west": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:van:west.toml",
+		"links": [
+			"tau'rynn"
+		],
+		"name": "j:van:west",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 1699,
+		"y": 1,
+		"z": -9798
+	},
 	"j:vc": {
 		"BadLinks": {
 			"j:cdm": "entrana.tob",
@@ -4241,7 +4255,8 @@
 		"description": "Tau'rynn Station.",
 		"filepath": "./data/CompliantSwitches/tau'rynn.toml",
 		"links": [
-			"j:chinook:east"
+			"j:chinook:east",
+			"j:van:west"
 		],
 		"name": "tau'rynn",
 		"station": true,
@@ -4362,6 +4377,19 @@
 		"x": -2632,
 		"y": 12,
 		"z": -8393
+	},
+	"vanhoover": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/vanhoover.toml",
+		"links": [
+			"acadia"
+		],
+		"name": "vanhoover",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 2300,
+		"y": 70,
+		"z": -9680
 	},
 	"varkonia": {
 		"BadLinks": {},
