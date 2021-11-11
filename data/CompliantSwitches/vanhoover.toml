@@ -6,4 +6,5 @@ station = true
 
 links = [
  'acadia',
+ 'j:van:west',
 ]
