@@ -3202,7 +3202,8 @@
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:van:west.toml",
 		"links": [
-			"tau'rynn"
+			"tau'rynn",
+			"vanhoover"
 		],
 		"name": "j:van:west",
 		"switch": true,
@@ -4382,7 +4383,8 @@
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/vanhoover.toml",
 		"links": [
-			"acadia"
+			"acadia",
+			"j:van:west"
 		],
 		"name": "vanhoover",
 		"station": true,
