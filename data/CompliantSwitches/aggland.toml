@@ -7,6 +7,6 @@ z = -6515
 station = true
 
 links = [
- "j:threelakes",
- "j:jomsborg",
+ "j:gonem",
+ "j:coegon",
 ]
