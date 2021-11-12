@@ -1,0 +1,12 @@
+description = "Sankt Ägg International Train Station."
+
+x = 3849
+y = 1
+z = -6515
+
+station = true
+
+links = [
+ "j:threelakes",
+ "j:jomsborg",
+]
