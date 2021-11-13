@@ -6,6 +6,6 @@ switch = true
 
 links = [
  'lexington',
- #'njmi', #to be added
+ 'njmi',
  #'j:np', #to be created
 ]
