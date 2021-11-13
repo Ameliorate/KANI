@@ -6,6 +6,9 @@ x = 257
 y = 1
 z = -9115
 
+station = true
+
 links = [
  'njeru',
+ 'j:np',
 ]
