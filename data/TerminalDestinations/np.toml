@@ -1,7 +1,9 @@
+aliases = ['north pole']
+
 x = -650
 y = 1
 z = -12907
 
 links = [
- 'lexmuseum',
+ 'j:lexnp',
 ]
