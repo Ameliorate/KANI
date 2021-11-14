@@ -7,5 +7,5 @@ switch = true
 links = [
  'coe',
  'j:chinook:south',
- 'j:stallman:west',
+ 'njeru',
 ]

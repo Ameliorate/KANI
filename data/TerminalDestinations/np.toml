@@ -1,0 +1,9 @@
+aliases = ['north pole', 'lexington vault museum']
+
+x = -650
+y = 1
+z = -12907
+
+links = [
+ 'j:lexnp',
+]

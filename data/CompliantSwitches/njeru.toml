@@ -1,0 +1,16 @@
+aliases = ['new jerusalem']
+
+description = "New Jerusalem."
+
+x = 770
+y = 5
+z = -9725
+
+station = true
+
+links = [
+ "j:stallman:west",
+ "j:coe:north",
+ "j:van:west",
+ "njmi",
+]
