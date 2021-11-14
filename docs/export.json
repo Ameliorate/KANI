@@ -50,6 +50,21 @@
 		"y": 12,
 		"z": -9945
 	},
+	"aggland": {
+		"BadLinks": {},
+		"description": "Sankt \u00c4gg International Train Station.",
+		"filepath": "./data/CompliantSwitches/aggland.toml",
+		"links": [
+			"j:gonem",
+			"j:coegon"
+		],
+		"name": "aggland",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 3849,
+		"y": 1,
+		"z": -6515
+	},
 	"airhaven": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/airhaven.toml",
@@ -410,13 +425,12 @@
 			"bbay"
 		],
 		"description": "Chinook Central Station.",
-		"filepath": "./data/CompliantSwitches/chinook.toml",
+		"filepath": "./data/TerminalDestinations/chinook.toml",
 		"links": [
 			"j:chinook:south"
 		],
 		"name": "chinook",
-		"station": true,
-		"type": "CompliantSwitches",
+		"type": "TerminalDestinations",
 		"x": 1420,
 		"y": 65,
 		"z": -6825
@@ -1384,7 +1398,7 @@
 		"links": [
 			"coe",
 			"j:chinook:south",
-			"j:stallman:west"
+			"njeru"
 		],
 		"name": "j:coe:north",
 		"switch": true,
@@ -1445,7 +1459,7 @@
 			"j:coe:east",
 			"j:coesav",
 			"j:threelakes",
-			"j:gonem"
+			"aggland"
 		],
 		"name": "j:coegon",
 		"switch": true,
@@ -1559,7 +1573,7 @@
 		"links": [
 			"em",
 			"gondolin",
-			"j:coegon"
+			"aggland"
 		],
 		"name": "j:gonem",
 		"switch": true,
@@ -1974,6 +1988,21 @@
 		"x": 1157,
 		"y": 4,
 		"z": 5113
+	},
+	"j:lexnp": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:lexnp.toml",
+		"links": [
+			"lexington",
+			"njmi",
+			"np"
+		],
+		"name": "j:lexnp",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -644,
+		"y": 1,
+		"z": -8967
 	},
 	"j:ll:gabon": {
 		"BadLinks": {
@@ -3059,7 +3088,7 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:stallman:west.toml",
 		"links": [
 			"stallman",
-			"j:coe:north",
+			"njeru",
 			"dulaman"
 		],
 		"name": "j:stallman:west",
@@ -3203,7 +3232,8 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:van:west.toml",
 		"links": [
 			"tau'rynn",
-			"vanhoover"
+			"vanhoover",
+			"njeru"
 		],
 		"name": "j:van:west",
 		"switch": true,
@@ -3505,15 +3535,17 @@
 	"lexington": {
 		"BadLinks": {},
 		"description": "Lexington",
-		"filepath": "./data/TerminalDestinations/lexington.toml",
+		"filepath": "./data/CompliantSwitches/lexington.toml",
 		"links": [
-			"coe"
+			"coe",
+			"j:lexnp"
 		],
 		"name": "lexington",
-		"type": "TerminalDestinations",
+		"station": true,
+		"type": "CompliantSwitches",
 		"x": -624,
 		"y": 3,
-		"z": -7293
+		"z": -7295
 	},
 	"literally_where": {
 		"BadLinks": {},
@@ -3774,6 +3806,44 @@
 		"y": 72,
 		"z": 637
 	},
+	"njeru": {
+		"BadLinks": {},
+		"aliases": [
+			"new jerusalem"
+		],
+		"description": "New Jerusalem.",
+		"filepath": "./data/CompliantSwitches/njeru.toml",
+		"links": [
+			"j:stallman:west",
+			"j:coe:north",
+			"j:van:west",
+			"njmi"
+		],
+		"name": "njeru",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 770,
+		"y": 5,
+		"z": -9725
+	},
+	"njmi": {
+		"BadLinks": {},
+		"aliases": [
+			"new jerusalem mushroom island"
+		],
+		"description": "New Jerusalem Mushroom Island.",
+		"filepath": "./data/CompliantSwitches/njmi.toml",
+		"links": [
+			"njeru",
+			"j:lexnp"
+		],
+		"name": "njmi",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 257,
+		"y": 1,
+		"z": -9115
+	},
 	"noname": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/noname.toml",
@@ -3785,6 +3855,22 @@
 		"x": 4988,
 		"y": 12,
 		"z": -1997
+	},
+	"np": {
+		"BadLinks": {},
+		"aliases": [
+			"north pole",
+			"lexington vault museum"
+		],
+		"filepath": "./data/TerminalDestinations/np.toml",
+		"links": [
+			"j:lexnp"
+		],
+		"name": "np",
+		"type": "TerminalDestinations",
+		"x": -650,
+		"y": 1,
+		"z": -12907
 	},
 	"nro'meagh": {
 		"BadLinks": {},
