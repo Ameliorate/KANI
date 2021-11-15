@@ -1,0 +1,9 @@
+aliases = ['augska']
+
+x = -2808
+y = 7
+z = -7748
+
+links = [
+ 'j:polska',
+]
