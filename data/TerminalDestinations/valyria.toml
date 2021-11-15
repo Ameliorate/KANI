@@ -1,7 +1,7 @@
 x = -2632
 y = 12
-z = -8393
+z = -8237
 
 links = [
- 'j:coe:west',
+ 'j:lexval',
 ]
