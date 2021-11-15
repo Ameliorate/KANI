@@ -6,7 +6,7 @@ switch = true
 
 links = [
  "westmore",
- "valyria",
+ "j:lexval",
  "j:covwes",
  "j:coe:west",
 ]
