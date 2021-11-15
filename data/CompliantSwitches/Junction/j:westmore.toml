@@ -1,0 +1,12 @@
+x = -2632
+y = 12
+z = -6678
+
+switch = true
+
+links = [
+ "westmore",
+ "valyria",
+ "j:covwes",
+ "j:coe:west",
+]
