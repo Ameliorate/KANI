@@ -6,6 +6,6 @@ switch = true
 
 links = [
  'giga',
- 'valyria',
+ 'j:westmore',
  'j:bwy',
 ]
