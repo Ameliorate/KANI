@@ -9,4 +9,5 @@ station = true
 links = [
   "coe",
   "j:lexnp",
+  "j:tel_aviv",
 ]
