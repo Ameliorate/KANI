@@ -1,0 +1,9 @@
+aliases = ['tel aviv']
+
+x = -1335
+y = 19
+z = -6960
+
+links = [
+ "j:tel_aviv",
+]
