@@ -1,0 +1,12 @@
+x = -2808
+y = 11
+z = -7275
+
+switch = true
+
+links = [
+ 'j:lexval',
+ 'polska',
+ #'j:lexrot',#future
+ 'j:covwes',
+]
