@@ -1,11 +1,11 @@
-x = -3004
-y = 5
-z = -6646
+x = -1335
+y = 12
+z = -7315
 
 switch = true
 
 links = [
  "j:westmore",
  "coventhia",
- "j:lexval" future,
+ "j:lexval",
 ]
