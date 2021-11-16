@@ -1,0 +1,11 @@
+x = -3004
+y = 5
+z = -6646
+
+switch = true
+
+links = [
+ "j:westmore",
+ "coventhia",
+ "j:polska",
+]

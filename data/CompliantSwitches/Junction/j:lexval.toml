@@ -1,0 +1,12 @@
+x = -2632
+y = 11
+z = -7275
+
+switch = true
+
+links = [
+ 'j:tel_aviv',
+ 'valyria',
+ 'j:polska',
+ 'j:westmore',
+]
