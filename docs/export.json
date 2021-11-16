@@ -461,7 +461,8 @@
 		"filepath": "./data/TerminalDestinations/coventhia.toml",
 		"links": [
 			"genso:taozi",
-			"bloom"
+			"bloom",
+			"j:covwes"
 		],
 		"name": "coventhia",
 		"type": "TerminalDestinations",
@@ -1442,7 +1443,7 @@
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:west.toml",
 		"links": [
 			"giga",
-			"valyria",
+			"j:westmore",
 			"j:bwy"
 		],
 		"name": "j:coe:west",
@@ -1483,6 +1484,21 @@
 		"x": 7000,
 		"y": 12,
 		"z": -5765
+	},
+	"j:covwes": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:covwes.toml",
+		"links": [
+			"j:westmore",
+			"coventhia",
+			"j:polska"
+		],
+		"name": "j:covwes",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -3004,
+		"y": 5,
+		"z": -6646
 	},
 	"j:crab": {
 		"BadLinks": {
@@ -2003,6 +2019,22 @@
 		"x": -644,
 		"y": 1,
 		"z": -8967
+	},
+	"j:lexval": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:lexval.toml",
+		"links": [
+			"j:tel_aviv",
+			"valyria",
+			"j:polska",
+			"j:westmore"
+		],
+		"name": "j:lexval",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -2632,
+		"y": 11,
+		"z": -7275
 	},
 	"j:ll:gabon": {
 		"BadLinks": {
@@ -2740,6 +2772,21 @@
 		"y": 12,
 		"z": 0
 	},
+	"j:polska": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:polska.toml",
+		"links": [
+			"j:lexval",
+			"polska",
+			"j:covwes"
+		],
+		"name": "j:polska",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -2808,
+		"y": 11,
+		"z": -7275
+	},
 	"j:potato": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:potato.toml",
@@ -3134,6 +3181,21 @@
 		"y": 11,
 		"z": 3000
 	},
+	"j:tel_aviv": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:tel_aviv.toml",
+		"links": [
+			"lexington",
+			"j:lexval",
+			"tel_aviv"
+		],
+		"name": "j:tel_aviv",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -1335,
+		"y": 12,
+		"z": -7315
+	},
 	"j:threelakes": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:threelakes.toml",
@@ -3292,6 +3354,22 @@
 		"x": -5698,
 		"y": 11,
 		"z": 2967
+	},
+	"j:westmore": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:westmore.toml",
+		"links": [
+			"westmore",
+			"j:lexval",
+			"j:covwes",
+			"j:coe:west"
+		],
+		"name": "j:westmore",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -2632,
+		"y": 12,
+		"z": -6678
 	},
 	"j:why": {
 		"BadLinks": {
@@ -3538,7 +3616,8 @@
 		"filepath": "./data/CompliantSwitches/lexington.toml",
 		"links": [
 			"coe",
-			"j:lexnp"
+			"j:lexnp",
+			"j:tel_aviv"
 		],
 		"name": "lexington",
 		"station": true,
@@ -4021,6 +4100,21 @@
 		"y": 13,
 		"z": -8851
 	},
+	"polska": {
+		"BadLinks": {},
+		"aliases": [
+			"augska"
+		],
+		"filepath": "./data/TerminalDestinations/polska.toml",
+		"links": [
+			"j:polska"
+		],
+		"name": "polska",
+		"type": "TerminalDestinations",
+		"x": -2808,
+		"y": 7,
+		"z": -7748
+	},
 	"ponsportia": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/ponsportia.toml",
@@ -4352,6 +4446,21 @@
 		"y": 2,
 		"z": -7222
 	},
+	"tel_aviv": {
+		"BadLinks": {},
+		"aliases": [
+			"tel aviv"
+		],
+		"filepath": "./data/TerminalDestinations/tel_aviv.toml",
+		"links": [
+			"j:tel_aviv"
+		],
+		"name": "tel_aviv",
+		"type": "TerminalDestinations",
+		"x": -1335,
+		"y": 19,
+		"z": -6960
+	},
 	"terestai": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/terestai.toml",
@@ -4457,13 +4566,13 @@
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/valyria.toml",
 		"links": [
-			"j:coe:west"
+			"j:lexval"
 		],
 		"name": "valyria",
 		"type": "TerminalDestinations",
 		"x": -2632,
 		"y": 12,
-		"z": -8393
+		"z": -8237
 	},
 	"vanhoover": {
 		"BadLinks": {},
@@ -4599,6 +4708,18 @@
 		"x": -7143,
 		"y": 93,
 		"z": 5114
+	},
+	"westmore": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/westmore.toml",
+		"links": [
+			"j:westmore"
+		],
+		"name": "westmore",
+		"type": "TerminalDestinations",
+		"x": -2509,
+		"y": 100,
+		"z": -6679
 	},
 	"wnsta": {
 		"BadLinks": {},
