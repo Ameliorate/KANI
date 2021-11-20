@@ -217,6 +217,21 @@
 		"y": 12,
 		"z": -2740
 	},
+	"augska": {
+		"BadLinks": {},
+		"aliases": [
+			"polska"
+		],
+		"filepath": "./data/TerminalDestinations/augska.toml",
+		"links": [
+			"j:augska"
+		],
+		"name": "augska",
+		"type": "TerminalDestinations",
+		"x": -2808,
+		"y": 7,
+		"z": -7748
+	},
 	"aurum": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/aurum.toml",
@@ -1271,6 +1286,21 @@
 		"y": 20,
 		"z": -1521
 	},
+	"j:augska": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:augska.toml",
+		"links": [
+			"j:lexval",
+			"augska",
+			"j:covwes"
+		],
+		"name": "j:augska",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -2808,
+		"y": 11,
+		"z": -7275
+	},
 	"j:bwy": {
 		"BadLinks": {},
 		"filepath": "./data/CompliantSwitches/Junction/j:bwy.toml",
@@ -1491,7 +1521,7 @@
 		"links": [
 			"j:westmore",
 			"coventhia",
-			"j:polska"
+			"j:augska"
 		],
 		"name": "j:covwes",
 		"switch": true,
@@ -2026,7 +2056,7 @@
 		"links": [
 			"j:tel_aviv",
 			"valyria",
-			"j:polska",
+			"j:augska",
 			"j:westmore"
 		],
 		"name": "j:lexval",
@@ -2771,21 +2801,6 @@
 		"x": 7000,
 		"y": 12,
 		"z": 0
-	},
-	"j:polska": {
-		"BadLinks": {},
-		"filepath": "./data/CompliantSwitches/Junction/j:polska.toml",
-		"links": [
-			"j:lexval",
-			"polska",
-			"j:covwes"
-		],
-		"name": "j:polska",
-		"switch": true,
-		"type": "CompliantSwitches",
-		"x": -2808,
-		"y": 11,
-		"z": -7275
 	},
 	"j:potato": {
 		"BadLinks": {},
@@ -4099,21 +4114,6 @@
 		"x": 7004,
 		"y": 13,
 		"z": -8851
-	},
-	"polska": {
-		"BadLinks": {},
-		"aliases": [
-			"augska"
-		],
-		"filepath": "./data/TerminalDestinations/polska.toml",
-		"links": [
-			"j:polska"
-		],
-		"name": "polska",
-		"type": "TerminalDestinations",
-		"x": -2808,
-		"y": 7,
-		"z": -7748
 	},
 	"ponsportia": {
 		"BadLinks": {},
