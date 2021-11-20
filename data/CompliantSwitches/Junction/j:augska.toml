@@ -6,7 +6,7 @@ switch = true
 
 links = [
  'j:lexval',
- 'polska',
+ 'augska',
  #'j:lexrot',#future
  'j:covwes',
 ]

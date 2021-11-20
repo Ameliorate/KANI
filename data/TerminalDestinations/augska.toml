@@ -1,9 +1,9 @@
-aliases = ['augska']
+aliases = ['polska']
 
 x = -2808
 y = 7
 z = -7748
 
 links = [
- 'j:polska',
+ 'j:augska',
 ]
