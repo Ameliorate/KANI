@@ -1,0 +1,11 @@
+
+x = -5287
+y = 11
+z = 3668
+
+station = true
+
+links = [
+ "j:mta:wm",
+ "westminster",
+]
