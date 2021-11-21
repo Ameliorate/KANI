@@ -9,7 +9,6 @@ z = 5114
 station = true
 
 links = [
- 'j:mta:wm',
  'j:hits_wm',
  'j:pnyc',
  'j:sw:mta',
