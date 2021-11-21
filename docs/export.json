@@ -2364,7 +2364,7 @@
 		"links": [
 			"j:mta:walton",
 			"j:mta:sept",
-			"westminster"
+			"venne"
 		],
 		"name": "j:mta:wm",
 		"switch": true,
@@ -4600,6 +4600,20 @@
 		"x": -4861,
 		"z": -2769
 	},
+	"venne": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/venne.toml",
+		"links": [
+			"j:mta:wm",
+			"westminster"
+		],
+		"name": "venne",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": -5287,
+		"y": 11,
+		"z": 3668
+	},
 	"ventura": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/ventura.toml",
@@ -4689,7 +4703,6 @@
 		"description": "City of Westminster",
 		"filepath": "./data/CompliantSwitches/westminster.toml",
 		"links": [
-			"j:mta:wm",
 			"j:hits_wm",
 			"j:pnyc",
 			"j:sw:mta",
@@ -4700,7 +4713,8 @@
 			"taliesin",
 			"strassburg",
 			"arran",
-			"albion"
+			"albion",
+			"venne"
 		],
 		"name": "westminster",
 		"station": true,
