@@ -7,7 +7,6 @@ switch = true
 links = [
  'j:mta:walton',
  'j:mta:sept',
- 'westminster',
  'venne'
 ]
 
