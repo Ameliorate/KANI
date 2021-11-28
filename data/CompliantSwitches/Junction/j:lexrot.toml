@@ -1,0 +1,12 @@
+x = -4420
+y = 13
+z = -7275
+
+switch = true
+
+links = [
+ 'j:augska',
+ 'j:cc',
+ 'spqr',
+ 'impasse',
+]
