@@ -1,0 +1,13 @@
+aliases = ['columbia', 'columbia_city']
+
+description = "Columbia City."
+
+x = -5762
+y = 12
+z = -8077
+
+station = true
+
+links = [
+ "j:cc",
+]

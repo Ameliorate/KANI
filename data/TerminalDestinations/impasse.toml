@@ -4,6 +4,7 @@ z = -5107
 
 links = [
  'j:hits_lusitania',
+ 'j:lexrot',
 ]
 
 [BadLinks]
