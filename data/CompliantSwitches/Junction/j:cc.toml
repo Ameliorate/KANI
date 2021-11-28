@@ -1,0 +1,11 @@
+x = -4419
+y = 11
+z = -8069
+
+switch = true
+
+links = [
+ 'rotterdam',
+ 'cc',
+ 'j:lexrot',
+]
