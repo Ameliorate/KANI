@@ -7,6 +7,6 @@ switch = true
 links = [
  'j:lexval',
  'augska',
- #'j:lexrot',#future
+ 'j:lexrot',
  'j:covwes',
 ]
