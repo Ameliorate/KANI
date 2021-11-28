@@ -385,6 +385,24 @@
 		"y": 38,
 		"z": 1734
 	},
+	"cc": {
+		"BadLinks": {},
+		"aliases": [
+			"columbia",
+			"columbia_city"
+		],
+		"description": "Columbia City.",
+		"filepath": "./data/CompliantSwitches/cc.toml",
+		"links": [
+			"j:cc"
+		],
+		"name": "cc",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": -5762,
+		"y": 12,
+		"z": -8077
+	},
 	"cdm": {
 		"BadLinks": {},
 		"aliases": [
@@ -1024,7 +1042,8 @@
 		},
 		"filepath": "./data/TerminalDestinations/impasse.toml",
 		"links": [
-			"j:hits_lusitania"
+			"j:hits_lusitania",
+			"j:lexrot"
 		],
 		"name": "impasse",
 		"type": "TerminalDestinations",
@@ -1292,6 +1311,7 @@
 		"links": [
 			"j:lexval",
 			"augska",
+			"j:lexrot",
 			"j:covwes"
 		],
 		"name": "j:augska",
@@ -1360,6 +1380,21 @@
 		"type": "NonCompliantSwitches",
 		"x": -1800,
 		"z": -1300
+	},
+	"j:cc": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:cc.toml",
+		"links": [
+			"rotterdam",
+			"cc",
+			"j:lexrot"
+		],
+		"name": "j:cc",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -4419,
+		"y": 11,
+		"z": -8069
 	},
 	"j:cdm": {
 		"BadLinks": {
@@ -2049,6 +2084,22 @@
 		"x": -644,
 		"y": 1,
 		"z": -8967
+	},
+	"j:lexrot": {
+		"BadLinks": {},
+		"filepath": "./data/CompliantSwitches/Junction/j:lexrot.toml",
+		"links": [
+			"j:augska",
+			"j:cc",
+			"spqr",
+			"impasse"
+		],
+		"name": "j:lexrot",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": -4420,
+		"y": 13,
+		"z": -7275
 	},
 	"j:lexval": {
 		"BadLinks": {},
@@ -4180,6 +4231,18 @@
 		"y": 2,
 		"z": 9433
 	},
+	"rotterdam": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/rotterdam.toml",
+		"links": [
+			"j:cc"
+		],
+		"name": "rotterdam",
+		"type": "TerminalDestinations",
+		"x": -4422,
+		"y": 11,
+		"z": -8740
+	},
 	"sa:city": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/sa:city.toml",
@@ -4332,7 +4395,8 @@
 		"links": [
 			"j:iskv",
 			"j:hits_spqr",
-			"j:romacw:lanni"
+			"j:romacw:lanni",
+			"j:lexrot"
 		],
 		"name": "spqr",
 		"type": "TerminalDestinations",
