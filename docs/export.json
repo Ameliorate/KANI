@@ -23,6 +23,7 @@
 	},
 	"acadia": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob, Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/acadia.toml",
 		"links": [
 			"j:acadia:north",
@@ -52,6 +53,7 @@
 	},
 	"aggland": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"description": "Sankt \u00c4gg International Train Station.",
 		"filepath": "./data/CompliantSwitches/aggland.toml",
 		"links": [
@@ -137,6 +139,7 @@
 	},
 	"arkhangel": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/arkhangel.toml",
 		"links": [
 			"j:threelakes",
@@ -176,6 +179,7 @@
 	},
 	"arstotzka": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/arstotzka.toml",
 		"links": [
 			"j:ardr",
@@ -373,6 +377,7 @@
 	},
 	"carson": {
 		"BadLinks": {},
+		"contact": "lowtuff",
 		"filepath": "./data/CompliantSwitches/carson.toml",
 		"links": [
 			"j:tuff",
@@ -391,6 +396,7 @@
 			"columbia",
 			"columbia_city"
 		],
+		"contact": "Quivico#5019",
 		"description": "Columbia City.",
 		"filepath": "./data/CompliantSwitches/cc.toml",
 		"links": [
@@ -437,6 +443,7 @@
 			"appomattox",
 			"sussex"
 		],
+		"contact": "Ch1pr",
 		"filepath": "./data/CompliantSwitches/ch1prempire.toml",
 		"links": [
 			"j:coesav",
@@ -473,6 +480,7 @@
 		"aliases": [
 			"city of england"
 		],
+		"contact": "Gator Glitch#2793",
 		"filepath": "./data/CompliantSwitches/coe.toml",
 		"links": [
 			"j:coe:south",
@@ -516,6 +524,7 @@
 	},
 	"dulaman": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 maybe or maybe DrKnees/Cheese_Mage#1884",
 		"filepath": "./data/CompliantSwitches/dulaman.toml",
 		"links": [
 			"j:stallman:west"
@@ -529,6 +538,7 @@
 	},
 	"duskwood": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/duskwood.toml",
 		"links": [
 			"j:ardr",
@@ -749,6 +759,7 @@
 			"taozi city",
 			"gensokyo"
 		],
+		"contact": "Gator Glitch#2793 aka Blob",
 		"description": "Gensokyo's current project, a modern japanese city.",
 		"filepath": "./data/CompliantSwitches/genso:taozi.toml",
 		"links": [
@@ -774,6 +785,7 @@
 		"aliases": [
 			"gigachadtopia"
 		],
+		"contact": "Gator Glitch#2793, Zelmisburg#5974",
 		"description": "Gigachadtopia station",
 		"filepath": "./data/CompliantSwitches/giga.toml",
 		"links": [
@@ -789,6 +801,7 @@
 	},
 	"gondolin": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"description": "Gondolin",
 		"filepath": "./data/CompliantSwitches/gondolin.toml",
 		"links": [
@@ -844,6 +857,7 @@
 		"aliases": [
 			"falstadt"
 		],
+		"contact": "Blue#9826",
 		"filepath": "./data/CompliantSwitches/hjaltland.toml",
 		"links": [
 			"j:pp",
@@ -1089,6 +1103,7 @@
 	},
 	"islaoccidental": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/islaoccidental.toml",
 		"links": [
 			"j:ves",
@@ -1245,6 +1260,7 @@
 	},
 	"j:acadia:east": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/Junction/j:acadia:east.toml",
 		"links": [
 			"acadia",
@@ -1261,6 +1277,7 @@
 	},
 	"j:acadia:north": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/Junction/j:acadia:north.toml",
 		"links": [
 			"acadia",
@@ -1276,6 +1293,7 @@
 	},
 	"j:ann": {
 		"BadLinks": {},
+		"contact": "BennyX#9764",
 		"filepath": "./data/CompliantSwitches/Junction/j:ann.toml",
 		"links": [
 			"j:nyaann",
@@ -1292,6 +1310,7 @@
 	},
 	"j:ardr": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:ardr.toml",
 		"links": [
 			"duskwood",
@@ -1307,6 +1326,7 @@
 	},
 	"j:augska": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:augska.toml",
 		"links": [
 			"j:lexval",
@@ -1341,6 +1361,7 @@
 	},
 	"j:cabaleast": {
 		"BadLinks": {},
+		"contact": "SoundTech#0001",
 		"description": "East network of the rail cabal run by SoundTech.",
 		"filepath": "./data/CompliantSwitches/Junction/j:cabaleast.toml",
 		"links": [
@@ -1362,6 +1383,7 @@
 			"icenia:nether": "nether",
 			"icenia:westisle": "westisle"
 		},
+		"contact": "SoundTech#0001",
 		"description": "West Network of SoundTech's Rail Cabal.",
 		"filepath": "./data/NonCompliantSwitches/j:cabalwest.toml",
 		"links": [
@@ -1383,6 +1405,7 @@
 	},
 	"j:cc": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:cc.toml",
 		"links": [
 			"rotterdam",
@@ -1416,6 +1439,7 @@
 	},
 	"j:chinook:east": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:chinook:east.toml",
 		"links": [
 			"tau'rynn",
@@ -1431,6 +1455,7 @@
 	},
 	"j:chinook:south": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:chinook:south.toml",
 		"links": [
 			"chinook",
@@ -1446,6 +1471,7 @@
 	},
 	"j:coe:east": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:east.toml",
 		"links": [
 			"coe",
@@ -1460,6 +1486,7 @@
 	},
 	"j:coe:north": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:north.toml",
 		"links": [
 			"coe",
@@ -1475,6 +1502,7 @@
 	},
 	"j:coe:south": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:south.toml",
 		"links": [
 			"coe",
@@ -1490,6 +1518,7 @@
 	},
 	"j:coe:southeast": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:southeast.toml",
 		"links": [
 			"coe",
@@ -1505,6 +1534,7 @@
 	},
 	"j:coe:west": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coe:west.toml",
 		"links": [
 			"giga",
@@ -1520,6 +1550,7 @@
 	},
 	"j:coegon": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coegon.toml",
 		"links": [
 			"j:coe:east",
@@ -1536,6 +1567,7 @@
 	},
 	"j:coesav": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:coesav.toml",
 		"links": [
 			"j:coegon",
@@ -1552,6 +1584,7 @@
 	},
 	"j:covwes": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:covwes.toml",
 		"links": [
 			"j:westmore",
@@ -1585,6 +1618,7 @@
 	},
 	"j:e15": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:e15.toml",
 		"links": [
 			"j:timc",
@@ -1617,6 +1651,7 @@
 	},
 	"j:gensig": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"description": "Junction in the North East which connects j:icegen, gensokyo:taozi, and sig\n",
 		"filepath": "./data/CompliantSwitches/Junction/j:gensig.toml",
 		"links": [
@@ -1634,6 +1669,7 @@
 	},
 	"j:gntv": {
 		"BadLinks": {},
+		"contact": "Naglafer#0299, BennyX#9764",
 		"filepath": "./data/CompliantSwitches/Junction/j:gntv.toml",
 		"links": [
 			"genso:roe",
@@ -1650,6 +1686,7 @@
 	},
 	"j:gonem": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"filepath": "./data/CompliantSwitches/Junction/j:gonem.toml",
 		"links": [
 			"em",
@@ -1686,6 +1723,7 @@
 			"etherium:railto": "etherium",
 			"j:hits_wm": "hits:north"
 		},
+		"contact": "Blue#9826",
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_cic.toml",
 		"links": [
 			"j:hits_hwar",
@@ -1703,6 +1741,7 @@
 	},
 	"j:hits_hwar": {
 		"BadLinks": {},
+		"contact": "Blue#9826",
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_hwar.toml",
 		"links": [
 			"j:hits_cic",
@@ -1722,6 +1761,7 @@
 			"j:hits_atlantis": "hits:south",
 			"j:hits_lusitania": "hits:north"
 		},
+		"contact": "Smal#5775 somewhat",
 		"filepath": "./data/CompliantSwitches/Line/hits/j:hits_ll.toml",
 		"links": [
 			"j:hits_atlantis",
@@ -1920,6 +1960,7 @@
 	},
 	"j:icegen": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob, BennyX#9764",
 		"description": "Junction in the North East which connects icenia, j:knot, j:uroe, and j:gensig\n",
 		"filepath": "./data/CompliantSwitches/Junction/j:icegen.toml",
 		"links": [
@@ -1937,6 +1978,7 @@
 	},
 	"j:iskv": {
 		"BadLinks": {},
+		"contact": "Langly#4883",
 		"filepath": "./data/NonCompliantSwitches/j:iskv.toml",
 		"links": [
 			"icenia",
@@ -1986,6 +2028,7 @@
 	},
 	"j:jomsborg": {
 		"BadLinks": {},
+		"contact": "BennyX#9764",
 		"filepath": "./data/CompliantSwitches/Junction/j:jomsborg.toml",
 		"links": [
 			"j:nyaann",
@@ -2001,6 +2044,7 @@
 	},
 	"j:kal": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:kal.toml",
 		"links": [
 			"cape_cocoa",
@@ -2034,6 +2078,7 @@
 	},
 	"j:knot": {
 		"BadLinks": {},
+		"contact": "Blue#9826 (rail owned jointly between gensokyo and hjaltland)",
 		"description": "The switch directly east of NexusStation. One of the only rail switches built by GamePhobic for nexus that wasn't obby/lava bombed in the war. Since remodeled to be A CompliantSwitch.\n",
 		"filepath": "./data/CompliantSwitches/Junction/j:knot.toml",
 		"links": [
@@ -2057,6 +2102,7 @@
 			"j:lohq": "entrana.to",
 			"j:pwiv": "westminster.to"
 		},
+		"contact": "sambonusg#1846",
 		"filepath": "./data/CompliantSwitches/Line/westminster-entrana/j:lazuli.toml",
 		"links": [
 			"j:lohq",
@@ -2072,6 +2118,7 @@
 	},
 	"j:lexnp": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:lexnp.toml",
 		"links": [
 			"lexington",
@@ -2087,6 +2134,7 @@
 	},
 	"j:lexrot": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:lexrot.toml",
 		"links": [
 			"j:augska",
@@ -2103,6 +2151,7 @@
 	},
 	"j:lexval": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:lexval.toml",
 		"links": [
 			"j:tel_aviv",
@@ -2122,6 +2171,7 @@
 			"j:ll:hits": "ll:west",
 			"lambat:newstation": "ll:east lambat"
 		},
+		"contact": "l line treaty",
 		"filepath": "./data/CompliantSwitches/Line/ll/j:ll:gabon.toml",
 		"links": [
 			"lambat:newstation",
@@ -2140,6 +2190,7 @@
 			"j:ll:gabon": "ll:east",
 			"j:medi:ll": "ll:west"
 		},
+		"contact": "Smal#5775 somewhat",
 		"filepath": "./data/CompliantSwitches/Line/ll/j:ll:hits.toml",
 		"links": [
 			"j:ll:gabon",
@@ -2158,6 +2209,7 @@
 			"j:crab": "entrana.to",
 			"j:lazuli": "westminster.to"
 		},
+		"contact": "sambonusg#1846",
 		"filepath": "./data/CompliantSwitches/Line/westminster-entrana/j:lohq.toml",
 		"links": [
 			"j:crab",
@@ -2173,6 +2225,7 @@
 	},
 	"j:low": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:low.toml",
 		"links": [
 			"duskwood",
@@ -2210,6 +2263,7 @@
 			"j:medi:ll": "medi:aclock",
 			"j:medi:olimpia": "medi:clock"
 		},
+		"contact": "Metriximor#1682",
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:cc.toml",
 		"links": [
 			"j:medi:ll",
@@ -2229,6 +2283,7 @@
 			"j:medi:cc": "medi:clock",
 			"j:medi:lusit": "medi:aclock"
 		},
+		"contact": "Metriximor#1682",
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:ll.toml",
 		"links": [
 			"j:medi:lusit",
@@ -2247,6 +2302,7 @@
 			"j:medi:end2": "medi:aclock",
 			"j:medi:ll": "medi:clock"
 		},
+		"contact": "Metriximor#1682",
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:lusit.toml",
 		"links": [
 			"medi:end2",
@@ -2266,6 +2322,7 @@
 			"j:medi:cc": "medi:aclock",
 			"medi:end": "medi:clock medi:end"
 		},
+		"contact": "Metriximor#1682",
 		"filepath": "./data/CompliantSwitches/Line/medi/j:medi:olimpia.toml",
 		"links": [
 			"j:medi:cc",
@@ -2281,6 +2338,7 @@
 	},
 	"j:met": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:met.toml",
 		"links": [
 			"j:e15",
@@ -2336,6 +2394,7 @@
 			"j:mta:walton": "mta:east",
 			"j:sa:spratly": ".sa"
 		},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/mta/j:mta:sa.toml",
 		"links": [
 			"j:mta:troll",
@@ -2373,6 +2432,7 @@
 			"j:mta:sa": "mta:east",
 			"mta:megafarm": "megafarm"
 		},
+		"contact": "Smal#5775 please for the love of god",
 		"description": "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre.",
 		"filepath": "./data/CompliantSwitches/Line/mta/j:mta:troll.toml",
 		"links": [
@@ -2480,6 +2540,7 @@
 	},
 	"j:mumm": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838, mummybundles#6811",
 		"filepath": "./data/CompliantSwitches/Junction/j:mumm.toml",
 		"links": [
 			"ponsportia",
@@ -2495,6 +2556,7 @@
 	},
 	"j:nell": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:nell.toml",
 		"links": [
 			"j:pell",
@@ -2556,6 +2618,7 @@
 	},
 	"j:nyaann": {
 		"BadLinks": {},
+		"contact": "BennyX#9764",
 		"filepath": "./data/CompliantSwitches/Junction/j:nyaann.toml",
 		"links": [
 			"nyasaland",
@@ -2571,6 +2634,7 @@
 	},
 	"j:o": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:o.toml",
 		"links": [
 			"j:pbnj",
@@ -2681,6 +2745,7 @@
 	},
 	"j:pell": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:pell.toml",
 		"links": [
 			"j:twink",
@@ -2762,6 +2827,7 @@
 	},
 	"j:pkallos": {
 		"BadLinks": {},
+		"contact": "Asa#4929",
 		"filepath": "./data/CompliantSwitches/Junction/j:pkallos.toml",
 		"links": [
 			"hje",
@@ -2806,6 +2872,7 @@
 	},
 	"j:pnro": {
 		"BadLinks": {},
+		"contact": "Blue#9826",
 		"filepath": "./data/CompliantSwitches/Junction/j:pnro.toml",
 		"links": [
 			"j:knot",
@@ -2855,6 +2922,7 @@
 	},
 	"j:potato": {
 		"BadLinks": {},
+		"contact": "icenia",
 		"filepath": "./data/CompliantSwitches/Junction/j:potato.toml",
 		"links": [
 			"icenia",
@@ -2870,6 +2938,7 @@
 	},
 	"j:pp": {
 		"BadLinks": {},
+		"contact": "Blue#9826",
 		"filepath": "./data/CompliantSwitches/Junction/j:pp.toml",
 		"links": [
 			"j:pnro",
@@ -2961,6 +3030,7 @@
 			"imc": "redimc:west imc",
 			"j:redimc:pi": "redimc:east"
 		},
+		"contact": "andrea.shp#0352 or maybe Smal#5775",
 		"filepath": "./data/CompliantSwitches/Line/redimc/j:redimc:spqr.toml",
 		"links": [
 			"j:redimc:pi",
@@ -3070,6 +3140,7 @@
 			"j:romacw:lanni": "romacw:north",
 			"westminster": "romacw:south westminster"
 		},
+		"contact": "Smal#5775, andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Line/romacw/j:romacw:imc.toml",
 		"links": [
 			"westminster",
@@ -3088,6 +3159,7 @@
 			"j:romacw:imc": "romacw:south",
 			"spqr": "romacw:north spqr"
 		},
+		"contact": "Smal#5775",
 		"filepath": "./data/CompliantSwitches/Line/romacw/j:romacw:lanni.toml",
 		"links": [
 			"spqr",
@@ -3103,6 +3175,7 @@
 	},
 	"j:sa:east": {
 		"BadLinks": {},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/sa/j:sa:east.toml",
 		"links": [
 			"j:sa:north",
@@ -3121,6 +3194,7 @@
 		"BadLinks": {
 			"j:sa:spratly": "sa:northbound"
 		},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/sa/j:sa:north.toml",
 		"links": [
 			"j:sa:spratly",
@@ -3136,6 +3210,7 @@
 	},
 	"j:sa:south": {
 		"BadLinks": {},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/sa/j:sa:south.toml",
 		"links": [
 			"j:sa:west",
@@ -3153,6 +3228,7 @@
 			"j:mta:sa": "sa:northbound",
 			"j:sa:north": "sa:southbound"
 		},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/sa/j:sa:spratly.toml",
 		"links": [
 			"j:mta:sa",
@@ -3168,6 +3244,7 @@
 	},
 	"j:sa:west": {
 		"BadLinks": {},
+		"contact": "orange wizard#0939",
 		"filepath": "./data/CompliantSwitches/Line/sa/j:sa:west.toml",
 		"links": [
 			"sa:city",
@@ -3198,6 +3275,7 @@
 	},
 	"j:stallman:west": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/Junction/j:stallman:west.toml",
 		"links": [
 			"stallman",
@@ -3249,6 +3327,7 @@
 	},
 	"j:tel_aviv": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:tel_aviv.toml",
 		"links": [
 			"lexington",
@@ -3264,6 +3343,7 @@
 	},
 	"j:threelakes": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:threelakes.toml",
 		"links": [
 			"j:coegon",
@@ -3279,6 +3359,7 @@
 	},
 	"j:timc": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:timc.toml",
 		"links": [
 			"j:e15",
@@ -3295,6 +3376,7 @@
 	},
 	"j:tree": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:tree.toml",
 		"links": [
 			"arstotzka",
@@ -3311,6 +3393,7 @@
 	},
 	"j:tuff": {
 		"BadLinks": {},
+		"contact": "lowtuff",
 		"filepath": "./data/CompliantSwitches/Junction/j:tuff.toml",
 		"links": [
 			"ponsportia",
@@ -3327,6 +3410,7 @@
 	},
 	"j:twink": {
 		"BadLinks": {},
+		"contact": "andrea.shp#0352",
 		"filepath": "./data/CompliantSwitches/Junction/j:twink.toml",
 		"links": [
 			"j:met",
@@ -3341,6 +3425,7 @@
 	},
 	"j:uroe": {
 		"BadLinks": {},
+		"contact": "Gator Glitch#2793 aka Blob",
 		"description": "Switch located directly under gensokyo:roe",
 		"filepath": "./data/CompliantSwitches/Junction/j:uroe.toml",
 		"links": [
@@ -3357,6 +3442,7 @@
 	},
 	"j:van:west": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:van:west.toml",
 		"links": [
 			"tau'rynn",
@@ -3390,6 +3476,7 @@
 	},
 	"j:ves": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/Junction/j:ves.toml",
 		"links": [
 			"j:o",
@@ -3408,6 +3495,7 @@
 			"j:mta:walton": "walton.away",
 			"walton": "walton.to walton"
 		},
+		"contact": "NEBULA#6881",
 		"filepath": "./data/CompliantSwitches/Line/walton/j:walton:sept.toml",
 		"links": [
 			"j:mta:walton",
@@ -3423,6 +3511,7 @@
 	},
 	"j:westmore": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:westmore.toml",
 		"links": [
 			"westmore",
@@ -3556,6 +3645,7 @@
 	},
 	"kanava": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/kanava.toml",
 		"links": [
 			"j:acadia:east"
@@ -3585,6 +3675,7 @@
 	},
 	"lambat": {
 		"BadLinks": {},
+		"contact": "ArtificialDriver#7838",
 		"filepath": "./data/CompliantSwitches/lambat.toml",
 		"links": [
 			"j:ardr",
@@ -3678,6 +3769,7 @@
 	},
 	"lexington": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"description": "Lexington",
 		"filepath": "./data/CompliantSwitches/lexington.toml",
 		"links": [
@@ -3736,6 +3828,7 @@
 	},
 	"lovelace": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928 probably",
 		"filepath": "./data/CompliantSwitches/lovelace.toml",
 		"links": [
 			"j:acadia:east",
@@ -3764,6 +3857,7 @@
 		"BadLinks": {
 			"j:hits_lumiere": "lumiere:hits"
 		},
+		"contact": "AmandaCC maybe",
 		"filepath": "./data/CompliantSwitches/lumiere.toml",
 		"links": [
 			"j:hits_lumiere"
@@ -3956,6 +4050,7 @@
 		"aliases": [
 			"new jerusalem"
 		],
+		"contact": "Quivico#5019",
 		"description": "New Jerusalem.",
 		"filepath": "./data/CompliantSwitches/njeru.toml",
 		"links": [
@@ -3976,6 +4071,7 @@
 		"aliases": [
 			"new jerusalem mushroom island"
 		],
+		"contact": "Quivico#5019",
 		"description": "New Jerusalem Mushroom Island.",
 		"filepath": "./data/CompliantSwitches/njmi.toml",
 		"links": [
@@ -4031,6 +4127,7 @@
 	},
 	"nyasaland": {
 		"BadLinks": {},
+		"contact": "BennyX#9764",
 		"filepath": "./data/CompliantSwitches/nyasaland.toml",
 		"links": [
 			"j:gntv",
@@ -4154,6 +4251,7 @@
 	},
 	"pinegarden": {
 		"BadLinks": {},
+		"contact": "ch1pr maybe",
 		"filepath": "./data/CompliantSwitches/pinegarden.toml",
 		"links": [
 			"j:coesav",
@@ -4194,6 +4292,7 @@
 	},
 	"purazi": {
 		"BadLinks": {},
+		"contact": "BennyX#9764",
 		"filepath": "./data/CompliantSwitches/purazi.toml",
 		"links": [
 			"j:low",
@@ -4282,6 +4381,7 @@
 	},
 	"savion": {
 		"BadLinks": {},
+		"contact": "Shapha#7649",
 		"filepath": "./data/CompliantSwitches/savion.toml",
 		"links": [
 			"j:coesav",
@@ -4304,6 +4404,7 @@
 			"mts",
 			"mount september"
 		],
+		"contact": "NEBULA#6881",
 		"filepath": "./data/CompliantSwitches/september.toml",
 		"links": [
 			"j:omts",
@@ -4419,6 +4520,7 @@
 	},
 	"stallman": {
 		"BadLinks": {},
+		"contact": "Owain_X#7928",
 		"filepath": "./data/CompliantSwitches/stallman.toml",
 		"links": [
 			"j:stallman:west",
@@ -4497,6 +4599,7 @@
 		"aliases": [
 			"polaris"
 		],
+		"contact": "Quivico#5019",
 		"description": "Tau'rynn Station.",
 		"filepath": "./data/CompliantSwitches/tau'rynn.toml",
 		"links": [
@@ -4538,19 +4641,21 @@
 	},
 	"thoria": {
 		"BadLinks": {},
-		"filepath": "./data/thoria.toml",
+		"contact": "Smal#5775",
+		"filepath": "./data/CompliantSwitches/thoria.toml",
 		"links": [
 			"j:hits_thoria"
 		],
 		"name": "thoria",
 		"station": true,
-		"type": "thoria.toml",
+		"type": "CompliantSwitches",
 		"x": -6367,
 		"y": 13,
 		"z": -1560
 	},
 	"threelakes": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/threelakes.toml",
 		"links": [
 			"j:threelakes",
@@ -4640,6 +4745,7 @@
 	},
 	"vanhoover": {
 		"BadLinks": {},
+		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/vanhoover.toml",
 		"links": [
 			"acadia",
@@ -4666,6 +4772,7 @@
 	},
 	"venne": {
 		"BadLinks": {},
+		"contact": "NEBULA#6881",
 		"filepath": "./data/CompliantSwitches/venne.toml",
 		"links": [
 			"j:mta:wm",
