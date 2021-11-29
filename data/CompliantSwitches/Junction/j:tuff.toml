@@ -2,6 +2,8 @@ x = 4224
 y = 12
 z = 2340
 
+contact = 'lowtuff'
+
 switch = true
 
 links = [

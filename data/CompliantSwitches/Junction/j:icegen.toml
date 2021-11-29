@@ -2,6 +2,8 @@ description = """
 Junction in the North East which connects icenia, j:knot, j:uroe, and j:gensig
 """
 
+contact = 'Gator Glitch#2793 aka Blob, BennyX#9764'
+
 x = 380
 y = 12
 z = -1412

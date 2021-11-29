@@ -2,6 +2,8 @@ description = """
 The switch directly east of NexusStation. One of the only rail switches built by GamePhobic for nexus that wasn't obby/lava bombed in the war. Since remodeled to be A CompliantSwitch.
 """
 
+contact = 'Blue#9826 (rail owned jointly between gensokyo and hjaltland)'
+
 location = "East of Nexus"
 x = 380
 y = 13

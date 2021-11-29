@@ -2,6 +2,8 @@ x = -1671
 y = 11
 z = -780
 
+contact = 'icenia'
+
 switch = true
 
 links = [

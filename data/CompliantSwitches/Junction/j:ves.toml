@@ -2,6 +2,8 @@ x = 5083
 y = 5
 z = -381
 
+contact = 'ArtificialDriver#7838'
+
 switch = true
 
 links = [

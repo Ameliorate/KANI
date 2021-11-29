@@ -1,5 +1,7 @@
 description = "East network of the rail cabal run by SoundTech."
 
+contact = 'SoundTech#0001'
+
 location = "East of IceniaCity"
 x = -1341
 y = 5
