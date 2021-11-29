@@ -2,6 +2,8 @@ aliases = ['new jerusalem']
 
 description = "New Jerusalem."
 
+contact = 'Quivico#5019'
+
 x = 770
 y = 5
 z = -9725

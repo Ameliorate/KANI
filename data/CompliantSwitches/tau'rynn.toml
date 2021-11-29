@@ -2,6 +2,8 @@ aliases = ['polaris']
 
 description = "Tau'rynn Station."
 
+contact = 'Quivico#5019'
+
 x = 1709
 y = 2
 z = -7222

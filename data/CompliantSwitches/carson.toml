@@ -2,6 +2,8 @@ x = 4242
 y = 38
 z = 1734
 
+contact = 'lowtuff'
+
 station = true
 
 links = [

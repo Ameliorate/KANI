@@ -2,6 +2,8 @@ x = 6818
 y = 59
 z = -1717
 
+contact = 'Quivico#5019'
+
 station = true
 
 links = [

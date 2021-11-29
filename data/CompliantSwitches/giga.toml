@@ -2,6 +2,8 @@ aliases = ['gigachadtopia']
 
 description = "Gigachadtopia station"
 
+contact = 'Gator Glitch#2793, Zelmisburg#5974'
+
 x = -1426
 y = 5
 z = -5765

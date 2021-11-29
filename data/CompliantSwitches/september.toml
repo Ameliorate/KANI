@@ -4,6 +4,8 @@ x = -4947
 y = 8
 z = 2211
 
+contact = 'NEBULA#6881'
+
 station = true
 
 links = [

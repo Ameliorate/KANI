@@ -2,6 +2,8 @@ aliases = ['gensokyo:taozi', 'taozi city', 'gensokyo']
 
 description = "Gensokyo's current project, a modern japanese city."
 
+contact = 'Gator Glitch#2793 aka Blob'
+
 x = 1278
 z = -2618
 

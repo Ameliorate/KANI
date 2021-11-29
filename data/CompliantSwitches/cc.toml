@@ -2,6 +2,8 @@ aliases = ['columbia', 'columbia_city']
 
 description = "Columbia City."
 
+contact = 'Quivico#5019'
+
 x = -5762
 y = 12
 z = -8077

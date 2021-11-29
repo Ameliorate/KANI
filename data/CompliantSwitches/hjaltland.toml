@@ -4,6 +4,8 @@ x = -2944
 y = 12
 z = 10793
 
+contact = 'Blue#9826'
+
 station = true
 
 links = [

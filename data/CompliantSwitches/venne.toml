@@ -3,6 +3,8 @@ x = -5287
 y = 11
 z = 3668
 
+contact = 'NEBULA#6881'
+
 station = true
 
 links = [

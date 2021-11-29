@@ -2,6 +2,8 @@ aliases = ['new jerusalem mushroom island']
 
 description = "New Jerusalem Mushroom Island."
 
+contact = 'Quivico#5019'
+
 x = 257
 y = 1
 z = -9115
