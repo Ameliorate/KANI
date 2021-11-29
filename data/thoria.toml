@@ -1,9 +1,0 @@
-x = -6367
-y = 13
-z = -1560
-
-station = true
-
-links = [
- 'j:hits_thoria',
-]

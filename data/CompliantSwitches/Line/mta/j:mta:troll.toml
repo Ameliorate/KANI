@@ -2,6 +2,8 @@ x = -6175
 y = 11
 z = 3000
 
+contact = 'Smal#5775 please for the love of god'
+
 description = "Mindboggling switch immitating a two-way roundabout (???). Presumably built by smal. Named after the troll map art hanging in its centre."
 
 switch = true
