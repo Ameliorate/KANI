@@ -2,6 +2,8 @@ x = 381
 y = 12
 z = 8208
 
+contact = 'Blue#9826'
+
 switch = true
 
 links = [
