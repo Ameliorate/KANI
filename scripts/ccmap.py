@@ -36,6 +36,9 @@ def format_node(node):
     if bad_links != "":
         o['BadLinks'] = bad_links
 
+    filepath = node['filepath']
+    o['source_code'] = f"https://github.com/Ameliorate/KANI/blob/master/{filepath}"
+
     return o
 
 def format_link(node, neighbor):
