@@ -522,6 +522,24 @@
 		"x": 3307,
 		"z": -1334
 	},
+	"djimbouti": {
+		"BadLinks": {},
+		"aliases": [
+			"washington d.c., wdc"
+		],
+		"contact": "Quivico#5019",
+		"filepath": "./data/CompliantSwitches/djimbouti.toml",
+		"links": [
+			"jomsborg",
+			"j:chinook:east"
+		],
+		"name": "djimbouti",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 1770,
+		"y": 9,
+		"z": -6349
+	},
 	"dulaman": {
 		"BadLinks": {},
 		"contact": "Gator Glitch#2793 maybe or maybe DrKnees/Cheese_Mage#1884",
@@ -1444,7 +1462,9 @@
 		"links": [
 			"tau'rynn",
 			"j:chinook:south",
-			"gondolin"
+			"gondolin",
+			"djimbouti",
+			"usa"
 		],
 		"name": "j:chinook:east",
 		"switch": true,
@@ -2025,6 +2045,21 @@
 		"type": "NonCompliantSwitches",
 		"x": -1700,
 		"z": -1300
+	},
+	"j:jomper": {
+		"BadLinks": {},
+		"contact": "Quivico#5019",
+		"filepath": "./data/CompliantSwitches/Junction/j:jomper.toml",
+		"links": [
+			"jomsborg",
+			"jomsfarm"
+		],
+		"name": "j:jomper",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 3104,
+		"y": 1,
+		"z": -4338
 	},
 	"j:jomsborg": {
 		"BadLinks": {},
@@ -2647,6 +2682,22 @@
 		"x": 5070,
 		"y": 12,
 		"z": 0
+	},
+	"j:olympus": {
+		"BadLinks": {},
+		"contact": "Quivico#5019",
+		"filepath": "./data/CompliantSwitches/Junction/j:olympus.toml",
+		"links": [
+			"j:van:west",
+			"olympus",
+			"tau'rynn"
+		],
+		"name": "j:olympus",
+		"switch": true,
+		"type": "CompliantSwitches",
+		"x": 1705,
+		"y": 4,
+		"z": -7555
 	},
 	"j:omts": {
 		"BadLinks": {},
@@ -3445,7 +3496,7 @@
 		"contact": "Quivico#5019",
 		"filepath": "./data/CompliantSwitches/Junction/j:van:west.toml",
 		"links": [
-			"tau'rynn",
+			"j:olympus",
 			"vanhoover",
 			"njeru"
 		],
@@ -3609,15 +3660,33 @@
 	},
 	"jomsborg": {
 		"BadLinks": {},
-		"filepath": "./data/TerminalDestinations/jomsborg.toml",
+		"filepath": "./data/CompliantSwitches/jomsborg.toml",
 		"links": [
+			"djimbouti",
+			"j:jomper",
 			"j:jomsborg"
 		],
 		"name": "jomsborg",
-		"type": "TerminalDestinations",
+		"station": true,
+		"type": "CompliantSwitches",
 		"x": 3398,
 		"y": 1,
-		"z": -4623
+		"z": -4622
+	},
+	"jomsfarm": {
+		"BadLinks": {},
+		"aliases": [
+			"jomsborg farm"
+		],
+		"filepath": "./data/TerminalDestinations/jomsfarm.toml",
+		"links": [
+			"j:jomper"
+		],
+		"name": "jomsfarm",
+		"type": "TerminalDestinations",
+		"x": 2972,
+		"y": 10,
+		"z": -4162
 	},
 	"kalingrad": {
 		"BadLinks": {},
@@ -4213,6 +4282,18 @@
 		"y": 66,
 		"z": -3085
 	},
+	"olympus": {
+		"BadLinks": {},
+		"filepath": "./data/TerminalDestinations/olympus.toml",
+		"links": [
+			"j:olympus"
+		],
+		"name": "olympus",
+		"type": "TerminalDestinations",
+		"x": 1341,
+		"y": 1,
+		"z": -7616
+	},
 	"ozonrough": {
 		"BadLinks": {},
 		"filepath": "./data/TerminalDestinations/ozonrough.toml",
@@ -4604,7 +4685,7 @@
 		"filepath": "./data/CompliantSwitches/tau'rynn.toml",
 		"links": [
 			"j:chinook:east",
-			"j:van:west"
+			"j:olympus"
 		],
 		"name": "tau'rynn",
 		"station": true,
@@ -4718,6 +4799,24 @@
 		"x": 7438,
 		"y": 3,
 		"z": 2352
+	},
+	"usa": {
+		"BadLinks": {},
+		"aliases": [
+			"louisiana"
+		],
+		"contact": "Quivico#5019",
+		"description": "Former USA.",
+		"filepath": "./data/CompliantSwitches/usa.toml",
+		"links": [
+			"j:chinook:east"
+		],
+		"name": "usa",
+		"station": true,
+		"type": "CompliantSwitches",
+		"x": 1733,
+		"y": 7,
+		"z": -6263
 	},
 	"vacari": {
 		"BadLinks": {},
