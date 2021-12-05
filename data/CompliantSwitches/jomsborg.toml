@@ -1,0 +1,9 @@
+x = 3398
+y = 1
+z = -4622
+
+links = [
+ 'djimbouti',
+ #'j:jomper', #future
+ 'j:jomsborg',
+]
