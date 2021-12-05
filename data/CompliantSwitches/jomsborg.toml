@@ -2,6 +2,8 @@ x = 3398
 y = 1
 z = -4622
 
+station = true
+
 links = [
  'djimbouti',
  'j:jomper',
