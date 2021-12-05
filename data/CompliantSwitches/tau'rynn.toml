@@ -12,5 +12,5 @@ station = true
 
 links = [
  "j:chinook:east",
- "j:van:west",
+ "j:olympus",
 ]

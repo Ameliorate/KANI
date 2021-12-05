@@ -1,0 +1,9 @@
+aliases = ['jomsborg farm']
+
+x = 2972
+y = 10
+z = -4162
+
+links = [
+ 'j:jomper',
+]

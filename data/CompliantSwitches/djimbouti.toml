@@ -1,0 +1,14 @@
+aliases = ['washington d.c., wdc']
+
+contact = 'Quivico#5019'
+
+x = 1770
+y = 9
+z = -6349
+
+station = true
+
+links = [
+ "jomsborg",
+ "j:chinook:east",
+]
