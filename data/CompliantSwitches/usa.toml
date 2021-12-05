@@ -1,0 +1,16 @@
+aliases = ['louisiana']
+
+description = "Former USA."
+
+contact = 'Quivico#5019'
+
+x = 1733
+y = 7
+z = -6263
+
+station = true
+
+links = [
+ "j:chinook:east",
+ #"j:coeusa", #future
+]
