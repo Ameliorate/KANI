@@ -4,6 +4,6 @@ z = -4622
 
 links = [
  'djimbouti',
- #'j:jomper', #future
+ 'j:jomper',
  'j:jomsborg',
 ]
