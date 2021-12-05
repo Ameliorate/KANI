@@ -9,6 +9,6 @@ z = -6349
 station = true
 
 links = [
- "jomsborg"
+ "jomsborg",
  "j:chinook:east",
 ]
